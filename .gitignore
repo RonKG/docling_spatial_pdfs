@@ -3,8 +3,7 @@
 venv/
 env/
 
-# Generated pipeline outputs (large JSON / exports)
-output/
+# Generated pipeline outputs are tracked in this repo (see output/).
 
 # Python
 __pycache__/
