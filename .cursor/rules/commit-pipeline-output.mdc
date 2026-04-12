@@ -1,0 +1,12 @@
+---
+description: Always include regenerated pipeline exports under output/ when committing.
+alwaysApply: true
+---
+
+# Commit pipeline `output/` files
+
+- **`output/` is versioned.** Do not add `output/` to `.gitignore`. Docling and gazette JSON, `.txt`, and markdown exports are part of the repo for review and regression context.
+
+- **When committing** after running the notebook or pipeline, include changes under `output/**`. Prefer `git add -A` or explicitly `git add output/` so new folders and updated exports are not left out.
+
+- **If the user asks to commit or push** after workflow or notebook changes, verify `git status` includes `output/` when exports changed; stage those files before the commit.

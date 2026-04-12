@@ -3,7 +3,7 @@
 venv/
 env/
 
-# Generated pipeline outputs are tracked in this repo (see output/).
+# Pipeline exports under output/ are intentionally tracked. Do NOT add output/ here.
 
 # Python
 __pycache__/
