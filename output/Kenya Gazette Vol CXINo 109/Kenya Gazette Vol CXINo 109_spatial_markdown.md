@@ -1,0 +1,630 @@
+SPECIAL ISSUE
+
+H
+
+Vol. CXI-No. 109
+
+GAZETTE NOTICE NO. 14034
+
+THE TRANSPORT LICENSING ACT | THE TRANSPORT LICENSING ACT | THE TRANSPORT LICENSING ACT | THE TRANSPORT LICENSING ACT
+( Cap. 404) | ( Cap. 404) | ( Cap. 404) | ( Cap. 404)
+APPLICATIONS | APPLICATIONS | APPLICATIONS | APPLICATIONS
+Monday, MSA/R/09/01/50 | 30th | November 2009-MSA/R/01/09/01 | to
+Tuesday, MSA/R/09/01/100 | 1st | December, 2009-MSA/R/09/01/51 | to
+Wednesday, 2nd December , 2009 | Wednesday, 2nd December , 2009 | Wednesday, 2nd December , 2009 | Wednesday, 2nd December , 2009
+Thursday, 3rd December, 2009 to consider deferred cases renewals of the year 2010 | Thursday, 3rd December, 2009 to consider deferred cases renewals of the year 2010 | Thursday, 3rd December, 2009 to consider deferred cases renewals of the year 2010 | and
+
+Every Objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the district in which such an application is to be heard and a copy therefore shall be sent to the applicant not less than seven (7) days before the date at which  such  an  application  is  to  be  heard.    Objections  received  later will not be considered except where otherwise stated that the applications are for one vehicle.
+
+Every  objector  shall  include  the  registration  number  of  his/her vehicle  (together  with  the  timetable  where  applicable),  operating  on the applicants proposed route.  Those who submit applications in the names  of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting.
+
+Applicants  who  are  Kenya,  Tanzania  or  Uganda  citizens  of  nonAfrican origin must produce their certificates or any other documentary proof of their citizenship.
+
+Applicants who fail to attend the above meeting as per required of this  notice,  without  reasonable  cause  will  have  their  applications refused and should therefore, not expect further communication from the Board.
+
+ROAD SERVICE LICENCES
+
+MSA/R/09/1/1
+
+Savannah
+
+Investments,
+
+P.O.
+
+Box
+
+40206
+
+Mombasa. Route: Sirare - Kisii - Kisumu and back KBB 829H, 14 passengers.
+
+8
+
+Published by Authority of the Republic of Kenya
+
+Price Sh. 50
+
+MSA/R/09/1/2 | Stephen Biko Oduor, P.O. Box 85722 Machakos. Route: Globe - Thika - Mathare North and back KAP 870Y, 14 passengers.
+MSA/R/09/1/3 | Ali Mohamed Guyo, P.O. Box 572 Isiolo. Route: Isiolo - Meru - Nanyuki - Nairobi and back KAZ 768U, 7 passengers.
+MSA/R/09/1/4 | Irean palahmen, P.O. Box 9266 Kisumu. Route: Nairobi - Kisii - Sirare and back KBB 460G, 11 passengers.
+MSA/R/09/1/5 | Joseph Mwangi Maina, P.O. Box 1490 Karatina. Route: Nairobi - Nyeri and back KBB 744L, 14 passengers.
+MSA/R/09/1/6 | Evelyne Oyula Maende, P.O. Box 48709 Nairobi. Route: Nairobi - Kenyatta University and back, KAV 709C.
+MSA/R/09/1/7 | Nazishi Motors, P.O. Box 39828 Nairobi. Route: Within Kenya KBA 751V, 5 passengers.
+ | Route: Buruburu - Jogoo rd Buruburu and back KBB 602T. 26 passengers.
+MSA/R/09/1/9 | Ana Traders, P.O. Box 66908 Nairobi. Route: within Kenya KBA 104S 5 passengers
+MSA/R/09/1/10 | Capital Ventures, P.O. Box 66908 Nairobi. Route: Nairobi - Kisumu and back KBA 797M, 14 passengers.
+MSA /R/09/1/11 | Francis N Mwangi, P.O. Box 15297 Nairobi. Route: Nairobi - Nakuru - Kisumu and back KBB 206 P, 14 passengers.
+MSA /R/09/1/12 | Henry Nganga Gikonyo, P.O. Box 31021 Nairobi. Route: Bus station - Dagorreti Market - Kikuyu and back KBB, 298R 14 passengers.
+MSA /R/09/1/13 | Phares Kibaki Njega, P.O. Box 413 Njoro. Route: Nairobi - Narok - Kisumu and back KBB, 403F 14 passengers
+MSA /R/09/1/14 | Simon Njagi Kondia, P.O. Box 2874 Nyeri. Route: Nakuru - Nanyuki - Meru and back KBB 119X 14 passengers.
+
+THE KENYA GAZETTE
+
+(Registered as a Newspaper at the G.P.O.)
+
+NAIROBI, 24th December, 2009
+
+MSA /R/09/1/15 | Samuel Kariuki Mungai, P.O. Box 3512 Kitale. Route: Kitale - Kisumu and back KBB 966V, 11 passengers. | MSA/R/09/1/37 | John Michemi Ngaruni, P.O. Box 67 Marima. Route: Meru-Chuka-Nairobi and back KBA 986A, 14 passengers.
+MSA /R/09/1/16 | Michael Osahah Mwalo, P.O. Box 30599 00100 Nairobi. Route: Kiambu - Limuru and back KAC 373G, 28 passengers. | MSA/R/09/1/38 | James Waithanji, P.O. Box 44599 Nairobi. Route: Bus Station-Kayole and back KBA 230A, 46 passengers.
+MSA /R/09/1/17 | September Auto Spares, P.O. Box 93710 Mombasa. Route: Bus station - Kiambu and back KBE 974, 14 passengers. | MSA/R/09/1/39 | Drew company, P.O. Box 14528 Nairobi. Route: Nairobi-Nakuru-Kisumu and Back KBE 617L, 14 passengers.
+MSA /R/09/1/18 | Wasioya Salma Muhinini, P.O. Box 1 Nairobi. Route: Bamburi - Docks and back KBE 500M, 14 passengers. | MSA/R/09/1/40 | Rhino Safaris Ltd, P.O. Box 48023 Nairobi. Route: Carriage of Tourists within Kenya KAX 681U,7 passengers.
+MSA /R/09/1/19 | Micro Start Holdings Ltd, P.O. Box 48231 Nairobi. Route: Railways - Kiserian and back KBE 191E, 51 passengers. | MSA/R/09/1/41 | Habiba Sharif, P.O. Box 21824 Nairobi. Route: Nairobi-Nyeri-and Back KBE 611V, 14 passengers.
+MSA /R/09/1/20 | Johnny Michael Thuita, P.O. Box 20 Gilgil;. Route: Nairobi - Naivasha - Nakuru - Kisumu and back KBD 285G, 14 passengers. | MSA/R/09/1/42 | Patrick Oduor Owino, P.O. Box 14528 Nairobi. Route: Nairobi Oyugis and Back KBE 512B, 11 passengers.
+MSA /R/09/1/21 | A M Said, P.O. Box 197 Mombasa. Route: Bus station - Kitengela and back KBB 949B, 14 passengers. | MSA/R/09/1/43 | Pagama Tulaga Ltd, P.O. Box 270 S. Kinangop. Route: Nairobi-olkalou-Nyahururu and Back KBE 585V, 41 passengers.
+MSA/R/09/1/22 | Henry Maina, P.O. Box 28028 Nairobi. Route: Nairobi-Kangari-Muranga and back KAN 296L, 14 passengers. | MSA/R/09/1/44 | Stephen Nderitu, P.O. Box 57914 Nairobi. Route: Odeon-Westlands-Kangemi and Back KBE 716U, 14 passengers.
+MSA/R/09/1/23 | Khilji Ent., P.O. Box 476 Malindi. Route: Nairobi-Sirare-Kilgoris and Back and back KBF 714D, 14 passengers. | MSA/R/09/1/45 | Nancy Nyambura, P.O. Box 7142 Eldoret. Route: Nakuru-Nyahururu-Nyeri and Back KBE 811U, 14 passengers.
+MSA/R/09/1/24 | Eufra Ent, P.O. Box 119 Nairobi. Route: Nairobi-Nakuru-Kabarnet-Eldoret and Back KBF 395A, 7 passengers. | MSA/R/09/1/46 | Benjo Transporters Ltd, P.O. Box 42877 Mombasa. Route: Nairobi-Kitui-Mwingi and Back KBF 818F, 46 passengers.
+MSA/R/09/1/25 | Araya S, P.O. Box 4 Kijabe. Route: Nairobi- machakos-Kangundo and Back KBD 578K,14 passengers. | MSA/R/09/1/47 | Discover Kenya Safaris, P.O. Box 24584 Nairobi. Route: Carriage of Tourists KBD 035Q, 9 passengers.
+MSA/R/09/1/26 | Makie Invest co., P.O. Box 14528 Nairobi. Route: Nairobi-Ruiru-Thika and Back KBF 584D, 14 passengers. | MSA/R/09/1/48 | Stephen Nderitu, P.O. Box 565 Molo. Route: Nairobi-Nyeri and Back KAS 864J, 14 passengers.
+MSA/R/09/1/27 | S Koskei, P.O. Box 920 Nairobi. Route: Odeon- kangemi-Uthiru and Back KBF 733H, 33 passengers. | MSA/R/09/1/49 | Kaburu Festus Muriuki, P.O. Box 366 Meru. Route: Nairobi-Embu-Meruand Back KBF 177B, 14 passengers.
+MSA/R/09/1/28 | Isaac Shitubi, P.O. Box 911 kakamega. Route: Eldoret-Kitale-Malaba and Back KBE 671B, 7 passengers. | MSA/R/09/1/50 | Crown Tours, P.O. Box 10915 Nairobi. Route: Carriage of Tourists Within Kenya KBD 273Y,8 passengers.
+MSA/R/09/1/29 | Charles Mwangi, P.O. Box 30527 Nairobi. Route: Khoja-Limuru and Back KBB 109G, 14 passengers. | MSA/R/09/1/51 | Mohammed Ali, P.O. Box 170 Nairobi. Route: Nairobi-Nairobi-Naivasha-Nakuru and Back KBF 097H, 14 passengers.
+MSA/R/08/1/30 | Antony Maina , P.O. Box 60 Nairobi. Route: Kayole-Umoja-Outering Rd-Juja Rd-Gikomba and Back KBB 337F, 14 passengers. | MSA/R/09/1/52 | F W Mwangi, P.O. Box 310 Nairobi. Route: Thika-Nairobi-Mtito Andei and back KBF 411B, 14 passengers.
+MSA/R/09/1/31 | William Ngare Prestige Shuttle, P.O. Box 13668 Nairobi. Route: Nairobi-Nakuru-Kisumu and Back KBD 819C, 11 passengers. | MSA/R/09/1/53 | Tom Kiboma, P.O. Box 658 Thika. Route: Nairobi-Kisii-Migori and back KBD 543F, 14 passengers.
+MSA/R/09/1/32 | B.M. Muingai, P.O. Box 998 Muranga. Route: Kangari-Thika-Nairobi and Back KBB 058C, 14 passengers. | MSA/R/09/1/54 | Ebenangi Enterprises, P.O. Box 267 Nairobi. Route: Nairobi-Mwingi and back KBF 931H, 46 passengers.
+MSA/R/09/1/33 | Edward Wakahiu Gathuki, P.O. Box 48148. Route: Kangundo-Outering-Nairobi and Back KBA 048A, 26 passengers. | MSA/R/09/1/55 | Simon Githinji, P.O. Box 267 Gatundu. Route:Thika-Railways-Rongai-Kiserian and back KBD 849F, 14 passengers.
+MSA/R/09/1/34 | Gilbert Onderi , P.O. Box 16314 Nakuru. Route: Nakuru-Kisii-Kisumu and Back KBA 825C, 14 passengers. | MSA/R/09/1/56 | Oyoo Ongoro, P.O. Box 2032 Naivasha. Route: Eastleigh-Commercial and back KBC 682S, 26 passengers.
+MSA/R/09/1/35 | George Titus, P.O. Box 14930 Nairobi. Route: Malindi-Kilifi-Mombasa and Back KBD 518Y, 14 passengers. | MSA/R/09/1/57 | Eufra Ent ltd, P.O. Box 2032 Naivasha . Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers.
+MSA/R/09/1/36 | Fredrick Kiptanui , P.O. Box 126 Litein. Route: Bomet-Kericho-Nairobi and back KBD 385B, 14 passengers. | MSA/R/09/1/58 | Kilimani Motors ltd, P.O. Box 2032 Naivasha. Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers.
+
+MSA /R/09/1/59 | Danson Muriithi Mwai, P.O. Box 154 Nanyuki. Route: Nairobi - Nanyuki - Isiolo and back KAU 224E 14 passengers. | MSA /R/09/1/81 | Omar M Artan, P.O. Box 81575 Mombasa,. Route: Nairobi - Nakuru and back KBA 630 W, 14 passengers.
+MSA /R/09/1/60 | Patrick Masika, P.O. Box 34826 Nairobi. Route: Kawangware - Yaya - Railways and Back KBB 042A 14 passengers. | MSA /R/09/1/82 | Sylals Ndamia Gathura, P.O. Box 12196 Nyeri. Route: Nairobi - Nyeri _ Nyahururu and back KBB 592L,
+MSA /R/09/1/61 | Joseph M Ndave, P.O. Box 144 Emali. Route: Nairobi - Machakos - Makueni and Back KDB 226P, 29 passengers. | MSA /R/09/1/83 | Oyoo Ongoro, P.O. Box 2032 Naivasha. Route: Eastleigh-Commercial and back KBC 682S, 26 passengers.
+MSA /R/09/1/62 | C W Nderitu, P.O. Box 777 Nyahururu. Route: Nairobi - Nakuru and back KBC 861Q, 14 passengers. | MSA /R/09/1/84 | Eufra Ent ltd, P.O. Box 2032 Naivasha . Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers.
+MSA /R/09/1/63 | Madthew Waithaka Ndiritu, P.O. Box 21824 Nairobi. Route: Nairobi - Nanyuki - Isiolo and back KDB 191P, 14 passengers. | MSA /R/09/1/85 | Kilimani Motors ltd, P.O. Box 2032 Naivasha. Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers.
+MSA /R/09/1/64 | Jacob Ngala Owaga, P.O. Box 10 Voi. Route: Likoni - Lunga Lunga and back KBD 809F, 14 passengers. | MSA /R /09/1/86 | Sony Driving School, P.O. Box 2032 Naivasha. Route: Temple Road Githurai and back KBF 755H, 51 passengers.
+MSA /R/09/1/65 | Richard Maina Nyagechi, P.O. Box 20895 Nairobi. Route: Nairobi - Nakuru and back KAX 422J, 14 passengers. | MSA /R/09/1/87 | Habib Gulam, P.O. Box 75956 Nairobi. Route: Limuru-Nairobi-Nakuru and Back KBE 816E, 14 passengers.
+MSA /R/09/1/66 | Private Safaris Ltd, P.O. Box 43366 Nairobi. Route: Within Kenya KBD 499P, 14 passengers. | MSA /R/09/1/88 | David Kimani, P.O. Box 13323 Nakuru. Route: Bus Station-Kiambu-Githunguri and back KBE 155L, 14 passengers.
+MSA /R/09/1/67 | Nancy Waswa, P.O. Box 34611 Nairobi. Route: Nairobi - Nakuru - Kisumu and back KBD 897D, 14 passengers. | MSA /R/09/1/89 | Impact Trading, P.O. Box 34299 Nairobi. Route: Nairobi-Meru-Maua and back KBE 366L, 14 passengers.
+MSA /R/09/1/68 | N W Nderitu, P.O. Box 28786 Nairobi. Route: Nairobi Rongai Kiseriana and back KBC 836G 14 passengers. | MSA /R/09/1/90 | S Kariuki, P.O. Box 57 Chogoria. Route: Odeon-Westlands-Kileleshwa and back KBD 425U, 14 passengers.
+MSA /R/09/1/69 | Julius N Muthuri, P.O. Box 59380 Nairobi. Route: Nairobi - Isiolo and Back KAL 975N, 8 passengers. | MSA /R/09/1/91 | General Motors, P.O. Box 30527 Nairobi. Route: Khoja-Banana-Limuru and back KBE 270V, 51 passengers.
+MSA /R/09/1/70 | Wachira David Kimija, P.O. Box 21824. Route: Nairobi - Nakuru - Kisumu and back KBC 903M, 14 passengers. | MSA /R/09/1/92 | Tamasha Africa, P.O. Box 30120 Nairobi. Route: Carriage of Tourists within Kenya KBc 701Y, 9 passengers.
+MSA /R/09/1/71 | Frola Wairimu Gisthwa, P.O. Box 95350 Mombasa. Route: Tudor - Ferry and back KBB 062L, 14 passengers. | MSA /R/09/1/93 | Michael Metho, P.O. Box 1436 Nairobi. Route: carriage of tourists within Kenya KBE 035L, 9 passengers.
+MSA /R/09/1/72 | Peter Mulani Munyao, P.O. Box 25900 Nairobi. Route: Railways - Ngong - Kiserian and back KBB 728F, 14 passengers. | MSA /R/09/1/94 | Spendastar, P.O. Box 18554 Nairobi.. Route: Nairobi-Machakos-Kagundo-Kitui and back KBD 128N, 14 passengers.
+MSA /R/09/1/73 | G P Wambui, P.O. Box 74 Ruiru. Route: Ndenderu - Aghakhan - Odeon and back KBC 920N, 14 passengers. | MSA /R/09/1/95 | James Mwaura, P.O. Box 8322 Kitale. Route: Nairobi-Eldoret-Kitale and back KBE 747L,11 passengers.
+MSA /R/09/1/74 | Moses J Kamau, P.O. Box 27778 Nairobi. Route: Odeon - Uthiru and back KBC 732S, 29 passengers. | MSA /R/09/1/96 | 2NK SACCO, P.O. Box 74925 Nairobi. Route: Nairobi-Nyeri and Back KBB 133W, 14 passengers.
+MSA /R/09/1/75 | Thuo Rechela Wairimu, P.O. Box 143 Menengai west. Route: Nairobi _ Nakuru and back KBC 719C, 14 passengers. | MSA /R/09/1/97 | James Munyiri, P.O. Box 7689 Nairobi. Route: Nairobi-Nyeri-Isiolo-Nanyuki and Back KBE 288H, 14 passengers.
+MSA /R/09/1/76 | Nthanga Benson Lumumba, P.O. Box 103 Machakos. Route: Nairobi _ Mombasa and back KBC 318D, 14 passengers. | MSA /R/09/1/98 | Macharia Gatete, P.O. Box 42297 Nairobi. Route: Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBB 738A, 14 passengers.
+MSA /R/09/1/77 | John Cheruiyot Ngeno, P.O. Box 798 Litein. Route: Bomet - Kericho- Nakuru and back KBD 328Y, 14 passengers. | MSA /R/09/1/99 | Macharia Gatete, P.O. Box 42297 Nairobi. Route: Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBB 738A, 14 passengers.
+MSA /R/09/1/78 | Francis Giathi Mwaura, P.O. Box 141 Nairobi. Route: Globe- Githurai and back KBF 724H, 29 passengers. | MSA /R/09/1/100 | Job Kibet, P.O. Box 660 Mwatate. Route: Nairobi-Embu-Meru and Back KBD 990U, 14 passengers.
+MSA /R/09/1/79 | Flowerwings Kenya Ltd, P.O. Box 43359 Nairobi. Route: within, Kenya KBE 009V, 55 passengers. | Dated the 26th November, 2009. | C. J. NGESO,
+MSA /R/09/1/80 | Esso Motors Sales and Services Station, P.O. Box 879 Nairobi,. Route: Within Kenya KBB 516A, 8 passengers. | Executive Officer/Secretary, Transport Licensing Board. | Executive Officer/Secretary, Transport Licensing Board.
+
+GAZETTE NOTICE NO. 14035
+
+THE TRANSPORT LICENSING ACT
+
+( Cap . 404)
+
+APPLICATIONS
+
+THE undermentioned applications will be considered by the Transport
+
+Licensing Board at Nairobi Railway club, on the following days.
+
+Monday, 4th January, 2010-NRB/R/01/10/01 to NRB/R/10/01/10
+
+Tuesday, 5th January 2010-NRB/R/01/10/11 to NRB/R/10/01/20
+
+Wednesday,
+
+6th
+
+January
+
+2010-NRB/R/01/10/21
+
+to and
+
+NRB/R/10/01/30
+
+Thursday,
+
+7th
+
+2010  to
+
+January renewals of the year 2010
+
+consider deferred
+
+cases
+
+Friday, 8th January 2010
+
+Monday,
+
+January
+
+11th
+
+2010-NRB/R/01/10/31
+
+to to
+
+NRB/R/10/01/40
+
+Tuesday,
+
+January
+
+12th
+
+2010-NRB/R/01/10/41
+
+NRB/R/10/01/100
+
+Wednesday, 13th January 2010
+
+Thursday,  14th  January  2010  to  consider  deferred  cases  and renewals of the year 2010
+
+Friday, 15th January 2010
+
+Every objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the district in which such an application is to be heard and a copy therefore shall be sent to the applicant not less than seven (7) days before the date at which such an application is to be heard.  Objections received later will not be considered except where otherwise stated that the applications are for one vehicle.
+
+Every  objector  shall  include  the  registration  number  of  his/her vehicle  (together  with  the  timetable  where  applicable),  operating  on
+
+the applicants proposed route.  Those who submit applications in the names  of
+
+partnership bring
+
+companies certificates
+
+must of
+
+and business registration to the Transport Licensing Board meeting.
+
+Applicants  who  are  Kenya,  Tanzania  or  Uganda  citizens  of  non-
+
+African produce
+
+origin must
+
+their documentary proof of their citizenship.
+
+certificates or
+
+any other
+
+Applicants who fail to attend the above meeting as per required of this  notice,  without  reasonable  cause  will  have  their  applications
+
+refused and should therefore, not expect further communication from the Board.
+
+ROAD SERVICE LICENCES
+
+NRB/R/10/1/1
+
+Joseph
+
+Kariuki  P.O.  Box  40206  Mombasa,
+
+Route:  Nakuru  -  Kericho  -  Kisumu  and  back
+
+KBJ 353A, 14 passengers.
+
+NRB/R/10/1/2
+
+Zulekha  M  Jezan  P.O.  Box  85722  Machakos,
+
+Route: Globe - Thika - Mathare North and back
+
+KBJ 744A, 14 passengers.
+
+NRB/R/10/1/3
+
+Ali Mohamed Guyo P.O. Box 572 Isiolo, Route:
+
+Isiolo  -  Meru  -  Nanyuki  -  Nairobi  and  back
+
+KBG 768U, 7 passengers.
+
+NRB/R/10/1/4
+
+Irean palahmen P.O. Box 9266 Kisumu, Route:
+
+Nairobi  -  Kisii  -  Sirare  and  back  KBG  460G,
+
+11 passengers.
+
+NRB/R/10/1/5
+
+Joseph Mwangi Maina P.O. Box 1490 Karatina,
+
+Route: Nairobi - Nyeri and back KBJ 744L, 14
+
+passengers.
+
+NRB/R/10/1/6
+
+Evelyne
+
+Maende
+
+48709
+
+P.O.
+
+Oyula
+
+Box
+
+Nairobi,  Route:  Nairobi  -  Kenyatta  University and back, KBJ 709C.
+
+NRB/R/10/1/7
+
+Nazishi Motors P.O. Box 39828 Nairobi, Route:
+
+Within Kenya KBK 751V, 5 passengers.
+
+NRB/R/10/1/8
+
+Jennifer  N  Muiruri  P.O.  Box  70865  Nairobi,
+
+Route: Buruburu - Jogoo rd Buruburu and back
+
+KBG 602T. 26 passengers.
+
+NRB/R/10/1/9 | Antony Kadonyo P.O. Box 66908 Nairobi, Route: within Kenya KBJ 458Y 5 passengers
+NRB/R/10/1/10 | Capital Ventures P.O. Box 66908 Nairobi, Route: Nairobi - Kisumu and back KBA 797M, 14 passengers.
+NRB /R/10/1/11 | Francis N Mwangi P.O. Box 15297 Nairobi, Route: Nairobi - Nakuru - Kisumu and back KBB 206 P, 14 passengers.
+NRB /R/10/1/12 | Henry Nganga Gikonyo P.O. Box 31021 Nairobi, Route: Bus station - Dagorreti Market - Kikuyu and back KBB, 298R 14 passengers.
+NRB /R/10/1/13 | Phares Kibaki Njega P.O. Box 413 Njoro, Route: Nairobi - Narok - Kisumu and back KBB, 403F 14 passengers
+NRB /R/10/1/14 | Simon Njagi Kondia P.O. Box 2874 Nyeri, Route: Nakuru - Nanyuki - Meru and back KBB 119X 14 passengers.
+NRB /R/10/1/15 | Samuel Kariuki Mungai P.O. Box 3512 Kitale, Route: Kitale - Kisumu and back KBB 966V, 11 passengers.
+NRB /R/010/1/16 | Michael Osahah Mwalo P.O. Box 30599 00100 Nairobi, Route: Kiambu - Limuru and back KAC 373G, 28 passengers.
+NRB /R/10/1/17 | September Auto Spares P.O. Box 93710 Mombasa, Route: Bus station - Kiambu and back KBE 974, 14 passengers.
+NRB /R/10/1/18 | Wasioya Salma Muhinini P.O. Box 1 Nairobi, Route: Bamburi - Docks and back KBE 500M, 14 passengers.
+NRB /R/10/1/19 | Micro Start Holdings Ltd P.O. Box 48231 Nairobi, Route: Railways - Kiserian and back KBE 191E, 51 passengers.
+NRB /R/10/1/20 | Johnny Michael Thuita P.O. Box 20 Gilgil;, Route: Nairobi - Naivasha - Nakuru - Kisumu and back KBD 285G, 14 passengers.
+NRB /R/10/1/21 | A M Said P.O. Box 197 Mombasa, Route: Bus station - Kitengela and back KBB 949B, 14 passengers.
+NRB/R/10/1/22 | Henry Maina P.O. Box 28028 Nairobi, Route: Nairobi-Kangari-Muranga and back KAN 296L, 14 passengers.
+NRB/R/10/1/23 | Khilji Ent. P.O. Box 476 Malindi, Route: Nairobi-Sirare-Kilgoris and Back and back KBF 714D, 14 passengers.
+NRB/R/10/1/24 | Eufra Ent P.O. Box 119 Nairobi, Route: Nairobi-Nakuru-Kabarnet-Eldoret and Back KBF 395A, 7 passengers.
+NRB/R/10/1/25 | Araya S P.O. Box 4 Kijabe, Route: Nairobi- machakos-Kangundo and Back KBD 578K,14 passengers.
+NRB/R/10/1/26 | Makie Invest co. P.O. Box 14528 Nairobi, Route: Nairobi-Ruiru-Thika and Back KBF 584D, 14 passengers.
+NRB/R/10/1/27 | S Koskei P.O. Box 920 Nairobi, Route: Odeon- kangemi-Uthiru and Back KBF 733H, 33 passengers.
+NRB/R/10/1/28 | Isaac Shitubi P.O. Box 911 kakamega, Route: Eldoret-Kitale-Malaba and Back KBE 671B, 7 passengers.
+NRB/R/10/1/29 | Charles Mwangi P.O. Box 30527 Nairobi, Route: Khoja-Limuru and Back KBB 109G, 14 passengers.
+NRB/R/10/1/30 | Antony Maina P.O. Box 60 Nairobi, Route: Kayole-Umoja-Outering Rd-Juja Rd-Gikomba and Back KBB 337F, 14 passengers.
+
+NRB/R/10/1/31 | William Ngare Prestige Shuttle P.O. Box 13668 Nairobi, Route: Nairobi-Nakuru-Kisumu and Back KBD 819C, 11 passengers. | NRB/R/10/1/53 | Tom Kiboma P.O. Box 658 Thika, Route: Nairobi-Kisii-Migori and back KBD 543F, 14 passengers.
+NRB/R/10/1/32 | B.M. Muingai P.O. Box 998 Muranga, Route: Kangari-Thika-Nairobi and Back KBB 058C, 14 passengers. | NRB/R/10/1/54 | Ebenangi Enterprises P.O. Box 267 Nairobi, Route: Nairobi-Mwingi and back KBF 931H, 46 passengers.
+NRB/R/10/1/33 | Edward Wakahiu Gathuki P.O. Box 48148, Route: Kangundo-Outering-Nairobi and Back KBA 048A, 26 passengers. | NRB/R/10/1/55 | Patrick wanga P.O. Box 267 Gatundu, Route: Nairobi-Meru-Isiolo and back KBD 849F, 14 passengers.
+NRB/R/10/1/34 | Gilbert Onderi P.O. Box 16314 Nakuru, Route: Nakuru-Kisii-Kisumu and Back KBA 825C, 14 passengers. | NRB/R/10/1/56 | Solomon M Macharia P.O. Box 2032 Naivasha, Route: Nairobi Embu Nyeri and back KBD 470J 682S, 26 passengers.
+NRB/R/10/1/35 | George Titus P.O. Box 14930 Nairobi, Route: Malindi-Kilifi-Mombasa and Back KBD 518Y, 14 passengers. | NRB/R/10/1/57 | Eufra Ent ltd P.O. Box 2032 Naivasha , Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers.
+NRB/R/10/1/36 | Fredrick Kiptanui P.O. Box 126 Litein, Route: Bomet-Kericho-Nairobi and back KBD 385B, 14 passengers. | NRB/R/10/1/58 | Kilimani Motors ltd P.O. Box 2032 Naivasha, Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers.
+NRB/R/10/1/37 | John Michemi Ngaruni P.O. Box 67 Marima, Route: Meru-Chuka-Nairobi and back KBA 986A, 14 passengers. | NRB /R/10/1/59 | Danson Muriithi Mwai P.O. Box 154 Nanyuki, Route: Nairobi - Nanyuki - Isiolo and back KAU 224E 14 passengers.
+NRB/R/10/1/38 | James Waithanji P.O. Box 44599 Nairobi, Route: Bus Station-Kayole and back KBA 230A, 46 passengers. | NRB /R/10/1/60 | Patrick Masika P.O. Box 34826 Nairobi, Route: Kawangware - Yaya - Railways and Back KBB 042A 14 passengers.
+NRB/R/10/1/39 | Drew company P.O. Box 14528 Nairobi, Route: Nairobi-Nakuru-Kisumu and Back KBE 617L, 14 passengers. | NRB /R/10/1/61 | Joseph M Ndave P.O. Box 144 Emali, Route: Nairobi - Machakos - Makueni and Back KDB 226P, 29 passengers.
+NRB/R/10/1/40 | Rhino Safaris Ltd P.O. Box 48023 Nairobi, Route: Carriage of Tourists within Kenya KAX 681U,7 passengers. | NRB /R/10/1/62 | C W Nderitu P.O. Box 777 Nyahururu, Route: Nairobi - Nakuru and back KBC 861Q, 14 passengers.
+NRB/R/10/1/41 | Habiba Sharif P.O. Box 21824 Nairobi, Route: Nairobi-Nyeri-and Back KBE 611V, 14 passengers. | NRB /R/10/1/63 | Madthew Waithaka Ndiritu P.O. Box 21824 Nairobi, Route: Nairobi - Nanyuki - Isiolo and back KDB 191P, 14 passengers.
+NRB/R/10/1/42 | Patrick Oduor Owino P.O. Box 14528 Nairobi, Route: Nairobi Oyugis and Back KBE 512B, 11 passengers. | NRB /R/10/1/64 | Jacob Ngala Owaga P.O. Box 10 Voi, Route: Likoni - Lunga Lunga and back KBD 809F, 14 passengers.
+NRB/R/10/1/43 | Pagama Tulaga Ltd P.O. Box 270 S. Kinangop, Route: Nairobi-olkalou-Nyahururu and Back KBE 585V, 41 passengers. | NRB /R/10/1/65 | Richard Maina Nyagechi P.O. Box 20895 Nairobi, Route: Nairobi - Nakuru and back KAX 422J, 14 passengers.
+NRB/R/10/1/44 | Stephen Nderitu P.O. Box 57914 Nairobi, Route: Odeon-Westlands-Kangemi and Back KBE 716U, 14 passengers. | NRB /R/10/1/66 | Private Safaris Ltd P.O. Box 43366 Nairobi, Route: Within Kenya KBD 499P, 14 passengers.
+NRB/R/10/1/45 | Nancy Nyambura P.O. Box 7142 Eldoret, Route: Nakuru-Nyahururu-Nyeri and Back KBE 811U, 14 passengers. | NRB /R/10/1/67 | Nancy Waswa P.O. Box 34611 Nairobi route Nairobi - Nakuru - Kisumu and back KBD 897D, 14 passengers.
+NRB/R/10/1/46 | Benjo Transporters Ltd P.O. Box 42877 Mombasa, Route: Nairobi-Kitui-Mwingi and Back KBF 818F, 46 passengers. | NRB /R/10/1/68 | N W Nderitu P.O. Box 28786 Nairobi, Route: Nairobi Rongai Kiseriana and back KBC 836G 14 passengers.
+NRB/R/10/1/47 | Discover Kenya Safaris P.O. Box 24584 Nairobi, Route: Carriage of Tourists KBD 035Q, 9 passengers. | NRB /R/10/1/69 | Julius N Muthuri P.O. Box 59380 Nairobi, Route: Nairobi - Isiolo and Back KAL 975N, 8 passengers.
+NRB/R/10/1/48 | Stephen Nderitu P.O. Box 565 Molo, Route: Nairobi-Nyeri and Back KAS 864J, 14 passengers. | NRB /R/10/1/70 | Wachira David Kimija P.O. Box 21824, Route: Nairobi - Nakuru - Kisumu and back KBC 903M, 14 passengers.
+NRB/R/10/1/49 | Kaburu Festus Muriuki P.O. Box 366 Meru, Route: Nairobi-Embu-Meruand Back KBF 177B, 14 passengers. | NRB /R/10/1/71 | Frola Wairimu Gisthwa P.O. Box 95350 Mombasa, Route: Tudor - Ferry and back KBB 062L, 14 passengers.
+NRB/R/10/1/50 | Crown Tours P.O. Box 10915 Nairobi, Route: Carriage of Tourists Within Kenya KBD 273Y,8 passengers. | NRB /R/10/1/72 | Peter Mulani Munyao P.O. Box 25900 Nairobi, Route: Railways - Ngong - Kiserian and back KBB 728F, 14 passengers.
+NRB/R/10/1/51 | Mohammed Ali P.O. Box 170 Nairobi, Route: Nairobi-Nairobi-Naivasha-Nakuru and Back KBF 097H, 14 passengers. | NRB /R/10/1/73 | G P Wambui P.O. Box 74 Ruiru, Route: Ndenderu - Aghakhan - Odeon and back KBC 920N, 14 passengers.
+NRB/R/10/1/52 | F W Mwangi P.O. Box 310 Nairobi, Route: Thika-Nairobi-Mtito Andei and back KBF 411B, 14 passengers. | NRB /R/10/1/74 | Moses J Kamau P.O. Box 27778 Nairobi, Route: Odeon - Uthiru and back KBC 732S, 29 passengers.
+
+NRB /R/10/1/75 | Thuo Rechela Wairimu P.O. Box 143 Menengai west, Route: Nairobi _ Nakuru and back KBC 719C, 14 passengers. | NRB /R/10/1/97 James Munyiri P.O. Box 7689 Nairobi, Route: Nairobi-Nyeri-Isiolo-Nanyuki and Back KBJ 288H, 14 passengers.
+NRB /R/10/1/76 | Nthanga Benson Lumumba P.O. Box 103 Machakos, Route: Nairobi _ Mombasa and back KBC 318D, 14 passengers. | NRB /R/10/1/98 Macharia Gatete P.O. Box 42297 Nairobi, Route: Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBH 738A, 14 passengers.
+NRB /R/10/1/77 | John Cheruiyot Ngeno P.O. Box 798 Litein, Route: Bomet - Kericho- Nakuru and back KBD 328Y, 14 passengers. | NRB /R/10/1/99 Macharia Gatete P.O. Box 42297 Nairobi, Route: Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBK 738A, 14 passengers.
+NRB /R/10/1/78 | Francis Giathi Mwaura P.O. Box 141 Nairobi, Route: Globe- Githurai and back KBF 724H, 29 passengers. | NRB /R/10/1/100 Braeburn School P.O. Box 45112 Nairobi, Route: Within Kenya KBF 422A, 14 passengers.
+NRB /R/10/1/79 | Flowerwings Kenya Ltd P.O. Box 43359 Nairobi, Route: within, Kenya KBE 009V, 55 passengers. | Dated 11th December, 2009. C. J. NGESO, Acting Chief Executive Officer/Secretary,
+NRB /R/10/1/80 | Esso Motors Sales and Services Station P.O. Box 879 Nairobi,, Route: Within Kenya KBB 516A, 8 passengers. | Transport Licensing Board. GAZETTE NOTICE NO. 14036
+NRB /R/10/1/81 | Omar M Artan P.O. Box 81575 Mombasa,, Route: Nairobi - Nakuru and back KBA 630 W, 14 passengers. | THE TRANSPORT LICENSING ACT ( Cap . 404)
+NRB /R/10/1/82 | Sylals Ndamia Gathura P.O. Box 12196 Nyeri, Route: Nairobi - Nyeri _ Nyahururu and back KBB 592L, | APPLICATIONS The undermentioned applications will be considered by the
+NRB /R/10/1/83 | Oyoo Ongoro P.O. Box 2032 Naivasha, Route: Eastleigh-Commercial and back KBC 682S, 26 passengers. | Transport Licensing Board at Nakuru St. Mary's Pastoral Centre, on the following days. Monday, 25th January, 2010-NKR/R/01/10/01 to NKR/R/10/01/50.
+NRB /R/10/1/84 | Eufra Ent ltd P.O. Box 2032 Naivasha , Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers. | Tuesday, 26th January, 2010-NKR/R/01/10/51 to NKR/R/10/01/100.
+NRB /R/10/1/85 | Kilimani Motors ltd P.O. Box 2032 Naivasha, Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers. | Wednesday, 27th January, 2010 Thursday, 28th January, 2010 to consider deferred cases and renewals of the year 2010 Friday, 29th January, 2009
+NRB /R /10/1/86 | Sony Driving School P.O. Box 2032 Naivasha, Route: Temple Road Githurai and back KBF 755H, 51 passengers. | Every objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the District Commissioner of the District in which such an application is to be
+NRB /R/10/1/87 | Habib Gulam P.O. Box 75956 Nairobi, Route: Limuru-Nairobi-Nakuru and Back KBE 816E, 14 passengers. | heard and a copy therefore sent to the applicant not less than seven (7) days before the date at which such an application is to be heard. Objections received later will not be considered except where otherwise stated that the applications are for one vehicle.
+NRB /R/10/1/88 | David Kimani P.O. Box 13323 Nakuru, Route: Bus Station-Kiambu-Githunguri and back KBE 155L, 14 passengers. | Every objector shall include the registration number of his/her vehicle (together with the timetable where applicable), operating on the applicant's proposed route. Those who submit applications in the
+NRB /R/10/1/89 | Impact Trading P.O. Box 34299 Nairobi, Route: Nairobi-Meru-Maua and back KBE 366L, 14 passengers. | names of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting.
+NRB /R/10/1/90 | S Kariuki P.O. Box 57 Chogoria, Route: Odeon- Westlands-Kileleshwa and back KBD 425U, 14 passengers. | Applicants who are Kenya, Tanzania or Uganda citizens of non- African origin must produce their certificates or any other documentary proof of their citizenship.
+NRB /R/10/1/91 | General Motors P.O. Box 30527 Nairobi, Route: Khoja-Banana-Limuru and back KBE 270V, 51 passengers. | Applicants who fail to attend the above meeting as required of this notice, without reasonable cause will have their applications refused and should therefore, not expect further communication from the Board.
+NRB /R/10/1/92 | Tamasha Africa P.O. Box 30120 Nairobi, Route: Carriage of Tourists within Kenya KBc 701Y, 9 passengers. | ROAD SERVICE LICENCES NKR/R/10/1/1 Kenya Bus Company P.O. Box 30527 Nairobi,
+NRB /R/10/1/93 | Michael Metho P.O. Box 1436 Nairobi, Route: carriage of tourists within Kenya KBE 035L, 9 passengers. | Route: Kencom - Kibera - kawangware - Ongata Rongai and back KBD 305P, 51 passengers.
+NRB /R/10/1/94 | Spendastar P.O. Box 18554 Nairobi., Route: Nairobi-Machakos-Kagundo-Kitui and back | NKR/R/10/1/2 Fredrick Mwenda Nduruhu P.O. Box 44599 Nairobi, Route: Thika Nairobi - Mombasa and back KBD 180W, 38 passengers.
+NRB /R/10/1/95 | KBD 128N, 14 passengers. James Mwaura P.O. Box 8322 Kitale, Route: Nairobi-Eldoret-Kitale and back KBG 747L,11 | NKR/R/10/1/3 Njuguna F Mwaura P.O. Box 434 Kikuyu, Route: Bus station - Dagorreti - Kikuyu and back KBC 925Q, 14 passengers.
+NRB /R/10/1/96 | passengers. 2NK SACCO P.O. Box 74925 Nairobi, Route: Nairobi-Nyeri and Back KBG 133W, 14 passengers. | NKR/R/10/1/4 David Wambandi Kariuki P.O. Box 34245 Nairobi, Route: Muthurwa - Umoja - Kangundo and back KBD 767W, 14 passengers.
+
+NKR/R/10/1/5 | Al Husnain Motors P.O. Box 99032 Mombasa, Route: Nairobi - Meru - Maua and back KBD 804Q, 14 passengers. | NKR/R/10/1/27 | September Auto Spares P.O. Box 93710 Mombasa, Route: Bus station - Kiambu and back KBE 974, 14 passengers.
+NKR/R/10/1/6 | Husnain Motors P.O. Box 99032 Mombasa, Route: Nairobi - Nyahururu and back KBD 470T, 14 passengers. | NKR/R/10/1/28 | Wasioya Salma Muhinini P.O. Box 1 Nairobi, Route: Bamburi - Docks and back KBE 500M, 14 passengers.
+NKR/R/10/1/7 | Bolpak motors P.O. Box 94083 Nairobi, Route: Nairobi - Machakos and back KDB 496N, 14 passengers. | NKR/R/10/1/29 | Micro Start Holdings Ltd P.O. Box 48231 Nairobi, Route: Railways - Kiserian and back KBE 191E, 51 passengers.
+NKR/R/10/1/8 | Magman Enterprises Ltd P.O. Box 25425 Nairobi, Route: Within Kenya KBB 348W, 9 passengers. | NKR/R/10/1/30 | Johnny Michael Thuita P.O. Box 20 Gilgil;, Route: Nairobi - Naivasha - Nakuru - Kisumu and back KBD 285G, 14 passengers.
+NKR/R/10/1/9 | Ramadhan Muanyishess Indiya P.O. Box 30218 Nairobi, Route: Nairobi - Kiambu - Githunguri and back KBA 303G, 14 passengers. | NKR/R/10/1/31 | A M Said P.O. Box 197 Mombasa, Route: Bus station - Kitengela and back KBB 949B, 14 passengers.
+NKR/R/10/1/10 | Charles Rwanyo Nyakwana P.O. Box 52343 Nairobi, Route: Embakasi - Muthurwa and back KBD 562G, 14 passengers. | NKR/R/10/1/32 | Jotham N Mwariri P.O. Box 899 Nairobi, Route: Nyeri - Thika and back KAN 268W, 14 passengers.
+NKR/R/10/01/11 | Savannah Investments P.O. Box 40206 Mombasa, Route: Sirare - Kisii - Kisumu and back KBB 829H, 14 passengers. | NKR/R/10/1/33 | Sara kasi Trust P.O. Box 33339 Nairobi, Route: Village Market Industrial Area and back, KAR 253W, 11 passengers.
+NKR/R/1/10/12 | Stephen Biko Oduor P.O. Box 85722 Machakos, Route: Globe - Thika - Mathare North and back KAP 870Y, 14 passengers. | NKR/R/10/1/34 | Marafiki Savings and Credit P.O. Box 5441 Nairobi, Route: Nairobi - Thika - Mwingi and back KAR 869Y, 58 passengers.
+NKR/R/10/1/13 | Ali Mohamed Guyo P.O. Box 572 Isiolo, Route: Isiolo - Meru - Nanyuki - Nairobi and back KAZ 768U, 7 passengers. | NKR/R/10/1/35 | Continental Auto Bazaar P.O. Box 84869 Mombasa, Route: Nairobi - Machakos - Kitui and back KBA 991W, 14 passengers.
+NKR/R/10/1/14 | Irean palahmen P.O. Box 9266 Kisumu, Route: Nairobi - Kisii - Sirare and back KBB 460G, 11 passengers. | NKR/R/10/1/36 | Boniface Njoroge and Gladys Warundu P.O. Box 2521 Nakuru, Route: Nairobi - Nakuru - Kisumu - Kakamega and back KBB 850T, 51 passengers.
+NKR/R/10/1/15 | Joseph Mwangi Maina P.O. Box 1490 Karatina, Route: Nairobi - Nyeri and back KBB 744L, 14 passengers. | NKR/R/10/1/37 | David Githaiga Muchiri P.O. Box 3557 Nairobi, Route: Nairobi - Githurai and back KBB 871T, 32 passengers.
+NKR/R/10/1/16 | Evelyne Oyula Maende P.O. Box 48709 Nairobi, Route: Nairobi - Kenyatta University and back, KAV 709C. | NKR/R/10/1/38 | Tabitha Wangui P.O. Box 67463 Nairobi, Route: Nairobi - Thika - Nyeri and back KBB 198R, 14 passengers.
+NKR/R/10/1/17 | Nazishi Motors P.O. Box 39828 Nairobi, Route: Within Kenya KBA 751V, 5 passengers. | NKR/R/10/1/39 | Emily J Rono P.O. Box 677 Nakuru, Route:
+NKR/R/10/1/18 | Jennifer N Muiruri P.O. Box 70865 Nairobi, Route: Buruburu - Jogoo rd Buruburu and back KBB 602T. 26 passengers. |  | Railways - Kawangware - Dagorreti and back KBB 195A, 14 passengers.
+NKR/R/10/1/19 | Ana Traders P.O. Box 66908 Nairobi, Route: within Kenya KBA 104S 5 passengers | NKR/R/10/1/40 | Patric Musyeri Gichuba P.O. Box 26938 Nairobi, Route: Kayole - Umoja, Muthurwa and back KBB 852G, 26 passengers.
+NKR/R/10/1/20 | Capital Ventures P.O. Box 66908 Nairobi, Route: Nairobi - Kisumu and back KBA 797M, 14 passengers. | NKR/R/10/1/41 | Paul Otieno Kangenga P.O. Box 8210 Mombasa, Route: Nairobi - Kiambu - Banana and back KAN 347A, 14 passengers.
+NKR/R/10/1/21 | Francis N Mwangi P.O. Box 15297 Nairobi, Route: Nairobi - Nakuru - Kisumu and back KBB 206 P, 14 passengers. | NKR/R/10/1/42 | Dennise Enterprises P.O. Box 74873 Nairobi, Route: Bus station - Dagoretti - Kikuyu and back KBB 250L, 14 passengers.
+NKR/R/10/1/22 | Henry Nganga Gikonyo P.O. Box 31021 Nairobi, Route: Bus station - Dagorreti Market - Kikuyu and back KBB, 298R 14 passengers. | NKR/R/10/1/43 | Zafanana Express Ltd P.O. Box 30135 Nairobi, Route: Nairobi - Garissa - Wajir and back KBB 751T, 61 passengers.
+NKR/R/10/1/23 | Phares Kibaki Njega P.O. Box 413 Njoro, Route: Nairobi - Narok - Kisumu and back KBB, 403F 14 passengers | NKR/R/10/1/44 | Central Farmers Carriage Ltd P.O. Box 27778 Nairobi, Route: Nairobi Machakos and back KBB 955G. 29 passengers
+NKR/R/10/1/24 | Simon Njagi Kondia P.O. Box 2874 Nyeri, Route: Nakuru - Nanyuki - Meru and back KBB 119X 14 passengers. | NKR/R/10/1/45 | Omar Walid P.O. Box 39297 Nairobi, Route: Mwiki - Kasarani - Bus station and back KBB 239K, 14 passengers.
+NKR/R/10/1/25 | Samuel Kariuki Mungai P.O. Box 3512 Kitale, Route: Kitale - Kisumu and back KBB 966V, 11 passengers. | NKR/R/10/1/46 | Nazish Motors Ltd P.O. Box 39828 Mombasa, Route: Nairobi - Mombasa and back KBB 819P, 14 passengers.
+NKR/R/10/1/26 | Michael Osahah Mwalo P.O. Box 30599 00100 Nairobi, Route: Kiambu - Limuru and back KAC 373G, 28 passengers. | NKR/R/09/1/47 | Nicholas Ontita Mosigisi P.O. Box 2266 Nairobi, Route: Ngong - Railways and back KBB 168P, 14 passengers.
+
+NKR/R/10/1/48 | Priscilla Chebet Birgen P.O. Box 7404 Nairobi, Route: Nakuru - Eldoret - Kapsabet and back KBB, 833A. 14 passengers | NKR/R/10/1/70 | Bon Dia Holdings P.O. Box 9415 Nairobi, Route: Nairobi - Machakos - Kitui and back KAZ 299R, 46passengers.
+NKR/R/10/1/49 | Francis T Kukngu P.O. Box 18924 Nairobi route Odeon - Kangemi - Uthiru and back KBB 907R, 14 passengers. | NKR/R/10/1/71 | John Magosri P.O. Box 20412 00200 Nairobi, Route: Kinoo - Westlands - Kangemi - community and back KBB 611M, 14 passengers.
+NKR/R/10/1/50 | Payless Car Hire and Tours ltd P.O. Box 6741 Nairobi, Route: Within Kenya KBA 332W, 9 passengers. | NKR/R/10/1/72 | Peter M Mutinda P.O. Box 7453 Nairobi, Route: Nairobi - Machakos - Kitui and back KBA 544K, 14 passengers.
+NKR/R/10/1/51 | A S Yaya P.O. Box 94054 Mombasa, Route: Nairobi - Nakuru - Nyeri and back KBD 864D, 14 passengers. | NKR/R/10/1/73 | Kanyama Ombati P.O. Box 912 Nairobi, Route: Nyeri - Nairobi and Back KBC 893F, 14 passengers.
+NKR/R/10/1/52 | James Warui Mwaura P.O. Box 68069, Route: Railways - Rongai - Kiserian and back KBB 933L, 14 passengers. | NKR/R/10/1/74 | Chau Sharif Alug P.O. Box 20723 Nairobi, Route: Railways - Ngong - Kiserian and Back KBC 676B, passengers.
+NKR/R/10/1/53 | Larian Safaris P.O. Box 2669 Nyeri, Route: Within Kenya KBD 954N, 9 passengers. | NKR/R/10/1/75 | Danson Muriithi Mwai P.O. Box 154 Nanyuki, Route: Nairobi - Nanyuki - Isiolo and back
+NKR/R/10/1/54 | Paul Karanja Nyoro P.O. Box 835 Nairobi, Route: Nairobi - Nyeri - Nanyuki and back KBE 269Y, 14 passengers. | NKR/R/10/1/76 | KAU 224E 14 passengers.
+NKR/R/10/1/55 | Lucy Wanjeri Githinji P.O. Box 9104 Nairobi, Route: Railways - Ngong - Kiserian and back KBE 906U, 14 passengers. |  | Patrick Masika P.O. Box 34826 Nairobi, Route: Kawangware - Yaya - Railways and Back KBB 042A 14 passengers.
+NKR/R/10/1/56 | Mary Nyeri Maina P.O. Box 152 Kangari, Route: Nairobi - Thika - Nyeri and back KBE 150R, 14 passengers. | NKR/R/10/1/77 | Joseph M Ndave P.O. Box 144 Emali, Route: Nairobi - Machakos - Makueni and Back KDB 226P, 29 passengers.
+NKR/R/10/1/57 | Joseph Mutonya Nduta P.O. Box 4248 Nairobi, Route: Nairobi - Kisumu and back KBE 482P, | NKR/R/10/1/78 | C W Nderitu P.O. Box 777 Nyahururu, Route: Nairobi - Nakuru and back KBC 861Q, 14 passengers.
+NKR/R/10/1/58 | 14 passengers. Sarah N Mwaniki P.O. Box 8976 Thika, Route: | NKR/R/10/1/79 | Madthew Waithaka Ndiritu P.O. Box 21824 Nairobi, Route: Nairobi - Nanyuki - Isiolo and back KDB 191P, 14 passengers.
+NKR/R/10/1/59 | Nairobi - Sultan - Mtito Andei and back KBD 577F, 14 passengers. F N Mugo P.O. Box 500 Olkarao, Route: | NKR/R/10/1/80 | Jacob Ngala Owaga P.O. Box 10 Voi, Route: Likoni - Lunga Lunga and back KBD 809F, 14 passengers.
+NKR/R/10/1/60 | Nairobi - Nyahururu and back KBD 239Q, 14 passengers. | NKR/R/10/1/81 | Richard Maina Nyagechi P.O. Box 20895 Nairobi, Route: Nairobi - Nakuru and back KAX 422J, 14 passengers.
+ | Stephen Karanja P.O. Box 22983 Nairobi, Route: Railways - Ongata Rongai - Kiserian and back KBD, 596K 14 passengers. | NKR/R/10/1/82 | Private Safaris Ltd P.O. Box 43366 Nairobi, Route: Within Kenya KBD 499P, 14 passengers.
+NKR/R/10/1/61 | Cresta Investments KBS P.O. Box 30527, Route: Kencom - Ngumo 7 back KBB 234X, 29 passengers. | NKR/R/10/1/83 | Nancy Waswa P.O. Box 34611 Nairobi route Nairobi - Nakuru - Kisumu and back KBD
+NKR/R/10/1/62 | Kawinzi Ruth Ndunda P.O. Box 19004 Nairobi, Route: Kawangware - Yaya - Railways and back KBD 109K, 14 passengers. | NKR/R/10/1/84 | 897D, 14 passengers. N W Nderitu P.O. Box 28786 Nairobi, Route:
+NKR/R/10/1/63 | Asiya Awich P.O. Box 87167 Mombasa, Route: Mtwapa - Ferry - Town and back KBC 315V, 14 passengers. | NKR/R/10/1/85 | Nairobi Rongai Kiseriana and back KBC 836G 14 passengers. Julius N Muthuri P.O. Box 59380 Nairobi,
+NKR/R/10/1/64 | Geoffrey Odera Oketch P.O. Box 373 Ukwala, Route: Kisumu - Luanda - Busia and back KAN 128A, 14 passengers. | NKR/R/10/1/86 | Route: Nairobi - Isiolo and Back KAL 975N, 8 passengers. Wachira David Kimija P.O. Box 21824, Route:
+NKR/R/10/1/65 | Yegon Richard P.O. Box 49000 Nairobi, Route: Nairobi - Narok Kericho and back KBD 617T, 14 passengers. |  | Nairobi - Nakuru - Kisumu and back KBC 903M, 14 passengers.
+NKR/R/10/1/66 | Ahmed Issack Somo P.O. Box 30435 Nairobi, Route: Taveta - Voi - Mombasa and back KBD 326P, 51 passengers. | NKR/R/10/1/87 | Frola Wairimu Gisthwa P.O. Box 95350 Mombasa, Route: Tudor - Ferry and back KBB 062L, 14 passengers.
+NKR/R/10/1/67 | Tom Onchari Nchera P.O. Box 709 Kisii, | NKR/R/10/1/88 | Peter Mulani Munyao P.O. Box 25900 Nairobi, Route: Railways - Ngong - Kiserian and back KBB 728F, 14 passengers.
+ | Route: Nairobi - Narok and back KBD 032U, 14 passengers. | NKR/R/10/1/89 | G P Wambui P.O. Box 74 Ruiru, Route: Ndenderu - Aghakhan - Odeon and back KBC 920N, 14 passengers.
+NKR/R/09/1/68 | David Kengere Oyogo P.O. Box 1378 Kisii, Route: Nairobi - Narok - Kisii - Sirare and back KBD 072U, 14 passengers. | NKR/R/10/1/90 | Moses J Kamau P.O. Box 27778 Nairobi, Route: Odeon - Uthiru and back KBC 732S, 29
+NKR/R/10/1/69 | S N Kamau P.O. Box 749225 Nairobi, Route: Railways - Community - Ngong and back KAN 911L, 51 passengers. |  | passengers.
+
+NKR/R/10/1/91 | Thuo Rechela Wairimu P.O. Box 143 Menengai west, Route: Nairobi _ Nakuru and back KBC 719C, 14 passengers. | MR/R/10/1/01 | ROAD SERVICE LICENCES Bon Dia Holdings P.O. Box 9415 Nairobi,
+NKR/R/10/1/92 | Nthanga Benson Lumumba P.O. Box 103 Machakos, Route: Nairobi _ Mombasa and back KBC 318D, 14 passengers. | MR/R/10/1/02 | Route: Nairobi - Machakos - Kitui and back KAZ 299R, 46 passengers. Thuo Rechela Wairimu P.O. Box 143 Menengai
+NKR/R/10/1/93 | John Cheruiyot Ngeno P.O. Box 798 Litein, Route: Bomet - Kericho- Nakuru and back KBD 328Y, 14 passengers. | MR/R/10/1/03 | west, Route: Nairobi _ Nakuru and back KBC 719C, 14 passengers. Nthanga Benson Lumumba P.O. Box 103
+NKR/R/10/1/94 | Francis Giathi Mwaura P.O. Box 141 Nairobi, Route: Globe- Githurai and back KBF 724H, 29 passengers. | MR/R/10/1/04 | Machakos, Route: Nairobi _ Mombasa and back KBF 318D, 14 passengers. John Cheruiyot Ngeno P.O. Box 798 Litein,
+NKR/R/10/1/95 | Flowerwings Kenya Ltd P.O. Box 43359 Nairobi, Route: within, Kenya KBE 009V, 55 passengers. | MR/R/10/1/05 | Route: Bomet - Kericho- Nakuru and back KBD 328Y, 14 passengers. Francis Giathi Mwaura P.O. Box 141 Nairobi, Route: Globe- Githurai and back KBF 724H, 29
+NKR/R/10/1/96 | Esso Motors Sales and Services Station P.O. Box 879 Nairobi,, Route: Within Kenya KBB 516A, 8 passengers. | MR/R/10/1/06 | passengers. Flowerwings Kenya Ltd P.O. Box 43359 Nairobi, Route: within, Kenya KBE 009V, 55
+NKR/R/10/1/97 | Omar M Artan P.O. Box 81575 Mombasa,, Route: Nairobi - Nakuru and back KBA 630 W, 14 passengers. | MR/R/10/1/07 | passengers. Esso Motors Sales and Services Station P.O.
+NKR/R/10/1/98 | Sylals Ndamia Gathura P.O. Box 12196 Nyeri, Route: Nairobi - Nyeri _ Nyahururu and back KBB 592L, 14 passengers. |  | Box 879 Nairobi,, Route: Within Kenya KBB 516A, 8 passengers.
+NKR/R/10/1/99 | Ngunya Peter Mwangi P.O. Box 19756 Nairobi, Route: Bus station - Ngong _ Dagoretti and back KBB 590L, 29 passengers. | MR/R/10/1/08 | Omar M Artan P.O. Box 81575 Mombasa,, Route: Nairobi - Nakuru and back KBA 630 W, 14 passengers.
+NKR/R/10/1/100 | Nthanga Benson Lumumba P.O. Box 103 Machakos, Route: Nairobi _ Mombasa and back KBF 318D, 14 passengers. | MR/R/10/1/09 MR/R/10/1/10 | Sylals Ndamia Gathura P.O. Box 12196 Nyeri, Route: Nairobi - Nyeri _ Nyahururu and back KBB 592L, 14 passengers. Ngunya Peter Mwangi P.O. Box 19756 Nairobi, Route: Bus station - Ngong _ Dagoretti and
+Dated 11th December, 2009. | Dated 11th December, 2009. |  | Savannah Investments P.O. Box 40206 Mombasa, Route: Sirare - Kisii - Kisumu
+C. J. NGESO, Acting Chief Executive Officer/Secretary, Transport Licensing Board. | C. J. NGESO, Acting Chief Executive Officer/Secretary, Transport Licensing Board. | MR/R/10/01/11 | and back KBB 829H, 14 passengers.
+GAZETTE NOTICE NO. 14037 | GAZETTE NOTICE NO. 14037 |  | Machakos, Route: Globe - Thika - Mathare North and back KAP 870Y, 14 passengers.
+THE TRANSPORT LICENSING ACT | THE TRANSPORT LICENSING ACT | MR/R/10/1/13 | Ali Mohamed Guyo P.O. Box 572 Isiolo, Route: Isiolo - Meru - Nanyuki - Nairobi and back
+( Cap . 404) APPLICATIONS | ( Cap . 404) APPLICATIONS |  | KAZ 768U, 7 passengers.
+The under mentioned applications will be considered by the Transport Licensing Board at Meru Municipal Hall, on the following days. | The under mentioned applications will be considered by the Transport Licensing Board at Meru Municipal Hall, on the following days. | MR/R/10/1/14 | Irean palahmen P.O. Box 9266 Kisumu, Route: Nairobi - Kisii - Sirare and back KBB 460G, 11 passengers.
+Wednesday, 10th February, 2010-MR/R/010/1/01 to MR/R/10/1/50. Thursday, 11th | February, 2010-MR/R/10/1/51 to MR/R/10/1/100 | MR/R/10/1/15 | Joseph Mwangi Maina P.O. Box 1490 Karatina, Route: Nairobi - Nyeri and back KBB 744L, 14 passengers.
+Friday, 12th February, 2010 } to consider deferred cases | Friday, 12th February, 2010 } to consider deferred cases | MR/R/10/1/16 | Evelyne Oyula Maende P.O. Box 48709 Nairobi, Route: Nairobi - Kenyatta University and back, KAV 709C.
+Every objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the District Commissioner of the District in which such an application is to be | Every objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the District Commissioner of the District in which such an application is to be | MR/R/10/1/17 | Nazishi Motors P.O. Box 39828 Nairobi, Route: Within Kenya KBA 751V, 5 passengers.
+heard and a copy therefore sent to the applicant not less than seven (7) days before the date at which such an application is to be heard. Objections received later will not be considered except where otherwise stated that | the applications are for one vehicle. | MR/R/10/1/18 | Jennifer N Muiruri P.O. Box 70865 Nairobi, Route: Buruburu - Jogoo rd Buruburu and back KBB 602T. 26 passengers.
+Every objector shall include the registration number of his/her | Every objector shall include the registration number of his/her | MR/R/10/1/19 | Ana Traders P.O. Box 66908 Nairobi, Route: within Kenya KBA 104S 5 passengers
+vehicle (together with the timetable where applicable), operating on the applicant's proposed route. Those who submit applications in the names of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting. | vehicle (together with the timetable where applicable), operating on the applicant's proposed route. Those who submit applications in the names of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting. | MR/R/10/1/20 | Capital Ventures P.O. Box 66908 Nairobi, Route: Nairobi - Kisumu and back KBA 797M, 14 passengers.
+Applicants who are Kenya, Tanzania or Uganda citizens of non- African origin must produce their certificates or any other documentary proof of their citizenship. | Applicants who are Kenya, Tanzania or Uganda citizens of non- African origin must produce their certificates or any other documentary proof of their citizenship. | MR/R/10/1/21 | Paul Otieno Kangenga P.O. Box 8210 Mombasa, Route: Nairobi - Kiambu - Banana and back KAN 347A, 14 passengers.
+Applicants who fail to attend the above meeting as required of this notice, without reasonable cause will have their applications refused and should therefore, not expect further communication from the Board. | Applicants who fail to attend the above meeting as required of this notice, without reasonable cause will have their applications refused and should therefore, not expect further communication from the Board. | MR/R/10/1/22 | Dennise Enterprises P.O. Box 74873 Nairobi, Route: Bus station - Dagoretti - Kikuyu and back KBB 250L, 14 passengers.
+
+MR/R/10/1/23 | Zafanana Express Ltd P.O. Box 30135 Nairobi, Route: Nairobi - Garissa - Wajir and back KBB 751T, 61 passengers. | MR/R/10/1/44 | Simon Njagi Kondia P.O. Box 2874 Nyeri, Route: Nakuru - Nanyuki - Meru and back KBB 119X 14 passengers.
+MR/R/10/1/24 | Central Farmers Carriage Ltd P.O. Box 27778 Nairobi, Route: Nairobi Machakos and back KBB 955G. 29 passengers | MR/R/10/1/45 | Samuel Kariuki Mungai P.O. Box 3512 Kitale, Route: Kitale - Kisumu and back KBB 966V, 11 passengers.
+MR/R/10/1/25 | Omar Walid P.O. Box 39297 Nairobi, Route: Mwiki - Kasarani - Bus station and back KBB 239K, 14 passengers. | MR/R/10/1/46 | Michael Osahah Mwalo P.O. Box 30599 00100 Nairobi, Route: Kiambu - Limuru and back KAC 373G, 28 passengers.
+MR/R/10/1/26 | Nazish Motors Ltd P.O. Box 39828 Mombasa, Route: Nairobi - Mombasa and back KBB 819P, 14 passengers. | MR/R/10/1/47 | September Auto Spares P.O. Box 93710 Mombassa, Route: Bus station - Kiambu and back KBE 974, 14 passengers.
+MR/R/10/1/27 | Nicholas Ontita Mosigisi P.O. Box 2266 Nairobi, Route: Ngong - Railways and back KBB 168P, 14 passengers. | MR/R/10/1/48 | Wasioya Salma Muhinini P.O. Box 1 Nairobi, Route: Bamburi - Docks and back KBE 500M, 14 passengers.
+MR/R/10/1/28 | Priscilla Chebet Birgen P.O. Box 7404 Nairobi, Route: Nakuru - Eldoret - Kapsabet and back KBB, 833A. 14 passengers | MR/R/10/1/49 | Micro Start Holdings Ltd P.O. Box 48231 Nairobi, Route: Railways - Kiserian and back KBE 191E, 51 passengers.
+MR/R/10/1/29 | Francis T Kukngu P.O. Box 18924 Nairobi route Odeon - Kangemi - Uthiru and back KBB 907R, 14 passengers. | MR/R/10/1/50 | Johnny Michael Thuita P.O. Box 20 Gilgi;, Route: Nairobi - Naivasha - Nakuru - Kisumu and back KBD 285G, 14 passengers.
+MR/R/10/1/30 | Payless Car Hire and Tours ltd P.O. Box 6741 Nairobi, Route: Within Kenya KBA 332W, 9 passengers. | MR/R/10/1/51 | A S Yaya P.O. Box 94054 Mombasa, Route: Nairobi - Nakuru - Nyeri and back KBD 864D, 14 passengers.
+MR/R/10/1/31 | A M Said P.O. Box 197 Mombasa, Route: Bus station - Kitengera and back KBB 949B, 14 passengers. | MR/R/10/1/52 | James Warui Mwaura P.O. Box 68069, Route: Railways - Rongai - Kiserian and back KBB 933L, 14 passengers.
+MR/R/10/1/32 | Jotham N Mwariri P.O. Box 899 Nairobi, Route: Nyeri - Thika and back KAN 268W, 14 passengers. | MR/R/10/1/53 | Larian Safaris P.O. Box 2669 Nyeri, Route: Within Kenya KBD 954N, 9 passengers.
+MR/R/10/1/33 | Sara kasi Trust P.O. Box 33339 Nairobi, Route: Village Market Industrial Area and back, KAR 253W, 11 passengers. | MR/R/10/1/54 | Paul Karanja Nyoro P.O. Box 835 Nairobi, Route: Nairobi - Nyeri - Nanyuki and back KBE 269Y, 14 passengers.
+MR/R/10/1/34 | Marafiki Savings and Credit P.O. Box 5441 Nairobi, Route: Nairobi - Thika - Mwingi and back KAR 869Y, 58 passengers. | MR/R/10/1/55 | Lucy Wanjeri Githinji P.O. Box 9104 Nairobi, Route: Railways - Ngong - Kiserian and back KBE 906U, 14 passengers.
+MR/R/10/1/35 | Continental Auto Bazaar P.O. Box 84869 Mombasa, Route: Nairobi - Machakos - Kitui and back KBA 991W, 14 passengers. | MR/R/10/1/56 | Mary Nyeri Maina P.O. Box 152 Kangari, Route: Nairobi - Thika - Nyeri and back KBE 150R, 14 passengers.
+MR/R/10/01/36 | Boniface Njoroge and Gladys Warundu P.O. Box 2521 Nakuru, Route: Nairobi - Nakuru - Kisumu - Kakamega and back KBB 850T, 51 passengers. | MR/R/10/1/57 | Joseph Mutonya Nduta P.O. Box 4248 Nairobi, Route: Nairobi - Kisumu and back KBE 482P, 14 passengers.
+MR/R/10/01/37 | David Githaiga Muchiri P.O. Box 3557 Nairobi, Route: Nairobi - Githurai and back KBB 871T, | MR/R/10/1/58 | Sarah N Mwaniki P.O. Box 8976 Thika, Route: Nairobi - Sultan - Mtito Andei and back KBD 577F, 14 passengers.
+MR/R/10/1/38 | 32 passengers. Tabitha Wangui P.O. Box 67463 Nairobi, Route: Nairobi - Thika - Nyeri and back KBB | MR/R/10/1/59 | F N Mugo P.O. Box 500 Olkarao, Route: Nairobi - Nyahururu and back KBD 239Q, 14 passengers.
+MR/R/10/1/39 | 198R, 14 passengers. Emily J Rono P.O. Box 677 Nakuru, Route: Railways - Kawangware - Dagorreti and back KBB 195A, 14 passengers. | MR/R/10/1/60 MR/R/10/1/61 | Stephen Karanja P.O. Box 22983 Nairobi, Route: Railways - Ongata Rongai - Kiserian and back KBD, 596K 14 passengers.
+MR/R/10/1/40 | Patric Musyeri Gichuba P.O. Box 26938 Nairobi, Route: Kayole - Umoja Muthurwa and |  | Richard Maina Nyagechi P.O. Box 20895 Nairobi, Route: Nairobi - Nakuru and back KAX 422J, 14 passengers.
+ | back KBB 852G, 26 passengers. | MR/R/10/1/62 | Private Safaris Ltd P.O. Box 43366 Nairobi, Route: Within Kenya KBD 499P, 14 passengers.
+MR/R/10/1/41 | Francis N Mwangi P.O. Box 15297 Nairobi, Route: Nairobi - Nakuru - Kisumu and back KBB 206 P, 14 passengers. | MR/R/10/1/63 | Nancy Waswa P.O. Box 34611 Nairobi route Nairobi - Nakuru - Kisumu and back KBD
+MR/R/10/1/42 | Henry Nganga Gikonyo P.O. Box 31021 Nairobi, Route: Bus station - Dagerreti Market - Kikuyu and back KBB, 298R 14 passengers. | MR/R/10/1/64 | 897D, 14 passengers. N W Nderitu P.O. Box 28786 Nairobi, Route: Nairobi Rongai Kiseriana and back KBC 836G
+MR/R/10/1/43 | Phares Kibaki Njega P.O. Box 4i3 Njoro, Route: Nairobi - Narok - Kisumu and back KBB, 403F 14 passengers | MR/R/10/1/65 | 14 passengers. Julius N Muthuri P.O. Box 59380 Nairobi, Route: Nairobi - Isiolo and Back KAL 975N, 8
+
+MR/R/10/1/66 | Wacchira David Kimija P.O. Box 21824, Route: Nairobi - Nakuru - Kisumu and back KBC 903M, 14 passengers. | MR/R/10/1/87 | Tom Onchari Nchera P.O. Box 709 Kisii, Route: Nairobi - Narok and back KBD 032U, 14 passengers.
+MR/R/10/1/67 | Frola Wairimu Gisthwa P.O. Box 95350 Mombasa, Route: Tudor - Ferry and back KBB 062L, 14 passengers. | MR/R/10/1/88 | David Kengere Oyogo P.O. Box 1378 Kisii, Route: Nairobi - Narok - Kisii - Sirare and back KBD 072U, 14 passengers.
+MR/R/10/1/68 | Peter Mulani Munyao P.O. Box 25900 Nairobi, Route: Railways - Ngong - Kiserian and back KBB 728F, 14 passengers. | MR/R/10/1/89 | S N Kamau P.O. Box 749225 Nairobi, Route: Railways - Community - Ngong and back KAN 911L, 51 passengers.
+MR/R/10/1/69 | G P Wambui P.O. Box 74 Ruiru, Route: Ndenderu - Aghakhan - Odeon and back KBC 920N, 14 passengers. | MR/R/10/1/90 | Kenya Bus Company P.O. Box 30527 Nairobi, Route: Kencom - Kibira - kawangware - Ongata Rongai and back KBD 305P, 51 passengers.
+MR/R/10/1/70 | Moses J Kamau P.O. Box 27778 Nairobi, Route: Odeon - Uthiru and back KBC 732S, 29 passengers. | MR/R/10/1/91 | Fredrick Mwenda Nduruhu P.O. Box 44599 Nairobi, Route: Thika Nairobi - Mombasa and back KBD 180W, 38 passengers.
+MR/R/10/1/71 | John Magosri P.O. Box 20412 00200 Nairobi, Route: Kinoo - Westlands - Kangemi - community and back KBB 611M, 14 passengers. | MR/R/10/1/92 | Njuguna F Mwaura P.O. Box 434 Kikuyu, Route: Bus station - Dagorreti - Kikuyu and back KBC 925Q, 14 passengers.
+MR/R/10/1/72 | Peter M Mutinda P.O. Box 7453 Nairobi, Route: Nairobi - Machakos - Kitui and back KBA 544K, 14 passengers. | MR/R/10/1/93 | David Wambandi Kariuki P.O. Box 34245 Nairobi, Route: Muthurwa - Umoja - Kangundo and back KBD 767W, 14 passengers.
+MR/R/10/1/73 | Kanyama Ombati P.O. Box 912 Nairobi, Route: Nyeri - Nairobi and Back KBC 893F, 14 passengers. | MR/R/10/1/94 | Al Husnain Motors P.O. Box 99032 Mombasa, Route: Nairobi - Meru - Maua and back KBD 804Q, 14 passengers.
+MR/R/10/1/74 | Chau Sharif Alug P.O. Box 20723 Nairobi, Route: Railways - Ngong - Kiserian and Back KBC 676B, passengers. | MR/R/10/1/95 | Husnain Motors P.O. Box 99032 Mombasa, Route: Nairobi - Nyahururu and back KBD 470T, 14 passengers.
+MR/R/10/1/75 | Danson Muriithi Mwai P.O. Box 154 Nanyuki, Route: Nairobi - Nanyuki - Isiolo and back KAU 224E 14 passengers. | MR/R/10/1/96 | Bolpak \otors P.O. Box 94083 Nairobi, Route: Nairobi - Machakos and back KDB 496N, 14 passengers.
+MR/R/10/1/76 | Patrick Masika P.O. Box 34826 Nairobi, Route: Kawangware - Yaya - Railways and Back KBB 042A 14 passengers. | MR/R/10/1/97 | Magman Enterprises Ltd P.O. Box 25425 Nairobi, Route: Within Kenya KBB 348W, 9 passengers.
+MR/R/10/1/77 | Joseph M Ndave P.O. Box 144 Emali, Route: Nairobi - Machakos - Makuein and Back KDB 226P, 29 passengers. | MR/R/10/1/98 | Ramadhan Muanyishess Indiya P.O. Box 30218 Nairobi, Route: Nairobi - Kiambu - Githunguri and back KBA 303G, 14 passengers.
+MR/R/10/1/78 | C W Nderitu P.O. Box 777 Nyahururu, Route: Nairobi - Nakuru and back KBC 861Q, 14 passengers. | MR/R/10/1/99 | Charles Rwanyo Nyakwana P.O. Box 52343 Nairobi, Route: Embakasi - Muthurwa and back KBD 562G, 14 passengers.
+MR/R/10/1/79 | Madthew Waithaka Ndiritu P.O. Box 21824 Nairobi, Route: Nairobi - Nanyuki - Isiolo and back KDB 191P, 14 passengers. | MR/R/10/1/100 | F Mwaura P.O. Box 21994 Nairobi, Route: Nairobi - Meru - Maua and back KBD 596N, 14 passengers.
+MR/R/10/1/80 | Jacob Ngala Owaga P.O. Box 10 Voi, Route: Likoni - Lunga Lunga and back KBD 809F, 14 passengers. | Dated 11th December, 2009. | Dated 11th December, 2009.
+MR/R/10/1/81 | Cresta Investments KBS P.O. Box 30527, Route: Kencom - Ngumo 7 back KBB 234X, 29 passengers. | C. J. NGESO, Acting Chief Executive Officer/Secretary, Transport Licensing Board. | C. J. NGESO, Acting Chief Executive Officer/Secretary, Transport Licensing Board.
+MR/R/10/1/82 | Kawinzi Ruth Ndunda P.O. Box 19004 Nairobi, Route: Kawangware - Yaya - Railways and back KBD 109K, 14 passengers. | GAZETTE NOTICE NO. 14038 THE TRANSPORT LICENSING ACT | ( Cap . 404)
+MR/R/10/1/83 | Asiya Awich P.O. Box 87167 Mombasa, Route: Mtwapa - Ferry - Town and back KBC 315V, 14 passengers. | The under mentioned applications will be considered by the Transport Licensing Board at Nyeri Municipal hall, on the following | The under mentioned applications will be considered by the Transport Licensing Board at Nyeri Municipal hall, on the following
+MR/R/10/1/84 | Geoffrey Odera Oketch P.O. Box 373 Ukwala, Route: Kisumu - Luanda - Busia and back KAN 128A, 14 passengers. | days. Monday, 15th February 2010 from NYR/R/01/10/01 to NYR/R/10/01/50. | days. Monday, 15th February 2010 from NYR/R/01/10/01 to NYR/R/10/01/50.
+MR/R/10/1/85 | Yegon Richard P.O. Box 49000 Nairobi, Route: Nairobi - Narok Kericho and back KBD 617T, 14 passengers. | Tuesday, 16th February 2010 from NYR/R/01/10/51 to NYR/R/10/01/100. Wednesday, 17th | February 2010
+MR/R/09/1/86 | Ahmed Issack Somo P.O. Box 30435 Nairobi, Route: Taveta - Voi - Mombasa and back KBD 326P, 51 passengers. | Thursday: 18th February 2010 to consider deferred cases and renewals of the year 2010. Friday, 19th February | 2010
+
+Every Objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the district | Every Objection in respect of an application shall be lodged with the Licensing Authority and the District Commissioner of the district | NYR /R/10/1/17 | September Auto Spares P.O. Box 93710 Mombasa, Route: Bus station - Kiambu and back KBE 974, 14 passengers.
+in which such an application is to be heard and a copy therefore shall be sent to the applicant not less than seven (7) days before the date at which such an application is to be heard. Objections received later will not be considered except where otherwise stated that the applications are for | one vehicle. | NYR /R/10/1/18 | Wasioya Salma Muhinini P.O. Box 1 Nairobi, Route: Bamburi - Docks and back KBE 500M, 14 passengers.
+Every objector shall include the registration number of his/her vehicle (together with the timetable where applicable), operating on | Every objector shall include the registration number of his/her vehicle (together with the timetable where applicable), operating on | NYR /R/10/1/19 | Micro Start Holdings Ltd P.O. Box 48231 Nairobi, Route: Railways - Kiserian and back KBE 191E, 51 passengers.
+the applicants proposed route. Those who submit applications in the names of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting. | the applicants proposed route. Those who submit applications in the names of partnership and companies must bring certificates of business registration to the Transport Licensing Board meeting. | NYR /R/10/1/20 | Johnny Michael Thuita P.O. Box 20 Gilgil;, Route: Nairobi - Naivasha - Nakuru - Kisumu and back KBD 285G, 14 passengers.
+Applicants who are Kenya, Tanzania or Uganda citizens of non- African origin must produce their certificates or any other documentary proof of their citizenship. | Applicants who are Kenya, Tanzania or Uganda citizens of non- African origin must produce their certificates or any other documentary proof of their citizenship. | NYR /R/10/1/21 | A M Said P.O. Box 197 Mombasa, Route: Bus station - Kitengela and back KBB 949B, 14 passengers.
+Applicants who fail to attend the above meeting as per required of this notice, without reasonable cause will have their applications refused and should therefore, not expect further communication from the Board. | Applicants who fail to attend the above meeting as per required of this notice, without reasonable cause will have their applications refused and should therefore, not expect further communication from the Board. | NYR/R/10/1/22 | Henry Maina P.O. Box 28028 Nairobi, Route: Nairobi-Kangari-Muranga and back KAN 296L, 14 passengers.
+ | ROAD SERVICE LICENCES | NYR/R/10/1/23 | Khilji Ent. P.O. Box 476 Malindi, Route:
+NYR/R/10/1/1 | Eyfra Enterprises Limited, P.O. Box 40206 Mombasa, Route: Nakuru - Kericho - Kisumu and back KBJ 317H, 14 passengers. |  | Nairobi-Sirare-Kilgoris and Back and back KBF 714D, 14 passengers.
+NYR/R/10/1/2 | Const.Air Safaris P.O. Box 85722 Machakos, Route: Globe - Thika - Mathare North and back KBG 444K, 14 passengers. | NYR/R/10/1/24 | Eufra Ent P.O. Box 119 Nairobi, Route: Nairobi-Nakuru-Kabarnet-Eldoret and Back KBF 395A, 7 passengers.
+NYR/R/10/1/3 | Ali Mohamed Guyo P.O. Box 572 Isiolo, Route: Isiolo - Meru - Nanyuki - Nairobi and back KBG 768U, 7 passengers. | NYR/R/10/1/25 | Araya S P.O. Box 4 Kijabe, Route: Nairobi- machakos-Kangundo and Back KBD 578K,14 passengers.
+NYR/R/10/1/4 | Irean palahmen P.O. Box 9266 Kisumu, Route: Nairobi - Kisii - Sirare and back KBG 460G, 11 passengers. | NYR/R/10/1/26 | Makie Invest co. P.O. Box 14528 Nairobi, Route: Nairobi-Ruiru-Thika and Back KBF 584D, 14 passengers.
+NYR/R/10/1/5 | Joseph Mwangi Maina P.O. Box 1490 Karatina, Route: Nairobi - Nyeri and back KBJ 744L, 14 passengers. | NYR/R/10/1/27 | S Koskei P.O. Box 920 Nairobi, Route: Odeon- kangemi-Uthiru and Back KBF 733H, 33 passengers.
+NYR/R/10/1/6 | Evelyne Oyula Maende P.O. Box 48709 Nairobi, Route: Nairobi - Kenyatta University | NYR/R/10/1/28 | Isaac Shitubi P.O. Box 911 kakamega, Route: Eldoret-Kitale-Malaba and Back KBE 671B, 7 passengers.
+ | and back, KBJ 709C. Nazishi Motors P.O. Box 39828 Nairobi, Route: | NYR/R/10/1/29 | Charles Mwangi P.O. Box 30527 Nairobi, Route: Khoja-Limuru and Back KBB 109G, 14
+NYR/R/10/1/7 NYR/R/10/1/8 | Within Kenya KBK 751V, 5 passengers. Jennifer N Muiruri P.O. Box 70865 Route: Buruburu - Jogoo rd Buruburu and | NYR/R/10/1/30 | passengers. Antony Maina P.O. Box 60 Nairobi, Route:
+NYR/R/10/1/9 | Nairobi, back KBG 602T. 26 passengers. Ana Traders P.O. Box 66908 Nairobi, Route: | NYR/R/10/1/31 | Kayole-Umoja-Outering Rd-Juja Rd-Gikomba and Back KBB 337F, 14 passengers. William Ngare Prestige Shuttle P.O. Box 13668
+NYR/R/10/1/10 | Capital Ventures P.O. Box 66908 Nairobi, Route: Nairobi - Kisumu and back KBA 797M, | NYR/R/10/1/32 | Back KBD 819C, 11 passengers. B.M. Muingai P.O. Box 998 Muranga, Route: Kangari-Thika-Nairobi and Back KBB 058C, 14 passengers.
+NYR /R/10/1/11 | 14 passengers. Francis N Mwangi P.O. Box 15297 Nairobi, Route: Nairobi - Nakuru - Kisumu and back | NYR/R/10/1/33 | Edward Wakahiu Gathuki P.O. Box 48148, Route: Kangundo-Outering-Nairobi and Back KBA 048A, 26 passengers.
+NYR /R/10/1/12 | KBB 206 P, 14 passengers. Henry Nganga Gikonyo P.O. Box 31021 | NYR/R/10/1/34 | Gilbert Onderi P.O. Box 16314 Nakuru, Route:
+ | Nairobi, Route: Bus station - Dagorreti Market - Kikuyu and back KBB, 298R 14 passengers. |  | Nakuru-Kisii-Kisumu and Back KBA 825C, 14 passengers.
+NYR /R/10/1/13 | Phares Kibaki Njega P.O. Box 413 Njoro, Route: Nairobi - Narok - Kisumu and back KBB, 403F 14 passengers | NYR/R/10/1/35 | George Titus P.O. Box 14930 Nairobi, Route: Malindi-Kilifi-Mombasa and Back KBD 518Y, 14 passengers.
+NYR /R/10/1/14 | Simon Njagi Kondia P.O. Box 2874 Nyeri, Route: Nakuru - Nanyuki - Meru and back KBB 119X 14 passengers. | NYR/R/10/1/36 | Fredrick Kiptanui P.O. Box 126 Litein, Route: Bomet-Kericho-Nairobi and back KBD 385B, 14 passengers.
+NYR /R/10/1/15 NYR /R/010/1/16 | Samuel Kariuki Mungai P.O. Box 3512 Kitale, Route: Kitale - Kisumu and back KBB 966V, 11 passengers. Michael Osahah Mwalo P.O. Box 30599 00100 | NYR/R/10/1/37 | John Michemi Ngaruni P.O. Box 67 Marima, Route: Meru-Chuka-Nairobi and back KBA 986A, 14 passengers.
+
+NYR/R/10/1/39 | Drew company P.O. Box 14528 Nairobi, Route: Nairobi-Nakuru-Kisumu and Back KBE 617L, 14 passengers. | NYR /R/10/1/61 | Joseph M Ndave P.O. Box 144 Emali, Route: Nairobi - Machakos - Makueni and Back KDB 226P, 29 passengers.
+NYR/R/10/1/40 | Rhino Safaris Ltd P.O. Box 48023 Nairobi, Route: Carriage of Tourists within Kenya KAX 681U,7 passengers. | NYR /R/10/1/62 | C W Nderitu P.O. Box 777 Nyahururu, Route: Nairobi - Nakuru and back KBC 861Q, 14 passengers.
+NYR/R/10/1/41 | Habiba Sharif P.O. Box 21824 Nairobi, Route: Nairobi-Nyeri-and Back KBE 611V, 14 passengers. | NYR /R/10/1/63 | Madthew Waithaka Ndiritu P.O. Box 21824 Nairobi, Route: Nairobi - Nanyuki - Isiolo and back KDB 191P, 14 passengers.
+NYR/R/10/1/42 | Patrick Oduor Owino P.O. Box 14528 Nairobi, Route: Nairobi Oyugis and Back KBE 512B, 11 passengers. | NYR /R/10/1/64 | Jacob Ngala Owaga P.O. Box 10 Voi, Route: Likoni - Lunga Lunga and back KBD 809F, 14 passengers.
+NYR/R/10/1/43 | Pagama Tulaga Ltd P.O. Box 270 S. Kinangop, Route: Nairobi-olkalou-Nyahururu and Back KBE 585V, 41 passengers. | NYR /R/10/1/65 | Richard Maina Nyagechi P.O. Box 20895 Nairobi, Route: Nairobi - Nakuru and back KAX 422J, 14 passengers.
+NYR/R/10/1/44 | Stephen Nderitu P.O. Box 57914 Nairobi, Route: Odeon-Westlands-Kangemi and Back KBE 716U, 14 passengers. | NYR /R/10/1/66 | Private Safaris Ltd P.O. Box 43366 Nairobi, Route: Within Kenya KBD 499P, 14 passengers.
+NYR/R/10/1/45 | Nancy Nyambura P.O. Box 7142 Eldoret, Route: Nakuru-Nyahururu-Nyeri and Back KBE 811U, 14 passengers. | NYR /R/10/1/67 | Nancy Waswa P.O. Box 34611 Nairobi route Nairobi - Nakuru - Kisumu and back KBD 897D, 14 passengers.
+NYR/R/10/1/46 | Benjo Transporters Ltd P.O. Box 42877 Mombasa, Route: Nairobi-Kitui-Mwingi and Back KBF 818F, 46 passengers. | NYR /R/10/1/68 | N W Nderitu P.O. Box 28786 Nairobi, Route: Nairobi Rongai Kiseriana and back KBC 836G 14 passengers.
+NYR/R/10/1/47 | Discover Kenya Safaris P.O. Box 24584 Nairobi, Route: Carriage of Tourists KBD 035Q, 9 passengers. | NYR /R/10/1/69 | Julius N Muthuri P.O. Box 59380 Nairobi, Route: Nairobi - Isiolo and Back KAL 975N, 8 passengers.
+NYR/R/10/1/48 | Stephen Nderitu P.O. Box 565 Molo, Route: Nairobi-Nyeri and Back KAS 864J, 14 passengers. | NYR /R/10/1/70 | Wachira David Kimija P.O. Box 21824, Route: Nairobi - Nakuru - Kisumu and back KBC 903M, 14 passengers.
+NYR/R/10/1/49 | Kaburu Festus Muriuki P.O. Box 366 Meru, Route: Nairobi-Embu-Meruand Back KBF 177B, 14 passengers. | NYR /R/10/1/71 | Frola Wairimu Gisthwa P.O. Box 95350 Mombasa, Route: Tudor - Ferry and back KBB 062L, 14 passengers.
+NYR/R/10/1/50 | Crown Tours P.O. Box 10915 Nairobi, Route: Carriage of Tourists Within Kenya KBD 273Y,8 passengers. | NYR /R/10/1/72 | Peter Mulani Munyao P.O. Box 25900 Nairobi, Route: Railways - Ngong - Kiserian and back KBB 728F, 14 passengers.
+NYR/R/10/1/51 | Mohammed Ali P.O. Box 170 Nairobi, Route: Nairobi-Nairobi-Naivasha-Nakuru and Back KBF 097H, 14 passengers. | NYR /R/10/1/73 | G P Wambui P.O. Box 74 Ruiru, Route: Ndenderu - Aghakhan - Odeon and back KBC 920N, 14 passengers.
+NYR/R/10/1/52 | F W Mwangi P.O. Box 310 Nairobi, Route: Thika-Nairobi-Mtito Andei and back KBF 411B, 14 passengers. | NYR /R/10/1/74 | Moses J Kamau P.O. Box 27778 Nairobi, Route: Odeon - Uthiru and back KBC 732S, 29 passengers.
+NYR/R/10/1/53 | Tom Kiboma P.O. Box 658 Thika, Route: Nairobi-Kisii-Migori and back KBD 543F, 14 passengers. | NYR /R/10/1/75 | Thuo Rechela Wairimu P.O. Box 143 Menengai west, Route: Nairobi _ Nakuru and back KBC 719C, 14 passengers.
+NYR/R/10/1/54 | Ebenangi Enterprises P.O. Box 267 Nairobi, Route: Nairobi-Mwingi and back KBF 931H, 46 passengers. | NYR /R/10/1/76 | Nthanga Benson Lumumba P.O. Box 103 Machakos, Route: Nairobi _ Mombasa and back KBC 318D, 14 passengers.
+NYR/R/10/1/55 | Simon Githinji P.O. Box 267 Gatundu, Route:Thika-Railways-Rongai-Kiserian and back KBD 849F, 14 passengers. | NYR /R/10/1/77 | John Cheruiyot Ngeno P.O. Box 798 Litein, Route: Bomet - Kericho- Nakuru and back KBD 328Y, 14 passengers.
+NYR/R/10/1/56 | Oyoo Ongoro P.O. Box 2032 Naivasha, Route: Eastleigh-Commercial and back KBC 682S, 26 passengers. | NYR /R/10/1/78 | Francis Giathi Mwaura P.O. Box 141 Nairobi, Route: Globe- Githurai and back KBF 724H, 29 passengers.
+NYR/R/10/1/57 | Eufra Ent ltd P.O. Box 2032 Naivasha , Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers. | NYR /R/10/1/79 | Flowerwings Kenya Ltd P.O. Box 43359 Nairobi, Route: within, Kenya KBE 009V, 55 passengers.
+NYR/R/10/1/58 | Kilimani Motors ltd P.O. Box 2032 Naivasha, Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers. | NYR /R/10/1/80 | Esso Motors Sales and Services Station P.O. Box 879 Nairobi,, Route: Within Kenya KBB 516A, 8 passengers.
+NYR /R/10/1/59 | Danson Muriithi Mwai P.O. Box 154 Nanyuki, Route: Nairobi - Nanyuki - Isiolo and back KAU 224E 14 passengers. | NYR /R/10/1/81 | Omar M Artan P.O. Box 81575 Mombasa,, Route: Nairobi - Nakuru and back KBA 630 W, 14 passengers.
+NYR /R/10/1/60 | Patrick Masika P.O. Box 34826 Nairobi, Route: Kawangware - Yaya - Railways and Back KBB 042A 14 passengers. | NYR /R/10/1/82 | Sylals Ndamia Gathura P.O. Box 12196 Nyeri, Route: Nairobi - Nyeri _ Nyahururu and back KBB 592L,
+
+NYR /R/10/1/83 | Oyoo Ongoro P.O. Box 2032 Naivasha, Route: Eastleigh-Commercial and back KBC 682S, 26 passengers.
+NYR /R/10/1/84 | Eufra Ent ltd P.O. Box 2032 Naivasha , Route: Nairobi-Eldoret-Kitale KBE 013L, 14 passengers.
+NYR /R/10/1/85 | Kilimani Motors ltd P.O. Box 2032 Naivasha, Route: Nairobi-Nakuru-Kisii-Kisumu and back KB 610A, 14 passengers.
+NYR /R /10/1/86 | Sony Driving School P.O. Box 2032 Naivasha, Route: Temple Road Githurai and back KBF 755H, 51 passengers.
+NYR /R/10/1/87 | Habib Gulam P.O. Box 75956 Nairobi, Route: Limuru-Nairobi-Nakuru and Back KBE 816E, 14 passengers.
+NYR /R/10/1/88 | David Kimani P.O. Box 13323 Nakuru, Route: Bus Station-Kiambu-Githunguri and back KBE 155L, 14 passengers.
+NYR /R/10/1/89 | Impact Trading P.O. Box 34299 Nairobi, Route: Nairobi-Meru-Maua and back KBE 366L, 14 passengers.
+NYR /R/10/1/90 | S Kariuki P.O. Box 57 Chogoria, Route: Odeon- Westlands-Kileleshwa and back KBD 425U, 14 passengers.
+NYR /R/10/1/91 | General Motors P.O. Box 30527 Nairobi, Route: Khoja-Banana-Limuru and back KBE 270V, 51 passengers.
+NYR /R/10/1/92 | Tamasha Africa P.O. Box 30120 Nairobi, Route: Carriage of Tourists within Kenya KBc 701Y, 9 passengers.
+
+NYR /R/10/1/93
+
+Michael Metho P.O. Box 1436 Nairobi, Route:
+
+carriage of tourists within Kenya KBE 035L, 9
+
+passengers.
+
+NYR /R/10/1/94
+
+Spendastar  P.O.  Box  18554  Nairobi.,  Route:
+
+Nairobi-Machakos-Kagundo-Kitui and
+
+back
+
+KBD 128N, 14 passengers.
+
+NYR /R/10/1/95
+
+James  Mwaura  P.O.  Box  8322  Kitale,  Route:
+
+Nairobi-Eldoret-Kitale  and  back  KBG  747L,11
+
+passengers.
+
+NYR /R/10/1/96
+
+2NK SACCO P.O. Box 74925 Nairobi, Route:
+
+Nairobi-Nyeri
+
+Back passengers.
+
+and
+
+KBG
+
+133W,
+
+14
+
+NYR /R/10/1/97
+
+James  Munyiri  P.O.  Box  7689  Nairobi,  Route:
+
+Nairobi-Nyeri-Isiolo-Nanyuki
+
+and  Back  KBJ
+
+288H, 14 passengers.
+
+NYR /R/10/1/98
+
+Macharia
+
+Gatete
+
+P.O.
+
+Box
+
+42297
+
+Nairobi,
+
+Route:
+
+Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBH 738A, 14 passengers.
+
+NYR /R/10/1/99
+
+Macharia
+
+Gatete
+
+P.O.
+
+Box
+
+42297
+
+Nairobi,
+
+Route:
+
+Nairobi-Nakuru-Ol-kalou-Nyahururu and Back KBK 738A, 14 passengers.
+
+NYR /R/10/1/100
+
+Job  Kibet    P.O.  Box  660  Mwatate,  Route:
+
+Nairobi-Embu-Meru  and  Back  KBK  990U,  14
+
+passengers.
+
+Dated 11th  December, 2009.
+
+C. J. NGESO, Acting Chief Executive Officer/Secretary, Transport Licensing Board.
