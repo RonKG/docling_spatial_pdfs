@@ -1,0 +1,2051 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Kenya Gazette Vol CXINo 107",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9539470405351807048,
+    "filename": "Kenya Gazette Vol CXINo 107.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.25398763020833,
+            "t": 767.6491928100586,
+            "r": 225.1030476888021,
+            "b": 748.0887095133463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "SPECIAL ISSUE",
+      "text": "SPECIAL ISSUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.4,
+            "t": 598.299,
+            "r": 328.86980000000005,
+            "b": 566.4308181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "THE KENYA",
+      "text": "THE KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.65,
+            "t": 557.325,
+            "r": 421.6712499999998,
+            "b": 547.5666957026714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Published by Authority of the Republic of Kenya",
+      "text": "Published by Authority of the Republic of Kenya"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 236.15,
+            "t": 539.2375,
+            "r": 373.8859550000001,
+            "b": 532.1090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(Registered as a Newspaper at the G.P.O.)",
+      "text": "(Registered as a Newspaper at the G.P.O.)"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.599,
+            "t": 523.399,
+            "r": 547.67536,
+            "b": 504.43536363636366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "NAIROBI, 18th December, 2009  \t Price Sh. 50",
+      "text": "NAIROBI, 18th December, 2009  \t Price Sh. 50",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.899,
+            "t": 514.419,
+            "r": 162.31,
+            "b": 503.80748034006376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Vol. CXI----No. 107",
+      "text": "Vol. CXI----No. 107"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.299,
+            "t": 483.83750000000003,
+            "r": 160.48618000000005,
+            "b": 476.70909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 13809",
+      "text": "GAZETTE NOTICE NO. 13809",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.099,
+            "t": 468.9365,
+            "r": 284.91555000000005,
+            "b": 452.90909090909093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "BUSINESS PROCESS OUTSOURCING /INFORMATION TECHNOLOGY SERVICES (BPO/ff ES) WORKING GROUP",
+      "text": "BUSINESS PROCESS OUTSOURCING /INFORMATION TECHNOLOGY SERVICES (BPO/ff ES) WORKING GROUP"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 155.5,
+            "t": 447.29900000000004,
+            "r": 203.81632000000002,
+            "b": 437.2353636363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.099,
+            "t": 430.2875,
+            "r": 295.9210299999999,
+            "b": 404.70909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section  4  (1) (a) of the National Accord and Reconciliation Act, I, Rolla Amolo Odinga, Prime Nnister of the Republic of Kenya appoint-",
+      "text": "IN EXERCISE of the powers conferred by section  4  (1) (a) of the National Accord and Reconciliation Act, I, Rolla Amolo Odinga, Prime Nnister of the Republic of Kenya appoint-"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.099,
+            "t": 396.629,
+            "r": 168.00184000000002,
+            "b": 389.30809090909094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Gilds Odem-Chaiiperson,",
+      "text": "Gilds Odem-Chaiiperson,"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.099,
+            "t": 381.58750000000003,
+            "r": 153.42971999999997,
+            "b": 374.45565356004255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Nick Nesbit-Member,",
+      "text": "Nick Nesbit-Member,"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.299,
+            "t": 366.2375,
+            "r": 201.48652000000004,
+            "b": 359.1090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Peris Wereykmber/Joint Secretary,",
+      "text": "Peris Wereykmber/Joint Secretary,"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.299,
+            "t": 351.33750000000003,
+            "r": 208.05502,
+            "b": 343.95909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Victor KyotoMember/Joint Secretary,",
+      "text": "Victor KyotoMember/Joint Secretary,"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.099,
+            "t": 335.7375,
+            "r": 174.42291999999998,
+            "b": 328.6090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Sammy Buruchara-Member,",
+      "text": "Sammy Buruchara-Member,"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.099,
+            "t": 320.83750000000003,
+            "r": 253.81230000000005,
+            "b": 313.5080909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Silvester Kasuku-OPM Member/Head of Secretariat,",
+      "text": "Silvester Kasuku-OPM Member/Head of Secretariat,"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.849,
+            "t": 305.43,
+            "r": 174.1140800000001,
+            "b": 298.1090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.35,
+            "t": 290.3865,
+            "r": 295.1895400000001,
+            "b": 273.6580909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            28,
+            133
+          ]
+        }
+      ],
+      "orig": "Dickson Ogolla-Secretariat, to be members of the BPO/ITES Working Group, for a period of two (2) years beginning 18th December, 2009.",
+      "text": "Dickson Ogolla-Secretariat, to be members of the BPO/ITES Working Group, for a period of two (2) years beginning 18th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.6,
+            "t": 265.63650000000007,
+            "r": 203.80461,
+            "b": 258.5080909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Terms of Reference for the Working Group",
+      "text": "Terms of Reference for the Working Group",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.099,
+            "t": 250.53650000000005,
+            "r": 295.26750000000015,
+            "b": 205.95909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "1. To guide, facilitate and oversee the development of an effective working system on BPO/ITES related activities within the various government ministries that will result in an organized and cohesive co-ordination of efforts towards meeting 'the objectives of Vision 2030 for the BPO/ITES sector.",
+      "text": "To guide, facilitate and oversee the development of an effective working system on BPO/ITES related activities within the various government ministries that will result in an organized and cohesive co-ordination of efforts towards meeting 'the objectives of Vision 2030 for the BPO/ITES sector.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.899,
+            "t": 198.23749999999995,
+            "r": 295.2558699999999,
+            "b": 172.60909090909092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "2. To Facilitate and oversee the development and achievement of high level interaction and negotiations with domestic, regional and international partners for facilitation of industry growth.",
+      "text": "To Facilitate and oversee the development and achievement of high level interaction and negotiations with domestic, regional and international partners for facilitation of industry growth.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.649,
+            "t": 164.13650000000007,
+            "r": 294.8833000000001,
+            "b": 147.9080909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "3. To monitor and advice provision of infrastructure for the BPO/ITES sector through the Office of the Prime Minister.",
+      "text": "To monitor and advice provision of infrastructure for the BPO/ITES sector through the Office of the Prime Minister.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.649,
+            "t": 139.88650000000007,
+            "r": 294.48380000000014,
+            "b": 105.1580909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "4. To oversee the process to actively generate new business and investment in the sector through facilitating \"tent pitching\" of foreign investors by direct one to one meetings with senior level outsourcing decision makers in Global 1000 companies.",
+      "text": "To oversee the process to actively generate new business and investment in the sector through facilitating \"tent pitching\" of foreign investors by direct one to one meetings with senior level outsourcing decision makers in Global 1000 companies.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.649,
+            "t": 96.4375,
+            "r": 293.9332400000002,
+            "b": 71.10909090909092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "5. To facilitate, co-ordinate and oversee the development of a strategy for Rural BPO/ITES efforts between various ministries towards effecting adequate sector growth in rural/suburban areas so as to",
+      "text": "To facilitate, co-ordinate and oversee the development of a strategy for Rural BPO/ITES efforts between various ministries towards effecting adequate sector growth in rural/suburban areas so as to",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 331.699,
+            "t": 484.2875,
+            "r": 551.3315199999998,
+            "b": 467.55809090909094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "stem rural-urban migration as well as encourage development in smaller towns and rural areas.",
+      "text": "stem rural-urban migration as well as encourage development in smaller towns and rural areas."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.199,
+            "t": 459.83750000000003,
+            "r": 549.2613849999997,
+            "b": 434.20909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "6. To guide, facilitate and oversee the development of a monitoring and evaluation framework that will assess the general status on the development of the sector.",
+      "text": "To guide, facilitate and oversee the development of a monitoring and evaluation framework that will assess the general status on the development of the sector.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.199,
+            "t": 426.2375,
+            "r": 548.7154450000005,
+            "b": 409.70909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "7. To monitor and evaluate the impact of BPO/ITES related activities based on key milestones and objectives.",
+      "text": "To monitor and evaluate the impact of BPO/ITES related activities based on key milestones and objectives.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 323.05,
+            "t": 401.4875,
+            "r": 421.8478800000002,
+            "b": 394.3590909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Powers of the Working Group",
+      "text": "Powers of the Working Group",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.699,
+            "t": 386.3865,
+            "r": 550.1644400000004,
+            "b": 305.1090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            531
+          ]
+        }
+      ],
+      "orig": "1. The Working Group may establish committees to address technical or other specific issues. The Working C)Irctip will prepare the Terms of Reference of its Committees. The membership of the committees will draw from relevant institutions, particularly: Ministry of Information and Communication, Ministry of Trade, Ministry of Science and Technology and Ministry of Education, Vision 2030 Secretariat, Brand Kenya Board, E-Govemment, ICT Board, Kenya Investment Authority, Export Processing Zones Authority and KEPSA among others.",
+      "text": "The Working Group may establish committees to address technical or other specific issues. The Working C)Irctip will prepare the Terms of Reference of its Committees. The membership of the committees will draw from relevant institutions, particularly: Ministry of Information and Communication, Ministry of Trade, Ministry of Science and Technology and Ministry of Education, Vision 2030 Secretariat, Brand Kenya Board, E-Govemment, ICT Board, Kenya Investment Authority, Export Processing Zones Authority and KEPSA among others.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.699,
+            "t": 297.08750000000003,
+            "r": 550.421925,
+            "b": 271.2580909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "2. The , Working Group and its committees may invite external experts to participate on an ad hoc basis in one or more of their meetings.",
+      "text": "The , Working Group and its committees may invite external experts to participate on an ad hoc basis in one or more of their meetings.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 330.699,
+            "t": 263.23749999999995,
+            "r": 436.65915000000035,
+            "b": 256.1090909090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 16th December, 2009.",
+      "text": "Dated the 16th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.25,
+            "t": 215.48749999999995,
+            "r": 413.92163999999997,
+            "b": 208.35909090909092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE No. 13810",
+      "text": "GAZETTE NOTICE No. 13810"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 343.449,
+            "t": 200.38650000000007,
+            "r": 536.63572,
+            "b": 181.00809090909092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL HOSPITAL INSURANCE FUND ACT (No. 9 of 1998)",
+      "text": "THE NATIONAL HOSPITAL INSURANCE FUND ACT (No. 9 of 1998)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 415.449,
+            "t": 172.11149999999998,
+            "r": 464.22990000000016,
+            "b": 165.82172727272723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.25,
+            "t": 157.4375,
+            "r": 549.2542000000002,
+            "b": 132.05909090909086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 4. of the National Hospital Insurance Fund Act, the Minister for Medical Services appoints-",
+      "text": "IN EXERCISE of the powers conferred by section 4. of the National Hospital Insurance Fund Act, the Minister for Medical Services appoints-"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 330.0,
+            "t": 123.83749999999998,
+            "r": 413.97761999999994,
+            "b": 116.70909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Under paragraph (1) (g)-",
+      "text": "Under paragraph (1) (g)-"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 341.75,
+            "t": 108.6875,
+            "r": 389.7308000000001,
+            "b": 101.55909090909086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "George Odiko",
+      "text": "George Odiko"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 329.3,
+            "t": 93.08749999999998,
+            "r": 412.03372999999976,
+            "b": 85.95909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Under paragraph (1) (i)-",
+      "text": "Under paragraph (1) (i)-"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 342.0,
+            "t": 77.98749999999995,
+            "r": 412.00532000000004,
+            "b": 70.85909090909092,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 425.05,
+            "t": 736.215,
+            "r": 535.30118,
+            "b": 681.5169606801276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            20,
+            55
+          ]
+        }
+      ],
+      "orig": "Elijah Adul Onyango ci0 ft's--) 00.1 ' 30,1LOP' cp l ov",
+      "text": "Elijah Adul Onyango ci0 ft's--) 00.1 ' 30,1LOP' cp l ov"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.85,
+            "t": 243.33749999999998,
+            "r": 537.8054500000001,
+            "b": 236.20909090909095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "R. A. ODINGA,",
+      "text": "R. A. ODINGA,"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 497.3,
+            "t": 234.4375,
+            "r": 549.4571050000002,
+            "b": 227.30909090909086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Prime Minister.",
+      "text": "Prime Minister."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 521.049,
+            "t": 33.275999999999954,
+            "r": 546.4932100000001,
+            "b": 24.29836004645756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "[3727",
+      "text": "[3727"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 225.349,
+            "t": 774.85,
+            "r": 508.95780000000013,
+            "b": 766.0070669500532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "THE KENYA GAZETTE  \t 18th December, 2009",
+      "text": "THE KENYA GAZETTE  \t 18th December, 2009"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.45,
+            "t": 774.6,
+            "r": 137.149,
+            "b": 765.7570669500532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3728",
+      "text": "3728"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95,
+            "t": 750.535,
+            "r": 141.73498,
+            "b": 743.0185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Under paragraph (1) (I) (I)-",
+      "text": "Under paragraph (1) (I) (I)-"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.5,
+            "t": 733.485,
+            "r": 139.1363,
+            "b": 725.7185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Thornas'Matha , pidashi",
+      "text": "Thornas'Matha , pidashi"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95,
+            "t": 714.985,
+            "r": 137.54668999999998,
+            "b": 707.4685069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Under panigniph (1) (f)iii)",
+      "text": "Under panigniph (1) (f)iii)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.2,
+            "t": 696.735,
+            "r": 156.7587,
+            "b": 689.2185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Maul Joshua SUnde (key.)",
+      "text": "Maul Joshua SUnde (key.)"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95,
+            "t": 678.535,
+            "r": 132.27992,
+            "b": 671.0185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Under paragraph (1) (1)-",
+      "text": "Under paragraph (1) (1)-"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.95,
+            "t": 660.285,
+            "r": 145.01533999999995,
+            "b": 652.7685069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.25,
+            "t": 642.035,
+            "r": 266.90040000000005,
+            "b": 625.8685069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            25,
+            136
+          ]
+        }
+      ],
+      "orig": "David Lemirdi IConchella to be members of the National Hospital Insurance Pend Board of Management with effect from 19th December, 2009.",
+      "text": "David Lemirdi IConchella to be members of the National Hospital Insurance Pend Board of Management with effect from 19th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.25,
+            "t": 614.934,
+            "r": 153.18054499999997,
+            "b": 607.4175069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 17th December, 2009.",
+      "text": "Dated the 17th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 167.3,
+            "t": 596.434,
+            "r": 265.27003999999994,
+            "b": 580.0272727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "P. A. NYONG'0, MGrirter for Medical Services.",
+      "text": "P. A. NYONG'0, MGrirter for Medical Services."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 290.149,
+            "t": 751.735,
+            "r": 384.6510400000002,
+            "b": 744.2185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE No. 13811",
+      "text": "GAZETTE NOTICE No. 13811"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.699,
+            "t": 738.535,
+            "r": 502.7588249999999,
+            "b": 731.0185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "THE KENYA MEDICAL TRAINING COLLEGE ACT",
+      "text": "THE KENYA MEDICAL TRAINING COLLEGE ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 393.35,
+            "t": 725.334,
+            "r": 430.11724999999996,
+            "b": 717.5762727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "(Cap. 261)",
+      "text": "(Cap. 261)"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.899,
+            "t": 711.885,
+            "r": 435.86698999999976,
+            "b": 704.3685069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 290.149,
+            "t": 698.434,
+            "r": 520.6031650000003,
+            "b": 672.6675069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 9 (1) of the Kenya Medical Training College Act, the Minister for Medical Services appoints-",
+      "text": "IN EXERCISE of the powers conferred by section 9 (1) of the Kenya Medical Training College Act, the Minister for Medical Services appoints-"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.149,
+            "t": 666.735,
+            "r": 386.43508499999984,
+            "b": 659.2185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Under paragraph (1) ()-",
+      "text": "Under paragraph (1) ()-"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.899,
+            "t": 651.385,
+            "r": 384.32775,
+            "b": 635.0185069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 289.699,
+            "t": 626.934,
+            "r": 519.3026099999995,
+            "b": 610.2685069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            42,
+            151
+          ]
+        }
+      ],
+      "orig": "David Valor Tared& Margaret Anyango Odidi to be members of the Kenya Medical Training College Board of Management with effect from 19th December, 2009.",
+      "text": "David Valor Tared& Margaret Anyango Odidi to be members of the Kenya Medical Training College Board of Management with effect from 19th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.699,
+            "t": 602.684,
+            "r": 406.62954499999955,
+            "b": 595.1675069075452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 17th December, 2009.",
+      "text": "Dated the 17th December, 2009."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 420.5,
+            "t": 587.334,
+            "r": 518.6509399999997,
+            "b": 570.9262727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "P. A. NYONG'O, Minister for Medical Services.",
+      "text": "P. A. NYONG'O, Minister for Medical Services."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 167.3,
+            "t": 29.083999999999946,
+            "r": 392.669,
+            "b": 21.56750690754518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI",
+      "text": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.99441528320312,
+            "t": 752.3698081970215,
+            "r": 384.5293884277344,
+            "b": 605.9859466552734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

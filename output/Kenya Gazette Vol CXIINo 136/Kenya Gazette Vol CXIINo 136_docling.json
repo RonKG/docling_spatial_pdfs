@@ -1,0 +1,2506 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Kenya Gazette Vol CXIINo 136",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17527791264277129092,
+    "filename": "Kenya Gazette Vol CXIINo 136.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/76"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 768.5822000000001,
+            "r": 215.31400800000006,
+            "b": 746.28452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "SPECIAL ISSUE",
+      "text": "SPECIAL ISSUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.0,
+            "t": 621.3333333333334,
+            "r": 268.0,
+            "b": 614.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "H",
+      "text": "H"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.3333333333333,
+            "t": 626.6666666666666,
+            "r": 313.3333333333333,
+            "b": 620.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "M",
+      "text": "M"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.6666666666667,
+            "t": 624.6666666666666,
+            "r": 323.3333333333333,
+            "b": 619.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "B",
+      "text": "B"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 330.33333333333337,
+            "t": 623.0,
+            "r": 341.0,
+            "b": 614.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.4,
+            "t": 605.7563,
+            "r": 505.42679999999996,
+            "b": 565.9043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE KENYA GAZETTE",
+      "text": "THE KENYA GAZETTE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.7,
+            "t": 560.06348,
+            "r": 414.9610380000001,
+            "b": 547.90862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Published by Authority of the Republic of Kenya",
+      "text": "Published by Authority of the Republic of Kenya",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.8,
+            "t": 541.7304800000001,
+            "r": 367.0352519999997,
+            "b": 532.8966200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(Registered as a Newspaper at the G.P.O.)",
+      "text": "(Registered as a Newspaper at the G.P.O.)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 215.32799999999997,
+            "t": 517.9522999999999,
+            "r": 382.63199999999983,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "NAIROBI, 31st December, 2010",
+      "text": "NAIROBI, 31st December, 2010",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 517.9522999999999,
+            "r": 161.808,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Vol. CXII-No. 136",
+      "text": "Vol. CXII-No. 136"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 485.39048,
+            "r": 152.0559720000001,
+            "b": 476.55662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 16952",
+      "text": "GAZETTE NOTICE NO. 16952"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 468.890234,
+            "r": 232.6300320000001,
+            "b": 460.056374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.83978400000001,
+            "t": 452.389988,
+            "r": 284.0172420000003,
+            "b": 443.556128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008",
+      "text": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 146.99984400000002,
+            "t": 435.889742,
+            "r": 197.89468800000003,
+            "b": 427.055882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 4 of 2008 )",
+      "text": "(No. 4 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.68008400000002,
+            "t": 419.389496,
+            "r": 268.12586999999996,
+            "b": 400.055552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "COMMISSION FOR THE IMPLEMENTATION OF THE CONSTITUTION",
+      "text": "COMMISSION FOR THE IMPLEMENTATION OF THE CONSTITUTION"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.959838,
+            "t": 392.39048,
+            "r": 196.875,
+            "b": 383.555306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.47956199999996,
+            "t": 375.890234,
+            "r": 287.48151599999994,
+            "b": 335.55612199999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with section 5 and 29 (2) of the Sixth Schedule  of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-",
+      "text": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with section 5 and 29 (2) of the Sixth Schedule  of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.89950199999998,
+            "t": 327.89048,
+            "r": 205.995,
+            "b": 319.0558759999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "CHARLES NYACHAE",
+      "text": "CHARLES NYACHAE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48001799999997,
+            "t": 311.39023399999996,
+            "r": 275.47686,
+            "b": 292.05629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "to be Chairperson of the Commission for the Implementation of the Constitution , with effect from 30th December, 2010.",
+      "text": "to be Chairperson of the Commission for the Implementation of the Constitution , with effect from 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.48034199999998,
+            "t": 284.389904,
+            "r": 175.48267199999987,
+            "b": 275.55604399999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 30th December, 2010.",
+      "text": "Dated the 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 485.38974800000005,
+            "r": 376.0419599999999,
+            "b": 476.55588800000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Peter Wanyande",
+      "text": "Peter Wanyande"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 474.88966400000004,
+            "r": 372.0790920000001,
+            "b": 466.055804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Ibrahim M. Ali",
+      "text": "Ibrahim M. Ali"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 464.38958,
+            "r": 371.1861299999998,
+            "b": 455.55572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Elizabeth Muli",
+      "text": "Elizabeth Muli"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 453.889496,
+            "r": 376.1217599999996,
+            "b": 445.055636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Florence Omosa",
+      "text": "Florence Omosa"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 443.389412,
+            "r": 383.57268600000026,
+            "b": 434.555552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Catherine Mumma",
+      "text": "Catherine Mumma"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 432.889328,
+            "r": 386.2946640000003,
+            "b": 424.05546799999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Kamotho Waiganjo",
+      "text": "Kamotho Waiganjo"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 422.38924399999996,
+            "r": 389.0062680000003,
+            "b": 413.55538399999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Philemon Mwaisaka",
+      "text": "Philemon Mwaisaka"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 411.88915999999995,
+            "r": 398.5471560000003,
+            "b": 403.05529999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.41933400000005,
+            "t": 395.38891399999994,
+            "r": 518.6086500000004,
+            "b": 376.0549699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            22,
+            136
+          ]
+        }
+      ],
+      "orig": "Kibaya Imaana Laibuta to be Members of the Commission for the Implementation of the Constitution , with effect from 30th December, 2010.",
+      "text": "Kibaya Imaana Laibuta to be Members of the Commission for the Implementation of the Constitution , with effect from 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419658,
+            "t": 368.3885839999999,
+            "r": 427.42198799999966,
+            "b": 359.5547239999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 30th December, 2010.",
+      "text": "Dated the 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.40070799999998,
+            "t": 267.88965800000005,
+            "r": 275.45531400000004,
+            "b": 259.055798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "MWAI KIBAKI,",
+      "text": "MWAI KIBAKI,"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 252.78094199999998,
+            "t": 257.38957400000004,
+            "r": 287.42212200000023,
+            "b": 248.55571399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "President.",
+      "text": "President."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.480815999999976,
+            "t": 213.89048000000003,
+            "r": 152.0559720000001,
+            "b": 205.05513799999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 16953",
+      "text": "GAZETTE NOTICE NO. 16953"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 197.39023399999996,
+            "r": 232.6300320000001,
+            "b": 188.556374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.83978400000001,
+            "t": 180.88998800000002,
+            "r": 284.0172420000003,
+            "b": 172.05612799999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008",
+      "text": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 146.99984400000002,
+            "t": 164.38974200000007,
+            "r": 197.89468800000003,
+            "b": 155.555882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 4 of 2008 )",
+      "text": "(No. 4 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.68008400000002,
+            "t": 147.889496,
+            "r": 268.12586999999996,
+            "b": 128.55555200000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "COMMISSION FOR THE IMPLEMENTATION OF THE CONSTITUTION",
+      "text": "COMMISSION FOR THE IMPLEMENTATION OF THE CONSTITUTION"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.959838,
+            "t": 120.89048000000003,
+            "r": 196.875,
+            "b": 112.05530599999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.47956199999996,
+            "t": 104.39023399999996,
+            "r": 287.48151599999994,
+            "b": 64.05612199999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with section 5 and 29 (2) of the Sixth Schedule  of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-",
+      "text": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with section 5 and 29 (2) of the Sixth Schedule  of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.5319999999998,
+            "t": 517.9522999999999,
+            "r": 537.5279999999998,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Price Sh. 50",
+      "text": "Price Sh. 50"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 470.340024,
+            "t": 345.8889739999999,
+            "r": 527.3938320000001,
+            "b": 337.0551139999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "MWAI KIBAKI,",
+      "text": "MWAI KIBAKI,"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.72025800000006,
+            "t": 335.3888899999999,
+            "r": 539.3614380000005,
+            "b": 326.5550299999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "President.",
+      "text": "President."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.4201320000001,
+            "t": 297.89048,
+            "r": 403.99597200000005,
+            "b": 289.0546159999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 16954",
+      "text": "GAZETTE NOTICE NO. 16954"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 364.139862,
+            "t": 281.39023399999996,
+            "r": 484.5700319999992,
+            "b": 272.556374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.779784,
+            "t": 264.889988,
+            "r": 535.9572419999993,
+            "b": 256.05612799999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008",
+      "text": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 398.939844,
+            "t": 248.38974200000007,
+            "r": 449.83468799999997,
+            "b": 239.555882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 4 of 2008 )",
+      "text": "(No. 4 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 344.580084,
+            "t": 231.889496,
+            "r": 504.1034759999992,
+            "b": 223.05563600000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "COMMISSION ON REVENUE ALLOCATION",
+      "text": "COMMISSION ON REVENUE ALLOCATION"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 399.899838,
+            "t": 215.39048000000003,
+            "r": 448.815,
+            "b": 206.55539,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.41956200000004,
+            "t": 198.89023399999996,
+            "r": 539.3584740000001,
+            "b": 158.55612199999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 215 (2) and section 29 (2)  of the Sixth Schedule of the Constitution, I, Mwai Kibaki, President and Commander-in-Chief of the Kenya Defence Forces appoint-",
+      "text": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 215 (2) and section 29 (2)  of the Sixth Schedule of the Constitution, I, Mwai Kibaki, President and Commander-in-Chief of the Kenya Defence Forces appoint-"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 393.240684,
+            "t": 150.89048000000003,
+            "r": 455.535,
+            "b": 142.0558759999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "MICAH CHESEREM",
+      "text": "MICAH CHESEREM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.41960400000005,
+            "t": 134.39023399999996,
+            "r": 527.114802,
+            "b": 115.05628999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "to be Chairperson of the Commission  on Revenue Allocation, with effect from 30th December, 2010.",
+      "text": "to be Chairperson of the Commission  on Revenue Allocation, with effect from 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.419928,
+            "t": 107.389904,
+            "r": 427.42225799999966,
+            "b": 98.55604400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 30th December, 2010.",
+      "text": "Dated the 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 470.34029400000003,
+            "t": 84.89029400000004,
+            "r": 527.3941020000001,
+            "b": 76.05643399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "MWAI KIBAKI,",
+      "text": "MWAI KIBAKI,"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.72052800000006,
+            "t": 74.39021000000002,
+            "r": 539.3617080000005,
+            "b": 65.55634999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "President.",
+      "text": "President."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 515.7599,
+            "t": 45.32348000000002,
+            "r": 544.1234359999999,
+            "b": 33.16862000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "4681]",
+      "text": "4681]"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.28,
+            "t": 805.86812,
+            "r": 93.82499999999999,
+            "b": 794.77598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4682",
+      "text": "4682"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.27985,
+            "t": 805.74812,
+            "r": 352.2183000000002,
+            "b": 794.65598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE KENYA GAZETTE",
+      "text": "THE KENYA GAZETTE"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 440.19289800000024,
+            "t": 805.74812,
+            "r": 527.9771160000003,
+            "b": 794.65598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "31st December, 2010",
+      "text": "31st December, 2010"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.48,
+            "t": 788.39048,
+            "r": 152.0559720000001,
+            "b": 779.5566200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 16955",
+      "text": "GAZETTE NOTICE NO. 16955"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 773.390474,
+            "r": 232.6300320000001,
+            "b": 764.5566140000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.83978400000001,
+            "t": 758.390468,
+            "r": 284.0172420000003,
+            "b": 749.5566080000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008",
+      "text": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.99984400000002,
+            "t": 743.3904620000001,
+            "r": 197.89468800000003,
+            "b": 734.5566020000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 4 of 2008 )",
+      "text": "(No. 4 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.64008400000003,
+            "t": 728.3904560000001,
+            "r": 252.16427400000023,
+            "b": 719.5565960000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "COMMISSION ON REVENUE ALLOCATION",
+      "text": "COMMISSION ON REVENUE ALLOCATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 147.95983800000005,
+            "t": 713.39048,
+            "r": 196.875,
+            "b": 704.5565900000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.47956199999996,
+            "t": 698.390474,
+            "r": 287.41847399999983,
+            "b": 662.5570819999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 215 (2) and section 29 (2) of the Sixth Schedule of the Constitution, I, Mwai Kibaki, President and Commander-in-Chief of the Kenya Defence Forces appoint-",
+      "text": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 215 (2) and section 29 (2) of the Sixth Schedule of the Constitution, I, Mwai Kibaki, President and Commander-in-Chief of the Kenya Defence Forces appoint-"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.48068399999991,
+            "t": 656.3909359999999,
+            "r": 140.54976599999998,
+            "b": 593.5580119999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.480359999999905,
+            "t": 587.3918659999996,
+            "r": 286.57977599999987,
+            "b": 569.5581619999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            117,
+            210
+          ]
+        }
+      ],
+      "orig": "Raphael Munavu, J. H. Kimura, Wafula S. Masai, Meshack Onyango, Rose Bosibori Osoro, Fatuma Abdulkadir, Amina Ahmed, to be Members of the Commission  on Revenue Allocation, with effect from 30th December, 2010.",
+      "text": "Raphael Munavu, J. H. Kimura, Wafula S. Masai, Meshack Onyango, Rose Bosibori Osoro, Fatuma Abdulkadir, Amina Ahmed, to be Members of the Commission  on Revenue Allocation, with effect from 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.48068399999991,
+            "t": 563.3920159999996,
+            "r": 175.4830139999998,
+            "b": 554.5581559999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 30th December, 2010.",
+      "text": "Dated the 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 218.4010499999999,
+            "t": 548.3920099999996,
+            "r": 287.42246400000016,
+            "b": 530.5583059999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "MWAI KIBAKI, President.",
+      "text": "MWAI KIBAKI, President."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.4209299999999,
+            "t": 788.3921059999994,
+            "r": 403.99597200000005,
+            "b": 779.5566200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 16956",
+      "text": "GAZETTE NOTICE NO. 16956"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 364.139862,
+            "t": 773.390474,
+            "r": 484.5700319999992,
+            "b": 764.5566140000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.779784,
+            "t": 758.390468,
+            "r": 535.9572419999993,
+            "b": 734.5566020000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008 (No. 4 of 2008 )",
+      "text": "THE NATIONAL ACCORD AND RECONCILIATION ACT, 2008 (No. 4 of 2008 )",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 352.379736,
+            "t": 728.3904560000001,
+            "r": 498.3682500000001,
+            "b": 719.5565960000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "THE JUDICIAL SERVICE COMMISSION",
+      "text": "THE JUDICIAL SERVICE COMMISSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 399.899838,
+            "t": 713.39048,
+            "r": 448.815,
+            "b": 704.5565900000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT",
+      "text": "APPOINTMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.41956200000004,
+            "t": 698.390474,
+            "r": 539.356878,
+            "b": 662.5570819999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 171 and section 29 (2) of the Sixth Schedule of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-",
+      "text": "IN EXERCISE of the powers conferred by Article 250 (2) ( c )  as read with Article 171 and section 29 (2) of the Sixth Schedule of the Constitution,  I,  Mwai  Kibaki,  President  and  Commander-in-Chief  of the Kenya Defence Forces appoint-"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.419886,
+            "t": 656.3909359999999,
+            "r": 428.7883920000001,
+            "b": 602.5578559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.41956200000004,
+            "t": 596.3917099999996,
+            "r": 527.1746099999999,
+            "b": 578.5580059999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            136,
+            219
+          ]
+        }
+      ],
+      "orig": "Riaga S. C. Omolo, Titus J. K. Gateere, Anthony Muheria, Christine Kevin Abungu Mango, Florence Muoti Mwangangi, Ahmednassir Abdullahi, to be Members of the Judicial  Service Commission  for a period of five  (5) years.",
+      "text": "Riaga S. C. Omolo, Titus J. K. Gateere, Anthony Muheria, Christine Kevin Abungu Mango, Florence Muoti Mwangangi, Ahmednassir Abdullahi, to be Members of the Judicial  Service Commission  for a period of five  (5) years."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.419886,
+            "t": 572.3918599999996,
+            "r": 427.42221599999965,
+            "b": 563.5579999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Dated the 30th December, 2010.",
+      "text": "Dated the 30th December, 2010."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 470.340252,
+            "t": 551.3916919999996,
+            "r": 539.3616660000005,
+            "b": 533.5579879999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "MWAI KIBAKI, President.",
+      "text": "MWAI KIBAKI, President."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.46,
+            "t": 34.83398,
+            "r": 403.37205599999993,
+            "b": 27.660619999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI",
+      "text": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 210.64930725097656,
+            "t": 761.7433547973633,
+            "r": 388.08050537109375,
+            "b": 611.3252563476562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,34 @@
+---
+description: Keep documentation lean—enough to be useful, never enough to obscure intent
+alwaysApply: true
+---
+
+# Documentation: relevance without noise
+
+The goal is **clarity**, not volume. Too many comments, docstrings, README sections, or explanatory markdown files make codebases harder to scan and maintain.
+
+## Prefer
+
+- **One canonical doc per topic**: keep most related material in a **single** existing document (for example the project spec or README) and **add sections or bullets there** instead of creating new files that overlap.
+- When the repo already has a home for a subject, **extend that file**; use a short pointer elsewhere only if needed (“see section X in …”).
+- **One accurate sentence** over a paragraph that repeats the code.
+- **Non-obvious rationale**: why this exists, invariants, edge cases, or tradeoffs—not what the next line literally does.
+- **Public or shared surfaces**: exported APIs, CLI flags, config keys, and anything another module or person must rely on.
+- **Structured brevity**: bullet lists, parameter tables, or a short "see also" link when a spec already exists.
+
+## Avoid
+
+- **Splitting one topic across several markdown files** (e.g. notes + addendum + “v2” doc) when one file could hold a new section.
+- Restating identifiers or control flow in prose ("this function loops over items").
+- Duplicate documentation in **both** a long docstring **and** a README **and** inline comments for the same behavior—pick **one** primary place.
+- New markdown files (guides, ADRs, summaries) unless the user asked for them, the canonical doc is the wrong audience, or a single file would be unreasonably hard to navigate—then prefer **one** extra file with a clear scope, not many small ones.
+- Section headers and boilerplate that add length but no new information.
+
+## When unsure
+
+- Default to **minimal** documentation and let tests or types carry obvious behavior.
+- If something needs explanation, add **only** what a future reader would fail to infer in two minutes of reading the code.
+
+## Quick check
+
+Before adding or expanding docs, ask: *Would removing this sentence make the next reader worse off?* If no, delete or shorten it.

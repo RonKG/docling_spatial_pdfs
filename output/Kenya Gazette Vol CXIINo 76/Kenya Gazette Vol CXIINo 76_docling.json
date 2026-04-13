@@ -1,0 +1,2465 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Kenya Gazette Vol CXIINo 76",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7372592596106248375,
+    "filename": "Kenya Gazette Vol CXIINo 76.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 768.5822000000001,
+            "r": 215.31400800000006,
+            "b": 746.28452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "SPECIAL ISSUE",
+      "text": "SPECIAL ISSUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 310.6666666666667,
+            "t": 621.6666666666666,
+            "r": 316.3333333333333,
+            "b": 617.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 259.3333333333333,
+            "t": 616.0,
+            "r": 269.0,
+            "b": 614.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "H",
+      "text": "H"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.4,
+            "t": 605.7563,
+            "r": 505.42679999999996,
+            "b": 565.9043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE KENYA GAZETTE",
+      "text": "THE KENYA GAZETTE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.7,
+            "t": 560.06348,
+            "r": 414.9610380000001,
+            "b": 547.90862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Published by Authority of the Republic of Kenya",
+      "text": "Published by Authority of the Republic of Kenya",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.8,
+            "t": 541.7304800000001,
+            "r": 367.0352519999997,
+            "b": 532.8966200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(Registered as a Newspaper at the G.P.O.)",
+      "text": "(Registered as a Newspaper at the G.P.O.)"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.30879999999996,
+            "t": 517.9522999999999,
+            "r": 373.6188000000003,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "NAIROBI, 3rd August, 2010",
+      "text": "NAIROBI, 3rd August, 2010",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 517.9522999999999,
+            "r": 155.78879999999995,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Vol. CXII-No. 76",
+      "text": "Vol. CXII-No. 76"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.48,
+            "t": 486.59048,
+            "r": 148.09629600000008,
+            "b": 477.75662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 9103",
+      "text": "GAZETTE NOTICE NO. 9103"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 471.59047400000003,
+            "r": 232.6300320000001,
+            "b": 462.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.76025800000001,
+            "t": 456.59046800000004,
+            "r": 264.0560700000002,
+            "b": 438.75676400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT",
+      "text": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.100822,
+            "t": 432.59061800000006,
+            "r": 186.735456,
+            "b": 423.75675800000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "(Cap. 7 )",
+      "text": "(Cap. 7 )"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.64071999999999,
+            "t": 417.5906120000001,
+            "r": 258.21311400000013,
+            "b": 408.75675200000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA REVIEW ACT",
+      "text": "THE CONSTITUTION OF KENYA REVIEW ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.000642,
+            "t": 402.5906060000001,
+            "r": 197.895486,
+            "b": 393.7567460000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 9 of 2008 )",
+      "text": "(No. 9 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.92075600000001,
+            "t": 387.5906000000001,
+            "r": 279.9665940000003,
+            "b": 369.7568960000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010",
+      "text": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.26081000000002,
+            "t": 363.5907500000001,
+            "r": 280.19760000000014,
+            "b": 345.75662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "APPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM",
+      "text": "APPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.53991599999999,
+            "t": 339.59048,
+            "r": 242.29500000000002,
+            "b": 330.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "POLLING STATIONS FOR THE REFERENDUM",
+      "text": "POLLING STATIONS FOR THE REFERENDUM"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.820186,
+            "t": 324.59048000000007,
+            "r": 246.01500000000001,
+            "b": 315.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "REMUNERATION OF REFERENDUM OFFICIALS",
+      "text": "REMUNERATION OF REFERENDUM OFFICIALS"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.919916,
+            "t": 309.5904740000001,
+            "r": 270.59527199999985,
+            "b": 282.75662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "DECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION",
+      "text": "DECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.759742,
+            "t": 276.5904740000001,
+            "r": 192.07720200000017,
+            "b": 267.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Corrigenda",
+      "text": "Corrigenda"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.47934,
+            "t": 261.590468,
+            "r": 287.45017200000024,
+            "b": 234.75692000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "IN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.",
+      "text": "IN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.47886600000001,
+            "t": 228.590774,
+            "r": 162.1713540000002,
+            "b": 219.75691400000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Dated the 3rd August, 2010.",
+      "text": "Dated the 3rd August, 2010."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.51880000000034,
+            "t": 517.9522999999999,
+            "r": 537.5016000000002,
+            "b": 504.6683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Price Sh. 50",
+      "text": "Price Sh. 50"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 338.57889600000004,
+            "t": 486.59093,
+            "r": 510.15128999999894,
+            "b": 477.75707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA REVIEW ACT",
+      "text": "THE CONSTITUTION OF KENYA REVIEW ACT"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 398.938818,
+            "t": 471.59092400000003,
+            "r": 449.833662,
+            "b": 462.757064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 9 of 2008 )",
+      "text": "(No. 9 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.85893200000004,
+            "t": 456.59091800000004,
+            "r": 531.9039719999998,
+            "b": 438.75721400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010",
+      "text": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 361.199004,
+            "t": 432.59106800000006,
+            "r": 487.515,
+            "b": 423.75662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "POLLING STATIONS FOR REFERENDUM",
+      "text": "POLLING STATIONS FOR REFERENDUM"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.700156,
+            "t": 417.59047400000003,
+            "r": 444.0176160000001,
+            "b": 408.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Corrigenda",
+      "text": "Corrigenda",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.420552,
+            "t": 402.59046800000004,
+            "r": 539.3546760000003,
+            "b": 384.75676400000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "IN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:",
+      "text": "IN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.420552,
+            "t": 378.59061800000006,
+            "r": 344.97225000000014,
+            "b": 369.75675800000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Page 2596",
+      "text": "Page 2596"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.420552,
+            "t": 363.5906120000001,
+            "r": 394.3253580000001,
+            "b": 354.75675200000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 038",
+      "text": "Polling Station Code: 038"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.42087599999996,
+            "t": 348.5906060000001,
+            "r": 521.8601220000002,
+            "b": 339.7567460000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Delete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH",
+      "text": "Delete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42055199999993,
+            "t": 333.5906000000001,
+            "r": 394.32535800000005,
+            "b": 324.75674000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 068",
+      "text": "Polling Station Code: 068"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 318.5905940000001,
+            "r": 537.2982299999996,
+            "b": 300.7568900000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Delete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI",
+      "text": "Delete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 294.5907440000001,
+            "r": 394.32615599999997,
+            "b": 285.7568840000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 089",
+      "text": "Polling Station Code: 089"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.4216739999998,
+            "t": 279.5907380000001,
+            "r": 523.5638519999994,
+            "b": 270.75687800000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Delete GACUA PRIMARY and insert GACHUA PRIMARY",
+      "text": "Delete GACUA PRIMARY and insert GACHUA PRIMARY"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 264.5907320000001,
+            "r": 394.32615599999997,
+            "b": 255.75687200000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 092",
+      "text": "Polling Station Code: 092"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 249.59072600000013,
+            "r": 539.3546759999999,
+            "b": 231.75702200000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Delete KITHWENE PRIMARY and insert KITHUENE PRIMARY",
+      "text": "Delete KITHWENE PRIMARY and insert KITHUENE PRIMARY"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 225.5908760000002,
+            "r": 394.32615599999997,
+            "b": 216.75701600000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 097",
+      "text": "Polling Station Code: 097"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.4216739999998,
+            "t": 210.5908700000001,
+            "r": 515.1162239999995,
+            "b": 201.75701000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Delete SIRIMON CENTRE and insert SIRMON CENTRE",
+      "text": "Delete SIRIMON CENTRE and insert SIRMON CENTRE"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 195.59086400000012,
+            "r": 344.973048,
+            "b": 186.75700400000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Page 2597",
+      "text": "Page 2597"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 180.59085800000014,
+            "r": 394.32615599999997,
+            "b": 171.75699800000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 150",
+      "text": "Polling Station Code: 150"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 165.59085200000004,
+            "r": 539.3435039999997,
+            "b": 147.75714800000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Delete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY",
+      "text": "Delete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.42134999999985,
+            "t": 141.59100200000012,
+            "r": 394.32615599999997,
+            "b": 132.75714200000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Polling Station Code: 158",
+      "text": "Polling Station Code: 158"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.4216739999998,
+            "t": 126.59099600000013,
+            "r": 535.3702619999998,
+            "b": 117.75713600000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Delete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH",
+      "text": "Delete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.4208759999998,
+            "t": 111.59099000000003,
+            "r": 415.4125079999994,
+            "b": 102.75713000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Dated the 2nd August, 2010.",
+      "text": "Dated the 2nd August, 2010."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 216.95884200000003,
+            "t": 213.59076800000003,
+            "r": 269.390634,
+            "b": 204.75690799999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "A. I. HASSAN,",
+      "text": "A. I. HASSAN,"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 250.97917800000005,
+            "t": 204.59092399999997,
+            "r": 287.4270300000003,
+            "b": 195.757064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Chairman,",
+      "text": "Chairman,"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.95929200000003,
+            "t": 195.59108000000003,
+            "r": 287.418252,
+            "b": 186.75721999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Interim Independent Electoral Commission.",
+      "text": "Interim Independent Electoral Commission."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.47934000000002,
+            "t": 159.59090600000002,
+            "r": 148.09629600000008,
+            "b": 150.75662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 9104",
+      "text": "GAZETTE NOTICE NO. 9104"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 144.59047399999997,
+            "r": 232.6300320000001,
+            "b": 135.756614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 58.01965200000001,
+            "t": 129.590468,
+            "r": 286.8684960000002,
+            "b": 111.75676399999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT",
+      "text": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.09922600000002,
+            "t": 105.59061799999995,
+            "r": 186.73386000000002,
+            "b": 96.75675799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "(Cap. 7 )",
+      "text": "(Cap. 7 )"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.77929800000001,
+            "t": 90.59061199999996,
+            "r": 278.0426160000003,
+            "b": 72.75690799999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS",
+      "text": "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 474.9608639999998,
+            "t": 96.59098400000005,
+            "r": 527.3926559999995,
+            "b": 87.75712400000009,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "A. I. HASSAN,",
+      "text": "A. I. HASSAN,"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 502.9211879999998,
+            "t": 87.59114000000011,
+            "r": 539.36904,
+            "b": 78.75728000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Chairman,",
+      "text": "Chairman,"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 396.90130199999976,
+            "t": 78.59129600000006,
+            "r": 539.3602619999998,
+            "b": 69.7574360000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Interim Independent Electoral Commission.",
+      "text": "Interim Independent Electoral Commission."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 511.3799,
+            "t": 58.463480000000004,
+            "r": 539.8038259999998,
+            "b": 46.30862000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "[2923",
+      "text": "[2923"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.28,
+            "t": 805.86812,
+            "r": 93.82499999999999,
+            "b": 794.77598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2924",
+      "text": "2924"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.27985,
+            "t": 805.74812,
+            "r": 352.14615600000025,
+            "b": 794.65598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE KENYA GAZETTE",
+      "text": "THE KENYA GAZETTE"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 455.66077200000024,
+            "t": 805.74812,
+            "r": 527.9951520000002,
+            "b": 794.65598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "3rd August, 2010",
+      "text": "3rd August, 2010"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.48,
+            "t": 781.91048,
+            "r": 148.09629600000008,
+            "b": 773.07662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "GAZETTE NOTICE NO. 9105",
+      "text": "GAZETTE NOTICE NO. 9105"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 112.19986200000001,
+            "t": 766.910474,
+            "r": 232.6300320000001,
+            "b": 758.0766140000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA",
+      "text": "THE CONSTITUTION OF KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.01965200000001,
+            "t": 751.910468,
+            "r": 286.8684960000002,
+            "b": 734.076764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT",
+      "text": "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 158.09922600000002,
+            "t": 727.910618,
+            "r": 186.73386000000002,
+            "b": 719.076758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "(Cap. 7 )",
+      "text": "(Cap. 7 )",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.77929800000001,
+            "t": 712.910612,
+            "r": 278.0426160000003,
+            "b": 695.076908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS",
+      "text": "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.63912400000001,
+            "t": 688.910762,
+            "r": 258.2115180000002,
+            "b": 680.076902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA REVIEW ACT",
+      "text": "THE CONSTITUTION OF KENYA REVIEW ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.99904600000002,
+            "t": 673.910756,
+            "r": 197.89389000000003,
+            "b": 665.076896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 9 of 2008 )",
+      "text": "(No. 9 of 2008 )"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.91916000000003,
+            "t": 658.91075,
+            "r": 279.9649980000003,
+            "b": 641.077046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010",
+      "text": "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 119.15922000000002,
+            "t": 634.9109,
+            "r": 225.735,
+            "b": 626.07662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "TRANSFER OF POLLING STATION",
+      "text": "TRANSFER OF POLLING STATION"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.48069000000001,
+            "t": 619.910474,
+            "r": 287.4475319999997,
+            "b": 602.07677,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of",
+      "text": "IN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.42046200000004,
+            "t": 781.910858,
+            "r": 539.4064560000004,
+            "b": 728.0777779999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "Electors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .",
+      "text": "Electors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy ."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.42158400000005,
+            "t": 721.9116319999997,
+            "r": 518.0551679999996,
+            "b": 713.0777719999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "AND THAT the reason(s) for the transfer is (are) as follows:",
+      "text": "AND THAT the reason(s) for the transfer is (are) as follows:"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.4212600000001,
+            "t": 706.9116259999997,
+            "r": 539.3697479999998,
+            "b": 680.0780779999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "Mukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.",
+      "text": "Mukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.4215840000001,
+            "t": 667.9117699999996,
+            "r": 415.4132159999997,
+            "b": 659.0779099999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Dated the 2nd August, 2010.",
+      "text": "Dated the 2nd August, 2010."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 474.96157200000016,
+            "t": 646.9116019999996,
+            "r": 527.3933639999999,
+            "b": 638.0777419999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "A. I. HASSAN,",
+      "text": "A. I. HASSAN,",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 502.9218960000002,
+            "t": 637.9117579999995,
+            "r": 539.3697480000004,
+            "b": 629.0778979999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Chairman,",
+      "text": "Chairman,"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 396.90201000000013,
+            "t": 628.9119139999995,
+            "r": 539.3609700000002,
+            "b": 620.0780539999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Interim Independent Electoral Commission.",
+      "text": "Interim Independent Electoral Commission."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.46,
+            "t": 70.35397999999998,
+            "r": 403.37205599999993,
+            "b": 63.180619999999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI",
+      "text": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.57498168945312,
+            "t": 751.9877319335938,
+            "r": 373.6717834472656,
+            "b": 608.1271362304688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    }
+  }
+}
