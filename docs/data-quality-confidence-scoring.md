@@ -10,7 +10,7 @@ The gazette extraction pipeline performs several transformations:
 
 1. **Docling extraction** -- Converts PDF to structured JSON with text, tables, and bounding boxes
 2. **Spatial reordering** -- Fixes two-column reading order using bbox coordinates
-3. **Notice splitting** -- Splits text by `GAZETTE NOTICE NO.` pattern into individual notices
+3. **Notice splitting** -- Splits text by strict full-line, all-caps `GAZETTE NOTICE NO.` headers into individual notices, with title/body segmentation and running-header stripping
 
 Each step can introduce errors. Currently, quality issues are caught through manual human review of output JSON and markdown files. This document proposes automated confidence scores based on observable signal patterns in the data.
 
@@ -63,6 +63,8 @@ Each step can introduce errors. Currently, quality issues are caught through man
 **Signals for HIGH confidence (0.8-1.0):**
 - Notice length is reasonable (200-20,000 characters typical for most notices)
 - Contains multiple lines (>5 lines after header)
+- Has non-empty `title_lines` (act name, chapter reference, subtitle extracted)
+- Has `body_segments` with mixed `text` and `table` types (well-structured content)
 - Contains expected Kenya gazette structural markers:
   - Date patterns (`Dated the 3rd August, 2010`)
   - Authority phrases (`IN EXERCISE of powers`, `IT IS NOTIFIED`)
@@ -78,7 +80,8 @@ Each step can introduce errors. Currently, quality issues are caught through man
 **Signals for LOW confidence (0.0-0.3):**
 - Very short (<50 characters) -- likely truncated or false positive
 - Very long (>100,000 characters) -- likely multiple notices merged
-- Only contains header line (lines_after_header < 3)
+- Only contains header line (`lines_in_body` < 3)
+- Empty `title_lines` and no `body_segments` detected
 - No structural markers detected
 - Missing expected legal formatting
 
@@ -162,9 +165,9 @@ Next: "A. I. HASSAN,"
 **Purpose:** Assess whether notice start and end boundaries were correctly identified.
 
 **Signals for HIGH confidence (0.8-1.0):**
-- Notice starts with proper "GAZETTE NOTICE NO." pattern (case-insensitive)
+- Notice starts with strict all-caps `GAZETTE NOTICE NO. <digits>` header (full-line match)
 - Notice ends with complete sentence (punctuation present)
-- Small or zero gap to next notice (char_span_end close to next char_span_start)
+- Small or zero line gap to next notice (`char_span_end_line` close to next `char_span_start_line`)
 - Reasonable span size relative to content
 
 **Signals for MEDIUM confidence (0.4-0.7):**
@@ -245,25 +248,30 @@ Modify `split_gazette_notices()` function in the notebook to calculate and inclu
 
 ```python
 def split_gazette_notices(full_text: str) -> list[dict[str, Any]]:
-    # ... existing splitting logic ...
+    # ... existing splitting logic (strict all-caps header regex) ...
     
-    for i, m in enumerate(matches):
-        # ... existing extraction ...
+    for bi, (start_idx, num) in enumerate(boundaries):
+        # ... existing extraction with title/body segmentation ...
         
-        # Calculate confidence scores
-        notice_no_conf = score_notice_number_confidence(raw_no)
-        structure_conf = score_structural_confidence(block, lines_after_header)
-        spatial_conf = score_spatial_confidence(block)
-        boundary_conf = score_boundary_confidence(block, first_line, ...)
+        # Calculate confidence scores using new structured fields
+        notice_no_conf = score_notice_number_confidence(num)
+        structure_conf = score_structural_confidence(
+            title_lines, body_segments, derived_table
+        )
+        spatial_conf = score_spatial_confidence(body_text)
+        boundary_conf = score_boundary_confidence(header_line, body_text, ...)
         
         composite_conf = calculate_composite_confidence(
             notice_no_conf, structure_conf, spatial_conf, boundary_conf
         )
         
         notices.append({
-            "gazette_notice_no": raw_no,
-            "gazette_notice_header": header_candidate,
-            "gazette_notice_full_text": block,
+            "gazette_notice_no": num,
+            "gazette_notice_header": header_line,
+            "title_lines": title_lines,
+            "gazette_notice_full_text": body_text,
+            "body_segments": segments,
+            "derived_table": derived,  # optional
             "confidence_scores": {
                 "notice_number": notice_no_conf,
                 "structure": structure_conf,
@@ -338,7 +346,7 @@ To validate confidence scores correlate with actual errors:
 
 ## Known Limitations
 
-1. **Corrigenda notices:** These reference other notices and don't follow standard structure. Need special handling or lower confidence threshold.
+1. **~~Corrigenda notices~~** *(Addressed)* Corrigenda are now extracted separately into a `corrigenda` array with structured fields (`referenced_notice_no`, `referenced_year`, `error_text`, `correction_text`). They no longer pollute the `gazette_notices` array.
 
 2. **Multi-page notices:** Boundary confidence may be artificially low for notices that legitimately span pages and end mid-sentence.
 
@@ -346,7 +354,7 @@ To validate confidence scores correlate with actual errors:
 
 4. **Pre-2010 gazettes:** Older PDFs (different formatting, OCR quality) may need adjusted scoring parameters. See `output/Kenya Gazette Vol CIINo 83 - pre 2010/` for examples.
 
-5. **False positives on "GAZETTE NOTICE":** Pattern matches references to other notices within notice text (e.g., "Gazette Notice No. 8756 of 2010, amend..."). Need context-aware boundary detection.
+5. **~~False positives on "GAZETTE NOTICE"~~** *(Addressed)* The strict full-line, all-caps header regex now rejects inline references like "IN Gazette Notice No. 8756 of 2010, amend..." which are mixed-case and mid-sentence. Only standalone headers trigger notice splits.
 
 ---
 
@@ -357,7 +365,7 @@ To validate confidence scores correlate with actual errors:
 - [ ] Run on sample of existing output (10-20 PDFs)
 - [ ] Perform manual validation on confidence score accuracy
 - [ ] Tune weights and thresholds based on validation findings
-- [ ] Document special cases (corrigenda, tables, multi-page)
+- [x] ~~Document special cases (corrigenda, tables, multi-page)~~ — Corrigenda false positives addressed via strict header regex; table recovery added via `derived_table`
 - [ ] Integrate into production pipeline
 - [ ] Create review workflow for low-confidence notices
 

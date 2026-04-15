@@ -186,6 +186,44 @@ character offsets.
 
 ---
 
+## Change 7: Corrigenda extraction as separate entries
+
+**Date:** 2026-04-14
+
+**Problem:**  
+Corrigenda (correction notices) appear in the preamble section before numbered notices.
+They reference other notice numbers with corrections like "IN Gazette Notice No. 14152
+of 2025, amend the expression printed as 'X' to read 'Y'". These were not captured
+as structured data.
+
+**Solution:**  
+Added `extract_corrigenda()` function (cell 4) that:
+1. Finds the CORRIGENDA section in the preamble (before first `GAZETTE NOTICE NO.`)
+2. Parses each corrigendum statement
+3. Extracts: referenced notice number, year, what was corrected, error text, correction text
+
+**Output schema:** New `corrigenda` array in the JSON output:
+
+```json
+{
+  "corrigenda": [
+    {
+      "referenced_notice_no": "14152",
+      "referenced_year": "2025",
+      "what_corrected": "the expression",
+      "error_text": "E378 of 2024",
+      "correction_text": "E378 of 2025",
+      "raw_text": "IN Gazette Notice No. 14152 of 2025, amend the expression printed as \"E378 of 2024\" to read \"E378 of 2025\""
+    }
+  ],
+  "gazette_notices": [ ... ]
+}
+```
+
+**Files changed:** `gazette_docling_pipeline_spatial.ipynb` cells 3, 4, 8, 10
+
+---
+
 ## Summary of tunable constants
 
 ### Spatial reorder (cell 6)
@@ -204,3 +242,5 @@ character offsets.
 | `NOTICE_HEAD_RE` | Full-line, all-caps regex with `GAZETE` OCR variant |
 | `RUNNING_HEADER_RES` | List of patterns stripped from notice bodies (page numbers, running headers, dates) |
 | `BODY_START_RE` | Patterns that mark the end of title lines and start of statutory body |
+| `CORRIGENDUM_RE` | Matches "Gazette Notice No. XXXX of YYYY" references in corrigenda |
+| `AMEND_PATTERN_RE` | Extracts error/correction text from "amend ... printed as 'X' to read 'Y'" |
