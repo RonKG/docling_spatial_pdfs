@@ -156,9 +156,39 @@ This handles both "GAZETTE NOTICE NO." and "GAZETTE NOTICE. NO." variants.
 
 ---
 
+## Change 6: Notice parser rewrite — stricter splitting, structured output
+
+**Date:** 2026-04-14  
+**Source:** `analysis/analysis-01/` (manual PDF-to-text parsing of Vol. CXXVII No. 266)
+
+**Problem:**  
+The `NOTICE_PATTERN` regex was case-insensitive and matched mid-sentence references
+like "IN Gazette Notice No. 14152 of 2025, amend…" as notice boundaries. In the
+Vol. 266 analysis, 179 raw hits existed but only 176 were real headers — the old
+regex would produce 3 false-positive splits. Additionally, each notice was stored
+as flat text with no structure beyond `gazette_notice_no` / `gazette_notice_header`
+/ `gazette_notice_full_text`.
+
+**Changes (all in cell 4):**
+
+| What | Before | After |
+|------|--------|-------|
+| Header regex | `(?is)\bGAZETTE\s+NOTICE\.?\s+NO\.?…` (case-insensitive, word-boundary) | `^(?:GAZETTE\|GAZETE)\s+NOTICE\.?\s+NO\.?\s*(\d+)\s*$` (full-line, all-caps, OCR-typo tolerant) |
+| Title extraction | None | `_extract_title_stack()` — separates heading lines (act name, chapter, subtitle) from statutory body using `BODY_START_RE` |
+| Body segmentation | None | `_segment_body_lines()` — splits body into typed `text` / `table` / `blank` blocks via multi-space column heuristic |
+| Running headers | Not stripped | `_strip_running_headers()` — removes page furniture (page numbers, "THE KENYA GAZETTE", date lines) |
+| Table recovery | None | `_try_parse_s_no_table()` — recovers S/No–Name–Position tables when PDF text splits columns into separate lines |
+
+**Output schema change:** each notice now includes `title_lines`, `body_segments`,
+and optional `derived_table` alongside the existing fields. `other_attributes` uses
+line-based spans (`char_span_start_line` / `char_span_end_line`) instead of
+character offsets.
+
+---
+
 ## Summary of tunable constants
 
-All defined in cell 6 of `gazette_docling_pipeline_spatial.ipynb`:
+### Spatial reorder (cell 6)
 
 | Constant | Value | Purpose |
 |---|---|---|
@@ -166,3 +196,11 @@ All defined in cell 6 of `gazette_docling_pipeline_spatial.ipynb`:
 | `_FW_TRANSITION_TOLERANCE` | 50.0 | Points above the first centered anchor to extend the full-width zone boundary |
 | Centered detection: `abs(center_x - mid_x) < 80` | 80pt | Max horizontal offset from page center for an element to be considered centered |
 | Centered detection: `width < text_area_width * 0.45` | 45% | Max width for a centered element (wider = full-width spanning) |
+
+### Notice parsing (cell 4)
+
+| Constant | Purpose |
+|---|---|
+| `NOTICE_HEAD_RE` | Full-line, all-caps regex with `GAZETE` OCR variant |
+| `RUNNING_HEADER_RES` | List of patterns stripped from notice bodies (page numbers, running headers, dates) |
+| `BODY_START_RE` | Patterns that mark the end of title lines and start of statutory body |

@@ -51,8 +51,7 @@ IN  Gazette  Notice  No.  13241  of  2009, amend the  expression printed  as  'K
 
 IN Gazette Notice No. 6520 of 2009, amend the petitioner's name printed as 'Ester Samuel Kibariki' to read 'Father Samuel Kibariki'.
 
-GAZETTE NOTICE NO. 13812
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13812</span>
 THE RATING ACT
 
 ( Cap. 267)
@@ -73,8 +72,7 @@ MUSALIA MUDAVADI, Deputy Prime Minister and
 
 Minister for Local Government.
 
-GAZETTE NOTICE NO. 13813
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13813</span>
 THE RATING ACT
 
 ( Cap. 267)
@@ -89,8 +87,7 @@ Dated the 9th December, 2009.
 
 MUSALIA MUDAVADI, Deputy Prime Minister and Minister for Local Government.
 
-GAZETTE NOTICE NO. 13814
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13814</span>
 THE VALUATION FOR RATING ACT ( Cap. 266)
 
 THE MUNICIPAL COUNCIL OF KABARNET
@@ -107,8 +104,7 @@ MUSALIA MUDAVADI,
 
 Deputy Prime Minister and Minister for Local Government.
 
-GAZETTE NOTICE NO. 13815
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13815</span>
 THE VALUATION FOR RATING ACT ( Cap. 266)
 
 THE MUNICIPAL COUNCIL OF KABARNET
@@ -123,8 +119,7 @@ MUSALIA MUDAVADI,
 
 Deputy Prime Minister and Minister for Local Government.
 
-GAZETTE NOTICE NO. 13816
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13816</span>
 THE GEOLOGISTS REGISTRATION ACT ( No. 10 of 1993)
 
 APPOINTMENT
@@ -141,8 +136,7 @@ J. N. MICHUKI,
 
 Minister for Environment and Mineral Resources.
 
-GAZETTE NOTICE NO. 13817
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13817</span>
 THE GEOLOGISTS REGISTRATION ACT ( No. 10 of 1993)
 
 APPOINTMENT
@@ -159,8 +153,7 @@ J. N. MICHUKI,
 
 Minister for Environment and Mineral Resources.
 
-GAZETTE NOTICE NO. 13818
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13818</span>
 THE LABOUR RELATIONS ACT
 
 ( No. 14 of 2007)
@@ -191,8 +184,7 @@ Dated the 18th November, 2009.
 
 JOHN MUNYES, Minister for Labour.
 
-GAZETTE NOTICE NO. 13819
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13819</span>
 THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
 
 ISSUE OF A PROVISIONAL CERTIFICATE
@@ -203,8 +195,7 @@ Dated the 24th December 2009.
 
 R. M. INGONGA, Registrar of Titles, Mombasa.
 
-GAZETTE NOTICE NO. 13820
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13820</span>
 THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
 
 ISSUE OF A PROVISIONAL CERTIFICATE
@@ -215,8 +206,7 @@ Dated the 24th December 2009.
 
 R. M. INGONGA, Registrar of Titles, Mombasa.
 
-GAZETTE NOTICE NO. 13821
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13821</span>
 THE REGISTRATION OF TITLES ACT ( Cap. 281)
 
 REGISTRATION OF INSTRUMENT
@@ -229,8 +219,7 @@ Dated the 24th December, 2009.
 
 C. N. KITUYI, Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 13822
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13822</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW CERTIFICATE OF LEASE
@@ -241,8 +230,7 @@ Dated the 24th December, 2009.
 
 R. N. MULE, Land Registrar, Nairobi
 
-GAZETTE NOTICE NO. 13823
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13823</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -253,8 +241,7 @@ Dated the 24th December, 2009.
 
 R. N. MULE, Land Registrar, Nairobi
 
-GAZETTE NOTICE NO. 13824
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13824</span>
 THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
@@ -267,8 +254,7 @@ Dated the 24th December, 2009.
 
 R. W. NGAANYI, Land Registrar, Kisumu East/Kisumu West/Nyando Districts.
 
-GAZETTE NOTICE NO. 13825
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13825</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -281,8 +267,7 @@ M. SUNGU,
 
 Land Registrar, Nakuru District.
 
-GAZETTE NOTICE NO. 13826
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13826</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -295,8 +280,7 @@ G. O. NYANGWESO, Land Registrar,
 
 Nakuru District.
 
-GAZETTE NOTICE NO. 13827
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13827</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -307,8 +291,7 @@ Dated the 24th December, 2009.
 
 D. K. NYANTIKA, Land Registrar, Nakuru District.
 
-GAZETTE NOTICE NO. 13828
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13828</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -319,8 +302,7 @@ Dated the 24th December, 2009.
 
 T. M. CHEPKWESI, Land Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 13829
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13829</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -331,8 +313,7 @@ Dated the 24th December, 2009.
 
 T. M. CHEPKWESI, Land Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 13830
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13830</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -343,8 +324,7 @@ Dated the 24th December, 2009.
 
 B. W. MWAI, Land Registrar, Nyeri District.
 
-GAZETTE NOTICE NO. 13831
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13831</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -355,8 +335,7 @@ Dated the 24th December, 2009.
 
 B. W. MWAI, Land Registrar, Nyeri District.
 
-GAZETTE NOTICE NO. 13832
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13832</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -367,8 +346,7 @@ Dated the 24th December, 2009.
 
 G. W. MUMO, Land Registrar, Kiambu District.
 
-GAZETTE NOTICE NO. 13833
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13833</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -379,8 +357,7 @@ Dated the 24th December, 2009.
 
 J. K. NDIRANGU, Land Registrar, Kiambu District.
 
-GAZETTE NOTICE NO. 13834
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13834</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -393,8 +370,7 @@ J. K. NDIRANGU,
 
 Land Registrar, Kiambu District.
 
-GAZETTE NOTICE NO. 13835
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13835</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -405,8 +381,7 @@ Dated the 24th December, 2009.
 
 J. K. NDIRANGU, Land Registrar, Kiambu District.
 
-GAZETTE NOTICE NO. 13836
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13836</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -417,8 +392,7 @@ Dated the 24th December, 2009.
 
 G. W. MUMO, Land Registrar, Kiambu District.
 
-GAZETTE NOTICE NO. 13837
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13837</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -429,8 +403,7 @@ Dated the 24th December, 2009.
 
 P. M. MENGI, Land Registrar, Narok North/South Districts.
 
-GAZETTE NOTICE NO. 13838
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13838</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -441,8 +414,7 @@ Dated the 24th December, 2009.
 
 P. M. MENGI, Land Registrar, Narok North/South Districts.
 
-GAZETTE NOTICE NO. 13839
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13839</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -453,8 +425,7 @@ Dated the 24th December, 2009.
 
 S. W. GITHINJI, Land Registrar, Murang'a District.
 
-GAZETTE NOTICE NO. 13840
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13840</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -465,8 +436,7 @@ Dated the 24th December, 2009.
 
 J. S. ONARY, Land Registrar, Kakamega District.
 
-GAZETTE NOTICE NO. 13841
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13841</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -477,8 +447,7 @@ Dated the 24th December, 2009.
 
 J. S. ONARY, Land Registrar, Kakamega District.
 
-GAZETTE NOTICE NO. 13842
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13842</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -489,8 +458,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13843
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13843</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -501,8 +469,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13844
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13844</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -513,8 +480,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13845
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13845</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -525,8 +491,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13846
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13846</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -537,8 +502,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13847
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13847</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -549,8 +513,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13848
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13848</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -561,8 +524,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13849
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13849</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -573,8 +535,7 @@ Dated the 24th December, 2009.
 
 S. W. MUCHEMI, Land Registrar, Nyandarua/Samburu Districts.
 
-GAZETTE NOTICE NO. 13850
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13850</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -587,8 +548,7 @@ C. W. NJAGI,
 
 Land Registrar, Kirinyaga District.
 
-GAZETTE NOTICE NO. 13851
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13851</span>
 THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
@@ -603,8 +563,7 @@ C. W. NJAGI,
 
 Land Registrar, Kirinyaga District.
 
-GAZETTE NOTICE NO. 13852
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13852</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -617,8 +576,7 @@ C. W. NJAGI,
 
 Land Registrar, Kirinyaga District.
 
-GAZETTE NOTICE NO. 13853
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13853</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -631,8 +589,7 @@ C. W. NJAGI,
 
 Land Registrar, Kirinyaga District.
 
-GAZETTE NOTICE NO. 13854
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13854</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -645,8 +602,7 @@ M. W. KARIUKI,
 
 Land Registrar, Embu District.
 
-GAZETTE NOTICE NO. 13855
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13855</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -657,8 +613,7 @@ Dated the 24th December, 2009.
 
 D. O. DULO, Land Registrar, Bondo District.
 
-GAZETTE NOTICE NO. 13856
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13856</span>
 THE REGISTERED LAND ACT ( Cap. 300, section 16)
 
 OPENING OF A NEW REGISTER
@@ -669,8 +624,7 @@ Dated the 24th December, 2009.
 
 W. N. NYABERI, Land Registrar, Kajiado District.
 
-GAZETTE NOTICE NO. 13857
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13857</span>
 THE REGISTERED LAND ACT
 
 ( Cap. 300, section 16)
@@ -685,8 +639,7 @@ Dated the 24th December, 2009.
 
 S. W. GITHINJI, Land Registrar, Murang'a District.
 
-GAZETTE NOTICE NO. 13858
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13858</span>
 THE REGISTERED LAND ACT ( Cap . 300, section 33)
 
 REGISTRATION OF INSTRUMENT
@@ -697,8 +650,7 @@ Dated the 24th December, 2009.
 
 J. M. MUNGUTI, Land Registrar, Embu District.
 
-GAZETTE NOTICE NO. 13859
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13859</span>
 CUSTOMS SERVICES DEPARTMENT
 
 GOODS TO BE SOLD AT CUSTOMS WAREHOUSE, KILINDINI
@@ -817,8 +769,7 @@ Lot Number | Ship's Name and date | Marks and Numbers | Consignee's Name and add
 1793/09 | Unknown | Loose Cargo | Unknown | Customs Warehouse: 6 Pcs IPE Section
 1794/09 | Unknown | Loose Cargo | Unknown | Customs Warehouse:1 Beam
 
-GAZETTE NOTICE NO. 13860
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13860</span>
 PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that after thirty (30) days from the date of this Gazette, and unless cause be shown to the contrary, I intend to apply to the High Court  at  Nairobi  for  representation  of  the  estates  of  the  persons  named  in  the  second  column  of  the  schedule  hereto,  who  died  on  the  dates respectively set forth against their names.
@@ -848,8 +799,7 @@ Nairobi,
 
 4th November, 2009.
 
-GAZETTE NOTICE NO. 13861
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13861</span>
 IN THE HIGH COURT OF KENYA AT NAIROBI
 
 PROBATE AND ADMINISTRATION
@@ -896,8 +846,7 @@ R. OUGO,
 
 Principal Deputy Registrar, Nairobi.
 
-GAZETTE NOTICE NO. 13862
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13862</span>
 IN THE HIGH COURT OF KENYA AT MACHAKOS
 
 PROBATE AND ADMINISTRATION
@@ -946,8 +895,7 @@ Dated the 9th December, 2009.
 
 S. GACHERU, Deputy Registrar, Machakos.
 
-GAZETTE NOTICE NO. 13863
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13863</span>
 IN THE HIGH COURT OF KENYA AT MACHAKOS PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
@@ -978,8 +926,7 @@ Dated the  20th November, 2009.
 
 E. G. NDERITU, Deputy Registrar, Machakos.
 
-GAZETTE NOTICE NO. 13864
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13864</span>
 IN THE HIGH COURT OF KENYA AT ELDORET PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that an application having been made in this court
@@ -996,8 +943,7 @@ Dated the 21st October, 2009.
 
 I. MAISIBA, Deputy Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 13865
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13865</span>
 IN THE HIGH COURT OF KENYA AT ELDORET PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that an application having been made in this court in:
@@ -1012,8 +958,7 @@ Dated the 4th December, 2009.
 
 G. A. M'MASI, Deputy Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 13866
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13866</span>
 IN THE HIGH COURT OF KENYA AT MERU PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that an application having been made in this court in:
@@ -1028,8 +973,7 @@ Dated the 17th November, 2009.
 
 A. K. MWICIGI, Deputy Registrar, Meru.
 
-GAZETTE NOTICE NO. 13867
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13867</span>
 IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF BONIFACE MUKANGU CHOKERA OF BARSHEBA PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 58 OF 2009
@@ -1044,8 +988,7 @@ Dated the 26th  October, 2009.
 
 R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
-GAZETTE NOTICE NO. 13868
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13868</span>
 IN THE HIGH COURT OF KENYA AT MOMBASA
 
 IN THE MATTER OF THE ESTATE OF CHARLES HALWENGE OTIENO OF NYALI PROBATE AND ADMINISTRATION
@@ -1062,8 +1005,7 @@ Dated the 7th December, 2009.
 
 R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
-GAZETTE NOTICE NO. 13869
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13869</span>
 IN THE HIGH COURT OF KENYA AT MOMBASA
 
 IN THE MATTER OF THE ESTATE OF KEZIAH NJERI KAGENI OF SIMKUMBE
@@ -1082,8 +1024,7 @@ Dated the 23rd  November, 2009.
 
 R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
-GAZETTE NOTICE NO. 13870
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13870</span>
 IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF FRANCESCO GHEZZI OF CARATE BRIANZA
 
 PROBATE AND ADMINISTRATION
@@ -1098,8 +1039,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
-GAZETTE NOTICE NO. 13871
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13871</span>
 IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF HENRY OGOYA OWUOR
 
 PROBATE AND ADMINISTRATION
@@ -1116,8 +1056,7 @@ Dated the 8th December, 2009.
 
 S. O. ATONGA, Deputy Registrar, Kisumu.
 
-GAZETTE NOTICE NO. 13872
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13872</span>
 IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF CHARLES ABUOK AKOTH
 
 PROBATE AND ADMINISTRATION
@@ -1136,8 +1075,7 @@ E. AWINO,
 
 Deputy Registrar, Kisumu.
 
-GAZETTE NOTICE NO. 13873
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13873</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF PETER MBAGARA KARITA OF LANET
@@ -1158,8 +1096,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13874
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13874</span>
 IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF NDUNGU GITHUNJI NYARENJA OF KIHOTO FARM, KABAZI PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 395 OF 2009
@@ -1176,8 +1113,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13875
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13875</span>
 IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF MARY NJOKI MURUTHI OF NAKA ESTATE PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 441 OF 2009
@@ -1194,8 +1130,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13876
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13876</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF JAMES KILURU MAINGI OF KABATINI
@@ -1214,8 +1149,7 @@ Dated the 22nd October, 2009.
 
 E. TANUI, Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13877
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13877</span>
 IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF PURITY CHEPKEMOI LANGAT
 
 PROBATE AND ADMINISTRATION
@@ -1232,8 +1166,7 @@ Dated the 26th October, 2009.
 
 E. TANUI, Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13878
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13878</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF JONAH BORO HESHIPON MUIGAI OF NYERI
@@ -1254,8 +1187,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13879
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13879</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF EUNICE CHEPKOSKEI BIWOTT OF SHABAB ESTATE
@@ -1274,8 +1206,7 @@ Dated the 9th November, 2009.
 
 E. TANUI, Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13880
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13880</span>
 IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF HIRABA VAJE SINGH JETHWA OF NAKURU MUNICIPALITY
 
 PROBATE AND ADMINISTRATION
@@ -1292,8 +1223,7 @@ Dated the 25th November, 2009.
 
 E. TANUI, Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13881
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13881</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF JOHN KIMARU KIURI OF KARIMA PROBATE AND ADMINISTRATION
@@ -1312,8 +1242,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13882
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13882</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF KAMONJO KARIBAHIA OF KIAMBU DISTRICT
@@ -1332,8 +1261,7 @@ Dated the 18th November, 2009.
 
 E. TANUI,
 
-GAZETTE NOTICE NO. 13883
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13883</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF DANIEL NJUGUNA MBUTE OF GATHANJI
@@ -1354,8 +1282,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13884
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13884</span>
 IN THE HIGH COURT OF KENYA AT NAKURU
 
 IN THE MATTER OF THE ESTATE OF PAUL IRUKU MUNGAI OF NJORO
@@ -1376,8 +1303,7 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
-GAZETTE NOTICE NO. 13885
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13885</span>
 IN THE HIGH COURT OF KENYA AT NYERI
 
 IN THE MATTER OF THE ESTATE OF TERESAH WAMUYU GICHURU ALIAS TERESAH WAMUYU W/O GACHUURU OF GITUNDUTI
@@ -1396,8 +1322,7 @@ Dated the 15th September, 2009.
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13886
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13886</span>
 IN THE HIGH COURT OF KENYA AT NYERI
 
 IN THE MATTER OF THE ESTATE OF MARY WAINUKU MURIUKI ALIAS MARY W. MURIUKI OF KABIRU-INI, NYERI
@@ -1414,8 +1339,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13887
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13887</span>
 IN THE HIGH COURT OF KENYA AT NYERI
 
 IN THE MATTER OF THE ESTATE OF BEATRICE NGIMA NDEGWA OF LABURA
@@ -1434,8 +1358,7 @@ Dated the 10th November, 2009.
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13888
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13888</span>
 IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF FRANCIS MWANGI KAMAU OF KIRIAINI, MURANG'A PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 807 OF 2009
@@ -1448,8 +1371,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13889
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13889</span>
 IN THE HIGH COURT OF KENYA AT NYERI
 
 IN THE MATTER OF THE ESTATE OF SAMUEL GOKO MWAURA OF NAIROBI
@@ -1466,8 +1388,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13890
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13890</span>
 IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF AYUB NDEGEA NGAMBI OF KIGOGOINI, NYERI PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 840  OF 2009
@@ -1480,8 +1401,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
-GAZETTE NOTICE NO. 13891
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13891</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF JORAM
 
 OLUOCH OBUNGA
@@ -1498,8 +1418,7 @@ Dated the 24th November, 2009.
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13892
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13892</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF FRANK AKENG'O PEKU ALIAS FRANG AKENGO ALIAS FRANG AKENG'O
 
 PROBATE AND ADMINISTRATION
@@ -1516,8 +1435,7 @@ Dated the 27th November, 2009.
 
 J. M. NDUNA, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13893
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13893</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF SHITANDA MWANJE
 
 PROBATE AND ADMINISTRATION
@@ -1536,8 +1454,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13894
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13894</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF SIMON AKHONYA ANYUNGU
 
 PROBATE AND ADMINISTRATION
@@ -1554,8 +1471,7 @@ Dated the 22nd October, 2009.
 
 P. N. ARERI, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13895
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13895</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF WILLIAM
 
 KWANUSU WERE
@@ -1576,8 +1492,7 @@ J. M. NDUNA,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13896
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13896</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF BUKHAYA GRACE ADEMA
@@ -1598,8 +1513,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13897
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13897</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF GODWIN AHINDUKHA SOLOMON ISUTSA
@@ -1620,8 +1534,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13898
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13898</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF WAFULA MAVONGA ALIAS WAFULA WAVOMBA
@@ -1642,8 +1555,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13899
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13899</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF JOSEPH SHESWA ALIAS SHESHA SUMBULE
@@ -1664,8 +1576,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13900
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13900</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF EMUKULU MORANGA OMONGINI ALIAS EMUKULU MORANGI OMONGINI
@@ -1684,8 +1595,7 @@ Dated the 24th November, 2009.
 
 P. O. OOKO, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13901
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13901</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF LIBONDO MUKOA ALIAS LIVONDO AMUKOHE
@@ -1704,8 +1614,7 @@ Dated the 24th November, 2009.
 
 P. O. OOKO, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13902
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13902</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF ABDALLAH WANYAMA ALIAS WANJALA MANG'OLI SAIDI
@@ -1726,8 +1635,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13903
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13903</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF NANJENDO MUTULA
@@ -1746,8 +1654,7 @@ Dated the 27th November, 2009.
 
 P. N. ARERI, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13904
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13904</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF NYENDE OMULANDO DANIEL ALIAS NYENDE MULANDE
 
 PROBATE AND ADMINISTRATION
@@ -1766,8 +1673,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13905
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13905</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF ADRIANO
 
 ALUBWANA TENDWA
@@ -1788,8 +1694,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13906
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13906</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF ALFRED ANJERE OKUNYANYI
 
 PROBATE AND ADMINISTRATION
@@ -1806,8 +1711,7 @@ Dated the 24th November, 2009.
 
 P. O. OOKO, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13907
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13907</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF VICTOR GERALD KATIMI
 
 PROBATE AND ADMINISTRATION
@@ -1826,8 +1730,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13908
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13908</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF TIBAH MUSIMBI MUKOYANI KIGAME
 
 PROBATE AND ADMINISTRATION
@@ -1846,8 +1749,7 @@ J. M. NDUNA,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13909
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13909</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF KORINELIA WAFULA CHANJI ALIAS KORINERI WAFULA CHANJI
 
 PROBATE AND ADMINISTRATION
@@ -1864,8 +1766,7 @@ Dated the 29th November, 2009.
 
 J. M. NDUNA, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13910
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13910</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF JOHANNES ORIGI ONYANGO
 
 PROBATE AND ADMINISTRATION
@@ -1884,8 +1785,7 @@ P. O. OOKO,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13911
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13911</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
 IN THE MATTER OF THE ESTATE OF IHAJI REUBEN MARILU ALIAS RUBEN IHAJI MARILU PROBATE AND ADMINISTRATION
@@ -1904,8 +1804,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13912
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13912</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF JOHN
 
 SIFUNA WAKHANU
@@ -1924,8 +1823,7 @@ Dated the 30th November, 2009.
 
 J. M. NDUNA, Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13913
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13913</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF AYUB WASIKE
 
 PROBATE AND ADMINISTRATION
@@ -1944,8 +1842,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13914
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13914</span>
 IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF WASIKE NAKHAULI MATAYO
 
 PROBATE AND ADMINISTRATION
@@ -1964,8 +1861,7 @@ P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
-GAZETTE NOTICE NO. 13915
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13915</span>
 IN THE HIGH COURT OF KENYA AT EMBU IN THE MATTER OF THE ESTATE OF NDAGARA NJAGI OF EMBU
 
 PROBATE AND ADMINISTRATION
@@ -1982,8 +1878,7 @@ Dated the  24th February, 2009.
 
 F. W. MACHARIA, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13916
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13916</span>
 IN THE HIGH COURT OF KENYA AT EMBU
 
 IN THE MATTER OF THE ESTATE OF RICHARD KIBUTI NJAGI OF KIRINYAGA PROBATE AND ADMINISTRATION
@@ -2000,8 +1895,7 @@ Dated the 9th November, 2009.
 
 L. MUTAI, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13917
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13917</span>
 IN THE HIGH COURT OF KENYA AT EMBU NJIRU MURAGE OF KIRINYAGA
 
 IN THE MATTER OF THE ESTATE OF BENSON PROBATE AND ADMINISTRATION
@@ -2018,8 +1912,7 @@ Dated the 9th December, 2009.
 
 L. K. MUTAI, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13918
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13918</span>
 IN THE HIGH COURT OF KENYA AT EMBU IN THE MATTER OF THE ESTATE OF NAFTALI
 
 MBOGORI NYAKI OF EMBU
@@ -2038,8 +1931,7 @@ Dated the 9th December, 2009.
 
 L. K. MUTAI, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13919
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13919</span>
 IN THE HIGH COURT OF KENYA AT EMBU IN THE MATTER OF THE ESTATE OF ELISHA NJAGI JONATHAN MUTURA OF EMBU PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 578 OF 2009
@@ -2054,8 +1946,7 @@ Dated the 3rd December, 2009.
 
 L. MUTAI, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13920
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13920</span>
 IN THE HIGH COURT OF KENYA AT EMBU
 
 IN THE MATTER OF THE ESTATE OF NYAGA I'RERI ALIAS NYAGA IRERI OF KIRINYAGA
@@ -2074,8 +1965,7 @@ Dated the 8th December, 2009.
 
 W. WACHIRA, Deputy Registrar, Embu.
 
-GAZETTE NOTICE NO. 13921
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13921</span>
 IN THE HIGH COURT OF KENYA AT KISII IN THE MATTER OF THE ESTATE OF ONDARO OCHOK
 
 PROBATE AND ADMINISTRATION
@@ -2092,8 +1982,7 @@ Dated the 21st October, 2009.
 
 M. N. GICHERU, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13922
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13922</span>
 IN THE HIGH COURT OF KENYA AT KISII
 
 IN THE MATTER OF THE ESTATE OF SAMWEL MOSES OKWORO
@@ -2112,8 +2001,7 @@ Dated the 27th October, 2009.
 
 G. H. ODUOR, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13923
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13923</span>
 IN THE HIGH COURT OF KENYA AT KISII IN THE MATTER OF THE ESTATE OF ARERI OMANGO
 
 PROBATE AND ADMINISTRATION
@@ -2130,8 +2018,7 @@ Dated the 1st December, 2009.
 
 G. H. ODUOR, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13924
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13924</span>
 IN THE HIGH COURT OF KENYA AT KISII
 
 IN THE MATTER OF THE ESTATE OF JOSEPH OKELLO OBONYO
@@ -2150,8 +2037,7 @@ Dated the 3rd December, 2009.
 
 G. H. ODUOR, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13925
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13925</span>
 IN THE HIGH COURT OF KENYA AT KISII
 
 IN THE MATTER OF THE ESTATE OF ERNEST ODHIAMBO OKOTH
@@ -2170,8 +2056,7 @@ Dated the 2nd December, 2009.
 
 P. L. SHINYADA, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13926
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13926</span>
 IN THE HIGH COURT OF KENYA AT KISII IN THE MATTER OF THE ESTATE OF CHARLES KAOSA
 
 PROBATE AND ADMINISTRATION
@@ -2188,8 +2073,7 @@ Dated the 7th December, 2009.
 
 P. L. SHINYADA, Deputy Registrar, Kisii.
 
-GAZETTE NOTICE NO. 13927
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13927</span>
 IN THE HIGH COURT OF KENYA AT KITALE
 
 IN THE MATTER OF THE ESTATE OF KIPSEREM SITIENEI KOSGEI
@@ -2208,8 +2092,7 @@ Dated the 18th December, 2009.
 
 D. M. OCHENJA, Deputy Registrar, Kitale.
 
-GAZETTE NOTICE NO. 13928
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13928</span>
 IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE NYUKURI MASIBO
 
 PROBATE AND ADMINISTRATION
@@ -2226,8 +2109,7 @@ Dated the 4th August, 2009.
 
 J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
-GAZETTE NOTICE NO. 13929
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13929</span>
 IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF RODGERS ORONJE ONGACHI
 
 PROBATE AND ADMINISTRATION
@@ -2242,8 +2124,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
-GAZETTE NOTICE NO. 13930
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13930</span>
 IN THE HIGH COURT OF KENYA AT BUSIA IN THE MATTER OF THE ESTATE OF PETER NANGIRA
 
 PROBATE AND ADMINISTRATION
@@ -2260,8 +2141,7 @@ Dated the 12th November, 2009.
 
 E. H. KEAGO, Deputy Registrar, Busia (K).
 
-GAZETTE NOTICE NO. 13931
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13931</span>
 IN THE HIGH COURT OF KENYA AT BUSIA IN THE MATTER OF THE ESTATE OF JOSHUA OUNDO
 
 PROBATE AND ADMINISTRATION
@@ -2280,8 +2160,7 @@ E. H. KEAGO,
 
 Deputy Registrar, Busia (K).
 
-GAZETTE NOTICE NO. 13932
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13932</span>
 IN THE HIGH COURT OF KENYA AT BUSIA IN THE MATTER OF THE ESTATE OF ETYKORO OMUSOLI
 
 PROBATE AND ADMINISTRATION
@@ -2298,8 +2177,7 @@ Dated the 27th November, 2009.
 
 E. H. KEAGO, Deputy Registrar, Busia (K).
 
-GAZETTE NOTICE NO. 13933
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13933</span>
 IN THE HIGH COURT OF KENYA AT BUSIA IN THE MATTER OF THE ESTATE OF EBU OMUSOLI
 
 PROBATE AND ADMINISTRATION SUCCESSION CAUSE NO. 353 OF 2009
@@ -2314,8 +2192,7 @@ Dated the 27th November, 2009.
 
 E. H. KEAGO, Deputy Registrar, Busia (K).
 
-GAZETTE NOTICE NO. 13934
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13934</span>
 IN THE HIGH COURT OF KENYA AT BUSIA
 
 IN THE MATTER OF THE ESTATE OF GEORGE ETYANG OSANGIRI
@@ -2336,8 +2213,7 @@ E. H. KEAGO,
 
 Deputy Registrar, Busia (K).
 
-GAZETTE NOTICE NO. 13935
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13935</span>
 IN THE HIGH COURT OF KENYA AT KITALE
 
 IN THE MATTER OF THE ESTATE OF STELLA CHEBIWOT CHEBUKUSI
@@ -2358,8 +2234,7 @@ D. M. OCHENJA,
 
 Deputy Registrar, Kitale.
 
-GAZETTE NOTICE NO. 13936
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13936</span>
 IN THE HIGH COURT OF KENYA AT ELDORET IN THE MATTER OF THE ESTATE OF MACTALENA
 
 JEROTICH
@@ -2378,8 +2253,7 @@ Dated the 12th November, 2009.
 
 I. MAISIBA, Deputy Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 13937
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13937</span>
 IN THE HIGH COURT OF KENYA AT MALINDI
 
 IN THE MATTER OF THE ESTATE OF MUNGERE
@@ -2400,8 +2274,7 @@ Dated the 25th November, 2009.
 
 D. W. NYAMBU, Deputy Registrar, Malindi.
 
-GAZETTE NOTICE NO. 13938
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13938</span>
 IN THE HIGH COURT OF KENYA AT MALINDI IN THE MATTER OF THE ESTATE OF COLOSIO PIERINO
 
 PROBATE AND ADMINISTRATION SUCCESSION CAUSE NO. 47 OF 2009
@@ -2420,8 +2293,7 @@ Deputy Registrar, Malindi.
 
 Note. -The will mentioned above has been deposited in and is open to inspection at the court.
 
-GAZETTE NOTICE NO. 13939
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13939</span>
 IN THE HIGH COURT OF KENYA AT MALINDI IN THE MATTER OF THE ESTATE OF EMANUELLI DINO
 
 PROBATE AND ADMINISTRATION
@@ -2438,8 +2310,7 @@ Dated the 2nd December, 2009.
 
 L. W. GITARI, Deputy Registrar, Malindi.
 
-GAZETTE NOTICE NO. 13940
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13940</span>
 IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
 IN THE MATTER OF THE ESTATE OF PETER GACUNGA MANG'ARA ALIAS GACHUNGA NDIRA
@@ -2458,8 +2329,7 @@ Dated the 8th December, 2009.
 
 L. M. WACHIRA, District Registrar, Thika.
 
-GAZETTE NOTICE NO. 13941
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13941</span>
 IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
 IN THE MATTER OF THE ESTATE OF MANG'ARA GACUNGA ALIAS MANG'ARA GACHUNGA
@@ -2478,8 +2348,7 @@ Dated the 8th December, 2009.
 
 L. M. WACHIRA, District Registrar, Thika.
 
-GAZETTE NOTICE NO. 13942
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13942</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
 IN THE MATTER OF THE ESTATE OF CHARLES NATHANIEL NDUNGU ALIAS CHARLES N. NDUNGU ALIAS CHARLES NATHANIEL
@@ -2498,8 +2367,7 @@ Dated the 4th November, 2008.
 
 J. GATHUKU, District Registrar, Murang'a.
 
-GAZETTE NOTICE NO. 13943
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13943</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
 IN THE MATTER OF THE ESTATE OF GACHERU NDUATI
@@ -2518,8 +2386,7 @@ Dated the 20th August, 2009.
 
 J. GATHUKU, District Registrar, Murang'a.
 
-GAZETTE NOTICE NO. 13944
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13944</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
 IN THE MATTER OF THE ESTATE OF KIMAMA GITAMBO ALIAS KIMAMA GATAMBO
@@ -2540,8 +2407,7 @@ J. GATHUKU,
 
 District Registrar, Murang'a.
 
-GAZETTE NOTICE NO. 13945
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13945</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
 IN THE MATTER OF THE ESTATE OF STEPHEN GITHUKU ITHABU ALIAS STEPHEN GITHUKU
@@ -2560,8 +2426,7 @@ Dated the 19th August, 2009.
 
 J. GATHUKU, District Registrar, Murang'a.
 
-GAZETTE NOTICE NO. 13946
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13946</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
 IN THE MATTER OF THE ESTATE OF MWANGI KAMWANA
@@ -2580,8 +2445,7 @@ Dated the 15th December, 2009.
 
 J. GATHUKU, District Registrar, Murang'a.
 
-GAZETTE NOTICE NO. 13947
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13947</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF NELIUS NYAMBURA THINJI OF KIAMBAA VILLAGE, KIAMBAA LOCATION, KIAMBU DISTRICT
@@ -2600,8 +2464,7 @@ Dated the 28th April, 2008.
 
 D. N. MULEKYO, District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13948
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13948</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF NDUNGI WAKARERA ALIAS NDUNGI KARERA OF KIAMBU DISTRICT
@@ -2620,8 +2483,7 @@ Dated the 8th October, 2009.
 
 A, ONGERI, District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13949
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13949</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF LEONARD PETER KAMAU NG'ANG'A OF KIAMBU DISTRICT
@@ -2640,8 +2502,7 @@ Dated the 8th October, 2009.
 
 A. ONGERI, District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13950
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13950</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF PETER NYOTU GIKONYO, OF KAMIRITHU VILLAGE, LIMURU LOCATION, KIAMBU DISTRICT
@@ -2660,8 +2521,7 @@ Dated the 9th November, 2009.
 
 A. ONGERI, District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13951
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13951</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF PETER KAMAU MATINDI OF KIHARA VILLAGE , KIHARA LOCATION, KIAMBU DISTRICT
@@ -2682,8 +2542,7 @@ C. KABUCHO,
 
 District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13952
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13952</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
 IN THE MATTER OF THE ESTATE OF WAINAINA MUINDO OF TINGANGA VILLAGE, TINGANGA LOCATION, KIAMBU DISTRICT
@@ -2704,8 +2563,7 @@ C. KABUCHO,
 
 District Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 13953
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13953</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
 IN THE MATTER OF THE ESTATE OF MAGDALINE WANGUI KIMOTHO
@@ -2726,8 +2584,7 @@ N. N. NJAGI,
 
 District Registrar, Naivasha.
 
-GAZETTE NOTICE NO. 13954
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13954</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
 IN THE MATTER OF THE ESTATE OF JOSEPH MBUGUA MWICHURI
@@ -2746,8 +2603,7 @@ Dated the 13th November, 2009.
 
 N. N. NJAGI, District Registrar, Naivasha.
 
-GAZETTE NOTICE NO. 13955
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13955</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
 IN THE MATTER OF THE ESTATE OF JOSEPH MWANGI MWATHI
@@ -2768,8 +2624,7 @@ N. N. NJAGI,
 
 District Registrar, Naivasha.
 
-GAZETTE NOTICE NO. 13956
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13956</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
 IN THE MATTER OF THE ESTATE OF OJOWI ODONGO
@@ -2790,8 +2645,7 @@ KIBET SAMBU,
 
 District Registrar, Migori.
 
-GAZETTE NOTICE NO. 13957
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13957</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
 IN THE MATTER OF THE ESTATE OF GEORGE OTIENO WAKINE OF MIGORI DISTRICT
@@ -2812,8 +2666,7 @@ KIBET SAMBU,
 
 District Registrar, Migori.
 
-GAZETTE NOTICE NO. 13958
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13958</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
 IN THE MATTER OF THE ESTATE OF OGUTU OWINO OF RONGO DISTRICT
@@ -2834,8 +2687,7 @@ KIBET SAMBU,
 
 District Registrar, Migori.
 
-GAZETTE NOTICE NO. 13959
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13959</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
 IN THE MATTER OF THE ESTATE OF ALFRED IMBWANA S/O KEYA MUGUNDA OF RONGO DISTRICT
@@ -2856,8 +2708,7 @@ KIBET SAMBU,
 
 District Registrar, Migori.
 
-GAZETTE NOTICE NO. 13960
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13960</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
 IN THE MATTER OF THE ESTATE OF PETERSON OGALO OF RONGO DISTRICT
@@ -2876,8 +2727,7 @@ Dated the 2nd October, 2009.
 
 KIBET SAMBU, District Registrar, Migori.
 
-GAZETTE NOTICE NO. 13961
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13961</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
 
 IN THE MATTER OF THE ESTATE OF JEREMIAH KIBWI
@@ -2898,8 +2748,7 @@ J. N. NYAGAH,
 
 District Registrar, Maua.
 
-GAZETTE NOTICE NO. 13962
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13962</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
 IN THE MATTER OF THE ESTATE OF GEORGE MBUI NJUGUNA ALIAS GEORGE MBUI MISHECK NJUGUNA OF LIMURU, KIAMBU DISTRICT
@@ -2920,8 +2769,7 @@ A. O. AMINGA,
 
 District Registrar, Limuru.
 
-GAZETTE NOTICE NO. 13963
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13963</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
 IN THE MATTER OF THE ESTATE OF ISABELLA NYAMBURA MBUTHIA OF LIMURU, KIAMBU DISTRICT
@@ -2940,8 +2788,7 @@ Dated the 17th December, 2009.
 
 A. O. AMINGA, District Registrar, Limuru.
 
-GAZETTE NOTICE NO. 13964
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13964</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
 IN THE MATTER OF THE ESTATE OF KABUTU KING'ATUA ALIAS KABUTU KINGATWA OF LIMURU, KIAMBU DISTRICT PROBATE AND ADMINISTRATION
@@ -2958,8 +2805,7 @@ Dated the 17th December, 2009.
 
 A. O. AMINGA, District Registrar, Limuru.
 
-GAZETTE NOTICE NO. 13965
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13965</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
 IN THE MATTER OF THE ESTATE OF AMON KINYANJUI GATENJWA OF LIMURU, KIAMBU DISTRICT
@@ -2980,8 +2826,7 @@ A. O. AMINGA,
 
 District Registrar, Limuru.
 
-GAZETTE NOTICE NO. 13966
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13966</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
 IN THE MATTER OF THE ESTATE OF WALTER NGANGA THUO OF LIMURU, KIAMBU DISTRICT
@@ -3002,8 +2847,7 @@ A. O. AMINGA,
 
 District Registrar, Limuru.
 
-GAZETTE NOTICE NO. 13967
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13967</span>
 IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MOLO
 
 IN THE MATTER OF THE ESTATE OF MARY MUTHONI NDEGWA
@@ -3022,8 +2866,7 @@ Dated the 25th September, 2009.
 
 S. M. S. SOITA, District Registrar, Molo.
 
-GAZETTE NOTICE NO. 13968
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13968</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF MURUNGI NKORE ALIAS MURUNGI NKURE
@@ -3042,8 +2885,7 @@ Dated the 21st March, 2007.
 
 D. W. NYAMBU, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13969
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13969</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF MATHANGU MWARA
@@ -3062,8 +2904,7 @@ Dated the 31st March, 2009.
 
 P. N. GESORA, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13970
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13970</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF VALENTINE NKONGE ISAIAH BAUNI
@@ -3082,8 +2923,7 @@ Dated the 23rd November, 2009.
 
 C. N. KERAGE, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13971
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13971</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF NKONGE BURINI
@@ -3102,8 +2942,7 @@ Dated the 17th November, 2009.
 
 P. N. GESORA, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13972
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13972</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF ANDREW MUGAMBI MUTUAMWARI
@@ -3122,8 +2961,7 @@ Dated the 9th December, 2009.
 
 C. N. KERAGE, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13973
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13973</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF KEA THURA
@@ -3142,8 +2980,7 @@ Dated the 10th December, 2009.
 
 C. N. KERAGE, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13974
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13974</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
 IN THE MATTER OF THE ESTATE OF STANLEY KATHUMBI NJUE
@@ -3162,8 +2999,7 @@ Dated the 21st December, 2009.
 
 P. N. GESORA, District Registrar, Chuka.
 
-GAZETTE NOTICE NO. 13975
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13975</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
 IN THE MATTER OF THE ESTATE OF KIVI NGUNGA KAMAI
@@ -3182,8 +3018,7 @@ Dated the 16th November, 2009.
 
 T. M. MWANGI, District Registrar, Kitui.
 
-GAZETTE NOTICE NO. 13976
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13976</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
 IN THE MATTER OF THE ESTATE OF SAMUEL MUKITI MUSEMBI
@@ -3204,8 +3039,7 @@ T. M. MWANGI,
 
 District Registrar, Kitui.
 
-GAZETTE NOTICE NO. 13977
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13977</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
 IN THE MATTER OF THE ESTATE OF MWANZA MUMO MUTHINZI OF NGUNGI
@@ -3226,8 +3060,7 @@ T. M. MWANGI,
 
 District Registrar, Kitui.
 
-GAZETTE NOTICE NO. 13978
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13978</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
 IN THE MATTER OF THE ESTATE OF MBALUKA NZENGE OF KITUI DISTRICT
@@ -3246,8 +3079,7 @@ Dated the 23rd November, 2009.
 
 T. M. MWANGI, District Registrar, Kitui.
 
-GAZETTE NOTICE NO. 13979
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13979</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT SIAYA
 
 IN THE MATTER OF THE ESTATE OF SAMSON AYIEYE OCHIDO
@@ -3266,8 +3098,7 @@ Dated the 10th November, 2009.
 
 W. K. CHEPSEBA, District Registrar, Siaya.
 
-GAZETTE NOTICE NO. 13980
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13980</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT NYAHURURU
 
 IN THE MATTER OF THE ESTATE OF TERESIA WAMAITHA NJENGA OF NYANDARUA DISTRICT
@@ -3288,8 +3119,7 @@ M. T. KARIUKI,
 
 District Registrar, Nyahururu.
 
-GAZETTE NOTICE NO. 13981
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13981</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT NYAHURURU
 
 IN THE MATTER OF THE ESTATE OF JOHN IRUNGU KARUGA OF GATIMU LOCATION
@@ -3308,8 +3138,7 @@ Dated the 17th November, 2009.
 
 C. K. OBARA,
 
-GAZETTE NOTICE NO. 13982
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13982</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KIKUYU
 
 IN THE MATTER OF THE ESTATE OF KARANJA MUTHUA ALIAS KARANJA MUTHUA 'A'
@@ -3328,8 +3157,7 @@ Dated the 18th June, 2009.
 
 D. N. MULEKYO, District Registrar, Kikuyu.
 
-GAZETTE NOTICE NO. 13983
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13983</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KABARNET
 
 IN THE MATTER OF THE ESTATE OF JOSHUA KIPKEMBOI KIPLEL OF SAIMO LOCATION, BARINGO DISTRICT
@@ -3348,8 +3176,7 @@ Dated the 2nd November, 2009.
 
 H. M. NYAGA, District Registrar, Kabarnet.
 
-GAZETTE NOTICE NO. 13984
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13984</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPENGURIA
 
 IN THE MATTER OF THE ESTATE OF CHEPOCHEYECH MICHA
@@ -3366,8 +3193,7 @@ And further take notice that if no objection has been lodged in this registry  i
 
 G. M. A. ONG'ONDO, District Registrar, Kapenguria.
 
-GAZETTE NOTICE NO. 13985
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13985</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPENGURIA
 
 IN THE MATTER OF THE ESTATE OF PTURU PARKECHIR SILALE
@@ -3386,8 +3212,7 @@ Dated the 16th November, 2009.
 
 G. M. A. ONG'ONDO, District Registrar, Kapenguria.
 
-GAZETTE NOTICE NO. 13986
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13986</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
 IN THE MATTER OF THE ESTATE OF CHEPKWONY ARAP MAIWA OF BURETI
@@ -3406,8 +3231,7 @@ Dated the 26th November, 2009.
 
 S. R. ROTICH, District Registrar, Sotik.
 
-GAZETTE NOTICE NO. 13987
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13987</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
 IN THE MATTER OF THE ESTATE OF KIPKOECH ARAP CHUMO OF BURETI
@@ -3426,8 +3250,7 @@ Dated the 1st December, 2009.
 
 S. R. ROTICH, District Registrar, Sotik.
 
-GAZETTE NOTICE NO. 13988
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13988</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
 IN THE MATTER OF THE ESTATE OF CHEPKWONY A. CHEBUNEI OF BURETI
@@ -3446,8 +3269,7 @@ Dated the 16th December, 2009.
 
 S. R. ROTICH, District Registrar, Sotik.
 
-GAZETTE NOTICE NO. 13989
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13989</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
 IN THE MATTER OF THE ESTATE OF CHEPKULUL ARAP NGENO OF BURETI
@@ -3466,8 +3288,7 @@ Dated the 16th December, 2009.
 
 S. R. ROTICH, District Registrar, Sotik.
 
-GAZETTE NOTICE NO. 13990
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13990</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF LEAH CHEPKAZI ALIAS CHEPKASI
@@ -3486,8 +3307,7 @@ Dated the 6th March, 2009.
 
 J. M. NJOROGE, District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13991
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13991</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF KIPSOIMO MARITIM
@@ -3508,8 +3328,7 @@ J. M. NJOROGE,
 
 District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13992
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13992</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF JOHN KIPCHIRCHIR
@@ -3528,8 +3347,7 @@ Dated the 30th October, 2009.
 
 J. M. NJOROGE, District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13993
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13993</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF (1) KIPYAMA ARAP TOO AND (2) JEPKETER CHEPTUM
@@ -3546,8 +3364,7 @@ Dated the30th October, 2009.
 
 J. M. NJOROGE, District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13994
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13994</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF KIPKEINO ARAP SOMO
@@ -3568,8 +3385,7 @@ J. M. NJOROGE,
 
 District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13995
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13995</span>
 IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
 IN THE MATTER OF THE ESTATE OF DAVID KIKWAI KELEGES
@@ -3590,8 +3406,7 @@ J. M. NJOROGE,
 
 District Registrar, Kapsabet.
 
-GAZETTE NOTICE NO. 13996
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13996</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIKUYU
 
 IN THE MATTER OF THE ESTATE OF PETER MWAURA NJOROGE
@@ -3610,8 +3425,7 @@ Dated the 10th November, 2009.
 
 D. N. MULEKYO, District Registrar, Kikuyu.
 
-GAZETTE NOTICE NO. 13997
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13997</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT MUMIAS
 
 IN THE MATTER OF THE ESTATE OF MARKUS OMEDO NYAJAYI
@@ -3632,8 +3446,7 @@ E. K. MAKORI,
 
 District Registrar, Mumias.
 
-GAZETTE NOTICE NO. 13998
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13998</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT MUMIAS
 
 IN THE MATTER OF THE ESTATE OF AGNETA MALOBA OCHAMI
@@ -3654,8 +3467,7 @@ E. K. MAKORI,
 
 District Registrar, Mumias.
 
-GAZETTE NOTICE NO. 13999
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13999</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
 
 IN THE MATTER OF THE ESTATE OF MARTIN WEKHOBA MUKHOMA ALIAS MARTIN WEKHOBA
@@ -3674,8 +3486,7 @@ Dated the 15th October, 2009.
 
 G. O. OYUGI, District Registrar, Butere.
 
-GAZETTE NOTICE NO. 14000
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14000</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
 
 IN THE MATTER OF THE ESTATE OF ISABELA ANDAYE KALELWA
@@ -3694,8 +3505,7 @@ Dated the 30th November, 2009.
 
 G. O. OYUGI, District Registrar, Butere.
 
-GAZETTE NOTICE NO. 14001
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14001</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT MWINGI
 
 IN THE MATTER OF THE ESTATE OF KWALYA KISILI
@@ -3714,8 +3524,7 @@ Dated the 28th August, 2009.
 
 H. N. NYABERI, District Registrar, Mwingi.
 
-GAZETTE NOTICE NO. 14002
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14002</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
 
 IN THE MATTER OF THE ESTATE OF NYAGA MURUAMITI ALIAS KIBITI M'MITI ALIAS KIBUTI MURUAMITI OF RUNYENJES TOWN LOCATION, EMBU EAST DISRICT
@@ -3734,8 +3543,7 @@ Dated the 10th November, 2009.
 
 D. O. ONYANGO, District Registrar, Runyenjes.
 
-GAZETTE NOTICE NO. 14003
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14003</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT ITEN
 
 IN THE MATTER OF THE ESTATE OF KIMUKONY TUWEI
@@ -3754,8 +3562,7 @@ Dated the 22nd October, 2009.
 
 B. N. MOSIRIA, District Registrar, Iten.
 
-GAZETTE NOTICE NO. 14004
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14004</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIMILILI
 
 IN THE MATTER OF THE ESTATE OF MICHAEL SIMIYU SAKWA
@@ -3774,8 +3581,7 @@ Dated the 15th September, 2009.
 
 J. O. MAGORI, District Registrar, Kimilili.
 
-GAZETTE NOTICE NO. 14005
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14005</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KAJIADO
 
 PROBATE AND ADMINISTRATION
@@ -3792,8 +3598,7 @@ Dated the 2nd December 2009.
 
 W. N. KABERIA, District Registrar, Kajiado.
 
-GAZETTE NOTICE NO. 14006
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14006</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KAJIADO
 
 IN THE MATTER OF THE ESTATE OF MOSES MATINKOE OLE MULA
@@ -3812,8 +3617,7 @@ Dated the 21st December, 2009.
 
 W. N. KABERIA, District Registrar, Kajiado.
 
-GAZETTE NOTICE NO. 14007
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14007</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT LODWAR
 
 IN THE MATTER OF THE ESTATE OF EYANAE LOYELEI EKWEE
@@ -3832,8 +3636,7 @@ Dated the 26th November, 2009.
 
 T. NZYOKI, District Registrar, Lodwar.
 
-GAZETTE NOTICE NO. 14008
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14008</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIMILILI
 
 IN THE MATTER OF THE ESTATE OF LAZARUS TADI OKEKE
@@ -3852,8 +3655,7 @@ Dated the 3rd November, 2009.
 
 R. O. OIGARA, District Registrar, Kimilili.
 
-GAZETTE NOTICE NO. 14009
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14009</span>
 IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KANGEMA
 
 IN THE MATTER OF THE ESTATE OF DORCAS WANJIKU WANJAMA
@@ -3872,8 +3674,7 @@ Dated the 27th November, 2009.
 
 D. A. ORIMBA, District Registrar, Kangema.
 
-GAZETTE NOTICE NO. 14010
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14010</span>
 IN THE RESIDENT MAGISTRATE'S COURT AT BOMET
 
 IN THE MATTER OF THE ESTATE OF TAPLULE KIPTOGOM ARAP CHEBORGE
@@ -3892,8 +3693,7 @@ Dated the 28th September, 2009.
 
 T. OKELO, District Registrar, Bomet.
 
-GAZETTE NOTICE NO. 14011
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14011</span>
 IN THE RESIDENT MAGISTRATE'S COURT AT BOMET
 
 IN THE MATTER OF THE ESTATE OF KIPKEMOI ARAP RONO
@@ -3912,8 +3712,7 @@ Dated the 9th September, 2009.
 
 T. OKELO, District Registrar, Bomet.
 
-GAZETTE NOTICE NO. 14012
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14012</span>
 IN THE RESIDENT MAGISTRATE'S COURT AT OTHAYA
 
 IN THE MATTER OF THE ESTATE OF MIRIAM NJERI MUGA OF KAIRUTHI SUB-LOCATION
@@ -3932,8 +3731,7 @@ Dated the 9th December, 2009.
 
 B. M. NZAKYO, District Registrar, Othaya.
 
-GAZETTE NOTICE NO. 14013
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14013</span>
 THE PHYSICAL PLANNING ACT ( No. 6 of 1996)
 
 COMPLETION OF PART DEVELOPMENT PLANS
@@ -3956,8 +3754,7 @@ S. S. CHUNE,
 
 for Director of Physical Planning.
 
-GAZETTE NOTICE NO. 14014
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14014</span>
 THE PHYSICAL PLANNING ACT ( No. 6 of 1996)
 
 COMPLETION OF PART DEVELOPMENT PLAN
@@ -3976,8 +3773,7 @@ Dated the 10th December, 2009.
 
 A. M. MWANZIA, for Director of Physical Planning.
 
-GAZETTE NOTICE NO. 14015
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14015</span>
 THE PHYSICAL PLANNING ACT ( No. 6 of 1996)
 
 COMPLETION OF PART DEVELOPMENT PLAN
@@ -4000,8 +3796,7 @@ A. K. ROTICH,
 
 for Director of Physical Planning.
 
-GAZETTE NOTICE NO. 14016
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14016</span>
 THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
 
 ( No. 8 of 1999)
@@ -4130,8 +3925,7 @@ for Director General,
 
 National Environmental Management Authority.
 
-GAZETTE NOTICE NO. 14017
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14017</span>
 THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
 
 ( No. 8 of 1999)
@@ -4281,8 +4075,7 @@ The National Environment Management Authority invites members  of  the  public  
 
 B. M. LANGWEN, for Director General, National Environmental Management Authority.
 
-GAZETTE NOTICE NO. 14018
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14018</span>
 THE ENERGY ACT
 
 ( No . 12 of 2006)
@@ -4712,8 +4505,7 @@ KABURU MWIRICHIA,
 
 Director-General, Energy Regulatory Commission.
 
-GAZETTE NOTICE NO. 14019
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14019</span>
 THE LOCAL GOVERNMENT ACT ( Cap. 265)
 
 THE COUNTY COUNCIL OF HOMA BAY REPOSSESSION OF UNDEVELOPED PLOTS
@@ -4730,8 +4522,7 @@ W. O. LUBALLO, Clerk to Council.
 
 (a) Each Party and its counsel (including that counsel's firm) shall be  jointly  and  severally  responsible  for  the  payment  of  that Party's allocated share of the Costs as set forth above.
 
-GAZETTE NOTICE NO. 14020
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14020</span>
 THE LOCAL GOVERNMENT ACT ( Cap . 265)
 
 THE COUNTY COUNCIL OF KITUI
@@ -4949,8 +4740,7 @@ After the seventh day - Lorry | Below 7 tons per day |  | 1,000
 House No. KCC 5 House No. KCC 1/8 | Per | 1,600 | 1,600
 6 House No. KCC 1/1 | " " | 1,350 | 1,350
 
-GAZETTE NOTICE NO. 14021
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14021</span>
 MOGUSII FARMERS GROUP COMPANY LIMITED
 
 NEW BOARD MEMBERS
@@ -4965,8 +4755,7 @@ Dated the 14th November, 2009.
 
 MOGUSII FARMERS GROUP COMPANY LIMITED, P.O. Box 69, Sotik .
 
-GAZETTE NOTICE NO. 14022
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14022</span>
 SOHAM OILS KENYA
 
 DISPOSAL OF UNCOLLECTED GOODS
@@ -4975,8 +4764,7 @@ NOTICE  is  given  pursuant  to  the  provisions  of  the  Disposal  of Uncollec
 
 SAMUEL GITAKA, Marketing Co-ordinator, Soham Oils Kenya.
 
-GAZETTE NOTICE NO. 14023
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14023</span>
 COUNTY COUNCIL OF BUTERE-MUMIAS DISPOSAL OF UNCOLLECTED GOODS
 
 NOTICE is  issued  pursuant  to  the  provisions  of  the  Disposal  of Uncollected  Goods  Act  (Cap.  38)  of  the  laws  of  Kenya,  that  all customers from whom weighing scales, clamps, planes, saws, radios, posho mill cleaners, handles belts, bicycle pumps, try squares, frames, tool box, batteries, stove stand, video decks, were impounded due to non payment of licence for the years 2005 to 2008 and the goods are being held at the County Council of Butere-Mumias to collect the said
@@ -4989,8 +4777,7 @@ Dated the 9th December, 2009.
 
 G. N. KWENA, County Clerk.
 
-GAZETTE NOTICE NO. 14024
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14024</span>
 FRANCIS KAMAU MWANIKI
 
 DISPOSAL OF UNCOLLECTED GOODS
@@ -5001,8 +4788,7 @@ Dated the 7th December, 2009.
 
 IRUNGU MWANGI, Advocate for the Proprietor.
 
-GAZETTE NOTICE NO. 14025
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14025</span>
 VIX AUTOCRAFT (K) LIMITED
 
 DISPOSAL OF UNCOLLECTED GOODS
@@ -5013,8 +4799,7 @@ Dated the 1st December, 2009.
 
 MIDIKIRA & COMPANY, Advocates for the Applicant.
 
-GAZETTE NOTICE NO. 14026
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14026</span>
 KAKUZI LIMITED
 
 No. | Item Description | Unit of Measure | Current Charges (KSh.) | Approved Charges (KSh.)
@@ -5053,8 +4838,7 @@ Dated the 14th December, 2009.
 
 KAKUZI LIMITED MANAGEMENT.
 
-GAZETTE NOTICE NO. 14027
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14027</span>
 MUNUNGA LIMITED
 
 CLOSURE OF PRIVATE ROADS
@@ -5067,8 +4851,7 @@ RAFFMAN DHANJI ELMS & VIRDEE,
 
 Advocates for Mununga Limited.
 
-GAZETTE NOTICE NO. 14028
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14028</span>
 SOCFINAF COMPANY LIMITED
 
 CLOSURE OF ROADS AND FOOTPATHS
@@ -5085,8 +4868,7 @@ FABIAN PHILIPPART,
 
 General Manager, Socfinaf Company Limited.
 
-GAZETTE NOTICE NO. 14029
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14029</span>
 BRITISH AMERICAN INSURANCE COMPANY (K) LIMITED Head Office: P.O. Box 30375, Nairobi
 
 LOSS OF POLICY
@@ -5099,8 +4881,7 @@ Dated the 8th December, 2009.
 
 J. K. MITEI, Risk Acceptance Manager.
 
-GAZETTE NOTICE NO. 14030
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14030</span>
 BRITISH AMERICAN INSURANCE COMPANY (K) LIMITED
 
 Head Office: P.O. Box 30375, Nairobi
@@ -5115,8 +4896,7 @@ Dated the 8th December, 2009.
 
 J. K. MITEI, Risk Acceptance Manager.
 
-GAZETTE NOTICE NO. 14031
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14031</span>
 BRITISH AMERICAN INSURANCE COMPANY (K) LIMITED Head Office: P.O. Box 30375, Nairobi LOSS OF POLICY
 
 Policy  No .  20101257 in  the  name  and  on  the  life  of  Pauline  Nduku Mbondo.
@@ -5127,8 +4907,7 @@ Dated the 11th December, 2009.
 
 J. K. MITEI, Risk Acceptance Manager.
 
-GAZETTE NOTICE NO. 14032
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14032</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 5th September, 2007, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  911  in  Volume  DI,  Folio  186/4048,  File  No. MMVII,  by  me  Isaac  Makau  Katiku,  of  P.O.  Box  66025-00800, Nairobi  in  the  Republic  of  Kenya,  formerly  known  as  Isaac  Makau Kyalo,  formally  and  absolutely  renounced  and  abandoned  the  use  of my former name Isaac Makau Kyalo, and in lieu thereof assumed and adopted the name Isaac Makau Katiku, for all purposes and authorize and request all persons at all times to designate, describe and address me by my assumed name Isaac Makau Katiku only.
@@ -5137,8 +4916,7 @@ Dated the 15th December, 2009.
 
 ISAAC MAKAU KATIKU, formerly known as Isaac Makau Kyalo.
 
-GAZETTE NOTICE NO. 14033
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 14033</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll  dated  27th  October,  2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  3432  in  Volume  DI,  Folio  242/3189,  File  No. MMIX, by our client, Mohamed Ibar Shire, of P.O. Box 77, Mandera in  the  Republic  of  Kenya,  formerly  known  as  Abdullahi  Mohamed Haji Awad, formally and absolutely renounced and abandoned the use of  his  former  name  Abdullahi  Mohamed  Haji  Awad,  and  in  lieu thereof  assumed  and  adopted  the  name  Mohamed  Ibar  Shire,  for  all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate, describe and address him by his assumed name Mohamed Ibar Shire only.
