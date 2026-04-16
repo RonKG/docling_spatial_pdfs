@@ -18,4 +18,16 @@ As of now, the pipeline consists of the following features:
 2. **Run the Pipeline**: Execute the notebook `gazette_docling_pipeline_spatial.ipynb` to process the PDFs.
 3. **Output**: The structured data and markdown files will be generated in the `output/` directory for further review and analysis.
 
+## Library Functionality
+The project will evolve into a fully contained library that allows users to programmatically access and retrieve documents from the Kenya Gazette. This library will expose functions to search and fetch specific gazette notices by parameters such as notice number, date, or keywords.
+
+## Integration
+To integrate this library into another application, you will need to include the library as a dependency. Detailed instructions will be provided on how to instantiate the library and call its fetch functions.
+
+## Setup Instructions
+Once the library is installed, you can use it as follows:
+1. Import the library into your project.
+2. Initialize the library with necessary configuration (e.g., API keys, base URLs).
+3. Call the relevant function to pull the required gazette documents.
+
 For more details on known issues or future improvements, see `docs/known-issues.md` and `spatial_reorder_changelog.md`.  
