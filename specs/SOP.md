@@ -37,12 +37,13 @@ Open the notebook/module from "Core files" in PROGRESS.md. Read the relevant cel
 
 ## Stage 2: Generate the Spec (with LLM)
 
-### Step 2.1: Prompt LLM to write the spec
-Use this exact prompt format:
+### Step 2.1: Run Agent 1: Spec Creator
+Use the agent at `.cursor/agents/agent-1-spec-creator.md`.
 
+Prompt format:
 > **Build [FEATURE-ID] specs for review to implement [kebab-case-name].md**
 >
-> Follow `specs/SOP.md` Stage 1 (Discovery) and Stage 2 (Spec Template). Create `specs/[FEATURE-ID]-[kebab-case-name].md` with all 8 sections filled.
+> Follow Stage 1 (Discovery) and Stage 2 (Spec Template) from this SOP. Create `specs/[FEATURE-ID]-[kebab-case-name].md` with all 8 sections filled.
 >
 > Read these files first:
 > - `PROGRESS.md` — locate [FEATURE-ID] row
@@ -68,14 +69,16 @@ Review the generated spec. Check:
 
 ## Stage 3: Implement from Spec
 
-### Step 3.1: Prompt LLM to implement
-Use this exact prompt format:
+### Step 3.1: Run Agent 2: Builder & Tester
+Use the agent at `.cursor/agents/agent-2-builder-tester.md`.
 
+Prompt format:
 > **Implement spec for [FEATURE-ID] [kebab-case-name].md in the specs folder**
 >
 > Read and implement the approved spec at `specs/[FEATURE-ID]-[kebab-case-name].md`.
 >
 > Follow the Definition of Done checklist. Update PROGRESS.md status when complete.
+> Return Build Report with test results.
 
 ### Step 3.2: Review the build
 Before accepting the implementation:
@@ -88,17 +91,17 @@ Before accepting the implementation:
 
 ## Stage 4: Close the Loop
 
-### Step 4.1: Update PROGRESS.md
-Change status from "⬜" to "✅ Complete" and add commit hash.
+### Step 4.1: Run Agent 3: Senior Reviewer
+Use the agent at `.cursor/agents/agent-3-reviewer.md`.
 
-### Step 4.2: Commit
-```bash
-git add specs/[FEATURE-ID]-[name].md [implementation files] PROGRESS.md
-git commit -m "[FEATURE-ID] Implement [feature name]"
-git push origin main
-```
+Prompt format:
+> **Review [FEATURE-ID]**
+> Read spec: `specs/[FEATURE-ID]-[kebab-case-name].md`
+> Read Agent 2 build report.
+> Review implementation and PROGRESS.md update.
+> Give verdict, recommendations, and commit if PASS.
 
-### Step 4.3: Verify next feature
+### Step 4.2: Verify next feature
 Read PROGRESS.md. The next "⬜ Next" row is your next task. Return to Stage 1.
 
 ---
