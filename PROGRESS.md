@@ -93,6 +93,8 @@ Listed for context only. Do not let these creep into the 1.0 work above.
 | Phase 6 | F29 | PyPI publish | Real `pip install kenya-gazette` from public index |
 | Phase 6 | F30 | Multi-stage LLM repair | LLM helps repair tables and classify notices, not just validate |
 
+**Schema evolution note:** `body_segments` in 1.0 only emits `"text"` and `"blank"` types. Richer detection (tables, signatures, citations) lands in 2.x (F27). The schema is designed so adding new segment types is a **MINOR** bump — old consumers keep working. See contract section 3 and roadmap M5 for the design rationale.
+
 ---
 
 ## Reference docs (read once, point back when needed)
