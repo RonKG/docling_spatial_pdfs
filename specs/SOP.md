@@ -6,7 +6,7 @@
 
 ---
 
-## Phase 1: Discovery (Do This First)
+## Stage 1: Discovery (Do This First)
 
 ### Step 1.1: Read PROGRESS.md
 Locate your feature row. Extract:
@@ -35,14 +35,14 @@ Open the notebook/module from "Core files" in PROGRESS.md. Read the relevant cel
 
 ---
 
-## Phase 2: Generate the Spec (with LLM)
+## Stage 2: Generate the Spec (with LLM)
 
 ### Step 2.1: Prompt LLM to write the spec
 Use this exact prompt format:
 
 > **Build [FEATURE-ID] specs for review to implement [kebab-case-name].md**
 >
-> Follow `specs/SOP.md` Phase 1 (Discovery) and Phase 2 (Spec Template). Create `specs/[FEATURE-ID]-[kebab-case-name].md` with all 8 sections filled.
+> Follow `specs/SOP.md` Stage 1 (Discovery) and Stage 2 (Spec Template). Create `specs/[FEATURE-ID]-[kebab-case-name].md` with all 8 sections filled.
 >
 > Read these files first:
 > - `PROGRESS.md` — locate [FEATURE-ID] row
@@ -62,11 +62,11 @@ Review the generated spec. Check:
 
 **If issues found:** Prompt LLM to revise: "Revise F11 spec: [specific changes needed]"
 
-**If approved:** Proceed to Phase 3.
+**If approved:** Proceed to Stage 3.
 
 ---
 
-## Phase 3: Implement from Spec
+## Stage 3: Implement from Spec
 
 ### Step 3.1: Prompt LLM to implement
 Use this exact prompt format:
@@ -86,7 +86,7 @@ Before accepting the implementation:
 
 ---
 
-## Phase 4: Close the Loop
+## Stage 4: Close the Loop
 
 ### Step 4.1: Update PROGRESS.md
 Change status from "⬜" to "✅ Complete" and add commit hash.
@@ -99,13 +99,13 @@ git push origin main
 ```
 
 ### Step 4.3: Verify next feature
-Read PROGRESS.md. The next "⬜ Next" row is your next task. Return to Phase 1.
+Read PROGRESS.md. The next "⬜ Next" row is your next task. Return to Stage 1.
 
 ---
 
 ## Appendix A: Spec Template (for LLM generation)
 
-When generating a spec in Phase 2, the LLM must use this exact template:
+When generating a spec in Stage 2, the LLM must use this exact template:
 
 ```markdown
 # [FEATURE-ID] Spec: [Feature Name]
