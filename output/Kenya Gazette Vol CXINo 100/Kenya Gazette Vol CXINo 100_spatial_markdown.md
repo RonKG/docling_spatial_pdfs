@@ -1,29 +1,30 @@
-H
+<!-- image -->
 
-THE KENYA GAZETTE
+## THE KENYA GAZETTE
 
 Published by Authority of the Republic of Kenya
 
 (Registered as a Newspaper at the G.P.O.)
 
-Vol. CXI-No. 100 NAIROBI, 20th November, 2009 | Vol. CXI-No. 100 NAIROBI, 20th November, 2009 | Vol. CXI-No. 100 NAIROBI, 20th November, 2009 | Price Sh. 50
-CONTENTS | CONTENTS | CONTENTS | CONTENTS
-GAZETTE NOTICES | PAGE | GAZETTE NOTICES-( Contd .) | PAGE
-The Restrictive Trade Practices, Monopolies and Price Control Act-Proposed Acquisitions............................. | 3352 | The Environmental Management and Co-ordination Act- Environmental Impact Assessment Study Reports......... | 3397-3400
-The State Corporations Act-Appointments......................... | 3352 | The Liquor Licensing Act-Statutory Meeting .................... | 3400
-The Anti-Counterfeit Act-Appointment.............................. | 3352 | The Companies Act-Dissolution, etc..................................... | 3401
-The Labour Institutions Act-Appointment.......................... | 3352 | Local Government Notices..................................................... | 3401-3404
-The Labour Relations Act-Collection of Agency Fees...... | 3352 | Disposal of Uncollected Goods.............................................. | 3404
-The Criminal Procedure Code-Appointment...................... | 3353 |  | 3404
-The Constitution of Kenya-The National Assembly and Presidential Elections Act-Appointment...................... | 3353 | Loss of Policies........................................................................ | 
-The Local Government Act-Appointments........................ | 3353 | Change of Names .................................................................... | 3405
-The Court of Appeal-Christmas Vacation, etc ................... | 3353-3354 | ---------- | 
-The High Court of Kenya-Christmas Vacation.................. | 3354 |  | 
-The Marriage Act-Appointments........................................... | 3354 | SUPPLEMENT No. 76 | 
-The Registration of Titles Act-Issue of Provisional Certificate, etc.................................................................... | 3354-3355 | Legislative Supplement LEGAL NOTICE NO. | PAGE
-The Registered Land Act-Issue of New Land Title Deeds, etc....................................................................................... | 3356-3361 | 166-The Agriculture (Farm Forestry) Rules, 2009. | 673
-Probate and Administration .................................................... | 3361-3396 | 167-The National Museums and Heritage (Admission Fees) Regulations, 2009............... | 682
-The Physical Planning Act-Completion of Part Development Plans........................................................... | 3396-3397 | 168-The Extradition (New Zealand) Order, 2009... | 686
+| Vol. CXI-No. 100 NAIROBI, 20th November, 2009                                                                                                     | Vol. CXI-No. 100 NAIROBI, 20th November, 2009   | Vol. CXI-No. 100 NAIROBI, 20th November, 2009                                                              | Price Sh. 50   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------|
+| CONTENTS                                                                                                                                          | CONTENTS                                        | CONTENTS                                                                                                   | CONTENTS       |
+| GAZETTE NOTICES                                                                                                                                   | PAGE                                            | GAZETTE NOTICES-( Contd .)                                                                                 | PAGE           |
+| The Restrictive Trade Practices, Monopolies and Price Control Act-Proposed Acquisitions.............................                              | 3352                                            | The Environmental Management and Co-ordination Act- Environmental Impact Assessment Study Reports......... | 3397-3400      |
+| The State Corporations Act-Appointments.........................                                                                                  | 3352                                            | The Liquor Licensing Act-Statutory Meeting ....................                                            | 3400           |
+| The Anti-Counterfeit Act-Appointment..............................                                                                                | 3352                                            | The Companies Act-Dissolution, etc.....................................                                    | 3401           |
+| The Labour Institutions Act-Appointment..........................                                                                                 | 3352                                            | Local Government Notices.....................................................                              | 3401-3404      |
+| The Labour Relations Act-Collection of Agency Fees......                                                                                          | 3352                                            | Disposal of Uncollected Goods..............................................                                | 3404           |
+| The Criminal Procedure Code-Appointment......................                                                                                     | 3353                                            |                                                                                                            | 3404           |
+| The Constitution of Kenya-The National Assembly and Presidential Elections Act-Appointment......................                                  | 3353                                            | Loss of Policies........................................................................                   |                |
+| The Local Government Act-Appointments........................                                                                                     | 3353                                            | Change of Names ....................................................................                       | 3405           |
+| The Court of Appeal-Christmas Vacation, etc ...................                                                                                   | 3353-3354                                       | ----------                                                                                                 |                |
+| The High Court of Kenya-Christmas Vacation..................                                                                                      | 3354                                            |                                                                                                            |                |
+| The Marriage Act-Appointments...........................................                                                                          | 3354                                            | SUPPLEMENT No. 76                                                                                          |                |
+| The Registration of Titles Act-Issue of Provisional Certificate, etc....................................................................          | 3354-3355                                       | Legislative Supplement LEGAL NOTICE NO.                                                                    | PAGE           |
+| The Registered Land Act-Issue of New Land Title Deeds, etc....................................................................................... | 3356-3361                                       | 166-The Agriculture (Farm Forestry) Rules, 2009.                                                           | 673            |
+| Probate and Administration ....................................................                                                                   | 3361-3396                                       | 167-The National Museums and Heritage (Admission Fees) Regulations, 2009...............                    | 682            |
+| The Physical Planning Act-Completion of Part Development Plans...........................................................                         | 3396-3397                                       | 168-The Extradition (New Zealand) Order, 2009...                                                           | 686            |
 
 CORRIGENDUM
 
@@ -31,7 +32,7 @@ IN Gazette Notice No. 10132 of 2009, amend the expression printed as 'Land Regis
 
 GAZETTE NOTICE NO. 12350
 
-THE RESTRICTIVE TRADE PRACTICES, MONOPOLIES AND PRICE CONTROL ACT
+## THE RESTRICTIVE TRADE PRACTICES, MONOPOLIES AND PRICE CONTROL ACT
 
 ( Cap. 504)
 
@@ -63,9 +64,9 @@ Deputy Prime Minister and Minister for Finance.
 
 GAZETTE NOTICE NO. 12352
 
-THE STATE CORPORATIONS ACT ( Cap. 446)
+## THE STATE CORPORATIONS ACT ( Cap. 446)
 
-HOTELS AND RESTAURANTS AUTHORITY
+## HOTELS AND RESTAURANTS AUTHORITY
 
 APPOINTMENT
 
@@ -79,7 +80,7 @@ N. M. BALALA, Minister for Tourism.
 
 GAZETTE NOTICE NO. 12353
 
-THE STATE CORPORATIONS ACT
+## THE STATE CORPORATIONS ACT
 
 ( Cap. 446)
 
@@ -99,7 +100,7 @@ N. N. SHABAN, Minister of State for Special Programmes.
 
 GAZETTE NOTICE NO. 12354
 
-THE ANTI-COUNTERFEIT ACT ( No. 13 of 2008)
+## THE ANTI-COUNTERFEIT ACT ( No. 13 of 2008)
 
 APPOINTMENT
 
@@ -117,7 +118,7 @@ Minister for Industrialization.
 
 GAZETTE NOTICE NO. 12355
 
-THE LABOUR INSTITUTIONS ACT
+## THE LABOUR INSTITUTIONS ACT
 
 ( No. 12 of 2007)
 
@@ -137,7 +138,7 @@ J. K. MUNYES, Minister for Labour.
 
 GAZETTE NOTICE NO. 12356
 
-THE LABOUR RELATIONS ACT
+## THE LABOUR RELATIONS ACT
 
 ( No. 14 of 2007)
 
@@ -147,11 +148,9 @@ IN  EXERCISE of the powers conferred by section  49  (1)  of  the Labour Relatio
 
 ( a ) Orders Messrs. Kenton College Preparatory School-
 
-(i) to deduct every month the sum equal to two per cent (2%) of the employees wages or KSh. 150 per month whichever is lower in respect of trade union agency fees from  the  basic  wages  of  his/her  employees  who  are covered  by  the  terms  and  conditions  of  the  concluded Collective Bargaining Agreement and are not members of Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers.
-
-(ii) to  pay  within  ten  (10)  days  of  the  deduction,  the  total sums  deducted  by  a  crossed  cheque  made  payable  to Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers into the Union's  account  No.  1822215  at  the  Barclays  Bank  of Kenya Limited, Queensway Branch, Mama Ngina Street, P.O. Box 30011, Nairobi.
-
-(iii)  to make returns to the Registrar of Trade Unions at P.O. Box 40326, Nairobi, within one (1) month of making all the payments to the union and to that organization.
+- (i) to deduct every month the sum equal to two per cent (2%) of the employees wages or KSh. 150 per month whichever is lower in respect of trade union agency fees from  the  basic  wages  of  his/her  employees  who  are covered  by  the  terms  and  conditions  of  the  concluded Collective Bargaining Agreement and are not members of Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers.
+- (ii) to  pay  within  ten  (10)  days  of  the  deduction,  the  total sums  deducted  by  a  crossed  cheque  made  payable  to Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers into the Union's  account  No.  1822215  at  the  Barclays  Bank  of Kenya Limited, Queensway Branch, Mama Ngina Street, P.O. Box 30011, Nairobi.
+- (iii)  to make returns to the Registrar of Trade Unions at P.O. Box 40326, Nairobi, within one (1) month of making all the payments to the union and to that organization.
 
 Dated the 4th November, 2009.
 
@@ -159,31 +158,35 @@ J. K. MUNYES, Minister for Labour.
 
 GAZETTE NOTICE NO. 12357
 
-THE CRIMINAL PROCEDURE CODE
+## THE CRIMINAL PROCEDURE CODE
 
 ( Cap. 75)
 
-APPOINTMENT
+## APPOINTMENT
 
 IN  EXERCISE of the powers conferred by section  85  (2)  of  the Criminal Procedure Code, the Attorney-General appoints- an  advocate  of  the  High  Court  of  Kenya,  to  be  a  prosecutor  for  the purposes of the case mentioned below and all related proceedings in the High Court and Court of Appeal, whenever they arise, with effect from the 21st August, 2009.
+
+Nairobi Chief Magistrate's Court Criminal Case No. 3559 of 2009. Republic versus Stephen Mungu Mwangi.
+
+Gazette Notice No. 8745 of 2009 is revoked. Dated the 16th November, 2009.
 
 CECIL G. MILLER
 
 GAZETTE NOTICE. NO. 12358
 
-Watson Mahinda
+S. A. WAKO, Attorney-General.
 
 Dated the 13th November , 2009.
 
 GAZETTE NOTICE NO. 12359
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
 ( Cap . 265)
 
-THE NYERI TRADE DEVELOPMENT JOINT BOARD
+## THE NYERI TRADE DEVELOPMENT JOINT BOARD
 
-APPOINTMENT
+## APPOINTMENT
 
 IN  EXERCISE  of  the  powers  conferred  by  paragraph  3  of  the Local  Government  (Nyeri  Trade  Development  Joint  Board)  Order, 1966, upon the Minister for Local Government and in pursuance of a direction given under section 38 (1) of the Interpretation and General Provisions Act (Cap. 2), the Permanent Secretary, Ministry of Trade, appoints-
 
@@ -199,19 +202,30 @@ A. A. ALI, Permanent Secretary, Ministry of Trade.
 
 GAZETTE NOTICE NO. 12360
 
-THE LOCAL GOVERNMENT ACT ( Cap . 265)
+## THE LOCAL GOVERNMENT ACT ( Cap . 265)
 
-THE NYERI MUNICIPALITY TRADE DEVELOPMENT JOINT BOARD
+## THE NYERI MUNICIPALITY TRADE DEVELOPMENT JOINT BOARD
 
-APPOINTMENT
+## APPOINTMENT
 
 IN  EXERCISE  of  the  powers  conferred  by  paragraph  3  of  the Local  Government  (Nyeri  Municipality  Trade  Development  Joint Board) Order, 1966, upon the Minister for Local Government and in
 
-Nairobi Chief Magistrate's Court Criminal Case No. 3559 of 2009. Republic versus Stephen Mungu Mwangi.
+## THE CONSTITUTION OF KENYA
 
-Gazette Notice No. 8745 of 2009 is revoked. Dated the 16th November, 2009.
+## THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT
 
-S. A. WAKO, Attorney-General.
+( Cap. 7)
+
+## THE NATIONAL ASSEMBLY (ELECTION PETITION) RULES APPOINTMENT
+
+IN EXERCISE of the powers conferred by section 60 (5) of the Constitution of Kenya and section 19 of the National Assembly and Presidential Elections  Act,  the  Chief  Justice  of  the  Republic  of  Kenya  appoints  an  Election  Court  comprising  of  Justice  Luka  Kiprotich  Kimaru,  in  place  of Justice Joseph Nyamu, whose appointment is hereby revoked, to hear the election petition whose details are given hereunder in the High Court of Kenya at Nairobi. The Election Court will give directions as to the hearing of the petition during mention thereof on Monday, 7th December, 2009..
+
+| Election Petition      | Petitioner           | Respondents    | Constituency Election Court                     | High Court Station   |
+|------------------------|----------------------|----------------|-------------------------------------------------|----------------------|
+| Nairobi E.P. No. 10/08 | William Gitau Kabogo | 1. George Thuo | Juja The Hon. Mr. Justice Luka Kiprotich Kimaru | Nairobi              |
+
+2. Electoral Commission of Kenya
+3. Watson Mahinda
 
 J. E. GICHERU, Chief Justice.
 
@@ -229,9 +243,9 @@ A. A. ALI, Permanent Secretary, Ministry of Trade.
 
 GAZETTE NOTICE NO. 12361
 
-THE COURT OF APPEAL
+## THE COURT OF APPEAL
 
-CHRISTMAS VACATION
+## CHRISTMAS VACATION
 
 THE Christmas Vacation will commence on 21st December, 2009, and will terminate on 13th January, 2010.
 
@@ -241,87 +255,72 @@ Dated the 11th November, 2009.
 
 M. K. K. SEREM, Deputy Registrar.
 
-THE CONSTITUTION OF KENYA
-
-THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT
-
-( Cap. 7)
-
-THE NATIONAL ASSEMBLY (ELECTION PETITION) RULES APPOINTMENT
-
-IN EXERCISE of the powers conferred by section 60 (5) of the Constitution of Kenya and section 19 of the National Assembly and Presidential Elections  Act,  the  Chief  Justice  of  the  Republic  of  Kenya  appoints  an  Election  Court  comprising  of  Justice  Luka  Kiprotich  Kimaru,  in  place  of Justice Joseph Nyamu, whose appointment is hereby revoked, to hear the election petition whose details are given hereunder in the High Court of Kenya at Nairobi. The Election Court will give directions as to the hearing of the petition during mention thereof on Monday, 7th December, 2009..
-
-Election Petition | Petitioner | Respondents | Constituency Election Court | High Court Station
-Nairobi E.P. No. 10/08 | William Gitau Kabogo | 1. George Thuo | Juja The Hon. Mr. Justice Luka Kiprotich Kimaru | Nairobi
-
-Electoral Commission of Kenya
-
 GAZETTE NOTICE NO. 12362
 
-THE COURT OF APPEAL
+## THE COURT OF APPEAL
 
-COURT CALENDAR FOR THE YEAR 2010
+## COURT CALENDAR FOR THE YEAR 2010
 
-TERM STARTS 14TH JANUARY, 2010
+## TERM STARTS 14TH JANUARY, 2010
 
 NOTICE is given to the general public that the Court of Appeal calendar for the year 2010 will be as hereunder:
 
-January 14th-15th | Nairobi Criminal Appeals
-January 18th-29th | Mombasa
-February 1st-5th | Nairobi Civil Appeals
-February 8th-12th | Nairobi Criminal &Civil Appeals
-Februry 15th-19th | Eldoret
-February 22nd-26th | Nakuru
-March 1st-5th | Nairobi Criminal Appeals
-March 8th-12th | Nairobi Civil Appeals
-March 15th-19th | Kisumu
-March 22nd - 24th | Nairobi Criminal Appeals
-March 25th-Apr. 13th | Easter Vacation
-April 14th-16th | Nairobi Criminal &Civil Appeals
-April 19th-23rd | Nairobi Criminal Appeals
-April 26th-30th | Nairobi Civil Appeals
-May 1st | Labour Day
-May 3rd-7th | Nairobi Civil Appeals
+| January 14th-15th    | Nairobi Criminal Appeals        |
+|----------------------|---------------------------------|
+| January 18th-29th    | Mombasa                         |
+| February 1st-5th     | Nairobi Civil Appeals           |
+| February 8th-12th    | Nairobi Criminal &Civil Appeals |
+| Februry 15th-19th    | Eldoret                         |
+| February 22nd-26th   | Nakuru                          |
+| March 1st-5th        | Nairobi Criminal Appeals        |
+| March 8th-12th       | Nairobi Civil Appeals           |
+| March 15th-19th      | Kisumu                          |
+| March 22nd - 24th    | Nairobi Criminal Appeals        |
+| March 25th-Apr. 13th | Easter Vacation                 |
+| April 14th-16th      | Nairobi Criminal &Civil Appeals |
+| April 19th-23rd      | Nairobi Criminal Appeals        |
+| April 26th-30th      | Nairobi Civil Appeals           |
+| May 1st              | Labour Day                      |
+| May 3rd-7th          | Nairobi Civil Appeals           |
 
-MAY TERM STARTS 14TH JANUARY, 2010
+## MAY TERM STARTS 14TH JANUARY, 2010
 
-May 10th-21st | Nyeri
-May 24th-28th | Nairobi Criminal &Civil Appeals
-May 31st-4th June | Nairobi Criminal Appeals
-June 1st | Madaraka Day
-June 7th-11th | Nairobi Civil Appeals
-June 14th-25th | Kisumu
-June 28th-2nd July | Nairobi Criminal Appeals
-July 5th-9th | Nairobi Civil Appeals
-July 12th-16th | Nairobi Criminal &Civil Appeals
-July 19th-30th | Mombasa
-August 1st-15th Sept. | Summer Vacation
-September 16th-17th | Nairobi Criminal &Civil Appeals
-September 20th-24 | Eldoret
-Sept. 27th-1st Oct. | Nakuru
-October 4th-8th | Nairobi Criminal Appeals
-October 10th | Holiday
-October 12th-15th | Nairobi Civil Appeals
-October 18th-22nd | Nairobi Criminal &Civil Appeals
-October 20th | Kenyatta Day
-Oct. 25th-Nov. 5th | Nyeri
-November 8th-12th | Nairobi Civil Appeals
-November 15th-19th | Nairobi Criminal Appeals
-Nov. 22nd-3rd Dec. | Kisumu
-December 6th-10th | Nairobi Civil Appeals
-December 12th | Jamhuri Day
-December 14th-20th | Nairobi Criminal &Civil Appeals
-21st December, 2010 to 13th | January, 2011. Christmas Vacation
+| May 10th-21st               | Nyeri                             |
+|-----------------------------|-----------------------------------|
+| May 24th-28th               | Nairobi Criminal &Civil Appeals   |
+| May 31st-4th June           | Nairobi Criminal Appeals          |
+| June 1st                    | Madaraka Day                      |
+| June 7th-11th               | Nairobi Civil Appeals             |
+| June 14th-25th              | Kisumu                            |
+| June 28th-2nd July          | Nairobi Criminal Appeals          |
+| July 5th-9th                | Nairobi Civil Appeals             |
+| July 12th-16th              | Nairobi Criminal &Civil Appeals   |
+| July 19th-30th              | Mombasa                           |
+| August 1st-15th Sept.       | Summer Vacation                   |
+| September 16th-17th         | Nairobi Criminal &Civil Appeals   |
+| September 20th-24           | Eldoret                           |
+| Sept. 27th-1st Oct.         | Nakuru                            |
+| October 4th-8th             | Nairobi Criminal Appeals          |
+| October 10th                | Holiday                           |
+| October 12th-15th           | Nairobi Civil Appeals             |
+| October 18th-22nd           | Nairobi Criminal &Civil Appeals   |
+| October 20th                | Kenyatta Day                      |
+| Oct. 25th-Nov. 5th          | Nyeri                             |
+| November 8th-12th           | Nairobi Civil Appeals             |
+| November 15th-19th          | Nairobi Criminal Appeals          |
+| Nov. 22nd-3rd Dec.          | Kisumu                            |
+| December 6th-10th           | Nairobi Civil Appeals             |
+| December 12th               | Jamhuri Day                       |
+| December 14th-20th          | Nairobi Criminal &Civil Appeals   |
+| 21st December, 2010 to 13th | January, 2011. Christmas Vacation |
 
 M. K. K. SEREM, Deputy Registrar
 
-.
-
 GAZETTE NOTICE NO. 12363
 
-THE HIGH COURT OF KENYA
+## THE HIGH COURT OF KENYA
 
-CHRISTMAS VACATION, 2009
+## CHRISTMAS VACATION, 2009
 
 THE Christmas Vacation of the High Court of Kenya, other than in the  Coast  Province,  shall  commence  on  21st  December,  2009  and terminate on 13th January, 2010 both days inclusive.
 
@@ -333,6 +332,8 @@ A  judge  will  hear  urgent  civil  matters  if  admitted  to  hearing  on appl
 
 During the vacation, the offices of the High Court, elsewhere than at Mombasa and Malindi, shall be open to the public from 8.45 a.m. to 12 noon on all weekdays other than public holidays. The offices of the
 
+.
+
 High Court at Mombasa and Malindi, shall be open to the public from 8.00 a.m. to 12.30 p.m. on all weekdays, other than public holidays.
 
 All courts shall be closed on public holidays.
@@ -343,33 +344,13 @@ Criminal cases will, in all Surbodinate Courts, be heard as usual. Civil  suits 
 
 Dated the 17th November, 2009.
 
-L. A. ACHODE, Registrar, High Court of Kenya, Nairobi.
-
-GAZETTE NOTICE NO. 12364
-
-THE MARRIAGE ACT
-
-( Cap. 150)
-
-APPOINTMENT
-
-IN  EXERCISE  of  the  powers  conferred  by  section  5  of  the Marriage Act, and in pursuance of a delegation of such powers* under section  38  (1)  of  the  Interpretation  and  General  Provisions  Act,  the Registrar-General appoints-
-
-CHARLES KIPRONO LABOSO-( District Commissioner)
-
-to be District Registrar of Marriages for Mumias District.
-
-Dated the 13th October, 2009.
-
-B. W. GACHEGU, Registrar-General.
-
 GAZETTE NOTICE NO. 12365
 
-THE MARRIAGE ACT
+## THE MARRIAGE ACT
 
 ( Cap. 150)
 
-APPOINTMENT
+## APPOINTMENT
 
 IN  EXERCISE  of  the  powers  conferred  by  section  5  of  the Marriage Act, and in pursuance of a delegation of such powers* under section  38  (1)  of  the  Interpretation  and  General  Provisions  Act,  the Registrar-General hereby appoints-
 
@@ -383,17 +364,37 @@ B. W. GACHERU, Registrar-General.
 
 GAZETTE NOTICE NO. 12366
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
+## THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
 
-ISSUE OF A PROVISIONAL CERTIFICATE
+## ISSUE OF A PROVISIONAL CERTIFICATE
 
 WHEREAS Stephen Wachira Gitonga, of P.O. Box 65747-00607, Nairobi in the Republic of Kenya, is the registered proprietor of that piece of land known as L.R. No. 3577/32, situate in the east of Kiambu Municipality in the district of Kiambu, by virtue of a certificate of title registered as I.R. 112411/1, and whereas sufficient evidence has been adduced to show that the said certificate of title issued thereof has been lost, notice is given that after the expiration of ninety (90) days from the date hereof, I shall issue a provisional certificate of title provided that no objection has been received within that period.
 
 Dated the 20th November, 2009.
 
+L. A. ACHODE, Registrar, High Court of Kenya, Nairobi.
+
+GAZETTE NOTICE NO. 12364
+
+## THE MARRIAGE ACT
+
+( Cap. 150)
+
+## APPOINTMENT
+
+IN  EXERCISE  of  the  powers  conferred  by  section  5  of  the Marriage Act, and in pursuance of a delegation of such powers* under section  38  (1)  of  the  Interpretation  and  General  Provisions  Act,  the Registrar-General appoints-
+
+CHARLES KIPRONO LABOSO-( District Commissioner)
+
+to be District Registrar of Marriages for Mumias District.
+
+Dated the 13th October, 2009.
+
+B. W. GACHEGU, Registrar-General.
+
 GAZETTE NOTICE NO. 12367
 
-THE REGISTRATION OF TITLES ACT
+## THE REGISTRATION OF TITLES ACT
 
 ( Cap. 281, section 71)
 
@@ -407,7 +408,7 @@ C. N. KITUYI, Registrar of Titles, Nairobi.
 
 GAZETTE NOTICE NO. 12368
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71) ISSUE OF A PROVISIONAL CERTIFICATE
+## THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71) ISSUE OF A PROVISIONAL CERTIFICATE
 
 WHEREAS  Salim  Abdalla  (ID/4644952),  of  P.O.  Box  244280100, Nairobi in the Republic of Kenya, is the registered proprietor in fee  simple  of  that  piece  of  land  known  as  L.R.  No.  2565/VI/MN, situate within Mombasa Municipality in the district of Mombasa, held by a certificate of title registered as C.R. 2360, and whereas sufficient evidence  has  been  adduced  to  show  that  the  said  certificate  of  title issued thereof has been lost, notice is given that after the expiration of ninety  (90)  days  from  the  date  hereof,  I  shall  issue  a  provisional certificate of title provided that no objection has been received within that period.
 
@@ -417,7 +418,7 @@ R. M. INGONGA, Registrar of Titles, Mombasa.
 
 GAZETTE NOTICE NO. 12369
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
+## THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
 
 ISSUE OF A PROVISIONAL CERTIFICATE
 
@@ -429,7 +430,7 @@ R. M. INGONGA, Registrar of Titles, Mombasa.
 
 GAZETTE NOTICE NO. 12370
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
+## THE REGISTRATION OF TITLES ACT ( Cap. 281, section 71)
 
 ISSUE OF A PROVISIONAL CERTIFICATE
 
@@ -441,9 +442,9 @@ R. M. INGONGA, Registrar of Titles, Mombasa.
 
 GAZETTE NOTICE NO. 12371
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281)
+## THE REGISTRATION OF TITLES ACT ( Cap. 281)
 
-REGISTRATION OF INSTRUMENT
+## REGISTRATION OF INSTRUMENT
 
 WHEREAS  Jaswinder  Singh  Juttla,  executor  of  the  estate  of Mohinder Suri, of P.O. Box 48302, Nairobi in the Republic of Kenya is  registered  proprietor  lessee  of  that  piece  of  land  containing  1.038 acres or thereabout, known as L.R. No. 4275/44, situate in the city of Nairobi, held under certificate of title registered as I.R. 20635/1, and whereas the said Jaswinder Singh Suri, has executed an instrument of assent  in  favour  of  the  Gurmeet  Singh  Suri,  and  whereas  affidavits have been filled in terms of section 65 (1) ( h ) of the said Act, declaring that  the  said  certificate  of  title  registered  as  No.  I.R  20635/1  is  not available  for  registration,  notice  is  given  that  after  the  expiration  of fourteen  (14)  days  from  the  date  hereof  provided  that  no  valid objection  has  been  received  within  that  period,  I  intend  to  dispense with the production of the said certificate of title and proceed with the registration of the said instrument of assent.
 
@@ -453,9 +454,9 @@ C. N. KITUYI, Registrar of Titles, Nairobi.
 
 GAZETTE NOTICE NO. 12372
 
-THE REGISTRATION OF TITLES ACT ( Cap. 281)
+## THE REGISTRATION OF TITLES ACT ( Cap. 281)
 
-REGISTRATION OF INSTRUMENT
+## REGISTRATION OF INSTRUMENT
 
 WHEREAS G. Criticos and Company Limited, a limited liability company incorporated in Kenya  having its registered office at Ruiru, of  P.O.  Box  121,  Ruiru  in  the  Republic  of  Kenya  is  registered proprietor  lessee  of  that  piece  of  land  containing  1787  acres  or thereabout, known as L.R. No. 10090/14, situate in the south west of Thika  Township,  held  under  lease  registered  as  I.R.  17894/1,  and whereas the said G. Criticos and Company Limited, has executed an instrument of transfer in favour of Hydro Developer Limited, a limited liability company incorporated in Kenya having its registered office at Nairobi, of P.O. Box 38729-006006, and whereas affidavits have been filled in terms of section 65 (1) ( h ) of the said Act, declaring that the said lease registered as No. I.R 17894/1 is not available for registration,  notice  is  given  that  after  the  expiration  of  fourteen  (14) days  from  the  date  hereof  provided  that  no  valid  objection  has  been received within that period, I intend to dispense with the production of the said lease and proceed with the registration of the said instrument of transfer.
 
@@ -465,7 +466,7 @@ F. I. LUBULELLAH, Registrar of Titles, Nairobi.
 
 GAZETTE NOTICE NO. 12373
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -479,7 +480,7 @@ R. M. INGONGA, Land Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12374
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -493,11 +494,11 @@ R. M. INGONGA, Land Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12375
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
-WHEREAS  Edwin  Otieno  Ochola,  of  P.O  Box  48919-00100, Nairobi  in  the  Republic  of  Kenya,  is  registered  as  proprietor  in absolute ownership interest of those pieces of land containing 0.4047, 0.4047  &  0.2667  hectare  or  thereabouts,  situate  in  the  district  of Kisumu,  registered  under  title  Nos.  Kisumu/Kogony/3310,  3311and 3312, respectively, and whereas sufficient evidence has been adduced to show that the land title deeds issued thereof have been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall  issue  new  land  title  deeds  provided  that  no  objection  has  been received within that period.
+WHEREAS  Edwin  Otieno  Ochola,  of  P.O  Box  48919-00100, Nairobi  in  the  Republic  of  Kenya,  is  registered  as  proprietor  in absolute ownership interest of those pieces of land containing 0.4047, 0.4047  &amp;  0.2667  hectare  or  thereabouts,  situate  in  the  district  of Kisumu,  registered  under  title  Nos.  Kisumu/Kogony/3310,  3311and 3312, respectively, and whereas sufficient evidence has been adduced to show that the land title deeds issued thereof have been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall  issue  new  land  title  deeds  provided  that  no  objection  has  been received within that period.
 
 Dated the 20th November, 2009.
 
@@ -505,7 +506,7 @@ R. W. NGAANYI, Land Registrar, Kisumu East/Kisumu West/Nyando Districts.
 
 GAZETTE NOTICE NO. 12376
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -517,11 +518,9 @@ Dated the 20th November, 2009.
 
 W. N. MUGURO, Land Registrar,
 
-Nakuru District.
-
 GAZETTE NOTICE NO. 12377
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -529,11 +528,13 @@ WHEREAS Paul Kipsang arap Munai (ID/1764351), of P.O. Box 64,  Litein  in  the  
 
 Dated the 20th November, 2009.
 
+Nakuru District.
+
 M. SUNGU, Land Registrar, Nakuru District.
 
 GAZETTE NOTICE NO. 12378
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -543,11 +544,9 @@ Dated the 20th November, 2009.
 
 G. O. NYANGWESO, Land Registrar,
 
-Nakuru District.
-
 GAZETTE NOTICE NO. 12379
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -556,14 +555,12 @@ WHEREAS  Kama  Ndungu,  of  P.O.  Box  409,  Naivasha  in  the Republic of  Keny
 Dated the 20th November, 2009.
 
 W. N. MUGURO, Land Registrar,
-
-Nakuru District.
 
 GAZETTE NOTICE NO. 12380
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  Kama  Ndungu,  of  P.O.  Box  409,  Naivasha  in  the Republic of  Kenya,  is  registered  as  proprietor  in  absolute  ownership interest  of  that  piece  of  land  containing  2.02  hectares  or  thereabout, situate in the district of Nakuru, registered under title No. Kijabe/Kijabe Block 1/643, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -571,11 +568,9 @@ Dated the 20th November, 2009.
 
 W. N. MUGURO, Land Registrar,
 
-Nakuru District.
-
 GAZETTE NOTICE NO. 12381
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -587,11 +582,17 @@ D. K. NYANTIKA, Land Registrar,
 
 Nakuru District.
 
+Nakuru District.
+
+Nakuru District.
+
+Nakuru District.
+
 GAZETTE NOTICE NO. 12382
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  Milton  Kamau  Mbugua  (ID/0742838),  of  P.O.  Box 509,  Molo  in  the  Republic  of  Kenya,  is  registered  as  proprietor  in absolute  ownership  interest  of  that  piece  of  land  containing  0.0452 hectare  or  thereabouts,  situate  in  the  district  of  Nakuru,  registered under title No.  Mau  Summit/Molo  Block  7/1675,  and  whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -599,13 +600,11 @@ Dated the 20th November, 2009.
 
 W. N. MUGURO, Land Registrar,
 
-Nakuru District.
-
 GAZETTE NOTICE NO. 12383
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Njoroge Muchami (ID/0993884/63), of P.O. Box 63, Molo in the Republic of Kenya, is registered as proprietor in absolute ownership interest of that piece of land containing 0.0410 hectare or thereabouts, situate in the district of Nakuru, registered under title No. Mau Summit/Block 5/428, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -615,7 +614,7 @@ W. N. MUGURO, Land Registrar, Nakuru District.
 
 GAZETTE NOTICE NO. 12384
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -623,25 +622,27 @@ WHEREAS Geoffrey Mbugua Gikanga, is registered as proprietor in absolute ownersh
 
 Dated the 20th November, 2009.
 
-M. SUNGU, Land Registrar, Nakuru District.
-
 GAZETTE NOTICE NO. 12385
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  Samwel Chege Kibiego, of P.O. Box 8372, Eldoret in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  4.05  hectares  or thereabout, situate in the district of Uasin Gishu, registered under title No. Kipsinende/Kipsinende Block 7(Kongasis)/16, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
 Dated the 20th November, 2009.
 
+M. SUNGU, Land Registrar, Nakuru District.
+
+Nakuru District.
+
 W. K. SIRMA, Land Registrar, Eldoret.
 
 GAZETTE NOTICE NO. 12386
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Kipkoech arap Soi, of P.O. Box 102, Kericho in the Republic of  Kenya,  is  registered  as  proprietor  in  absolute  ownership interest  of  that  piece  of  land  containing  0.37  hectare  or  thereabouts, situate in the district of Kericho, registered under title No. Kericho/Kabianga/2788,  and  whereas  sufficient  evidence  has  been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -653,9 +654,9 @@ Kericho/Bureti Districts.
 
 GAZETTE NOTICE NO. 12387
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Kipkoech arap Soi, of P.O. Box 102, Kericho in the Republic of  Kenya,  is  registered  as  proprietor  in  absolute  ownership interest  of  that  piece  of  land  containing  0.42  hectare  or  thereabouts, situate in the district of Kericho, registered under title No. Kericho/Kabianga/2786,  and  whereas  sufficient  evidence  has  been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -665,7 +666,7 @@ S. R. KAMBAGA, Land Registrar, Kericho/Bureti Districts.
 
 GAZETTE NOTICE NO. 12388
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -677,7 +678,7 @@ M. O. MOGARE, Land Registrar, Kisii/Gucha Districts.
 
 GAZETTE NOTICE NO. 12389
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -689,7 +690,7 @@ H. S. W. MUSUMIAH, Land Registrar, Kilifi/Kaloleni/Malindi Districts.
 
 GAZETTE NOTICE NO. 12390
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -703,7 +704,7 @@ A. T. KARANI, Land Registrar, Kilifi/Kaloleni/Malindi Districts.
 
 GAZETTE NOTICE NO. 12391
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -715,7 +716,7 @@ H. S. W. MUSUMIAH, Land Registrar, Kilifi/Kaloleni/Malindi Districts.
 
 GAZETTE NOTICE NO. 12392
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -731,7 +732,7 @@ Nyandarua District.
 
 GAZETTE NOTICE NO. 12393
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -753,11 +754,9 @@ WHEREAS James Waweru Munyiri, of P.O. Box 17354, Nakuru in  the  Republic  of  K
 
 Dated the 20th November, 2009.
 
-J. T. BAO, Land Registrar, Nyeri District.
-
 GAZETTE NOTICE NO. 12395
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -771,7 +770,7 @@ F. M. O. MAKORI, Land Registrar, Busia/Teso Districts.
 
 GAZETTE NOTICE NO. 12396
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
@@ -782,8 +781,6 @@ WHEREAS John Mbugua Ngobe (ID/7334477/70),  of  P.O.  Box 47105, Nairobi in the 
 Dated the 20th November, 2009.
 
 J. K. NJOROGE, Land Registrar,
-
-Kajiado District.
 
 GAZETTE NOTICE NO. 12397
 
@@ -797,11 +794,15 @@ Dated the 20th November, 2009.
 
 D. M. KYULE, Land Registrar, Kajiado District.
 
+J. T. BAO, Land Registrar, Nyeri District.
+
+Kajiado District.
+
 GAZETTE NOTICE NO. 12398
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Simon Saberu Lepish, of P.O. Box 391, Kiserian in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  0.405  hectare  or thereabouts, situate in the district of Kajiado, registered under title No. Kajiado/Kitengela/25333,  and  whereas  sufficient  evidence  has  been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -811,9 +812,9 @@ D. M. KYULE, Land Registrar, Kajiado District.
 
 GAZETTE NOTICE NO. 12399
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Charles Nyadui, of P.O. Box 44598-00100, Nairobi in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  0.1  hectare  or thereabouts, situate in the district of Kajiado, registered under title No. Ngong/Ngong/22339, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -823,9 +824,9 @@ W. N. NYABERI, Land Registrar, Kajiado District.
 
 GAZETTE NOTICE NO. 12400
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS George  Montet,  of  P.O.  Box  43466,  Nairobi  in  the Republic of  Kenya,  is  registered  as  proprietor  in  absolute  ownership interest of that piece of land containing 13.33 hectares or thereabout, situate in the district of Kajiado, registered under title No. Ngong/Ngong/15256, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -835,7 +836,7 @@ W. N. NYABERI, Land Registrar, Kajiado District.
 
 GAZETTE NOTICE NO. 12401
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -849,9 +850,9 @@ Kiambu District.
 
 GAZETTE NOTICE NO. 12402
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Peter Mbugua Kageni, of P.O. Box 17103, Nakuru in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  0.054  hectare  or thereabouts, situate in the district of Kiambu, registered under title No. Dagoretti/Kinoo/T.576,  and  whereas  sufficient  evidence  has  been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -861,9 +862,9 @@ J. K. NDIRANGU, Land Registrar, Kiambu District.
 
 GAZETTE NOTICE NO. 12403
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Magdalene Wangari Gichinga (ID/3136062), of P.O. Box 902, Limuru in the Republic of Kenya, is registered as proprietor in  absolute  ownership  interest  of  that  piece  of  land  containing  0.104 hectare  or  thereabouts,  situate  in  the  district  of  Kiambu,  registered under title No. Limuru/Bibirioni/T.601, and whereas sufficient evidence  has  been  adduced  to  show  that  the  land  title  deed  issued thereof has been lost, notice is given that after the expiration of sixty (60)  days  from  the  date  hereof,  I  shall  issue  a  new  land  title  deed provided that no objection has been received within that period.
 
@@ -871,13 +872,11 @@ Dated the 20th November, 2009.
 
 J. K. NDIRANGU, Land Registrar,
 
-Kiambu District.
-
 GAZETTE NOTICE NO. 12404
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Francis Njoroge Gatarwa, of P.O. Box 1000-01000, Thika in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  15.2  hectares  or thereabout,  situate  in  the  district  of  Thika,  registered  under  title  No. Chania/Mataara/423B,  and  whereas  sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -887,9 +886,9 @@ C. M. GICHUKI, Land Registrar, Thika District.
 
 GAZETTE NOTICE NO. 12405
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Patrick Chege Njoroge, of P.O. Box 25, Gituamba in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  0.405  hectare  or thereabouts, situate in the district of Thika, registered under title No. Chania/Mataara/2206, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -897,9 +896,11 @@ Dated the 20th November, 2009.
 
 C. M. GICHUKI, Land Registrar, Thika District.
 
+Kiambu District.
+
 GAZETTE NOTICE NO. 12406
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -911,7 +912,7 @@ C. M. GICHUKI, Land Registrar, Thika District.
 
 GAZETTE NOTICE NO. 12407
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -921,23 +922,19 @@ Dated the 20th November, 2009.
 
 S. W. KARIUKI, Land Registrar,
 
-Thika District.
-
 GAZETTE NOTICE NO. 12408
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Joseph Richard Njenga, is registered as proprietor in absolute  ownership  interest  of  that  piece  of  land  containing  0.8056 hectare or thereabouts, situate in the district of Thika, registered under title No. Ruiru/Ruiru East Block 3/766, and whereas  sufficient evidence  has  been  adduced  to  show  that  the  land  title  deed  issued thereof has been lost, notice is given that after the expiration of sixty (60)  days  from  the  date  hereof,  I  shall  issue  a  new  land  title  deed provided that no objection has been received within that period.
 
 Dated the 20th November, 2009.
 
-P. M. KIHIU, Land Registrar, Thika District.
-
 GAZETTE NOTICE NO. 12409
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
 ISSUE OF A NEW LAND TITLE DEED
 
@@ -947,11 +944,15 @@ Dated the 20th November, 2009.
 
 I. N. KAMAU, Land Registrar, Thika District.
 
+P. M. KIHIU, Land Registrar, Thika District.
+
+Thika District.
+
 GAZETTE NOTICE NO. 12410
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Francis Kariuki Muiruri, of  P.O.  Box  459,  Thika  in the Republic of Kenya, is registered as proprietor in absolute ownership  interest  of  that  piece  of  land  containing  0.10  hectare  or thereabouts, situate in the district of Thika, registered under title No. Chania/Makwa/T.132,  and  whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -959,13 +960,11 @@ Dated the 20th November, 2009.
 
 I. N. KAMAU, Land Registrar,
 
-Thika District.
-
 GAZETTE NOTICE NO. 12411
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Anthony Murithi Nthigai (ID/9702334), is registered as  proprietor  in  absolute  ownership  interest  of  that  piece  of  land containing 0.365 hectare or thereabouts, situate in the district of Meru, registered  under  title  No.  Nkuene/Taita/947,  and  whereas  sufficient evidence  has  been  adduced  to  show  that  the  land  title  deed  issued thereof has been lost, notice is given that after the expiration of sixty (60)  days  from  the  date  hereof,  I  shall  issue  a  new  land  title  deed provided that no objection has been received within that period.
 
@@ -973,13 +972,11 @@ Dated the 20th November, 2009.
 
 D. M. KAMANJA, Land Registrar,
 
-Meru District.
-
 GAZETTE NOTICE NO. 12412
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  M'Ithirai  M'Nkabo  (ID/8870185),  is  registered  as proprietor in absolute ownership  interest of that piece of land containing 0.48 hectare or thereabouts, situate in the district of Meru, registered under title No. Abogeta/L-Chure/621, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -989,9 +986,9 @@ P. M. MUTEGI, Land Registrar, Meru District.
 
 GAZETTE NOTICE NO. 12413
 
-THE REGISTERED LAND ACT ( Cap. 300, section 35)
+## THE REGISTERED LAND ACT ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS Gad Ndumia Wahome (ID/0980993), is registered as proprietor in absolute ownership  interest of that piece of land containing 4.455 hectares or thereabout, situate in the district of Meru, registered under title No. Abogeta/Nkachie/690, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -999,15 +996,19 @@ Dated the 20th November, 2009.
 
 D. M. KAMANJA, Land Registrar,
 
+Thika District.
+
+Meru District.
+
 Meru District.
 
 GAZETTE NOTICE NO. 12414
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  M'Nkoroi  M'Kobia  (ID/2447198),  is  registered  as proprietor in absolute ownership  interest of that piece of land containing 7.4 hectares or thereabout, situate  in  the  district  of  Meru, registered under title No. Abothuguchi/Igane/41, and whereas sufficient evidence has been adduced to show that the land title deed issued thereof has been lost, notice is given that after the expiration of sixty (60) days from the date hereof, I shall issue a new land title deed provided that no objection has been received within that period.
 
@@ -1017,23 +1018,25 @@ D. M. KAMANJA, Land Registrar, Meru District.
 
 GAZETTE NOTICE NO. 12415
 
-THE REGISTERED LAND ACT
+## THE REGISTERED LAND ACT
 
 ( Cap. 300, section 35)
 
-ISSUE OF A NEW LAND TITLE DEED
+## ISSUE OF A NEW LAND TITLE DEED
 
 WHEREAS  Christine  Adhiambo  Odhiambo,  is registered as proprietor in absolute ownership  interest of that piece of land containing 0.04 hectare or thereabouts, situate in the district of Siaya, registered under title No. Uholo/Ugunja/2299, and whereas sufficient evidence  has  been  adduced  to  show  that  the  land  title  deed  issued thereof has been lost, notice is given that after the expiration of sixty (60)  days  from  the  date  hereof,  I  shall  issue  a  new  land  title  deed provided that no objection has been received within that period.
 
 Dated the 20th November, 2009.
 
+GAZETTE NOTICE NO. 12418
+
 P. A. NYANJA, Land Registrar, Siaya District.
 
 GAZETTE NOTICE NO. 12416
 
-THE REGISTERED LAND ACT ( Cap. 300, section 16)
+## THE REGISTERED LAND ACT ( Cap. 300, section 16)
 
-OPENING OF A NEW REGISTER
+## OPENING OF A NEW REGISTER
 
 WHEREAS Charles Karuku Kariuki (ID/11270799), of P.O. Box 125, Kiserian in the Republic of Kenya, is registered as proprietor in absolute  ownership  interest  of  that  piece  of  land  containing  0.04 hectare  or  thereabouts,  situate  in  the  district  of  Kajiado,  registered under  title  No.  Kajiado/Olchoro  Onyore/6169,  and  whereas  the  first edition  of  the  land  register  showing  aforesaid  ownership  is  lost,  and whereas  sufficient  evidence  has  been  adduced  to  show  the  said ownership  and  loss,  notice  is  given  that  I  shall  open    a  new  land register  after  the  expiration  of  sixty  (60)  days  from  the  date  hereof, provided that no objection has been received within that period.
 
@@ -1043,57 +1046,77 @@ W. N. NYABERI, Land Registrar, Kajiado Distict.
 
 GAZETTE NOTICE NO. 12417
 
-THE REGISTERED LAND ACT ( Cap . 300, section 33)
+## THE REGISTERED LAND ACT ( Cap . 300, section 33)
 
-REGISTRATION OF INSTRUMENT
+## REGISTRATION OF INSTRUMENT
 
 WHEREAS Mary Akinyi Onyango, of P.O. Box 1, Mutumbu in the  Republic  of  Kenya,  is  registered  proprietor  of  that  piece  of  land known as  North  Gem/Malanga/1505,  situate  in  the  district  of  Siaya, and  whereas  the  senior  resident  magistrate's  court  at  Siaya,  has ordered  that  the  said  piece  of  land  be  transferred  to  Mary  Akinyi Onyango, and whereas the executive officer of the said court executed on instrument of transfer of the said piece of land in favour of Mary Akinyi Onyango,  and whereas all efforts made  to compel  the registered proprietor to surrender the land title deed issued in respect of the said piece of land to the registrar have failed, notice is given that after the expiration of thirty (30) days from the date hereof, provided no  valid  objection  has  been  received  within  that  period,  I  intend  to dispense  with  the  production  of  the  said  land  title  deed  and  proceed with registration of the said instrument of transfer and issue a land title deed to the said Mary Akinyi Onyango, and upon such registration the land title deed issued earlier to the said Mary Akinyi Onyango, shall be deemed to be cancelled and of no effect.
 
 Dated the 20th November, 2009.
 
-P.A. NYANJA, Land Registrar, Siaya District
-
-GAZETTE NOTICE NO. 12418
-
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that after thirty (30) days from the date of this Gazette, and unless cause be shown to the contrary, I intend to apply to the High Court at Nairobi for representation of the estates of the persons named in the second column of the schedule hereto, who died on the dates respectively set forth against their names.
 
 And further take notice that all persons having any claims against or interests in the estates of the said deceased persons are required to prove such claims or interests before me within two (2) months from the date of this Gazette, after which date the claims and interests are proved will be paid and satisfied and the several estates distributed according to law.
 
-SCHEDULE
+## SCHEDULE
 
-PT/Cause No. | Deceased's Name | Address | Date of Death | Testate-Intestate
-260/2009 | Alice Gesare Okworo | P.O. Box 19285-00501, Nairobi | 10-11-2005 | Intestate
-149/2009 | Andrew Tajiri Leturkan | P.O. Box 322, Maralal | 19-7-2006 | Intestate
-270/2008 | Benson Mumbu Nthiwa | P.O. Box 148, Athi River | 25-9-2007 | Intestate
-350/81 | Disman Kuta Amakaka | P.O. Box 1923, Kisumu | 15-5-80 | Intestate
-351/2008 | Dorothy Adupa Ekuom | P.O. Box 75, Lodwar | 5-4-2002 | Intestate
-457/2009 | Ezekiel Mucheru Kamau | P.O. Box 75857-00200, Nairobi | 24-3-2007 | Intestate
-315/2009 | Fatuma Hassan Osman | P.O. Box 144, Wajir | 14-4-2004 | Intestate
-389/2009 | Francis Kamau Gathi | P.O. Box 647, Thika | 13-12-2008 | Intestate
-232/2009 | Francis Mburu Mathu | P.O. Box 970, Thika | 22-9-2004 | Intestate
-238/2009 | Fredrick Adero Odiyo | P.O. Box 3, Mbita | 17-7-2008 | Intestate
-288/99 | George Mungai Karanja | P.O. Box 57, Maimahiu | 20-6-98 | Intestate
-271/2009 | Griffas Nambiro Onjoro | P.O. Box 18666-00500, Nairobi | 11-8-92 | Intestate
-1581/2006 | James Mwenda Munyua | P.O. Box 88, Magutuni | 1-11-2003 | Intestate
-441/2009 | Jane Njeri Nguyo | P.O. Box 11217-00100, Nairobi | 28-9-2006 | Intestate
-454/2009 | Jane Wambui | P.O. Box 35278-00200, Nairobi | 15-2-2001 | Intestate
-483/2008 | Johana Lekolua | P.O. Box 166, Maralal | 9-2-2004 | Intestate
+| PT/Cause No.   | Deceased's Name        | Address                       | Date of Death   | Testate-Intestate   |
+|----------------|------------------------|-------------------------------|-----------------|---------------------|
+| 260/2009       | Alice Gesare Okworo    | P.O. Box 19285-00501, Nairobi | 10-11-2005      | Intestate           |
+| 149/2009       | Andrew Tajiri Leturkan | P.O. Box 322, Maralal         | 19-7-2006       | Intestate           |
+| 270/2008       | Benson Mumbu Nthiwa    | P.O. Box 148, Athi River      | 25-9-2007       | Intestate           |
+| 350/81         | Disman Kuta Amakaka    | P.O. Box 1923, Kisumu         | 15-5-80         | Intestate           |
+| 351/2008       | Dorothy Adupa Ekuom    | P.O. Box 75, Lodwar           | 5-4-2002        | Intestate           |
+| 457/2009       | Ezekiel Mucheru Kamau  | P.O. Box 75857-00200, Nairobi | 24-3-2007       | Intestate           |
+| 315/2009       | Fatuma Hassan Osman    | P.O. Box 144, Wajir           | 14-4-2004       | Intestate           |
+| 389/2009       | Francis Kamau Gathi    | P.O. Box 647, Thika           | 13-12-2008      | Intestate           |
+| 232/2009       | Francis Mburu Mathu    | P.O. Box 970, Thika           | 22-9-2004       | Intestate           |
+| 238/2009       | Fredrick Adero Odiyo   | P.O. Box 3, Mbita             | 17-7-2008       | Intestate           |
+| 288/99         | George Mungai Karanja  | P.O. Box 57, Maimahiu         | 20-6-98         | Intestate           |
+| 271/2009       | Griffas Nambiro Onjoro | P.O. Box 18666-00500, Nairobi | 11-8-92         | Intestate           |
+| 1581/2006      | James Mwenda Munyua    | P.O. Box 88, Magutuni         | 1-11-2003       | Intestate           |
+| 441/2009       | Jane Njeri Nguyo       | P.O. Box 11217-00100, Nairobi | 28-9-2006       | Intestate           |
+| 454/2009       | Jane Wambui            | P.O. Box 35278-00200, Nairobi | 15-2-2001       | Intestate           |
+| 483/2008       | Johana Lekolua         | P.O. Box 166, Maralal         | 9-2-2004        | Intestate           |
+
+P.A. NYANJA, Land Registrar, Siaya District
+
+| 456/2009   | John Gathumbogo           | P.O. Box 215, Kiambu          | 7-12-2007   | Intestate   |
+|------------|---------------------------|-------------------------------|-------------|-------------|
+| 404/2008   | John Nderitu Mwangi       | P.O. Box 83, Nakuru           | 12-2-2008   | Intestate   |
+| 228/2009   | John Wambugu Kairu        | P.O. Box 71, Githunguri       | 19-1-2009   | Intestate   |
+| 388/2009   | Joseph Chege Gachathi     | P.O. Box 103, Kitui           | 4-7-2009    | Intestate   |
+| 452/2009   | Judy Muthoni Wanyoike     | P.O. Box 530, Thika           | 28-3-2006   | Intestate   |
+| 533/2002   | Kepha Osoro Ongera        | P.O. Box 376, Kisii           | 18-4-2002   | Intestate   |
+| 465/2009   | Kiplangat arap Mibei      | P.O. Box 320-20406, Sotik     | 25-2-2009   | Intestate   |
+| 522/80     | Lucas Etyang' Imalata     | P.O. Box 30083, Nairobi       | 6-2-78      | Intestate   |
+| 548/2008   | Mary Esther Opino Wendo   | P.O. Box 19002-00501, Nairobi | 22-12-2002  | Intestate   |
+| 348/2009   | Mary Wanja Mathe          | P.O. Box 51648-00200, Nairobi | 17-7-2006   | Intestate   |
+| 648/2008   | Mary Wanjiru Kamau        | P.O. Box 22294-00400, Nairobi | 29-1-2007   | Intestate   |
+| 723/2008   | Naboth Omondi Osiru       | P.O. Box 4437-00100, Nairobi  | 18-8-2006   | Intestate   |
+| 665/2003   | Nicholas Mwashimba Mkimbo | P.O. Box 13547-00100, Nairobi | 2-2-2000    | Intestate   |
+| 281/2009   | Peter Njonjo Muturi       | P.O. Box 66823-00800, Nairobi | 14-4-2009   | Intestate   |
+| 452/2008   | Robert Ndegwa Macharia    | P.O. Box 10, Githunguri       | 30-10-2005  | Intestate   |
+| 675/2003   | Shamallah Samuel Murila   | P.O. Box 17150-0150, Nairobi  | 23-9-2000   | Intestate   |
+| 431/2009   | Stephen Martin Mutuli     | P.O. Box 42239-00100, Nairobi | 22-5-2008   | Intestate   |
+| 48/2006    | Teresa Kagure Wang'ondu   | P.O. Box 79433-00200, Nairobi | 31-3-2000   | Intestate   |
+| 37/98      | Veronica Wanjiru Njoroge  | P.O. Box 72661, Nairobi       | 11-7-96     | Intestate   |
 
 Nairobi,
 
-GAZETTE NOTICE NO. 12419
+## GAZETTE NOTICE NO. 12419
 
-IN THE HIGH COURT OF KENYA AT NAIROBI PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT NAIROBI PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 1542 OF 2008
+## CAUSE NO. 1542 OF 2008
 
-By Gideon Rimone Nkoyo, of P.O. Box 54603-00200, Nairobi in Kenya,  the  deceased's  son,  through  Messrs.  Gathuumbi  &  Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Joseph Kaiyare ole Nkoyo alias Kaiyare ole Nkoyo, late of Narok, who died there on 12th February, 1976.
+By Gideon Rimone Nkoyo, of P.O. Box 54603-00200, Nairobi in Kenya,  the  deceased's  son,  through  Messrs.  Gathuumbi  &amp;  Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Joseph Kaiyare ole Nkoyo alias Kaiyare ole Nkoyo, late of Narok, who died there on 12th February, 1976.
 
-CAUSE NO. 50 OF 2009
+## CAUSE NO. 50 OF 2009
 
 By (1) Ruth Wambui Kamau  and (2) Paul Mwangi Kamau, both of  P.O.  Box  109, Kiserian in Kenya, the deceased's widow and son, respectively,  for  a  grant  of  letters  of  administration  intestate  to  the estate of Phillip Kamau Keru, late of Umoja, Nakuru, who died there on 31st August, 2005.
 
@@ -1101,141 +1124,121 @@ The Court will proceed to issue the same unless cause be shown to the contrary a
 
 Dated the 3rd August, 2009.
 
+## GAZETTE NOTICE NO. 12420
+
+## IN THE HIGH COURT OF KENYA AT NAIROBI
+
+## PROBATE AND ADMINISTRATION
+
+TAKE NOTICE that applications having been made in this court in:
+
+## CAUSE NO. 391 OF 2009
+
+By (1)  Tabitha  Wanjiku  Njege  and  (2)  James  Mucheru  Gicheru, both of P.O. Box 10002, Nairobi in Kenya, the deceased's widow and son, respectively, for a grant of letters of administration intestate to the estate of Jackson Gicheru Macharia alias Njege, late of Murang'a, who died at Nairobi, on 11th October, 1992.
+
+## CAUSE NO. 1362 OF 2009
+
+By (1) Philip Ben Olago Odeny, (Dr.)  and (2) Cyprian Agumba Odeny,  both  of  P.O.  Box  50424,  Nairobi  in  Kenya,  the  deceased's brothers, through Messrs. Meshack Okoth Obuma &amp; Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Regina Alouch Obuya, late of Kadoro, Kisumu, who died there on 8th February, 1995.
+
 J. E. RAGOT,
 
 Principal Deputy Registrar, Nairobi.
 
-GAZETTE NOTICE NO. 12420
-
-IN THE HIGH COURT OF KENYA AT NAIROBI
-
-PROBATE AND ADMINISTRATION
-
-TAKE NOTICE that applications having been made in this court in:
-
-CAUSE NO. 391 OF 2009
-
-By (1)  Tabitha  Wanjiku  Njege  and  (2)  James  Mucheru  Gicheru, both of P.O. Box 10002, Nairobi in Kenya, the deceased's widow and son, respectively, for a grant of letters of administration intestate to the estate of Jackson Gicheru Macharia alias Njege, late of Murang'a, who died at Nairobi, on 11th October, 1992.
-
-CAUSE NO. 1362 OF 2009
-
-By (1) Philip Ben Olago Odeny, (Dr.)  and (2) Cyprian Agumba Odeny,  both  of  P.O.  Box  50424,  Nairobi  in  Kenya,  the  deceased's brothers, through Messrs. Meshack Okoth Obuma & Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Regina Alouch Obuya, late of Kadoro, Kisumu, who died there on 8th February, 1995.
-
 M. N. NJUYA, for Public Trustee.
 
-CAUSE NO. 1547 OF 2009
+## CAUSE NO. 1547 OF 2009
 
 By  (1)  Martha  Habel  and  (2)  riscilla  Kifoto,  both  of  P.O.  Box 62770-00200, Nairobi in Kenya, the deceased's widow and sister-inlaw, respectively, for a grant of letters of administration intestate to the estate of David Kirugi Mutiria, late of Kinungi, who died at Gilgil, on 9th June, 2009.
 
-CAUSE NO. 1778 OF 2009
+## CAUSE NO. 1778 OF 2009
 
-By (1) Jane Njeri Murigi and (2) Samuel Nduati Murigi, both of P.O.  Box  763,  Thika  in  Kenya,  the  deceased's  widow  and  son, respectively, through Messrs. Wachira Nderitu, Ngugi & Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Nahashon Murigi Nduati, late of Gakarara, who died at Gakarara Sub-location, on 16th July, 2008.
+By (1) Jane Njeri Murigi and (2) Samuel Nduati Murigi, both of P.O.  Box  763,  Thika  in  Kenya,  the  deceased's  widow  and  son, respectively, through Messrs. Wachira Nderitu, Ngugi &amp; Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of Nahashon Murigi Nduati, late of Gakarara, who died at Gakarara Sub-location, on 16th July, 2008.
 
-CAUSE NO. 1813 OF 2009
+## CAUSE NO. 1813 OF 2009
 
-By  (1)  Patrick  Gitonga  Muguku  and  (2)  Moses  Maina  Muguku, both  of  P.O.  Box  75210-00200,  Nairobi  in  Kenya,  the  deceased's sons, through Messrs. Maina Nyangana & Co., advocates of Nairobi, for  a  grant  of  letters  of  administration  intestate  to  the  estate  of Christopher  Muguku  Kibinge,  late  of  Kiambu  District,  who  died  at P.C.E.A.,  Kikuyu Hospital in Kenya, on 15th August, 1992.
+By  (1)  Patrick  Gitonga  Muguku  and  (2)  Moses  Maina  Muguku, both  of  P.O.  Box  75210-00200,  Nairobi  in  Kenya,  the  deceased's sons, through Messrs. Maina Nyangana &amp; Co., advocates of Nairobi, for  a  grant  of  letters  of  administration  intestate  to  the  estate  of Christopher  Muguku  Kibinge,  late  of  Kiambu  District,  who  died  at P.C.E.A.,  Kikuyu Hospital in Kenya, on 15th August, 1992.
 
-CAUSE NO. 1816 OF 2009
+## CAUSE NO. 1816 OF 2009
 
 By Anne Wambui Ndegwa, of P.O. Box 45018, Nairobi in Kenya, the deceased's widow, for a grant of letters of administration intestate to  the  estate  of  James  Kamari Ndegwa, late of Kiambu, who died at Gikambura, on 7th May, 2002.
 
-CAUSE NO. 1844 OF 2009
+## CAUSE NO. 1844 OF 2009
 
 By (1) Hillary Lemoiko Sokoto and (2) Regina Naimando Sokoto, both of P.O. Box 72860-00200, Nairobi in Kenya, the deceased's son and  daughter,  respectively,  for  a  grant  of  letters  of  administration intestate to the estate of Mary Wambui Sokoto, late of Kajiado, who died at St. Mary's Mission Hospital in Kenya, on 13th August, 2002.
 
-CAUSE NO. 1868 OF 2009
+## CAUSE NO. 1868 OF 2009
 
 By  Meremia  Juma,  of  P.O.  Box  3804-00100,  Nairobi  in  Kenya, the deceased's widow, for a grant of letters of administration intestate to the estate of Yusuf Mohammed Said, late of Nairobi, who died there on 21st March, 1989.
 
-CAUSE NO. 1885 OF 2009
+## CAUSE NO. 1885 OF 2009
 
-By (1) Andrew Unda Banks and (2) Freida Wairimu Banks, both of  P.O.  Box  87665,  Mombasa  in  Kenya,  the  executor  and  executrix named in the  deceased's  last  will,  through  Messrs.  Shiganga  &  Co., advocates of  Nairobi, for a grant of probate of written will of Lloyd George Banks alias Lloyd George K. Banks, late of Kisauni, Mombasa, who died at Coast Provincial General Hospital in Kenya, on 1st March, 2000.
+By (1) Andrew Unda Banks and (2) Freida Wairimu Banks, both of  P.O.  Box  87665,  Mombasa  in  Kenya,  the  executor  and  executrix named in the  deceased's  last  will,  through  Messrs.  Shiganga  &amp;  Co., advocates of  Nairobi, for a grant of probate of written will of Lloyd George Banks alias Lloyd George K. Banks, late of Kisauni, Mombasa, who died at Coast Provincial General Hospital in Kenya, on 1st March, 2000.
 
-456/2009 | John Gathumbogo | P.O. Box 215, Kiambu | 7-12-2007 | Intestate
-404/2008 | John Nderitu Mwangi | P.O. Box 83, Nakuru | 12-2-2008 | Intestate
-228/2009 | John Wambugu Kairu | P.O. Box 71, Githunguri | 19-1-2009 | Intestate
-388/2009 | Joseph Chege Gachathi | P.O. Box 103, Kitui | 4-7-2009 | Intestate
-452/2009 | Judy Muthoni Wanyoike | P.O. Box 530, Thika | 28-3-2006 | Intestate
-533/2002 | Kepha Osoro Ongera | P.O. Box 376, Kisii | 18-4-2002 | Intestate
-465/2009 | Kiplangat arap Mibei | P.O. Box 320-20406, Sotik | 25-2-2009 | Intestate
-522/80 | Lucas Etyang' Imalata | P.O. Box 30083, Nairobi | 6-2-78 | Intestate
-548/2008 | Mary Esther Opino Wendo | P.O. Box 19002-00501, Nairobi | 22-12-2002 | Intestate
-348/2009 | Mary Wanja Mathe | P.O. Box 51648-00200, Nairobi | 17-7-2006 | Intestate
-648/2008 | Mary Wanjiru Kamau | P.O. Box 22294-00400, Nairobi | 29-1-2007 | Intestate
-723/2008 | Naboth Omondi Osiru | P.O. Box 4437-00100, Nairobi | 18-8-2006 | Intestate
-665/2003 | Nicholas Mwashimba Mkimbo | P.O. Box 13547-00100, Nairobi | 2-2-2000 | Intestate
-281/2009 | Peter Njonjo Muturi | P.O. Box 66823-00800, Nairobi | 14-4-2009 | Intestate
-452/2008 | Robert Ndegwa Macharia | P.O. Box 10, Githunguri | 30-10-2005 | Intestate
-675/2003 | Shamallah Samuel Murila | P.O. Box 17150-0150, Nairobi | 23-9-2000 | Intestate
-431/2009 | Stephen Martin Mutuli | P.O. Box 42239-00100, Nairobi | 22-5-2008 | Intestate
-48/2006 | Teresa Kagure Wang'ondu | P.O. Box 79433-00200, Nairobi | 31-3-2000 | Intestate
-37/98 | Veronica Wanjiru Njoroge | P.O. Box 72661, Nairobi | 11-7-96 | Intestate
-
-CAUSE NO. 1892 OF 2009
+## CAUSE NO. 1892 OF 2009
 
 By Martha Wangechi Njau, of P.O. Box 58593-00200, Nairobi in Kenya, the deceased's daughter, for a grant of letters of administration intestate  to  the  estate  of  Jane  Wanjiku  Njau,  late  of  Kirinyaga,  who died at Kenyatta National Hospital in Kenya, on 23rd July, 1999.
 
-CAUSE NO. 1902 OF 2009
+## CAUSE NO. 1902 OF 2009
 
-By Nayna Vinod Dhakan, of P.O. Box 10435-00400, Nairobi in Kenya, the deceased's widow, through Messrs. Okao & Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of  Vinod  Odhavji  Porostam  Dhakan,  late  of  Nairobi,  who  died  at Mumbai, on 22nd April, 2009.
+By Nayna Vinod Dhakan, of P.O. Box 10435-00400, Nairobi in Kenya, the deceased's widow, through Messrs. Okao &amp; Co., advocates of Nairobi, for a grant of letters of administration intestate to the estate of  Vinod  Odhavji  Porostam  Dhakan,  late  of  Nairobi,  who  died  at Mumbai, on 22nd April, 2009.
 
-CAUSE NO. 1917 OF 2009
+## CAUSE NO. 1917 OF 2009
 
 By Amos Mwaura Njoroge, of P.O. Box 61618-00200, Nairobi in Kenya,  the  deceased's  son,  for  a  grant  of  letters  of  administration intestate  to  the  estate  of  Herbert  Njoroge  Wanyoike,  late  of  Kiambu District,  who  died  at  District  Hospital,  Kiambu  in  Kenya,  on  2nd December, 2007.
 
-CAUSE NO. 1918 OF 2009
+## CAUSE NO. 1918 OF 2009
 
 By Amos Mwaura Njoroge, of P.O. Box 61618-00200, Nairobi in Kenya,  the  deceased's  son,  for  a  grant  of  letters  of  administration intestate  to  the  estate  of  Hannah  Wanjiru  Njoroge,  late  of  Kiambu District, who died at Kimathi, Kairi, on 9th February, 2002.
 
-CAUSE NO. 1944 OF 2009
+## CAUSE NO. 1944 OF 2009
 
-By  George  Kimani  Muthoni,  of  P.O.  Box  77154,  Nairobi  in Kenya,  the  deceased's  brother,  through  Messrs.  Mose,  Mose  & Millimo, advocates of Nairobi, for a grant of letters of administration intestate  to  the  estate  of  Alfred  Githuka  Wambugu  alias  Alfred Githuka, late of Murang'a, who died at Kenyatta National Hospital in Kenya, on 20th October, 1979.
+By  George  Kimani  Muthoni,  of  P.O.  Box  77154,  Nairobi  in Kenya,  the  deceased's  brother,  through  Messrs.  Mose,  Mose  &amp; Millimo, advocates of Nairobi, for a grant of letters of administration intestate  to  the  estate  of  Alfred  Githuka  Wambugu  alias  Alfred Githuka, late of Murang'a, who died at Kenyatta National Hospital in Kenya, on 20th October, 1979.
 
-CAUSE NO. 1945 OF 2009
+## CAUSE NO. 1945 OF 2009
 
 By (1)  Wilson  Maina  Macharia  and  (2)  Laura  Njambi  Macgoye, both  of  P.O.  Box  49765,  Nairobi  in  Kenya,  the  deceased's  widower and  daughter,  respectively,  for  a  grant  of  letters  of  administration intestate to the estate of Grace Njeri Maina, late of Nairobi, who died at Kenyatta National Hospital in Kenya, on 28th September, 1999.
 
-CAUSE NO. 1948 OF 2009
+## CAUSE NO. 1948 OF 2009
 
-By Satwinder Singh Reel, of P.O. Box 41052, Nairobi in Kenya, the  executor  named  in  the  deceased's  last  will,  through  Messrs. Muthaura Mugambi Ayugi & Njonjo, advocates of Nairobi, for a grant of probate of the last will of Harbans Kaur Reel, late of Nairobi, who died at Nairobi  Hospital in Kenya, on 11th May, 2009.
+By Satwinder Singh Reel, of P.O. Box 41052, Nairobi in Kenya, the  executor  named  in  the  deceased's  last  will,  through  Messrs. Muthaura Mugambi Ayugi &amp; Njonjo, advocates of Nairobi, for a grant of probate of the last will of Harbans Kaur Reel, late of Nairobi, who died at Nairobi  Hospital in Kenya, on 11th May, 2009.
 
-CAUSE NO. 1949 OF 2009
+## CAUSE NO. 1949 OF 2009
 
 By  (1)  Sarah  Wangui  Karanja  and  (2)  Samwel  Mbiriri  Karanja, both of P.O. Box 61, Ngong Hills in Kenya, the deceased's widow and son, respectively, for a grant of letters of administration intestate to the estate  of  Karanja  Mbereri  alias  Herman  Karanja  Mbereri,  late  of Kajiado,  who  died  at  Kenyatta  National  Hospital  in  Kenya,  on  10th March, 1997.
 
-CAUSE NO. 1951 OF 2009
+## CAUSE NO. 1951 OF 2009
 
-By  (1)  Mirabeau  Humberto  Da  Gama  Rose  and  (2)  Desterio Oyatsi, both of P.O. Box 40286-00100, Nairobi in Kenya, the lawful Attorneys of (1) Jean Beryl Mornington Chandler and (2) John Ernest Fox,  the  executors  and  trustees  of  the  deceased,  through  Messrs. Shaplay Barret & Co., advocates of Nairobi, for resealing a grant of probate  of  the  will  issued  by  the  High  Court  of  Justice  in  District Probate  Registry  at  Winchester,  on  22nd  June,  2004  to  the  estate  of Gordon  Mountford  Chandler,  late  of  England  and  Wales,  who  died there on 27th October, 2003.
+By  (1)  Mirabeau  Humberto  Da  Gama  Rose  and  (2)  Desterio Oyatsi, both of P.O. Box 40286-00100, Nairobi in Kenya, the lawful Attorneys of (1) Jean Beryl Mornington Chandler and (2) John Ernest Fox,  the  executors  and  trustees  of  the  deceased,  through  Messrs. Shaplay Barret &amp; Co., advocates of Nairobi, for resealing a grant of probate  of  the  will  issued  by  the  High  Court  of  Justice  in  District Probate  Registry  at  Winchester,  on  22nd  June,  2004  to  the  estate  of Gordon  Mountford  Chandler,  late  of  England  and  Wales,  who  died there on 27th October, 2003.
 
-CAUSE NO. 1956 OF 2009
+## CAUSE NO. 1956 OF 2009
 
-By  Raghbir  Singh  Cheema  alias  Raghbir  Singh,  of  58,  Worton Way,  Isleworth,  Middlesex,  TW7  4AT  in  the  United  Kingdom,  the executor named in the deceased's will, through Messrs. Raikundalia & Co., advocates of Nairobi, for resealing a grant of probate of the will issued  by  the  Principal  Registry  of  the  Family  Division  in  the  High Court of Justice in the United Kingdom of Great Britain and Wales, on 30th March, 2009 to the estate of Piara Sing Sohan Singh Gopal Singh
+By  Raghbir  Singh  Cheema  alias  Raghbir  Singh,  of  58,  Worton Way,  Isleworth,  Middlesex,  TW7  4AT  in  the  United  Kingdom,  the executor named in the deceased's will, through Messrs. Raikundalia &amp; Co., advocates of Nairobi, for resealing a grant of probate of the will issued  by  the  Principal  Registry  of  the  Family  Division  in  the  High Court of Justice in the United Kingdom of Great Britain and Wales, on 30th March, 2009 to the estate of Piara Sing Sohan Singh Gopal Singh
 
 Cheema  alias  Piara  Singh  s/o  Sohan  Singh  Cheema,  late  of  United Kingdom, who died there on 6th July, 2007.
 
-CAUSE NO. 1970 OF 2009
+## CAUSE NO. 1970 OF 2009
 
-By Mary Njambi Njonge, of P.O. Box 25377, Nairobi in Kenya, the  deceased's  widow,  through  Messrs.  Gadhia  &  Mucheru  &  Co., advocate of Nairobi, for a grant of letters of administration intestate to the  estate  of  Peter  Njoroge  Mwongi,  late  of  Nairobi,  who  died  at Kawangware, on 24th July, 2008.
+By Mary Njambi Njonge, of P.O. Box 25377, Nairobi in Kenya, the  deceased's  widow,  through  Messrs.  Gadhia  &amp;  Mucheru  &amp;  Co., advocate of Nairobi, for a grant of letters of administration intestate to the  estate  of  Peter  Njoroge  Mwongi,  late  of  Nairobi,  who  died  at Kawangware, on 24th July, 2008.
 
-CAUSE NO. 1994 OF 2009
+## CAUSE NO. 1994 OF 2009
 
 By  (1)  Margaret  Layton  Downey,  of  P.O.  Box  15051-00509, Nairobi  in  Kenya  and  (2)  Peter  David  Belford  Walker,  of  P.O.  Box 66025-00800, Nairobi in Kenya, the executor named in the deceased's last  will,  through  Messrs.  P.  D.  B.  Walker,  advocate,  for  a  grant  of probate of the last will of Cynthia Nzoia Downey alias Bertha Mary Cynthia Nzoia Downey, late of Nairobi, who died at Karen Hospital in Kenya, on 21st August, 2009.
 
-CAUSE NO. 1997 OF 2009
+## CAUSE NO. 1997 OF 2009
 
 By  Yusuph  Makwaya  Matagurwa,  of  P.O.  Box  116,  Ngong  in Kenya, the deceased's widower, for a grant of letters of administration intestate to the estate of Sarah Anana Nangura alias Sarah Anana ene Nangurai,  late  of  Kajiado  District,  who  died  at  Kinondoni  Hospital, Dar-es-salaam, Tanzania, on 1st February, 2005.
 
-CAUSE NO. 2005 OF 2009
+## CAUSE NO. 2005 OF 2009
 
-By  Robert  Mbuii  Munye,  of  P.O.  Box  71960-00622,  Nairobi  in Kenya,  the  deceased's  son,  through  Messrs.  Kinyanjui  &  Njau, advocates of Nairobi, for a grant of letters of administration intestate to the estate of Holida Nyakarago, late of Kiambu, who died at Kenyatta National Hospital in Kenya, on 8th  February, 2008.
+By  Robert  Mbuii  Munye,  of  P.O.  Box  71960-00622,  Nairobi  in Kenya,  the  deceased's  son,  through  Messrs.  Kinyanjui  &amp;  Njau, advocates of Nairobi, for a grant of letters of administration intestate to the estate of Holida Nyakarago, late of Kiambu, who died at Kenyatta National Hospital in Kenya, on 8th  February, 2008.
 
-CAUSE NO. 2006 OF 2009
+## CAUSE NO. 2006 OF 2009
 
-By  Teresiah  Mbugua,  of  P.O.  Box  44048-00100,  Nairobi  in Kenya, the deceased's widow, through Messrs. Kabiru &  Co., advocates of Nairobi, for a grant of letters of administration intestate to the  estate  of  James  Mbugua  Karumbo,  late  of  Kiambu  District,  who died at Karuri Sub-location, on 18th February, 2008.
+By  Teresiah  Mbugua,  of  P.O.  Box  44048-00100,  Nairobi  in Kenya, the deceased's widow, through Messrs. Kabiru &amp;  Co., advocates of Nairobi, for a grant of letters of administration intestate to the  estate  of  James  Mbugua  Karumbo,  late  of  Kiambu  District,  who died at Karuri Sub-location, on 18th February, 2008.
 
-CAUSE NO. 2008 OF 2009
+## CAUSE NO. 2008 OF 2009
 
-By (1) Joseph Mboya Awino, of P.O. Box 28076-00200, Nairobi in  Kenya,  and  (2)  Branden  Stuart  Schield,  of  1788,  Malvern  Street, Lauderdale, Minnesota, 55113-5237, U.S.A., the executors named in the  deceased  last  will,  through  Messrs.  Michael  Owuor  &  Co., advocates of Nairobi, for a grant of probate of will of Patricia Signe Schield, late of America, who died at Olomouc City Czech Republic, on 22nd August 2008.
+By (1) Joseph Mboya Awino, of P.O. Box 28076-00200, Nairobi in  Kenya,  and  (2)  Branden  Stuart  Schield,  of  1788,  Malvern  Street, Lauderdale, Minnesota, 55113-5237, U.S.A., the executors named in the  deceased  last  will,  through  Messrs.  Michael  Owuor  &amp;  Co., advocates of Nairobi, for a grant of probate of will of Patricia Signe Schield, late of America, who died at Olomouc City Czech Republic, on 22nd August 2008.
 
 Dated the 3rd November, 2009.
 
@@ -1245,43 +1248,43 @@ Principal Deputy Registrar, Nairobi.
 
 Note.The  wills  mentioned  above  have  been  deposited  in  and  are open to inspection at the court.
 
-GAZETTE NOTICE NO. 12421
+## GAZETTE NOTICE NO. 12421
 
-IN THE HIGH COURT OF KENYA AT MACHAKOS
+## IN THE HIGH COURT OF KENYA AT MACHAKOS
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 162 OF 2009
+## CAUSE NO. 162 OF 2009
 
 By Daudi Kitolo Mule, of P.O. Box 91, Kindaruma in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate  of  Mule  Kitolo,  late  of  Kithangaini,  who  died  there  on  7th January, 2008.
 
-CAUSE NO. 238 OF 2008
+## CAUSE NO. 238 OF 2008
 
 By Rodah Mueni Mutuku, of P.O. Box 1030, Kangundo in Kenya, the deceased's daugher-in-law, for a grant of letters of administration intestate  to  the  estate  of  Thomas  Munyao  Mbaki,  late  of  Kyelendu, who died at Mbilini Sub-location, on 26th September, 1977.
 
-CAUSE NO. 359 OF 2009
+## CAUSE NO. 359 OF 2009
 
 By David Munyao Wambua, of P.O. Box 103, Kondo in Kenya, the deceased's citor, for a grant of letters of administration intestate to the estate of John Muthusi Kathenge, late of Kithimani, who died there on 30th October, 1992.
 
-CAUSE NO. 652 OF 2009
+## CAUSE NO. 652 OF 2009
 
 By Patrick  Ngei  Muinde,  of  P.O.  Box  162,  Machakos  in  Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of Nthambi Muinde Ngei, late of Mutituni, who died there on 10th August, 2006.
 
-CAUSE NO. 774 OF 2009
+## CAUSE NO. 774 OF 2009
 
 By (1) Rosemary Wanziku and (2) Charles Mututu Naftali, both of P.O. Box 1026, Kangundo in Kenya, the deceased's widow and son, for a grant of letters of administration intestate to the estate of Naftali Mumo, late of Kangundo, who died at St. Mary's Hospital in Kenya, on 18th November, 2007.
 
-CAUSE NO. 835 OF 2009
+## CAUSE NO. 835 OF 2009
 
 By (1) Rebecca Kamanthe Musau and (2) David Kilembo Musau, both  of  P.O.  Box  974,  Machakos  in  Kenya,  the  deceased's  daughter and son, respectively, for a grant of letters of administration intestate to the estate of Monicah Mbeneka Kakui alias Mbeneka Kakui, late of Kitanga, who died on 14th April, 2009.
 
-CAUSE NO. 876 OF 2009
+## CAUSE NO. 876 OF 2009
 
 By (1) David Mutie Mbai and (2) Samson Musyoki Nguta, both of P.O.  Box  9,  Nunguni  in  Kenya,  the  deceased's  sons,  for  a  grant  of letters of administration intestate to the estate of Charles Nguta, late of Mbai,  who  died  at  District  Hospital,  Kajiado    in  Kenya,  on  25th November, 1996.
 
-CAUSE NO. 907 OF 2009
+## CAUSE NO. 907 OF 2009
 
 By John Muendo Kalili, both of P.O. Box 69, Machakos in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of Esther Syokau, late of Miwani, Kiitini Location, who died there on 25th May, 1999.
 
@@ -1293,45 +1296,45 @@ E. G. NDERITU,
 
 Deputy Registrar, Machakos.
 
-GAZETTE NOTICE NO. 12422
+## GAZETTE NOTICE NO. 12422
 
-IN THE HIGH COURT OF KENYA AT MACHAKOS PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT MACHAKOS PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 545 OF 2009
+## CAUSE NO. 545 OF 2009
 
 By Fidelis Muendi Mbithuka, of P.O. Box 98, Ukia in Kenya, the deceased's widow, for a grant of letters of administration intestate to the estate of Thomas Mbithuka Mbondo, late of Makueni, who died at Kenyatta National  Hospital in Kenya, on 8th July, 2008.
 
-CAUSE NO. 697 OF 2009
+## CAUSE NO. 697 OF 2009
 
 By Andrew Ndambuki Nzau, of P.O. Box 321, Kikima in Kenya, the deceased's son, for a grant of letters of administration intestate to the  estate  of  Simon  Muli  Nzau,  late  of  Mavindu,  who  died  at Machakos, on 17th August, 2005.
 
-CAUSE NO. 803 OF 2009
+## CAUSE NO. 803 OF 2009
 
 By  Veronica  Nthenya  Musoli,  of  P.O.  Box  301,  Machakos  in Kenya, the deceased's widow, for a grant of letters of administration intestate to the estate of Musoli Mumo Lumba, late of Lukenya, who died there on 28th April, 1989.
 
-CAUSE NO. 901 OF 2009
+## CAUSE NO. 901 OF 2009
 
 By  (1)  Clement  Musyoka,  (2)  Chris  Musyoka  and  (3)  Steve Musyoka,  all  of  P.O.  Box  19,  Athi  River  in  Kenya,  the  deceased's sons,  for  a  grant  of  letters  of  administration  intestate  to  the  estate  of Eunice Ndunge Ndunda, late, of Athi River, who died there.
 
-CAUSE NO. 909 OF 2009
+## CAUSE NO. 909 OF 2009
 
 By Evans Maweu  Makunga, of P.O. Box 19, Machakos  in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of Gideon Makunga Masemo, late of Kilome, who died at Machakos Hospital in Kenya. on 19th  June, 2009.
 
-CAUSE NO. 910 OF 2009
+## CAUSE NO. 910 OF 2009
 
 By Patrick Musyoki Ngundo, of P.O. Box 66-90115, Kangundo in Kenya,  the  deceased's  son,  for  a  grant  of  letters  of  administration intestate to the estate of Ngundo Muli, late of Iia-itune, who died there on 2nd September, 1993.
 
-CAUSE NO. 918 OF 2009
+## CAUSE NO. 918 OF 2009
 
 By James Maluu Kiilu, of P.O. Box 1132-90200, Kitui in Kenya, the deceased's widow, for a grant of letters of administration intestate to  the  estate  of  Fredinamuseveki  Maluu,  late  of  Kyangwithia  West, who died  at Machakos, on 11th June, 2008.
 
-CAUSE NO. 928 OF 2009
+## CAUSE NO. 928 OF 2009
 
 By (1) Peter Wambua Joel and (2) Annah Nduume Malove, both of P.O.  Box  364,  Machakos  in  Kenya,  the  deceased's  son  and  widow, respectively,  for  a  grant  of  letters  of  administration  intestate  to  the estate  of  Joel  Malove  Wambua,  late  of  Mitaboni,  who  died    at Machakos, on 17th May, 1979.
 
-CAUSE NO. 913 OF 2009
+## CAUSE NO. 913 OF 2009
 
 By Amina Hassan Musueni, of P.O. Box 2688-00200, Nairobi in Kenya, the deceased's widow, for a grant of letters of administration intestate to the estate of Hassan D. Shaji Museni, late of Kilimani, who died at Aga Khan Hospital in Kenya, on 15th July, 2008.
 
@@ -1345,13 +1348,13 @@ Deputy Registrar, Machakos.
 
 GAZETTE NOTICE NO. 12423
 
-IN THE HIGH COURT OF KENYA AT ELDORET PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT ELDORET PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that an application having been made in this court in:
 
-CAUSE NO. 252 OF 2009
+## CAUSE NO. 252 OF 2009
 
-By  Peninah  Sitienei,  of  P.O.  Box  8263,  Eldoret  in  Kenya,  the deceased's daughter, through Messrs. Birech, Ruto & Co., advocates of  Eldoretfor  a  grant  of  letters  of  administration  with  written  will annexed to the estate of Miriam Jebolem, who died on 13th July, 2009.
+By  Peninah  Sitienei,  of  P.O.  Box  8263,  Eldoret  in  Kenya,  the deceased's daughter, through Messrs. Birech, Ruto &amp; Co., advocates of  Eldoretfor  a  grant  of  letters  of  administration  with  written  will annexed to the estate of Miriam Jebolem, who died on 13th July, 2009.
 
 The Court will proceed to issue the same unless cause be shown to the contrary and appearance in this respect entered within thirty (30) days from the date of publication of this notice in the Kenya Gazette.
 
@@ -1363,17 +1366,17 @@ Note.The will mentioned above have been deposited in and is open to inspection a
 
 GAZETTE NOTICE NO. 12424
 
-IN THE HIGH COURT OF KENYA AT ELDORET
+## IN THE HIGH COURT OF KENYA AT ELDORET
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 223 OF 2009
+## CAUSE NO. 223 OF 2009
 
-By (1) William Ngetich Keino, (2) Paul Kibiwot Ngelechei and (3) David Korir, of P.O. Box 2172, Eldoret in Kenya, the deceased's sons, through  Messrs.  Kimaru  Kiplagat  &  Co.,  advocates,  for  a  grant  of letters  of  administration  intestate  to  the  estate  of  Kipkeino  arap Maritim, late of Sokyot Kipkaren, who died there on 9th June, 1987.
+By (1) William Ngetich Keino, (2) Paul Kibiwot Ngelechei and (3) David Korir, of P.O. Box 2172, Eldoret in Kenya, the deceased's sons, through  Messrs.  Kimaru  Kiplagat  &amp;  Co.,  advocates,  for  a  grant  of letters  of  administration  intestate  to  the  estate  of  Kipkeino  arap Maritim, late of Sokyot Kipkaren, who died there on 9th June, 1987.
 
-CAUSE NO. 303 OF 2009
+## CAUSE NO. 303 OF 2009
 
 By (1) Joseph Ndegwa Wahome and (2) Samson Njoroge Waiyai, both  of  P.O.  Box  6897,  Eldoret  in  Kenya,  for  a  grant  of  letters  of administration intestate to the estate of Walter Wahome Matiru, who died at Moi Teaching and Referral Hospital, on 22nd September, 2009.
 
@@ -1385,35 +1388,35 @@ GRACE M'MASI,
 
 Deputy Registrar, Eldoret.
 
-GAZETTE NOTICE NO. 12425
+## GAZETTE NOTICE NO. 12425
 
-IN THE HIGH COURT OF KENYA AT ELDORET
+## IN THE HIGH COURT OF KENYA AT ELDORET
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 144 OF 2009
+## CAUSE NO. 144 OF 2009
 
-By (1) Sarah Kamarei, (2) Mary Jerop Kurgat and (3) Ismael K. Kamarei,  all  of  P.O.  Box  3049,  Eldoret  in  Kenya,  the  deceased's daughters and grandson, through Messrs. Birech, Ruto &  Co., advocates, for a grant of letters of administration intestate to the estate of  Soti  Kiptolil  Kiptongen  alias  Tamurei  Kiptolil  Kiptongen,  late  of Keiyo, who died on at Kamwosor, on 9th October, 1988.
+By (1) Sarah Kamarei, (2) Mary Jerop Kurgat and (3) Ismael K. Kamarei,  all  of  P.O.  Box  3049,  Eldoret  in  Kenya,  the  deceased's daughters and grandson, through Messrs. Birech, Ruto &amp;  Co., advocates, for a grant of letters of administration intestate to the estate of  Soti  Kiptolil  Kiptongen  alias  Tamurei  Kiptolil  Kiptongen,  late  of Keiyo, who died on at Kamwosor, on 9th October, 1988.
 
-CAUSE NO. 279 OF 2009
+## CAUSE NO. 279 OF 2009
 
 By Jane Chepchirchir Bii, of P.O. Box 2966, Eldoret in Kenya, for a  grant  of  letters  of  administration  intestate  to  the  estate  of  John Munga Malakwen, who died at Moi Teaching and Referral Hospital in Kenya, on 4th November, 1999.
 
-CAUSE NO. 307 OF 2009
+## CAUSE NO. 307 OF 2009
 
 By Nicanor Kiplimo Chumo, of P.O. Box 809, Eldoret in Kenya, the deceased's father, for a grant of letters of administration intestate to  the  estate  of  David  Kibet  Limo,  who  died  at  Moi  Teaching  and Referral Hospital in Kenya, on 22nd September, 2007.
 
-CAUSE NO. 310 OF 2009
+## CAUSE NO. 310 OF 2009
 
 By (1) Paulo Kirwa and (2) Wilson Kipkemboi, both of P.O. Box 990-30100, Eldoret in Kenya, for a grant of letters of administration intestate to the estate of Kimaru Maina, who died on 19th December, 2008.
 
-CAUSE NO. 311 OF 2009
+## CAUSE NO. 311 OF 2009
 
 By Joan Toiyoi Cherop, of P.O. Box 490-30100, Eldoret in Kenya, for a grant of letters of administration intestate to the estate of Wilson Chepkeitany Cherop, who died on 26th August, 2009.
 
-CAUSE NO. 314 OF 2009
+## CAUSE NO. 314 OF 2009
 
 By  (1)  Noah  Chebochok  Kosgei  and  (2)  Edward  Kipchirchir Kosgei, both of P.O. Box 5623, Eldoret in Kenya, for a grant of letters of administration intestate to the estate of Cheruiyot arap Koske, who died  at  Moi  Teaching  and  Referral  Hospital  in  Kenya,  on  24th November, 2007.
 
@@ -1427,57 +1430,57 @@ Deputy Registrar, Eldoret.
 
 GAZETTE NOTICE NO. 12426
 
-IN THE HIGH COURT OF KENYA AT MERU PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT MERU PROBATE AND ADMINISTRATION
 
 TAKE NOTICE that applications having been made in this court in:
 
-CAUSE NO. 162 OF 2009
+## CAUSE NO. 162 OF 2009
 
-By  George  M.  Ithinji,  of  P.O.  Box  54,  Nkubu  in  Kenya,  the deceased's son, through Messrs. Gichunge Muthuri & Co., advocates, for  a  grant  of  letters  of  administration  intestate  to  the  estate  of
+By  George  M.  Ithinji,  of  P.O.  Box  54,  Nkubu  in  Kenya,  the deceased's son, through Messrs. Gichunge Muthuri &amp; Co., advocates, for  a  grant  of  letters  of  administration  intestate  to  the  estate  of
 
 M'Ithinji  Rutere,  late  of  Igoki,  who  died  at  Chogoria  Hospital  in Kenya, on 27th  March, 1993.
 
-CAUSE NO. 315 OF 2009
+## CAUSE NO. 315 OF 2009
 
 By Japhet Kimonye Mugambi, of P.O. Box 703, Meru in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of M'Mbogori M'Mugambi, late of Meru Central, who died at Mater Hospital in Kenya, on 10th January, 2009.
 
-CAUSE NO. 316 OF 2009
+## CAUSE NO. 316 OF 2009
 
 By Rose Kanyata M'Tweruciu, of P.O. Box 703, Meru in Kenya, the deceased's daughter-in-law, for a grant of letters of administration intestate to the estate of M'Ncheri M'Itire, late of Meru District, who died at Kiirua Location, on 18th February, 1989.
 
-CAUSE NO. 317 OF 2009
+## CAUSE NO. 317 OF 2009
 
 By John M'Mukiri M'Mururu, of P.O. Box 686, Meru in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of M'Mururu M'Ithinyai alias Mururu Ithinyai, late of Meru, who died at Meru Hospital in Kenya, on 14th February, 1999.
 
-CAUSE NO. 365 OF 2009
+## CAUSE NO. 365 OF 2009
 
 By Andrew Gikunda Mwongo, of P.O. Box 703, Meru in Kenya, the deceased's son, for a grant of letters of administration intestate to the estate of Rufus Mwongo M'Arigo alias Rufus Mwongo Arigo alias Mugongo  s/o  Ariungu  alias  Rufas  M'Mwongo  M'Arigo  alias  Rufas Mwongo M'Arigo, late of Meru, who died at District Hospital, Meru in Kenya, on 20th  September, 1981.
 
-CAUSE NO. 405 OF 2009
+## CAUSE NO. 405 OF 2009
 
 By  George  Mwongera,  of  P.O.  Box  1114,  Meru  in  Kenya,  the deceased's son, for a grant of letters of administration intestate to the estate of M'Rinturi Ringu, late of Ncoroiboro, who died there on 4th August, 2004.
 
-CAUSE NO. 406 OF 2009
+## CAUSE NO. 406 OF 2009
 
 By Mwari M'Imaria M'Kurichia, of P.O. Box 147, Mikinduri in Kenya, the deceased's widow, for a grant of letters of administration intestate  to  the  estate  of  Ajelimu  M'Imalia  M'Kurichia  alias  Imaria Kurichia, late of Meru, who died at Meru Hospital in Kenya, on 8th July, 1987.
 
-CAUSE NO. 409 OF 2009
+## CAUSE NO. 409 OF 2009
 
 By Annah Karimi M'Ikirima, of P.O. Box 984, Meru in Kenya, the deceased's widow, for a grant of letters of administration intestate to the estate of Timothy M'Ikirima, late of Kinoru, who died at Milimani Nursing Home, on 20th March, 2008.
 
-CAUSE NO. 414 OF 2009
+## CAUSE NO. 414 OF 2009
 
 By  Margaret  Nkaimiri  M'Rukunga,  of  P.O.  Box  1485,  Meru  in Kenya, the deceased's daughter, for a grant of letters of administration intestate  to  the  estate  of  Andrew  M'Irangu  M'Aritho  alias  M'Irangu M'Aritho, late of Rwanyange, who died there on 28th June, 1993.
 
-CAUSE NO. 436 OF 2009
+## CAUSE NO. 436 OF 2009
 
-By Mandarina Nyoroka M'Mugambi, of P.O. Box 13, Mitunguu in Kenya,  the deceased's widow,  through Mesrs. Beingi Miriti  & Associates, advocates of Nairobi, for a grant of letters of administration intestate to the estate of Mugambi  Atheri alias M'Mugambi M'Atheri, late of Mitunguu, who died at Kirendene, on 9th March, 2002.
+By Mandarina Nyoroka M'Mugambi, of P.O. Box 13, Mitunguu in Kenya,  the deceased's widow,  through Mesrs. Beingi Miriti  &amp; Associates, advocates of Nairobi, for a grant of letters of administration intestate to the estate of Mugambi  Atheri alias M'Mugambi M'Atheri, late of Mitunguu, who died at Kirendene, on 9th March, 2002.
 
-CAUSE NO. 445 OF 2009
+## CAUSE NO. 445 OF 2009
 
 By Joseph Mutua Mwenda, of P.O. Box 342, Nanyuki in Kenya, the deceased's son, for a grant of letters of administration intestate to the  estate  of  Mwenda  Kainyiru,  late  of  Mitunguu,  who  died  there  in 1965.
 
-CAUSE NO. 447 OF 2009
+## CAUSE NO. 447 OF 2009
 
 By (1) Ashfiord Mbabu  Mutunga  and (2) Wilfred Kiambi Mutungah, both of P.O. Box 427, Meru in Kenya, the deceased's sons, for  a  grant  of  letters  of  administration  intestate  to  the  estate  of M'Mutunga M'Mukaba, late of Kanyakine,  who  died  at  Sub-district Hospital, Kanyakine in Kenya. on 30th May, 2002.
 
@@ -1489,9 +1492,9 @@ A. K. MWICIGI,
 
 GAZETTE NOTICE NO. 12427
 
-IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF MOHAMED AHMED SHAKHSY OF LAMU
+## IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF MOHAMED AHMED SHAKHSY OF LAMU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 35 OF 2009
 
@@ -1503,17 +1506,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 10th June, 2009.
 
-R. N. MAKUNGU,
-
-Deputy Registrar, Mombasa.
-
 GAZETTE NOTICE NO. 12428
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF ARCHELEUS WAJUANGA OWINO OF MWINGO
+## IN THE MATTER OF THE ESTATE OF ARCHELEUS WAJUANGA OWINO OF MWINGO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 78 OF 2009
 
@@ -1525,21 +1524,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th July, 2009.
 
-R. N. MAKUNGU,
-
-Deputy Registrar, Mombasa.
-
 GAZETTE NOTICE NO. 12429
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF KAHAKI VENESSA OF VESCON
+## IN THE MATTER OF THE ESTATE OF KAHAKI VENESSA OF VESCON
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 210 OF 2009
 
-LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Aga Khan Hospital, on 28th April, 2009, has been filed in this registry by (1) Sarah Nduta Mwangi and (2) Paul Kiriro Wamugo, in their respective capacities as aunt and grandfather of the deceased.
+- LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Aga Khan Hospital, on 28th April, 2009, has been filed in this registry by (1) Sarah Nduta Mwangi and (2) Paul Kiriro Wamugo, in their respective capacities as aunt and grandfather of the deceased.
 
 And further  take  notice  that  objections  in  the  prescribed  form  to the making of the grant are invited and must be lodged in this registry within thirty (30) days of publication of this notice.
 
@@ -1547,13 +1542,25 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 31st August, 2009.
 
+R. N. MAKUNGU,
+
+Deputy Registrar, Mombasa.
+
+R. N. MAKUNGU,
+
+Deputy Registrar, Mombasa.
+
+M. O. KIZITO,
+
+Deputy Registrar, Mombasa.
+
 GAZETTE NOTICE NO. 12430
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF FATEH ESMAIL YUSUF ALI OF LAMU
+## IN THE MATTER OF THE ESTATE OF FATEH ESMAIL YUSUF ALI OF LAMU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 214 OF 2009
 
@@ -1569,11 +1576,11 @@ R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12431
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF ABDALLA RASHID SIMBA OF MKOMANI
+## IN THE MATTER OF THE ESTATE OF ABDALLA RASHID SIMBA OF MKOMANI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 233 OF 2009
 
@@ -1585,21 +1592,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 26th October, 2009.
 
-R. N. MAKUNGU,
-
-Deputy Registrar, Mombasa.
-
 GAZETTE NOTICE NO. 12432
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF SHARIFF AHMED ABDURAHMAN OF SARIGOI
+## IN THE MATTER OF THE ESTATE OF SHARIFF AHMED ABDURAHMAN OF SARIGOI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 235 OF 2009
 
-LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Sarigoi, on 2nd  May, 1985, has been filed  in  this  registry  by  Jamila  Shariff  Hamid  Abdulrahman,  of  P.O. Box 1, Mombasa, in her capacity as niece of the deceased.
+- LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Sarigoi, on 2nd  May, 1985, has been filed  in  this  registry  by  Jamila  Shariff  Hamid  Abdulrahman,  of  P.O. Box 1, Mombasa, in her capacity as niece of the deceased.
 
 And further  take  notice  that  objections  in  the  prescribed  form  to the making of the grant are invited and must be lodged in this registry within thirty (30) days of publication of this notice.
 
@@ -1607,17 +1610,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 2nd November, 2009.
 
-M. O. KIZITO,
+R. N. MAKUNGU,
 
 Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12433
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF SHARIFF HAMID ABDULREHMAN OF SHELLA, MALINDI
+## IN THE MATTER OF THE ESTATE OF SHARIFF HAMID ABDULREHMAN OF SHELLA, MALINDI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 236 OF 2009
 
@@ -1635,11 +1638,11 @@ Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12434
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF JOSEPH NYANGAU MUTUNDURA OF MTWAPA
+## IN THE MATTER OF THE ESTATE OF JOSEPH NYANGAU MUTUNDURA OF MTWAPA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 237 OF 2009
 
@@ -1657,11 +1660,11 @@ Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12435
 
-IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF NYUNGU
+## IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF NYUNGU
 
-MWAKIZIGWA OF EZAMOYO
+## MWAKIZIGWA OF EZAMOYO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 253 OF 2009
 
@@ -1677,11 +1680,11 @@ R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12436
 
-IN THE HIGH COURT OF KENYA AT MOMBASA
+## IN THE HIGH COURT OF KENYA AT MOMBASA
 
-IN THE MATTER OF THE ESTATE OF RICHARD ONDIEKI NYANGENA OF MLALEO
+## IN THE MATTER OF THE ESTATE OF RICHARD ONDIEKI NYANGENA OF MLALEO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 295 OF 2009
 
@@ -1693,15 +1696,11 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 30th October, 2009.
 
-R. N. MAKUNGU,
-
-Deputy Registrar, Mombasa.
-
 GAZETTE NOTICE NO. 12437
 
-IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF HAMISI SAID KIZONDO OF SIMKUMBE
+## IN THE HIGH COURT OF KENYA AT MOMBASA IN THE MATTER OF THE ESTATE OF HAMISI SAID KIZONDO OF SIMKUMBE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 298 OF 2009
 
@@ -1713,15 +1712,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 21st October, 2009.
 
+R. N. MAKUNGU,
+
+Deputy Registrar, Mombasa.
+
 R. N. MAKUNGU, Deputy Registrar, Mombasa.
 
 GAZETTE NOTICE NO. 12438
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF BILLY WERE OBAMA
+## IN THE MATTER OF THE ESTATE OF BILLY WERE OBAMA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 599 OF 2002
 
@@ -1737,11 +1740,11 @@ J. M. MUNGUTI, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12439
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF JOSHUA ODHIAMBO OGOLA ALIAS WILLIAM ODHIAMBO OGOLA ALIAS OMOLO OGOLA
+## IN THE MATTER OF THE ESTATE OF JOSHUA ODHIAMBO OGOLA ALIAS WILLIAM ODHIAMBO OGOLA ALIAS OMOLO OGOLA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 630 OF 2009
 
@@ -1753,17 +1756,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 13th October, 2009.
 
-E. O. AWINO,
-
-Deputy Registrar, Kisumu.
-
 GAZETTE NOTICE NO. 12440
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF THOMAS
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF THOMAS
 
-OKELLO OKOTH
+## OKELLO OKOTH
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 666 OF 2009
 
@@ -1775,13 +1774,11 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th October, 2009.
 
-S. O. ATANGA, Deputy Registrar, Kisumu.
-
 GAZETTE NOTICE NO. 12441
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF GEORGE OFWA OGODE
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF GEORGE OFWA OGODE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 667 OF 2009
 
@@ -1793,13 +1790,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th October, 2009.
 
+E. O. AWINO,
+
+Deputy Registrar, Kisumu.
+
+S. O. ATANGA, Deputy Registrar, Kisumu.
+
 S. O. ATONGA, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12442
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF RISPA OUGO ONDIJO
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF RISPA OUGO ONDIJO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 685 OF 2009
 
@@ -1817,11 +1820,11 @@ Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12443
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF DENNIS ONDENG AWUOR
+## IN THE MATTER OF THE ESTATE OF DENNIS ONDENG AWUOR
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 688 OF 2009
 
@@ -1837,11 +1840,11 @@ R. B. N. MALOBA, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12444
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF VINCENT
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF VINCENT
 
-OTIENO ODERA
+## OTIENO ODERA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 692 OF 2009
 
@@ -1857,11 +1860,11 @@ R. B. N. MALOBA, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12445
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF JOHN
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF JOHN
 
-OUKO MIGAMBA
+## OUKO MIGAMBA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 693 OF 2009
 
@@ -1875,11 +1878,11 @@ Dated the 6th November, 2009.
 
 R. B. N. MALOBA, Deputy Registrar, Kisumu.
 
-GAZETTE NOTICE NO. 12446
+## GAZETTE NOTICE NO. 12446
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF MARTIN LUTHER ANDITI MINGALA
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF MARTIN LUTHER ANDITI MINGALA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 694 OF 2009
 
@@ -1895,9 +1898,9 @@ R. B. N. MALOBA, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12447
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF ALUGA OGONGO
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF ALUGA OGONGO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 703 OF 2009
 
@@ -1913,11 +1916,11 @@ A. C. ING'INJO, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12448
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF FATUMA OBARA MOHAMED
+## IN THE MATTER OF THE ESTATE OF FATUMA OBARA MOHAMED
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 704 OF 2009
 
@@ -1933,11 +1936,11 @@ A. C. ING'INJO, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12449
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF JOANES NDIA OCHOLA
+## IN THE MATTER OF THE ESTATE OF JOANES NDIA OCHOLA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 706 OF 2009
 
@@ -1953,9 +1956,9 @@ A. C. ING'INJO, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12450
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF FRANCIS OSONGO ONGONGA
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF FRANCIS OSONGO ONGONGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 708 OF 2009
 
@@ -1971,11 +1974,11 @@ A. C. ING'INJO, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12451
 
-IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF PHOEBE
+## IN THE HIGH COURT OF KENYA AT KISUMU IN THE MATTER OF THE ESTATE OF PHOEBE
 
-ATIENO ALUODO
+## ATIENO ALUODO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 710 OF 2009
 
@@ -1991,9 +1994,9 @@ R. B. N. MALOBA, Deputy Registrar, Kisumu.
 
 GAZETTE NOTICE NO. 12452
 
-IN THE HIGH COURT OF KENYA AT KISUMU
+## IN THE HIGH COURT OF KENYA AT KISUMU
 
-IN THE MATTER OF THE ESTATE OF STEPHEN OBIMBO KWENDA PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF STEPHEN OBIMBO KWENDA PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 716 OF 2009
 
@@ -2015,7 +2018,7 @@ IN THE MATTER OF THE ESTATE OF SHADRACK
 
 KIPLANGAT RUTTO OF KIPTAGION, MOLO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 320 'B' OF 2008
 
@@ -2027,11 +2030,15 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the  12th October, 2009.
 
+E. TANUI,
+
+Deputy Registrar, Nakuru.
+
 GAZETTE NOTICE NO. 12454
 
-IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF SAMUEL CHEGE KARUNGA OF LANET ESTATE
+## IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF SAMUEL CHEGE KARUNGA OF LANET ESTATE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 336 OF 2009
 
@@ -2047,11 +2054,11 @@ E. TANUI, Deputy Registrar, Nakuru.
 
 GAZETTE NOTICE NO. 12455
 
-IN THE HIGH COURT OF KENYA AT NAKURU
+## IN THE HIGH COURT OF KENYA AT NAKURU
 
-IN THE MATTER OF THE ESTATE OF RUTH WANGUI KARUCINI OF LONGONOT
+## IN THE MATTER OF THE ESTATE OF RUTH WANGUI KARUCINI OF LONGONOT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 356 OF 2009
 
@@ -2063,15 +2070,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 3rd August, 2009.
 
-E. TANUI, Deputy Registrar, Nakuru.
-
 GAZETTE NOTICE NO. 12456
 
-IN THE HIGH COURT OF KENYA AT NAKURU
+## IN THE HIGH COURT OF KENYA AT NAKURU
 
-IN THE MATTER OF THE ESTATE OF ERICK MWINJI NJIRO OF KIRINYAGA
+## IN THE MATTER OF THE ESTATE OF ERICK MWINJI NJIRO OF KIRINYAGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 380 OF 2009
 
@@ -2083,15 +2088,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 3rd August, 2009.
 
-E. TANUI,
-
-Deputy Registrar, Nakuru.
+E. TANUI, Deputy Registrar, Nakuru.
 
 GAZETTE NOTICE NO. 12457
 
-IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF IBRAHIM KINYANJUI KURIA OF SABUGHO, NYANDARUA
+## IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF IBRAHIM KINYANJUI KURIA OF SABUGHO, NYANDARUA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 385 OF 2009
 
@@ -2103,13 +2106,9 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 4th August, 2009.
 
-E. TANUI,
-
-Deputy Registrar, Nakuru.
-
 GAZETTE NOTICE NO. 12458
 
-IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF JAMES KINYANJUI KAMAU  OF BAHATI PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF JAMES KINYANJUI KAMAU  OF BAHATI PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 417 OF 2009
 
@@ -2125,13 +2124,17 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
+E. TANUI,
+
+Deputy Registrar, Nakuru.
+
 GAZETTE NOTICE NO. 12459
 
-IN THE HIGH COURT OF KENYA AT NAKURU
+## IN THE HIGH COURT OF KENYA AT NAKURU
 
-IN THE MATTER OF THE ESTATE OF MARY LUTTA MUKHEBI OF MOI UNIVERSITY
+## IN THE MATTER OF THE ESTATE OF MARY LUTTA MUKHEBI OF MOI UNIVERSITY
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 446 OF 2009
 
@@ -2147,11 +2150,11 @@ E. TANUI, Deputy Registrar, Nakuru.
 
 GAZETTE NOTICE NO. 12460
 
-IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF ELIJAH
+## IN THE HIGH COURT OF KENYA AT NAKURU IN THE MATTER OF THE ESTATE OF ELIJAH
 
-WAWERU OF NAKURU
+## WAWERU OF NAKURU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 464 OF 2009
 
@@ -2163,15 +2166,11 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 21st October, 2009.
 
-E. TANUI,
-
-Deputy Registrar, Nakuru.
-
 GAZETTE NOTICE NO. 12461
 
-IN THE HIGH COURT OF KENYA AT NAKURU
+## IN THE HIGH COURT OF KENYA AT NAKURU
 
-IN THE MATTER OF THE ESTATE OF JOHANA KIMNAGEI OF BORTABWA KIPSARAMAN PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF JOHANA KIMNAGEI OF BORTABWA KIPSARAMAN PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 488 OF 2009
 
@@ -2187,13 +2186,17 @@ E. TANUI,
 
 Deputy Registrar, Nakuru.
 
+E. TANUI,
+
+Deputy Registrar, Nakuru.
+
 GAZETTE NOTICE NO. 12462
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF ISAAC NDUURO NDUGO ALIAS NDURU S/O NDUGO OF NYERI
+## IN THE MATTER OF THE ESTATE OF ISAAC NDUURO NDUGO ALIAS NDURU S/O NDUGO OF NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 540 OF 2005
 
@@ -2209,11 +2212,11 @@ D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12463
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF DUNCAN NJOGU NDEGWA ALIAS DUNCAN NDEGWA NJOGU OF THIGINGI
+## IN THE MATTER OF THE ESTATE OF DUNCAN NJOGU NDEGWA ALIAS DUNCAN NDEGWA NJOGU OF THIGINGI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 514 OF 2008
 
@@ -2229,9 +2232,9 @@ D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12464
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF NDEGWA KAMBAA NDEGWA ALIAS CYRUS KAMBAA NDEGWA  OF GACHUIRO, NYERI PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF NDEGWA KAMBAA NDEGWA ALIAS CYRUS KAMBAA NDEGWA  OF GACHUIRO, NYERI PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 576 OF 2008
 
@@ -2243,15 +2246,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th June, 2009.
 
-D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
-
 GAZETTE NOTICE NO. 12465
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF ROWLAND GAKUO KABIRO OF GIKOE, OTHAYA
+## IN THE MATTER OF THE ESTATE OF ROWLAND GAKUO KABIRO OF GIKOE, OTHAYA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 650 OF 2008
 
@@ -2265,13 +2266,15 @@ Dated the 16th December, 2008.
 
 R. A. A. OTIENO, Deputy Registrar, Nyeri.
 
+D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
+
 GAZETTE NOTICE NO. 12466
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
 IN THE MATTER OF THE ESTATE OF JOSEPH NGURE GATERE ALIAS NGURE S/O OF GATERE OF IHWAGI VILLAGE, KAIRIA SUB-LOCATION
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 709 OF 2008
 
@@ -2285,15 +2288,13 @@ Dated the 11th March, 2009.
 
 K. A. BIDALI, Deputy Registrar, Nyeri
 
-.
-
 GAZETTE NOTICE NO. 12467
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF GUARA WANJAU OF KIAMARIGA VILLAGE
+## IN THE MATTER OF THE ESTATE OF GUARA WANJAU OF KIAMARIGA VILLAGE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 293 OF 2009
 
@@ -2305,15 +2306,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 24th July, 2009.
 
-K. A. BIDALI, Deputy Registrar, Nyeri.
-
 GAZETTE NOTICE NO. 12468
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF WILLY KANYEKI ALIAS WILLIE J. KANYEKI ALIAS NDORO ALIAS NDORO WILLIE ALIAS WILLIE JOHN OF KANDUNDU
+## IN THE MATTER OF THE ESTATE OF WILLY KANYEKI ALIAS WILLIE J. KANYEKI ALIAS NDORO ALIAS NDORO WILLIE ALIAS WILLIE JOHN OF KANDUNDU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 381 OF 2009
 
@@ -2327,13 +2326,17 @@ Dated the 22nd September, 2009.
 
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
+K. A. BIDALI, Deputy Registrar, Nyeri.
+
+.
+
 GAZETTE NOTICE NO. 12469
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF WANYIIRI WAHORO OF UNJIRU, NYERI
+## IN THE MATTER OF THE ESTATE OF WANYIIRI WAHORO OF UNJIRU, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 783 OF 2009
 
@@ -2349,11 +2352,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12470
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF BERNARD GITHAIGA GITHUI OF NAIROBI
+## IN THE MATTER OF THE ESTATE OF BERNARD GITHAIGA GITHUI OF NAIROBI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 410 OF 2009
 
@@ -2365,17 +2368,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 7th August, 2009.
 
-R. A. A. OTIENO,
-
-Deputy Registrar, Nyeri.
-
 GAZETTE NOTICE NO. 12471
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF WAITHIEGENI BUURI ALIAS LUCY WANGUI MUCHIRI OF HUHOINI, NYERI
+## IN THE MATTER OF THE ESTATE OF WAITHIEGENI BUURI ALIAS LUCY WANGUI MUCHIRI OF HUHOINI, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 416  OF 2009
 
@@ -2387,15 +2386,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 19th August, 2009.
 
+R. A. A. OTIENO,
+
+Deputy Registrar, Nyeri.
+
 D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12472
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF ANASTASIA WAIRIMU WAINAINA OF KAGUYU, NYERI
+## IN THE MATTER OF THE ESTATE OF ANASTASIA WAIRIMU WAINAINA OF KAGUYU, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 427 OF 2009
 
@@ -2411,11 +2414,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12473
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF MACHARIA MACHIRA ALIAS MACHARIA S/O MACHIRA OF THIU, KARATINA
+## IN THE MATTER OF THE ESTATE OF MACHARIA MACHIRA ALIAS MACHARIA S/O MACHIRA OF THIU, KARATINA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 566 'A' OF 2009
 
@@ -2431,11 +2434,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12474
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF PAUL KARIUKI WATHIRINJE OF CHORONGI, NYERI
+## IN THE MATTER OF THE ESTATE OF PAUL KARIUKI WATHIRINJE OF CHORONGI, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 587 OF 2009
 
@@ -2451,11 +2454,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12475
 
-IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF KARIO WAITHAKA ALIAS KAREO WAITHAKA ALIAS KARIO S/O
+## IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF KARIO WAITHAKA ALIAS KAREO WAITHAKA ALIAS KARIO S/O
 
-WAITHAKA OF MBOGO-INI, NYERI
+## WAITHAKA OF MBOGO-INI, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 626 OF 2009
 
@@ -2471,11 +2474,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12476
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF TERESAH WAMUYU GICHURU ALIAS TERESAH WAMUYU W/O GACHUURU OF GITUNDUTI
+## IN THE MATTER OF THE ESTATE OF TERESAH WAMUYU GICHURU ALIAS TERESAH WAMUYU W/O GACHUURU OF GITUNDUTI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 639 OF 2009
 
@@ -2491,11 +2494,11 @@ D. K. OLE KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12477
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF JOSPHAT MUNDIA WANG'ONDU OF KARUNDU, NYERI
+## IN THE MATTER OF THE ESTATE OF JOSPHAT MUNDIA WANG'ONDU OF KARUNDU, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 655 OF 2009
 
@@ -2513,9 +2516,9 @@ GAZETTE NOTICE NO. 12478
 
 IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF JOHNSON MURIITHI KAMONI ALIAS JOHNSON MURIITHI S/O KAMONI OF NYERI OF NYERI
+## IN THE MATTER OF THE ESTATE OF JOHNSON MURIITHI KAMONI ALIAS JOHNSON MURIITHI S/O KAMONI OF NYERI OF NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 664 OF 2009
 
@@ -2531,11 +2534,11 @@ D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12479
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF THEURI WAMWEA ALIAS JOSHUA THIURI WAMWEA ALIAS THIURI S/O WAMWEA OF ITHEKAHUNO, NYERI
+## IN THE MATTER OF THE ESTATE OF THEURI WAMWEA ALIAS JOSHUA THIURI WAMWEA ALIAS THIURI S/O WAMWEA OF ITHEKAHUNO, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 685 OF 2009
 
@@ -2547,15 +2550,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 15th June, 2009.
 
-D. K.  OLE  KEIWUA, Deputy Registrar, Nyeri.
-
 GAZETTE NOTICE NO. 12480
 
 IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF SAMUEL MWANGI KIAMBI OF MURANG'A
+## IN THE MATTER OF THE ESTATE OF SAMUEL MWANGI KIAMBI OF MURANG'A
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 721 OF 2009
 
@@ -2567,15 +2568,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 14th October, 2009.
 
+D. K.  OLE  KEIWUA, Deputy Registrar, Nyeri.
+
 D. K. OLE  KEIWUA,
 
 GAZETTE NOTICE NO. 12481
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF GLADY'S WANJIRU MAINA OF  KARUNDU, NYERI
+## IN THE MATTER OF THE ESTATE OF GLADY'S WANJIRU MAINA OF  KARUNDU, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 737  OF 2009
 
@@ -2587,13 +2590,11 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 19th August, 2009.
 
-D. K. OLE  KEIWUA, Deputy Registrar, Nyeri,
-
 GAZETTE NOTICE NO. 12482
 
-IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF WANYIRI WAHORO OF UNJIRU, NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI IN THE MATTER OF THE ESTATE OF WANYIRI WAHORO OF UNJIRU, NYERI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 783  OF 2009
 
@@ -2605,17 +2606,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 15th September, 2009.
 
+D. K. OLE  KEIWUA, Deputy Registrar, Nyeri,
+
 D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
 
 Note. -The will mentioned above has been deposited in and is open to inspection at the court.
 
 GAZETTE NOTICE NO. 12483
 
-IN THE HIGH COURT OF KENYA AT NYERI
+## IN THE HIGH COURT OF KENYA AT NYERI
 
-IN THE MATTER OF THE ESTATE OF JOHN MACHARIA KARAIGUA ALIAS KARAIGUA MACHARIA JOHN ALIAS KARAIGUA JOHN MACHARIA OF CHIENI SUB-LOCATION
+## IN THE MATTER OF THE ESTATE OF JOHN MACHARIA KARAIGUA ALIAS KARAIGUA MACHARIA JOHN ALIAS KARAIGUA JOHN MACHARIA OF CHIENI SUB-LOCATION
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 815 OF 2009
 
@@ -2631,11 +2634,11 @@ D. K. OLE  KEIWUA, Deputy Registrar, Nyeri.
 
 GAZETTE NOTICE NO. 12484
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF NYANJE
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF NYANJE
 
-OKANGA
+## OKANGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 338 OF 2009
 
@@ -2653,9 +2656,9 @@ Deputy Registrar, Kakamega.
 
 GAZETTE NOTICE NO. 12485
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF PETER SALAMU ADEMBESA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF PETER SALAMU ADEMBESA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 643 OF 2009
 
@@ -2667,17 +2670,15 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
-M. I. G. MORANGA, Deputy Registrar, Kakamega.
-
 GAZETTE NOTICE NO. 12486
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
-IN THE MATTER OF THE ESTATE OF BENJAMIN
+## IN THE MATTER OF THE ESTATE OF BENJAMIN
 
-NGAIRA CHILWAZO ALIAS NGAIRA JEKATI
+## NGAIRA CHILWAZO ALIAS NGAIRA JEKATI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 645 OF 2009
 
@@ -2689,13 +2690,15 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
+M. I. G. MORANGA, Deputy Registrar, Kakamega.
+
 M. I. G. MORANGA,
 
 Deputy Registrar, Kakamega.
 
 GAZETTE NOTICE NO. 12487
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF AMOS OYOLO OTIANG'A ALIAS AMOSI OYOLO OTINGA PROBATE AND ADMINISTRATION
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA IN THE MATTER OF THE ESTATE OF AMOS OYOLO OTIANG'A ALIAS AMOSI OYOLO OTINGA PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 646 OF 2009
 
@@ -2707,19 +2710,15 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
-M. I. G. MORANGA,
-
-Deputy Registrar, Kakamega.
-
 GAZETTE NOTICE NO. 12488
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
-IN THE MATTER OF THE ESTATE OF HUDSON
+## IN THE MATTER OF THE ESTATE OF HUDSON
 
-KINYANGI AIRO ALIAS HUDSON KANYANGI AIRO
+## KINYANGI AIRO ALIAS HUDSON KANYANGI AIRO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 650 OF 2009
 
@@ -2731,15 +2730,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
-M. I. G. MORANGA, Deputy Registrar, Kakamega.
-
 GAZETTE NOTICE NO. 12489
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
-IN THE MATTER OF THE ESTATE OF ALOIS KAROLI KUCHETU ALIAS KALORI LUCHETU
+## IN THE MATTER OF THE ESTATE OF ALOIS KAROLI KUCHETU ALIAS KALORI LUCHETU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 651 OF 2009
 
@@ -2755,13 +2752,19 @@ M. I. G. MORANGA,
 
 Deputy Registrar, Kakamega.
 
+M. I. G. MORANGA, Deputy Registrar, Kakamega.
+
+M. I. G. MORANGA,
+
+Deputy Registrar, Kakamega.
+
 GAZETTE NOTICE NO. 12490
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
-IN THE MATTER OF THE ESTATE OF JOHN UNDACHI LUCHETU ALIAS SICHIAMUNYA LUCHETU
+## IN THE MATTER OF THE ESTATE OF JOHN UNDACHI LUCHETU ALIAS SICHIAMUNYA LUCHETU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 652 OF 2009
 
@@ -2773,15 +2776,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
-M. I. G. MORANGA, Deputy Registrar, Kakamega.
-
 GAZETTE NOTICE NO. 12491
 
-IN THE HIGH COURT OF KENYA AT KAKAMEGA
+## IN THE HIGH COURT OF KENYA AT KAKAMEGA
 
-IN THE MATTER OF THE ESTATE OF JOSEPH WESONGA WANZETSE
+## IN THE MATTER OF THE ESTATE OF JOSEPH WESONGA WANZETSE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 661 OF 2009
 
@@ -2793,17 +2794,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 30th October, 2009.
 
+M. I. G. MORANGA, Deputy Registrar, Kakamega.
+
 P. N. ARERI,
 
 Deputy Registrar, Kakamega.
 
 GAZETTE NOTICE NO. 12492
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF NJERU NJIIRI ALIAS VENAZIO NJERU NJIIRI OF GATURI NORTH LOCATION OF EMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF NJERU NJIIRI ALIAS VENAZIO NJERU NJIIRI OF GATURI NORTH LOCATION OF EMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 107 OF 2009
 
@@ -2821,11 +2824,11 @@ Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12493
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF MUNYI M'MWATI OF GATURI NORTH LOCATION, EMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF MUNYI M'MWATI OF GATURI NORTH LOCATION, EMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 112 OF 2009
 
@@ -2841,9 +2844,9 @@ D. O. ONYANGO, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12494
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF BARNABA KANYATTA NDANJU OF EMBU PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF BARNABA KANYATTA NDANJU OF EMBU PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 411 OF 2009
 
@@ -2859,11 +2862,11 @@ E. K. NYUTU, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12495
 
-IN THE HIGH COURT OF KENYA AT EMBU IN THE MATTER OF THE ESTATE OF JOHN
+## IN THE HIGH COURT OF KENYA AT EMBU IN THE MATTER OF THE ESTATE OF JOHN
 
-WAINAINA KAIRU
+## WAINAINA KAIRU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 413 OF 2009
 
@@ -2879,11 +2882,11 @@ E. K. NYUTU, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12496
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF EMILIO NJUGUNA NDWIGA OF EMBU
+## IN THE MATTER OF THE ESTATE OF EMILIO NJUGUNA NDWIGA OF EMBU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 464  OF 2009
 
@@ -2899,9 +2902,9 @@ E. K. NYUTU, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12497
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF MICHAEL MUCIRA KARINDO OF KIRINYAGA PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF MICHAEL MUCIRA KARINDO OF KIRINYAGA PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 481 OF 2009
 
@@ -2917,11 +2920,11 @@ E. K. NYUTU, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12498
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF PHILLIS KARIUKO MUCHIRA OF EMBU
+## IN THE MATTER OF THE ESTATE OF PHILLIS KARIUKO MUCHIRA OF EMBU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 486 OF 2009
 
@@ -2939,11 +2942,11 @@ Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12499
 
-IN THE HIGH COURT OF KENYA AT EMBU
+## IN THE HIGH COURT OF KENYA AT EMBU
 
-IN THE MATTER OF THE ESTATE OF MUINDI KINGURU OF EMBU
+## IN THE MATTER OF THE ESTATE OF MUINDI KINGURU OF EMBU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 461 OF 2009
 
@@ -2959,9 +2962,9 @@ E. K. NYUTU, Deputy Registrar, Embu.
 
 GAZETTE NOTICE NO. 12500
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOSEPH WAFULA KHAOYA
+## IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOSEPH WAFULA KHAOYA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 134 OF 2009
 
@@ -2977,11 +2980,11 @@ J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12501
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA
+## IN THE HIGH COURT OF KENYA AT BUNGOMA
 
-IN THE MATTER OF THE ESTATE OF TIMONA NYONGESA WAMALWA
+## IN THE MATTER OF THE ESTATE OF TIMONA NYONGESA WAMALWA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 178 OF 2009
 
@@ -2997,9 +3000,9 @@ J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12502
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF WABOMBA NAWANJE
+## IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF WABOMBA NAWANJE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 252 OF 2009
 
@@ -3017,11 +3020,11 @@ Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12503
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOSEPH
+## IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOSEPH
 
-HARRISON KISAKA
+## HARRISON KISAKA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 268 OF 2009
 
@@ -3033,17 +3036,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 2nd October, 2009.
 
-F. KYAMBA,
-
-Deputy Registrar, Bungoma.
-
 GAZETTE NOTICE NO. 12504
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA
+## IN THE HIGH COURT OF KENYA AT BUNGOMA
 
-IN THE MATTER OF THE ESTATE OF NGOSIA MUSAMBAYII MUYUYI
+## IN THE MATTER OF THE ESTATE OF NGOSIA MUSAMBAYII MUYUYI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 317 OF 2009
 
@@ -3055,17 +3054,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October, 2009.
 
+F. KYAMBA,
+
+Deputy Registrar, Bungoma.
+
 J. K. NG'ARNG'AR,
 
 Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12505
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA
+## IN THE HIGH COURT OF KENYA AT BUNGOMA
 
-IN THE MATTER OF THE ESTATE OF GABRIEL WAKWABUBI SIUNDU
+## IN THE MATTER OF THE ESTATE OF GABRIEL WAKWABUBI SIUNDU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 331 OF 2009
 
@@ -3081,11 +3084,11 @@ J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12506
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOASH
+## IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF JOASH
 
-WANGWE EMUKOLONGOLO
+## WANGWE EMUKOLONGOLO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 332 OF 2009
 
@@ -3101,11 +3104,11 @@ J. K. NG'ARNG'AR, Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12507
 
-IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF NICHOLAS
+## IN THE HIGH COURT OF KENYA AT BUNGOMA IN THE MATTER OF THE ESTATE OF NICHOLAS
 
-NDOMBI MBORIO
+## NDOMBI MBORIO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 336 OF 2009
 
@@ -3121,9 +3124,9 @@ F. KYAMBIA, Deputy Registrar, Bungoma.
 
 GAZETTE NOTICE NO. 12508
 
-IN THE HIGH COURT OF KENYA AT KISII IN THE MATTER OF THE ESTATE OF OYUGI OKIORERA
+## IN THE HIGH COURT OF KENYA AT KISII IN THE MATTER OF THE ESTATE OF OYUGI OKIORERA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 496 OF 2009
 
@@ -3141,9 +3144,9 @@ Deputy Registrar, Kisii.
 
 GAZETTE NOTICE NO. 12509
 
-IN THE HIGH COURT OF KENYA AT ELDORET IN THE MATTER OF THE ESTATE OF JOSPHAT ROTICH
+## IN THE HIGH COURT OF KENYA AT ELDORET IN THE MATTER OF THE ESTATE OF JOSPHAT ROTICH
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 262 OF 2008
 
@@ -3161,11 +3164,11 @@ Deputy Registrar, Eldoret.
 
 GAZETTE NOTICE NO. 12510
 
-IN THE HIGH COURT OF KENYA AT ELDORET IN THE MATTER OF THE ESTATE OF ANDREW
+## IN THE HIGH COURT OF KENYA AT ELDORET IN THE MATTER OF THE ESTATE OF ANDREW
 
-MAINA GITHINJI
+## MAINA GITHINJI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 305 OF 2009
 
@@ -3181,11 +3184,11 @@ G. A. MMASI, Deputy Registrar, Eldoret.
 
 GAZETTE NOTICE NO. 12511
 
-IN THE HIGH COURT OF KENYA AT BUSIA
+## IN THE HIGH COURT OF KENYA AT BUSIA
 
-IN THE MATTER OF THE ESTATE OF VINCENT ODUOR HANDA
+## IN THE MATTER OF THE ESTATE OF VINCENT ODUOR HANDA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 315 OF 2009
 
@@ -3197,17 +3200,35 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 6th November, 2009.
 
+GAZETTE NOTICE NO. 12513
+
+## IN THE HIGH COURT OF KENYA AT KITALE
+
+## IN THE MATTER OF THE ESTATE OF CHARLES NJUGUNA GITAU
+
+## PROBATE AND ADMINISTRATION
+
+SUCCESSION CAUSE NO. 214 OF 2009
+
+LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at District Hospital, Kitale, on 5th October, 2002, has been filed in this registry by (1) Hanna Muthoni Ndungu and (2) Birisila Njeri Gitau, of P.O. Box 213, Kitale, in their capacities as an administratrices of the deceased's estate.
+
+And further  take  notice  that  objections  in  the  prescribed  form  to the making of the grant are invited and must be lodged in this registry within thirty (30) days of publication of this notice.
+
+And further take notice that if no objection has been lodged in this registry  in  the  prescribed  form  within  thirty  (30)  days  of  the  date  of publication of this notice, the court may proceed to make the grant as prayed or to make such orders as it thinks fit.
+
+Dated the 28th October, 2009.
+
 E. H. KEAGO,
 
 Deputy Registrar, Busia (K).
 
 GAZETTE NOTICE NO. 12512
 
-IN THE HIGH COURT OF KENYA AT KITALE
+## IN THE HIGH COURT OF KENYA AT KITALE
 
-IN THE MATTER OF THE ESTATE OF KHAPWONDI KITUI MUSA
+## IN THE MATTER OF THE ESTATE OF KHAPWONDI KITUI MUSA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 146 OF 2007
 
@@ -3221,33 +3242,15 @@ D. M. OCHENJA,
 
 Deputy Registrar, Kitale.
 
-GAZETTE NOTICE NO. 12513
-
-IN THE HIGH COURT OF KENYA AT KITALE
-
-IN THE MATTER OF THE ESTATE OF CHARLES NJUGUNA GITAU
-
-PROBATE AND ADMINISTRATION
-
-SUCCESSION CAUSE NO. 214 OF 2009
-
-LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at District Hospital, Kitale, on 5th October, 2002, has been filed in this registry by (1) Hanna Muthoni Ndungu and (2) Birisila Njeri Gitau, of P.O. Box 213, Kitale, in their capacities as an administratrices of the deceased's estate.
-
-And further  take  notice  that  objections  in  the  prescribed  form  to the making of the grant are invited and must be lodged in this registry within thirty (30) days of publication of this notice.
-
-And further take notice that if no objection has been lodged in this registry  in  the  prescribed  form  within  thirty  (30)  days  of  the  date  of publication of this notice, the court may proceed to make the grant as prayed or to make such orders as it thinks fit.
-
-Dated the 28th October, 2009.
-
 M. C. CHEPSEBA, Deputy Registrar, Kitale.
 
 GAZETTE NOTICE NO. 12514
 
-IN THE HIGH COURT OF KENYA AT KITALE
+## IN THE HIGH COURT OF KENYA AT KITALE
 
-IN THE MATTER OF THE ESTATE OF WILFRED MUTURI MACHARIA
+## IN THE MATTER OF THE ESTATE OF WILFRED MUTURI MACHARIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 233 OF 2009
 
@@ -3265,11 +3268,11 @@ Deputy Registrar, Kitale.
 
 GAZETTE NOTICE NO. 12515
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF ESTER WANJIKU ALIAS WANJIRU MBUGUA
+## IN THE MATTER OF THE ESTATE OF ESTER WANJIKU ALIAS WANJIRU MBUGUA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 52 OF 2005
 
@@ -3285,11 +3288,11 @@ L. M. WACHIRA, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12516
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF MUTURI GITHIOMI
+## IN THE MATTER OF THE ESTATE OF MUTURI GITHIOMI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 294 OF 2005
 
@@ -3307,11 +3310,11 @@ District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12517
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF NJOROGE GATITU
+## IN THE MATTER OF THE ESTATE OF NJOROGE GATITU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 152 OF 2009
 
@@ -3327,11 +3330,11 @@ B. A. OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12518
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF MWANGI NDIENYE ALIAS MWANGI NDIYENYE
+## IN THE MATTER OF THE ESTATE OF MWANGI NDIENYE ALIAS MWANGI NDIYENYE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 214 OF 2009
 
@@ -3347,11 +3350,11 @@ B. A. OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12519
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF MICHINO NJUGUNA
+## IN THE MATTER OF THE ESTATE OF MICHINO NJUGUNA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 254 OF 2009
 
@@ -3367,11 +3370,11 @@ B. A. OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12520
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF KABAIKU GACHUCHA
+## IN THE MATTER OF THE ESTATE OF KABAIKU GACHUCHA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 305 OF 2009
 
@@ -3387,11 +3390,11 @@ B. A. OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12521
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF JOHN KIGUOYA NJOROGE
+## IN THE MATTER OF THE ESTATE OF JOHN KIGUOYA NJOROGE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 370 OF 2009
 
@@ -3407,11 +3410,11 @@ L. M. WACHIRA, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12522
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF CHARLES KIBATHI KINUNDU
+## IN THE MATTER OF THE ESTATE OF CHARLES KIBATHI KINUNDU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 389 'A' OF 2009
 
@@ -3427,11 +3430,11 @@ B. A. OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12523
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF NGANGA WARUIA
+## IN THE MATTER OF THE ESTATE OF NGANGA WARUIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 427 OF 2009
 
@@ -3447,11 +3450,11 @@ B. A, OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12524
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF RUTH WANJIKU KAMONJO
+## IN THE MATTER OF THE ESTATE OF RUTH WANJIKU KAMONJO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 428 OF 2009
 
@@ -3467,11 +3470,11 @@ B. A, OWINO, District Registrar, Thika.
 
 GAZETTE NOTICE NO. 12525
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF MARTHA NJOKI MBURU
+## IN THE MATTER OF THE ESTATE OF MARTHA NJOKI MBURU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 449 OF 2009
 
@@ -3487,11 +3490,11 @@ L. M. WACHIRA, District Registrar, Thika .
 
 GAZETTE NOTICE NO. 12526
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF NJOKI W/O GIKONOO ALIAS MARY NJOKI KAMAU
+## IN THE MATTER OF THE ESTATE OF NJOKI W/O GIKONOO ALIAS MARY NJOKI KAMAU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 287 OF 2008
 
@@ -3503,15 +3506,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 24th December, 2008.
 
-A. K. NDUNGU, District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12527
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF WANGUI KARIUKI
+## IN THE MATTER OF THE ESTATE OF WANGUI KARIUKI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 42 OF 2009
 
@@ -3523,15 +3524,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 17th April, 2009.
 
-J. GATHUKU, District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12528
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF JUSTUS KINUTHIA IRUNGU
+## IN THE MATTER OF THE ESTATE OF JUSTUS KINUTHIA IRUNGU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 142 OF 2009
 
@@ -3543,13 +3542,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th November, 2009.
 
+J. GATHUKU, District Registrar, Murang'a.
+
+A. K. NDUNGU, District Registrar, Murang'a.
+
 GAZETTE NOTICE NO. 12529
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF WANGARI KIMANI WAITATI
+## IN THE MATTER OF THE ESTATE OF WANGARI KIMANI WAITATI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 144 OF 2009
 
@@ -3561,17 +3564,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th November, 2009.
 
-J. GATHUKU,
-
-District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12530
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF PHINEHAS GITAU GATUNE
+## IN THE MATTER OF THE ESTATE OF PHINEHAS GITAU GATUNE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 151 OF 2009
 
@@ -3583,17 +3582,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 13th  November, 2009.
 
-J. GATHUKU,
-
-District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12531
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF MUTHUWA KINGANGARICHA ALIAS MUTHUWA KANGERECHA
+## IN THE MATTER OF THE ESTATE OF MUTHUWA KINGANGARICHA ALIAS MUTHUWA KANGERECHA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 152  OF 2009
 
@@ -3607,15 +3602,23 @@ Dated the 13th November, 2009.
 
 J. GATHUKU,
 
+J. GATHUKU,
+
+District Registrar, Murang'a.
+
+J. GATHUKU,
+
+District Registrar, Murang'a.
+
 District Registrar, Murang'a.
 
 GAZETTE NOTICE NO. 12532
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF GICHERU KIGERA
+## IN THE MATTER OF THE ESTATE OF GICHERU KIGERA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 170 OF 2009
 
@@ -3627,17 +3630,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 13th November, 2009.
 
-J. GATHUKU,
-
-District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12533
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MURANG'A
 
-IN THE MATTER OF THE ESTATE OF SHEM KAMAU ZAKARIAH ALIAS SHEM KAMAU
+## IN THE MATTER OF THE ESTATE OF SHEM KAMAU ZAKARIAH ALIAS SHEM KAMAU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 176  OF 2009
 
@@ -3649,17 +3648,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 12th November, 2009.
 
-J. GATHUKU,
-
-District Registrar, Murang'a.
-
 GAZETTE NOTICE NO. 12534
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF MIRIAM WANGARI MBEU
+## IN THE MATTER OF THE ESTATE OF MIRIAM WANGARI MBEU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 256 OF 2009
 
@@ -3671,17 +3666,25 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 26th August, 2009.
 
+J. GATHUKU,
+
+District Registrar, Murang'a.
+
+J. GATHUKU,
+
+District Registrar, Murang'a.
+
 A. ONGERI,
 
 District Registrar, Kiambu.
 
 GAZETTE NOTICE NO. 12535
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF ELI KAMAU GICHUNGU ALIAS GICHUNGU KAMAU OF KIKUYU LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF ELI KAMAU GICHUNGU ALIAS GICHUNGU KAMAU OF KIKUYU LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 304 OF 2009
 
@@ -3693,15 +3696,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 11th November, 2009.
 
-A. ONGERI, District Registrar, Kiambu.
-
 GAZETTE NOTICE NO. 12536
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF WANGUI WACERA GICUNGU OF KIKUYU LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF WANGUI WACERA GICUNGU OF KIKUYU LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 305 OF 2009
 
@@ -3713,15 +3714,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 10th November, 2009.
 
-A. ONGERI, District Registrar, Kiambu.
-
 GAZETTE NOTICE NO. 12537
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF GICHUNGU KAMAU OF KIKUYU LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF GICHUNGU KAMAU OF KIKUYU LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 306 OF 2009
 
@@ -3735,13 +3734,17 @@ Dated the 5th November, 2009.
 
 A. ONGERI, District Registrar, Kiambu.
 
+A. ONGERI, District Registrar, Kiambu.
+
+A. ONGERI, District Registrar, Kiambu.
+
 GAZETTE NOTICE NO. 12538
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF PETER KAMAU NDUNGU OF KARAI VILLAGE, KARAI LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF PETER KAMAU NDUNGU OF KARAI VILLAGE, KARAI LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 310  OF 2009
 
@@ -3753,15 +3756,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 16th November, 2009.
 
-C. KABUCHO, District Registrar, Kiambu.
-
 GAZETTE NOTICE NO. 12539
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT KIAMBU
 
-IN THE MATTER OF THE ESTATE OF CORETA NYAMANGU MUNGAI OF GITUAMBA VILLAGE, NDUMBERI LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF CORETA NYAMANGU MUNGAI OF GITUAMBA VILLAGE, NDUMBERI LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 320  OF 2009
 
@@ -3773,15 +3774,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 14th November, 2009.
 
-C. KABUCHO, District Registrar, Kiambu.
-
 GAZETTE NOTICE NO. 12540
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
-IN THE MATTER OF THE ESTATE OF KURIA MUHU KARANJA
+## IN THE MATTER OF THE ESTATE OF KURIA MUHU KARANJA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 147 OF 2009
 
@@ -3793,13 +3792,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 9th September, 2009.
 
+C. KABUCHO, District Registrar, Kiambu.
+
+C. KABUCHO, District Registrar, Kiambu.
+
 GAZETTE NOTICE NO. 12541
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
-IN THE MATTER OF THE ESTATE OF ELIJAH ARAO AWITI
+## IN THE MATTER OF THE ESTATE OF ELIJAH ARAO AWITI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 169 OF 2009
 
@@ -3811,15 +3814,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th October, 2009.
 
-NDUKU NJUKI, District Registrar, Naivasha.
+## GAZETTE NOTICE NO. 12542
 
-GAZETTE NOTICE NO. 12542
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NAIVASHA
+## IN THE MATTER OF THE ESTATE OF EDWARD NJENGA KIARIE
 
-IN THE MATTER OF THE ESTATE OF EDWARD NJENGA KIARIE
-
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 174 OF 2009
 
@@ -3831,17 +3832,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th October, 2009.
 
-NDUKU NJUKI,
+## GAZETTE NOTICE NO. 12543
 
-District Registrar, Naivasha.
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
 
-GAZETTE NOTICE NO. 12543
+## IN THE MATTER OF THE ESTATE OF GEOFFREY KAILIBA MUNORU
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
-
-IN THE MATTER OF THE ESTATE OF GEOFFREY KAILIBA MUNORU
-
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 45 OF 2009
 
@@ -3853,15 +3850,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 2nd November, 2009.
 
+NDUKU NJUKI,
+
+District Registrar, Naivasha.
+
+NDUKU NJUKI, District Registrar, Naivasha.
+
 J. N. NYANGAH, District Registrar, Maua.
 
 GAZETTE NOTICE NO. 12544
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
 
-IN THE MATTER OF THE ESTATE OF M'LINTARI BAIKITHULU
+## IN THE MATTER OF THE ESTATE OF M'LINTARI BAIKITHULU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 81 OF 2009
 
@@ -3873,17 +3876,15 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 21st October, 2009.
 
-J. N. NYAGAH, District Registrar, Maua.
-
 GAZETTE NOTICE NO. 12545
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MAUA
 
-IN THE MATTER OF THE ESTATE OF MISHECK M'ITABARI ALIAS ITABARI KITHERA
+## IN THE MATTER OF THE ESTATE OF MISHECK M'ITABARI ALIAS ITABARI KITHERA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
-SUCCESSION CAUSE NO. 82 OF 2009
+## SUCCESSION CAUSE NO. 82 OF 2009
 
 LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Kanthiari, on 15th September, 1987, has been filed in this registry by Geoffrey Maore Mutabari, of P.O. Box 582, Maua, in his capacity as an administrator of the deceased's estate.
 
@@ -3893,15 +3894,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th November, 2009.
 
-J. N. NYAGAH, District Registrar, Maua.
-
 GAZETTE NOTICE NO. 12546
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
-IN THE MATTER OF THE ESTATE OF HARRISON ODETE OSEWE
+## IN THE MATTER OF THE ESTATE OF HARRISON ODETE OSEWE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 170 OF 2007
 
@@ -3913,17 +3912,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 25th April, 2009.
 
+J. N. NYAGAH, District Registrar, Maua.
+
+J. N. NYAGAH, District Registrar, Maua.
+
 KIBET SAMBU,
 
 District Registrar, Migori.
 
 GAZETTE NOTICE NO. 12547
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
-IN THE MATTER OF THE ESTATE OF SAMWEL OKECH OCHOLA OF MIGORI DISTRICT
+## IN THE MATTER OF THE ESTATE OF SAMWEL OKECH OCHOLA OF MIGORI DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 230 OF 2009
 
@@ -3935,15 +3938,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 6th October, 2009.
 
-KIBET SAMBU, District Registrar, Migori.
-
 GAZETTE NOTICE NO. 12548
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
-IN THE MATTER OF THE ESTATE OF CERINA OKANGA OWALLAH
+## IN THE MATTER OF THE ESTATE OF CERINA OKANGA OWALLAH
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 249 OF 2009
 
@@ -3955,15 +3956,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 4th November, 2009.
 
-KIBET SAMBU, District Registrar, Migori.
-
 GAZETTE NOTICE NO. 12549
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MIGORI
 
-IN THE MATTER OF THE ESTATE OF ZAKAYO ODERO ONGORO
+## IN THE MATTER OF THE ESTATE OF ZAKAYO ODERO ONGORO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 253 OF 2009
 
@@ -3977,13 +3976,17 @@ Dated the 10th November, 2009.
 
 KIBET SAMBU, District Registrar, Migori.
 
+KIBET SAMBU, District Registrar, Migori.
+
+KIBET SAMBU, District Registrar, Migori.
+
 GAZETTE NOTICE NO. 12550
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MOLO
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT MOLO
 
-IN THE MATTER OF THE ESTATE OF ANYONA MAYIEKA
+## IN THE MATTER OF THE ESTATE OF ANYONA MAYIEKA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 47 OF 2009
 
@@ -3995,15 +3998,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 10th November, 2009.
 
-S. M. S. SOITA, District Registrar, Molo.
-
 GAZETTE NOTICE NO. 12551
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NANYUKI
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT NANYUKI
 
-IN THE MATTER OF THE ESTATE OF HARRY HURI MUNYIRI OF LAIKIPIA
+## IN THE MATTER OF THE ESTATE OF HARRY HURI MUNYIRI OF LAIKIPIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 13 OF 2009
 
@@ -4015,15 +4016,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 8th October, 2009.
 
-H. N. NDUNGU, District Registrar, Nanyuki.
-
 GAZETTE NOTICE NO. 12552
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
-IN THE MATTER OF THE ESTATE OF NJOROGE GATHU
+## IN THE MATTER OF THE ESTATE OF NJOROGE GATHU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 49 OF 2009
 
@@ -4037,15 +4036,19 @@ Dated the 10th July, 2009.
 
 A. O. AMINGA,
 
+S. M. S. SOITA, District Registrar, Molo.
+
+H. N. NDUNGU, District Registrar, Nanyuki.
+
 District Registrar, Limuru.
 
 GAZETTE NOTICE NO. 12553
 
-IN THE SENIOR PRINCIPALMAGISTRATE'S COURT AT LIMURU
+## IN THE SENIOR PRINCIPALMAGISTRATE'S COURT AT LIMURU
 
-IN THE MATTER OF THE ESTATE OF KOI NGANGA
+## IN THE MATTER OF THE ESTATE OF KOI NGANGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 81 OF 2009
 
@@ -4057,15 +4060,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 6th November, 2009.
 
-M. A. MURAGE, District Registrar, Limuru.
-
 GAZETTE NOTICE NO. 12554
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
-IN THE MATTER OF THE ESTATE OF ROSE MUTHONI S. KINUTHIA ALIAS LOISE MUTHONI
+## IN THE MATTER OF THE ESTATE OF ROSE MUTHONI S. KINUTHIA ALIAS LOISE MUTHONI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 127 OF 2009
 
@@ -4077,13 +4078,11 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 16th October, 2009.
 
-A. O. OMINGA, District Registrar, Limuru.
-
 GAZETTE NOTICE NO. 12555
 
-IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
+## IN THE SENIOR PRINCIPAL MAGISTRATE'S COURT AT LIMURU
 
-IN THE MATTER OF THE ESTATE OF KANYI NGIGI PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF KANYI NGIGI PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 126 OF 2009
 
@@ -4097,13 +4096,17 @@ Dated the 16th October, 2009.
 
 M. A. MURAGE, District Registrar, Limuru.
 
+A. O. OMINGA, District Registrar, Limuru.
+
+M. A. MURAGE, District Registrar, Limuru.
+
 GAZETTE NOTICE NO. 12556
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
-IN THE MATTER OF THE ESTATE OF BENARD KIPKIRUI KORIR OF BURETI
+## IN THE MATTER OF THE ESTATE OF BENARD KIPKIRUI KORIR OF BURETI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 41 OF 2009
 
@@ -4119,11 +4122,11 @@ S. R. ROTICH, District Registrar, Sotik.
 
 GAZETTE NOTICE NO. 12557
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
-IN THE MATTER OF THE ESTATE OF SAMWEL CHEROROT KIMUTAI OF BURETI
+## IN THE MATTER OF THE ESTATE OF SAMWEL CHEROROT KIMUTAI OF BURETI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 45 OF 2009
 
@@ -4139,11 +4142,11 @@ S. R. ROTICH, District Registrar, Sotik.
 
 GAZETTE NOTICE NO. 12558
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
-IN THE MATTER OF THE ESTATE OF KIPLANGAT ARAP TEMBUR  OF BURETI
+## IN THE MATTER OF THE ESTATE OF KIPLANGAT ARAP TEMBUR  OF BURETI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 46 OF 2009
 
@@ -4159,11 +4162,11 @@ S. R. ROTICH, District Registrar, Sotik.
 
 GAZETTE NOTICE NO. 12559
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT SOTIK
 
-IN THE MATTER OF THE ESTATE OF GABRIEL KIMUTAI SANG OF BURETI
+## IN THE MATTER OF THE ESTATE OF GABRIEL KIMUTAI SANG OF BURETI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 47 OF 2009
 
@@ -4179,11 +4182,11 @@ S. R. ROTICH, District Registrar, Sotik.
 
 GAZETTE NOTICE NO. 12560
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KERUGOYA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF MUTHONI NJERU
+## IN THE MATTER OF THE ESTATE OF MUTHONI NJERU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 145 OF 2009
 
@@ -4199,11 +4202,11 @@ P. T. NDITIKA, District Registrar, Kerugoya.
 
 GAZETTE NOTICE NO. 12561
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF FREDRICK METHA
+## IN THE MATTER OF THE ESTATE OF FREDRICK METHA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 73 OF 2009
 
@@ -4219,11 +4222,11 @@ P. N. GESORA, District Registrar, Chuka.
 
 GAZETTE NOTICE NO. 12562
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF JANET NYAI KIOGORA ALIAS JANET MEME
+## IN THE MATTER OF THE ESTATE OF JANET NYAI KIOGORA ALIAS JANET MEME
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 143 OF 2009
 
@@ -4239,11 +4242,11 @@ P. N. GESORA, District Registrar, Chuka.
 
 GAZETTE NOTICE NO. 12563
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF M'ITWERANDU MUTWANYONGO
+## IN THE MATTER OF THE ESTATE OF M'ITWERANDU MUTWANYONGO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 144 OF 2009
 
@@ -4261,11 +4264,11 @@ District Registrar, Chuka.
 
 GAZETTE NOTICE NO. 12564
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF JOSEPH MWITI SOLOMON
+## IN THE MATTER OF THE ESTATE OF JOSEPH MWITI SOLOMON
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 145 OF 2009
 
@@ -4281,9 +4284,9 @@ P. N. GESORA, District Registrar, Chuka.
 
 GAZETTE NOTICE NO. 12565
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF NGUMUKO MARARA ALIAS M'NGUMUKO MARARA PROBATE AND ADMINISTRATION
+## IN THE MATTER OF THE ESTATE OF NGUMUKO MARARA ALIAS M'NGUMUKO MARARA PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 159 OF 2009
 
@@ -4295,15 +4298,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 21st June, 2009.
 
-P. N. GESORA, District Registrar, Chuka.
-
 GAZETTE NOTICE NO. 12566
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF M'MURITHI BARANYA
+## IN THE MATTER OF THE ESTATE OF M'MURITHI BARANYA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 166 OF 2009
 
@@ -4317,13 +4318,15 @@ Dated the 9th November, 2009.
 
 P. N. GESORA, District Registrar, Chuka.
 
+P. N. GESORA, District Registrar, Chuka.
+
 GAZETTE NOTICE NO. 12567
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT CHUKA
 
-IN THE MATTER OF THE ESTATE OF TIMOTHY MUTEGI THUURA ALIAS MARETE M'THURA BAIRUA
+## IN THE MATTER OF THE ESTATE OF TIMOTHY MUTEGI THUURA ALIAS MARETE M'THURA BAIRUA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 175 OF 2009
 
@@ -4339,11 +4342,11 @@ P. N. GESORA, District Registrar, Chuka.
 
 GAZETTE NOTICE NO. 12568
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
-IN THE MATTER OF THE ESTATE OF DANIEL MUNYWEA MAINGI
+## IN THE MATTER OF THE ESTATE OF DANIEL MUNYWEA MAINGI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 123 OF 2009
 
@@ -4359,11 +4362,11 @@ T. M. MWANGI, District Registrar, Kitui.
 
 GAZETTE NOTICE NO. 12569
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
-IN THE MATTER OF THE ESTATE OF JOSEPH NZAU MWIKYA
+## IN THE MATTER OF THE ESTATE OF JOSEPH NZAU MWIKYA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 125 OF 2009
 
@@ -4379,11 +4382,11 @@ T. M. MWANGI, District Registrar, Kitui.
 
 GAZETTE NOTICE NO. 12570
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KITUI
 
-IN THE MATTER OF THE ESTATE OF FAROUK JUMA KALOO
+## IN THE MATTER OF THE ESTATE OF FAROUK JUMA KALOO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 128 OF 2009
 
@@ -4399,11 +4402,11 @@ T. M. MWANGI, District Registrar, Kitui.
 
 GAZETTE NOTICE NO. 12571
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT MWINGI
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT MWINGI
 
-IN THE MATTER OF THE ESTATE OF BENEDICT KATHEKE MULINDU
+## IN THE MATTER OF THE ESTATE OF BENEDICT KATHEKE MULINDU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 25 OF 2009
 
@@ -4419,11 +4422,11 @@ H. M. NYABERI, District Registrar, Mwingi.
 
 GAZETTE NOTICE NO. 12572
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT SIAYA
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT SIAYA
 
-IN THE MATTER OF THE ESTATE OF AMBAYO ONYANGO
+## IN THE MATTER OF THE ESTATE OF AMBAYO ONYANGO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 5 OF 2008
 
@@ -4439,11 +4442,11 @@ W. K. CHEPSEBA, District Registrar, Siaya.
 
 GAZETTE NOTICE NO. 12573
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
-IN THE MATTER OF THE ESTATE OF SALINA MUGUN
+## IN THE MATTER OF THE ESTATE OF SALINA MUGUN
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 90 OF 2009
 
@@ -4459,11 +4462,11 @@ J. M. NJOROGE, District Registrar, Kapsabet.
 
 GAZETTE NOTICE NO. 12574
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
-IN THE MATTER OF THE ESTATE OF KIRWA ARAP KEINO
+## IN THE MATTER OF THE ESTATE OF KIRWA ARAP KEINO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 104 OF 2009
 
@@ -4481,11 +4484,11 @@ District Registrar, Kapsabet.
 
 GAZETTE NOTICE NO. 12575
 
-IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
+## IN THE PRINCIPAL MAGISTRATE'S COURT AT KAPSABET
 
-IN THE MATTER OF THE ESTATE OF KITUR ARAP SOI
+## IN THE MATTER OF THE ESTATE OF KITUR ARAP SOI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 115  OF 2009
 
@@ -4497,17 +4500,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 13th November, 2009.
 
-J. M. NJOROGE,
-
-District Registrar, Kapsabet.
-
 GAZETTE NOTICE NO. 12576
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT SOTIK
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT SOTIK
 
-IN THE MATTER OF THE ESTATE OF KIPNGENO ARAP TUM OF BURETI
+## IN THE MATTER OF THE ESTATE OF KIPNGENO ARAP TUM OF BURETI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 18 OF 2007
 
@@ -4519,17 +4518,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 20th November, 2007.
 
+J. M. NJOROGE,
+
+District Registrar, Kapsabet.
+
 A. G. KIBIRU,
 
 District Registrar, Sotik.
 
 GAZETTE NOTICE NO. 12577
 
-IN THE CHIEF MAGISTRATE'S COURT AT THIKA
+## IN THE CHIEF MAGISTRATE'S COURT AT THIKA
 
-IN THE MATTER OF THE ESTATE OF NGANGA WARUIA
+## IN THE MATTER OF THE ESTATE OF NGANGA WARUIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 427 OF 2009
 
@@ -4541,15 +4544,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 26th October, 2009.
 
-B. A. OWINO, District Registrar, Thika.
-
 GAZETTE NOTICE NO. 12578
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
 
-IN THE MATTER OF THE ESTATE OF HANDA ALUOCH
+## IN THE MATTER OF THE ESTATE OF HANDA ALUOCH
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 18 OF 2008
 
@@ -4561,15 +4562,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 17th June, 2009.
 
-E. K. MWAITA, District Registrar, Homa Bay.
-
 GAZETTE NOTICE NO. 12579
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
 
-IN THE MATTER OF THE ESTATE OF TOBIAS OTIENO
+## IN THE MATTER OF THE ESTATE OF TOBIAS OTIENO
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 101 OF 2009
 
@@ -4581,15 +4580,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 27th July, 2009.
 
+B. A. OWINO, District Registrar, Thika.
+
+E. K. MWAITA, District Registrar, Homa Bay.
+
 C. A. S. MUTAI, District Registrar, Homa Bay.
 
 GAZETTE NOTICE NO. 12580
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
 
-IN THE MATTER OF THE ESTATE OF NGARE MIDAMBA
+## IN THE MATTER OF THE ESTATE OF NGARE MIDAMBA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 143 OF 2009
 
@@ -4601,15 +4604,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 3rd November, 2009.
 
-C. A. S. MUTAI, District Registrar, Homa Bay.
-
 GAZETTE NOTICE NO. 12581
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
 
-IN THE MATTER OF THE ESTATE OF JULIUS OTIENO ORIA
+## IN THE MATTER OF THE ESTATE OF JULIUS OTIENO ORIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 149 OF 2009
 
@@ -4621,15 +4622,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 4th November, 2009.
 
-C. A. S. MUTAI, District Registrar, Homa Bay.
-
 GAZETTE NOTICE NO. 12582
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT HOMA BAY
 
-IN THE MATTER OF THE ESTATE OF OTIENO NANGA
+## IN THE MATTER OF THE ESTATE OF OTIENO NANGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 150 OF 2009
 
@@ -4643,13 +4642,17 @@ Dated the 3rd November, 2009.
 
 C. A. S. MUTAI, District Registrar, Homa Bay.
 
+C. A. S. MUTAI, District Registrar, Homa Bay.
+
+C. A. S. MUTAI, District Registrar, Homa Bay.
+
 GAZETTE NOTICE NO. 12583
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
 
-IN THE MATTER OF THE ESTATE OF LENNY MARIO OF LAIKIPIA DISTRICT
+## IN THE MATTER OF THE ESTATE OF LENNY MARIO OF LAIKIPIA DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 14 OF 2008
 
@@ -4661,15 +4664,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 19th October, 2009.
 
-H. N. NDUNGU, District Registrar, Nanyuki.
-
 GAZETTE NOTICE NO. 12584
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
 
-IN THE MATTER OF THE ESTATE OF BEATRICE KANINI WAIHENYA OF MARURA SUB-LOCATION
+## IN THE MATTER OF THE ESTATE OF BEATRICE KANINI WAIHENYA OF MARURA SUB-LOCATION
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 45 OF 2008
 
@@ -4681,15 +4682,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 14th January, 2009.
 
-H. N. NDUNGU, District Registrar, Nanyuki.
-
 GAZETTE NOTICE NO. 12585
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT NANYUKI
 
-IN THE MATTER OF THE ESTATE OF FRANCIS GITARI WANJOHI OF KANGAITA LOCATION
+## IN THE MATTER OF THE ESTATE OF FRANCIS GITARI WANJOHI OF KANGAITA LOCATION
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 7 OF 2009
 
@@ -4701,13 +4700,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 30th July, 2009.
 
+H. N. NDUNGU, District Registrar, Nanyuki.
+
+H. N. NDUNGU, District Registrar, Nanyuki.
+
+H. N. NDUNGU,
+
+District Registrar, Nanyuki.
+
 GAZETTE NOTICE NO. 12586
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIKUYU
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIKUYU
 
-IN THE MATTER OF THE ESTATE OF STEPHEN MWATHI KIBUE ALIAS STEPHEN MURIITHI KIBUI ALIAS STEPHEN MWATHI MBUI
+## IN THE MATTER OF THE ESTATE OF STEPHEN MWATHI KIBUE ALIAS STEPHEN MURIITHI KIBUI ALIAS STEPHEN MWATHI MBUI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 60 OF 2009
 
@@ -4719,15 +4726,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 28th October 2009.
 
-D. N. MULEKYO, District Registrar, Kikuyu.
-
 GAZETTE NOTICE NO. 12587
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIKUYU
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIKUYU
 
-IN THE MATTER OF THE ESTATE OF SAMUEL WATHOME KAGUKU
+## IN THE MATTER OF THE ESTATE OF SAMUEL WATHOME KAGUKU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 56 OF 2009
 
@@ -4739,15 +4744,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 30th September, 2009.
 
-D. N. MULEKYO, District Registrar, Kikuyu.
-
 GAZETTE NOTICE NO. 12588
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
 
-IN THE MATTER OF THE ESTATE OF ASWA OBAMBO ALIAS WASWA
+## IN THE MATTER OF THE ESTATE OF ASWA OBAMBO ALIAS WASWA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 23 OF 2009
 
@@ -4759,17 +4762,17 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 19th March, 2009.
 
-H. N. NDUNGU,
+D. N. MULEKYO, District Registrar, Kikuyu.
 
-District Registrar, Nanyuki.
+D. N. MULEKYO, District Registrar, Kikuyu.
 
 GAZETTE NOTICE NO. 12589
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT BUTERE
 
-IN THE MATTER OF THE ESTATE OF PHILIP AKAKA AMWAI
+## IN THE MATTER OF THE ESTATE OF PHILIP AKAKA AMWAI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 25 OF 2009
 
@@ -4781,17 +4784,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 19th March, 2009.
 
-G. O. OYUGI,
-
-District Registrar, Butere.
-
 GAZETTE NOTICE NO. 12590
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT WEBUYE
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT WEBUYE
 
-IN THE MATTER OF THE ESTATE OF MAMELA SAYA
+## IN THE MATTER OF THE ESTATE OF MAMELA SAYA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 39 OF 2009
 
@@ -4803,17 +4802,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 29th October, 2009.
 
-L. ARIKA,
-
-District Registrar, Webuye.
-
 GAZETTE NOTICE NO. 12591
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KILIFI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KILIFI
 
-IN THE MATTER OF THE ESTATE OF WALLACE BAKARI CHAI
+## IN THE MATTER OF THE ESTATE OF WALLACE BAKARI CHAI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 56 OF 2008
 
@@ -4825,17 +4820,25 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 17th November, 2009.
 
+G. O. OYUGI,
+
+District Registrar, Butere.
+
+L. ARIKA,
+
+District Registrar, Webuye.
+
 J. M. NDUNA, District Registrar, Kilifi.
 
 GAZETTE NOTICE NO. 12592
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
 
-IN THE MATTER OF THE ESTATE OF MACHARIA MUTHIGA
+## IN THE MATTER OF THE ESTATE OF MACHARIA MUTHIGA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
-SUCCESSION CAUSE NO. 71 OF 2009
+## SUCCESSION CAUSE NO. 71 OF 2009
 
 LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed deceased, who died at Marumi Sub-location, on 3rd June, 1985, has  been  filed  in  this  registry  by  Njihia  Macharia,  of  P.O.  Box  59, Kigumo, in capacity as an administrator of the deceased's estate.
 
@@ -4845,17 +4848,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 9th October, 2009.
 
-M. W. MUTUKU,
-
-District Registrar, Kigumo.
-
 GAZETTE NOTICE NO. 12593
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
 
-IN THE MATTER OF THE ESTATE OF FREDRICK NJUGUNA WAINAINA
+## IN THE MATTER OF THE ESTATE OF FREDRICK NJUGUNA WAINAINA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 74 OF 2009
 
@@ -4867,17 +4866,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 6th November, 2009.
 
-M. W. MUTUKU,
-
-District Registrar, Kigumo.
-
 GAZETTE NOTICE NO. 12594
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KIGUMO
 
-IN THE MATTER OF THE ESTATE OF MAINA NDAMBIA
+## IN THE MATTER OF THE ESTATE OF MAINA NDAMBIA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 75 OF 2009
 
@@ -4891,15 +4886,23 @@ Dated the 5th November, 2009.
 
 M. W. MUTUKU,
 
+District Registrar, Kigumo.
+
+M. W. MUTUKU,
+
+District Registrar, Kigumo.
+
+M. W. MUTUKU,
+
 District Registrar, Kigumo
 
 GAZETTE NOTICE NO. 12595
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GICHUGU
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GICHUGU
 
-IN THE MATTER OF THE ESTATE OF CUNGU NGURE ALIAS CHUNGU NGURE
+## IN THE MATTER OF THE ESTATE OF CUNGU NGURE ALIAS CHUNGU NGURE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 57 OF 2009
 
@@ -4911,17 +4914,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 12th October, 2009.
 
-B. J. NDEDA,
-
-District Registrar, Gichugu.
-
 GAZETTE NOTICE NO. 12596
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GICHUGU
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GICHUGU
 
-IN THE MATTER OF THE ESTATE OF PAUL MWAI GITIMU
+## IN THE MATTER OF THE ESTATE OF PAUL MWAI GITIMU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 60 OF 2009
 
@@ -4933,15 +4932,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 15th October, 2009.
 
-B. J. NDEDA, District Registrar,Gichugu.
-
 GAZETTE NOTICE NO. 12597
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KANGEMA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KANGEMA
 
-IN THE MATTER OF THE ESTATE OF MWANGI JASAN ALIAS MWANGI KARIUKI
+## IN THE MATTER OF THE ESTATE OF MWANGI JASAN ALIAS MWANGI KARIUKI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 72 OF 2009
 
@@ -4953,15 +4950,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 22nd  October, 2009.
 
+B. J. NDEDA,
+
+District Registrar, Gichugu.
+
+B. J. NDEDA, District Registrar,Gichugu.
+
 D. A. ORIMBA, District Registrar, Kangema.
 
 GAZETTE NOTICE NO. 12598
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KANGEMA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KANGEMA
 
-IN THE MATTER OF THE ESTATE OF SILAH MWINGA MAINA
+## IN THE MATTER OF THE ESTATE OF SILAH MWINGA MAINA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 76 OF 2009
 
@@ -4973,15 +4976,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 13th November, 2009.
 
-D. A. ORIMBA, District Registrar, Kangema.
-
 GAZETTE NOTICE NO. 12599
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
 
-IN THE MATTER OF THE ESTATE OF JOHN GAKUU ALIAS JOHN GAKUU MUTIRA OF EMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF JOHN GAKUU ALIAS JOHN GAKUU MUTIRA OF EMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 39 OF 2009
 
@@ -4993,15 +4994,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th May, 2009.
 
-D. O. ONYANGO, District Registrar, Runyenjes.
-
 GAZETTE NOTICE NO. 12600
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
 
-IN THE MATTER OF THE ESTATE OF JOHN NGARI MUTUVIE OF KIANJIRU LOCATION
+## IN THE MATTER OF THE ESTATE OF JOHN NGARI MUTUVIE OF KIANJIRU LOCATION
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 96 OF 2009
 
@@ -5013,15 +5012,19 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 9th October, 2009.
 
+D. A. ORIMBA, District Registrar, Kangema.
+
+D. O. ONYANGO, District Registrar, Runyenjes.
+
 D. O. ONYANGO, District Registrar, Runyenjes.
 
 GAZETTE NOTICE NO. 12601
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT RUNYENJES
 
-IN THE MATTER OF THE ESTATE OF STEPHEN KIARAGO M,'MBURA OF EMBU EAST DISTRICT
+## IN THE MATTER OF THE ESTATE OF STEPHEN KIARAGO M,'MBURA OF EMBU EAST DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 115 OF 2009
 
@@ -5033,15 +5036,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 16th November, 2009.
 
-D. O. ONYANGO, District Registrar, Runyenjes.
-
 GAZETTE NOTICE NO. 12602
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GITHUNGURI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GITHUNGURI
 
-IN THE MATTER OF THE ESTATE OF JOHN WACHAGA KAGO OF GITUNGURI SUB-LOCATION, GITHUNGURI LOCATION, KIAMBU DISTRICT
+## IN THE MATTER OF THE ESTATE OF JOHN WACHAGA KAGO OF GITUNGURI SUB-LOCATION, GITHUNGURI LOCATION, KIAMBU DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 31 OF 2009
 
@@ -5053,15 +5054,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 5th June, 2009.
 
-A. LOROT, District Registrar, Githunguri.
-
 GAZETTE NOTICE NO. 12603
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GITHUNGURI
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT GITHUNGURI
 
-IN THE MATTER OF THE ESTATE OF KIHARA NDIRANGU OF IKINU LOCATION, GITHUNGURI DISTRICT
+## IN THE MATTER OF THE ESTATE OF KIHARA NDIRANGU OF IKINU LOCATION, GITHUNGURI DISTRICT
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 56 OF 2009
 
@@ -5073,17 +5072,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 15th October, 2009.
 
+D. O. ONYANGO, District Registrar, Runyenjes.
+
+A. LOROT, District Registrar, Githunguri.
+
 R. A. A. OTIENO, District Registrar, Githunguri.
 
 GAZETTE NOTICE NO. 12604
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF PETER KIURIA GAKORU ALIAS KIURIA GAKORU
+## IN THE MATTER OF THE ESTATE OF PETER KIURIA GAKORU ALIAS KIURIA GAKORU
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
-SUCCESSION CAUSE NO. 42 OF 2009
+## SUCCESSION CAUSE NO. 42 OF 2009
 
 LET ALL the parties  concerned  take  notice  that  a  petition  for  a grant  of  letters  of  administration  intestate  to  the  estate  of  the  abovenamed  deceased,  who  died  at  District  Hospital,  Kerugoya,  on  28th February,  2007,  has  been  filed  in  this  registry  by  Grace  Wangari Kiuria, of P.O. Box 311, Kerugoya, in her capacity as an administratrix of the deceased's estate.
 
@@ -5093,15 +5096,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 4th June, 2009.
 
-A. K. ITHUKU, District Registrar, Kerugoya.
-
 GAZETTE NOTICE NO. 12605
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF MURAGE KIBUTI
+## IN THE MATTER OF THE ESTATE OF MURAGE KIBUTI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 90 OF 2009
 
@@ -5113,17 +5114,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 20th August, 2009.
 
-P. T. NDITIKA,
-
-District Registrar, Kerugoya.
-
 GAZETTE NOTICE NO. 12606
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF WILSON MWANGI
+## IN THE MATTER OF THE ESTATE OF WILSON MWANGI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 116 OF 2009
 
@@ -5135,15 +5132,21 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 29th September, 2009.
 
+A. K. ITHUKU, District Registrar, Kerugoya.
+
+P. T. NDITIKA,
+
+District Registrar, Kerugoya.
+
 P. T. NDITIKA, District Registrar, Kerugoya.
 
 GAZETTE NOTICE NO. 12607
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF SIMON KAMAU NGUGI
+## IN THE MATTER OF THE ESTATE OF SIMON KAMAU NGUGI
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 134 OF 2009
 
@@ -5155,15 +5158,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 4th November 2009.
 
-P. T. NDITIKA, District Registrar, Kerugoya.
-
 GAZETTE NOTICE NO. 12608
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT KERUGOYA
 
-IN THE MATTER OF THE ESTATE OF PRISCILLA MURINGO NGURE
+## IN THE MATTER OF THE ESTATE OF PRISCILLA MURINGO NGURE
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 144 OF 2009
 
@@ -5175,15 +5176,13 @@ And further take notice that if no objection has been lodged in this registry  i
 
 Dated the 9th November, 2009.
 
-P. T. NDITIKA, District Registrar, Kerugoya.
-
 GAZETTE NOTICE NO. 12609
 
-IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT MUMIAS
+## IN THE SENIOR RESIDENT MAGISTRATE'S COURT AT MUMIAS
 
-IN THE MATTER OF THE ESTATE OF JOHN KWEYU TUNGUTA
+## IN THE MATTER OF THE ESTATE OF JOHN KWEYU TUNGUTA
 
-PROBATE AND ADMINISTRATION
+## PROBATE AND ADMINISTRATION
 
 SUCCESSION CAUSE NO. 17 OF 2009
 
@@ -5197,9 +5196,13 @@ Dated the 3rd June, 2009.
 
 E. K. MAKORI, District Registrar, Mumias.
 
+P. T. NDITIKA, District Registrar, Kerugoya.
+
+P. T. NDITIKA, District Registrar, Kerugoya.
+
 GAZETTE NOTICE NO. 12610
 
-THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
+## THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
 
 COMPLETION OF PART DEVELOPMENT PLAN
 
@@ -5221,7 +5224,7 @@ R. O. MARERI, for Director of Physical Planning.
 
 GAZETTE NOTICE NO. 12611
 
-THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
+## THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
 
 COMPLETION OF PART DEVELOPMENT PLAN
 
@@ -5243,19 +5246,37 @@ J. K. NG'ETICH, for Director of Physical Planning.
 
 GAZETTE NOTICE NO. 12612
 
+## THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
+
+COMPLETION OF PART/LOCAL PHYSICAL DEVELOPMENT PLANS
+
+| Plan Number            | Title of Plan                                                  | Town   | Date of Completion   |
+|------------------------|----------------------------------------------------------------|--------|----------------------|
+| RAC/MIRIU./2416/2009/1 | Miriu Local Physical Development Plan                          | Miriu  | 19-10-2009           |
+| RAC/OYS/385/2009/05    | Existing CDF Office, Kasipul Kabondo                           | Oyugis | 26-10-2009           |
+| RAC/OYS/385/2009/06    | Existing Open Air Market, Cattle Auction Ring and Oyugis Motel | Oyugis | 28-10-2009           |
+
+NOTICE is given that the above-mentioned local physical development plan and part development plans have been completed.
+
 The part development plan relates to land situated within Oyugis and Miriu centres.
+
+Copies of the part development plans have been deposited for public inspection at the offices of the District Physical Planning Officer at Kosele, District Commissioner's office, Kosele, Town Council of Oyugis and County Council of Rachuonyo.
+
+The copies so deposited are available for inspection free of charge by all persons interested at offices of District Physical Planning Officer at Kosele, District Commissioner's office, Kosele, Town Council of Oyugis and County Council of Rachuonyo, between the hours of 8.00 a.m. to 5.00 p.m., Monday to Friday.
+
+Any interested person who wishes to make any representation in connection with or objection to the above-named part development plan may send such representations or objections in writing to be received by the District Physical Planning Officer, P.O. Box 156, Kosele, within sixty (60) days from the date of publication of this notice and such representation or objection shall state the grounds on which it is made.
 
 Dated the 30th October, 2009.
 
 GAZETTE NOTICE NO. 12337
 
-THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
+## THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
 
 ( No. 8 of 1999)
 
-THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
+## THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
 
-ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED RESIDENTIAL ESTATE DEVELOPMENT, OFF KIAMBU ROAD, KIAMBU DISTRICT
+## ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED RESIDENTIAL ESTATE DEVELOPMENT, OFF KIAMBU ROAD, KIAMBU DISTRICT
 
 PURSUANT to regulation 21 of Environmental (Impact Assessment and Audit) Regulations, the National Environment Management  Authority (NEMA)  has  received an environmental impact assessment study report for the implementation of the proposed residential estate development off Kiambu Road, Kiambu District.
 
@@ -5269,19 +5290,15 @@ Possible Impacts
 
 Mitigation Measures
 
- Ensure strict enforcement of on-site speed limit regulations.
-
 Dust emission
 
- Avoid  excavation  works  in  extremely dry weathers.
-
- Sprinkle  water  on  graded  access  routes when necessary to reduce dust generation by construction vehicles.
-
- Personal Protective equipment to be worn.
-
- Vehicle idling time shall be minimized.
-
- Alternatively fuelled construction equipment  shall  be  used  where  feasible equipment  shall  be  properly  tuned  and maintained.
+-  Ensure strict enforcement of on-site speed limit regulations.
+-  Avoid  excavation  works  in  extremely dry weathers.
+-  Sprinkle  water  on  graded  access  routes when necessary to reduce dust generation by construction vehicles.
+-  Personal Protective equipment to be worn.
+-  Vehicle idling time shall be minimized.
+-  Alternatively fuelled construction equipment  shall  be  used  where  feasible equipment  shall  be  properly  tuned  and maintained.
+-  Sensitize truck drivers to avoid unnecessary racing of vehicle engines at loading/offloading points and parking areas, and to switch off or keep vehicle engines at these points.
 
 J. M. WASUA, for Director of Physical Planning.
 
@@ -5289,122 +5306,73 @@ Possible Impacts
 
 Mitigation Measures
 
- Sensitize truck drivers to avoid unnecessary racing of vehicle engines at loading/offloading points and parking areas, and to switch off or keep vehicle engines at these points.
-
- Sensitize construction vehicle drivers and  machinery  operators  to  switch  off engines  of  vehicles  or  machinery  not being used.
-
 Noise and vibration
-
- Sensitize  construction  drivers  to  avoid gunning  of  vehicle  engines  or  hooting especially when passing through sensitive areas such as churches, residential areas and schools.
-
- Ensure  that  construction  machinery  are kept  in  good  condition  to  reduce  noise generation.
-
- Ensure  that  all  generators  and  heavy duty  equipment  are  insulated  or  placed in enclosures to minimize ambient noise levels.
-
- Trees  to  be  planted  around  the  site  to provide some buffer against noise propagation.
-
- The noisy construction works will entirely  be  planned  to  be  during  day time.
-
- Provide means for handling sewage generated by construction workers
 
 Generation of wastewater
 
- Conduct regular checks for sewage pipe blockages  or  damages  since  such  vices can  lead  to  release  of  the  effluent  into the land and water bodies.
-
- Monitor effluent quality regularly to ensure that the stipulated discharge rules and standards are not violated.
-
- Ensure that all building plans are approved by the Local Authority and the Local  Occupational  Health  and  Safety Office.
-
 Occupational health and safety risks
 
-THE PHYSICAL PLANNING ACT ( No . 6 of 1996)
+-  Sensitize construction vehicle drivers and  machinery  operators  to  switch  off engines  of  vehicles  or  machinery  not being used.
+-  Sensitize  construction  drivers  to  avoid gunning  of  vehicle  engines  or  hooting especially when passing through sensitive areas such as churches, residential areas and schools.
+-  Ensure  that  construction  machinery  are kept  in  good  condition  to  reduce  noise generation.
+-  Ensure  that  all  generators  and  heavy duty  equipment  are  insulated  or  placed in enclosures to minimize ambient noise levels.
+-  Trees  to  be  planted  around  the  site  to provide some buffer against noise propagation.
+-  The noisy construction works will entirely  be  planned  to  be  during  day time.
+-  Provide means for handling sewage generated by construction workers
+-  Conduct regular checks for sewage pipe blockages  or  damages  since  such  vices can  lead  to  release  of  the  effluent  into the land and water bodies.
+-  Monitor effluent quality regularly to ensure that the stipulated discharge rules and standards are not violated.
+-  Ensure that all building plans are approved by the Local Authority and the Local  Occupational  Health  and  Safety Office.
 
-COMPLETION OF PART/LOCAL PHYSICAL DEVELOPMENT PLANS
+Possible Impacts
 
-Plan Number | Title of Plan | Town | Date of Completion
-RAC/MIRIU./2416/2009/1 | Miriu Local Physical Development Plan | Miriu | 19-10-2009
-RAC/OYS/385/2009/05 | Existing CDF Office, Kasipul Kabondo | Oyugis | 26-10-2009
-RAC/OYS/385/2009/06 | Existing Open Air Market, Cattle Auction Ring and Oyugis Motel | Oyugis | 28-10-2009
+Solid waste generation
 
-NOTICE is given that the above-mentioned local physical development plan and part development plans have been completed.
+Fire protection
 
-Copies of the part development plans have been deposited for public inspection at the offices of the District Physical Planning Officer at Kosele, District Commissioner's office, Kosele, Town Council of Oyugis and County Council of Rachuonyo.
+Soil and water contamination
 
-The copies so deposited are available for inspection free of charge by all persons interested at offices of District Physical Planning Officer at Kosele, District Commissioner's office, Kosele, Town Council of Oyugis and County Council of Rachuonyo, between the hours of 8.00 a.m. to 5.00 p.m., Monday to Friday.
+Hydrology and water quality degradation
 
-Any interested person who wishes to make any representation in connection with or objection to the above-named part development plan may send such representations or objections in writing to be received by the District Physical Planning Officer, P.O. Box 156, Kosele, within sixty (60) days from the date of publication of this notice and such representation or objection shall state the grounds on which it is made.
+## Mitigitation Measures
+
+-  Registration of the residential project under the Factories and Other Places of Work Act Cap. 514,  Laws  of  Kenya  is mandatory.
+-  A  general  register  shall  be  kept  within the facility as stipulated in Sec 62 (1) of the Factories and Other Places of Work Act.
+-  The abstract  of  the  Factories  and  Other Places of Work Act shall be displayed at prominent places within the site.
+-  Ensure that provisions for reporting incidents, accidents and dangerous occurrences  during  construction  using prescribed  forms  obtainable  from  the local  Occupational  Health  and  Safety Office (OHSO) are in place.
+-  Develop  a  clear  site  organization  plan and construction schedule.
+-  Develop, document and display prominently  an  appropriate  SHE  policy for construction works
+-  Use of an integrated solid waste management system i.e. through a hierarchy of options: 1. Source reduction 2. Recycling 3.Composting and reuse 4. Combustion 5. Sanitary land filling.
+-  Ensure  that  construction  materials  left over at  the  end  of  construction  shall  be used  in  other  projects  rather  than  being disposed of.
+-  Provide  solid  waste  handling  facilities such as waste bins and skips.
+-  Dispose waste more responsibly by dumping at designated dumping sites or landfills only.
+-  Ensure that solid waste generated at the estate is regularly disposed of appropriately at authorized dumping sites.
+-  Ensure that occupants of the estate manage  their  waste  efficiently  through recycling, reuse and proper disposal procedures.
+-  Donate redundant but serviceable equipment to charities and institutions.
+-  Firefighting equipment such as fire extinguishers shall be provided at strategic  locations  such  as  stores  and construction areas.
+-  Regular  inspection  and  servicing  of  the equipment shall be undertaken by a reputable service provider and records of such inspections maintained.
+-  Signs such as 'NO SMOKING' shall be prominently displayed within the construction site, especially in parts where inflammable materials are stored.
+-  A  designated  garage  section  of  the  site fitted with oil trapping equipments to be planned for changes. Such an area shall be  well  protected  from  contaminating the soil
+-  Hazardous substance control and emergency  response  plan  shall  include preparations for quick and safe clean up of accidental spills.
+-  Hazardous-materials handling procedures to reduce the potential for a spill during construction shall be prescribed.
 
 Possible Impacts
 
 Mitigitation Measures
 
- Registration of the residential project under the Factories and Other Places of Work Act Cap. 514,  Laws  of  Kenya  is mandatory.
-
- A  general  register  shall  be  kept  within the facility as stipulated in Sec 62 (1) of the Factories and Other Places of Work Act.
-
- The abstract  of  the  Factories  and  Other Places of Work Act shall be displayed at prominent places within the site.
-
- Ensure that provisions for reporting incidents, accidents and dangerous occurrences  during  construction  using prescribed  forms  obtainable  from  the local  Occupational  Health  and  Safety Office (OHSO) are in place.
-
- Develop  a  clear  site  organization  plan and construction schedule.
-
- Develop, document and display prominently  an  appropriate  SHE  policy for construction works
-
- Use of an integrated solid waste management system i.e. through a hierarchy of options: 1. Source reduction 2. Recycling 3.Composting and reuse 4. Combustion 5. Sanitary land filling.
-
-Solid waste generation
-
- Ensure  that  construction  materials  left over at  the  end  of  construction  shall  be used  in  other  projects  rather  than  being disposed of.
-
- Provide  solid  waste  handling  facilities such as waste bins and skips.
-
- Dispose waste more responsibly by dumping at designated dumping sites or landfills only.
-
- Ensure that solid waste generated at the estate is regularly disposed of appropriately at authorized dumping sites.
-
- Ensure that occupants of the estate manage  their  waste  efficiently  through recycling, reuse and proper disposal procedures.
-
- Donate redundant but serviceable equipment to charities and institutions.
-
- Firefighting equipment such as fire extinguishers shall be provided at strategic  locations  such  as  stores  and construction areas.
-
-Fire protection
-
- Regular  inspection  and  servicing  of  the equipment shall be undertaken by a reputable service provider and records of such inspections maintained.
-
- Signs such as 'NO SMOKING' shall be prominently displayed within the construction site, especially in parts where inflammable materials are stored.
-
- A  designated  garage  section  of  the  site fitted with oil trapping equipments to be planned for changes. Such an area shall be  well  protected  from  contaminating the soil
-
-Soil and water contamination
-
- Hazardous substance control and emergency  response  plan  shall  include preparations for quick and safe clean up of accidental spills.
-
-Hydrology and water quality degradation
-
- Hazardous-materials handling procedures to reduce the potential for a spill during construction shall be prescribed.
-
- Identify areas where refueling and vehicle maintenance activities and storage  of  hazardous  materials,  if  any, shall be permitted
-
- Ground  water  shall  be  collected  during construction  contained  and  disposed  of in accordance with all applicable regulations
-
- Provide  adequate  and  safe  means  of handling sewage generated at the estate (i.e. septic tanks).
-
 Sewage disposal
 
- Conduct  regular  inspections  for  sewage pipe blockages or damages and fix appropriately.
-
- Ensure regular de-sludging of septic tanks and monitoring of the  sewage discharged  from  the  project  to  ensure that the stipulated sewage/effluent discharge  rules  and  standards  are  not violated.
+-  Identify areas where refueling and vehicle maintenance activities and storage  of  hazardous  materials,  if  any, shall be permitted
+-  Ground  water  shall  be  collected  during construction  contained  and  disposed  of in accordance with all applicable regulations
+-  Provide  adequate  and  safe  means  of handling sewage generated at the estate (i.e. septic tanks).
+-  Conduct  regular  inspections  for  sewage pipe blockages or damages and fix appropriately.
+-  Ensure regular de-sludging of septic tanks and monitoring of the  sewage discharged  from  the  project  to  ensure that the stipulated sewage/effluent discharge  rules  and  standards  are  not violated.
 
 The full report of the proposed project is available for inspection during working hours at:
 
-(a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
-
-(b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
-
-(c) Provincial Director of Environment, Central Province.
-
-(d) District Environment Office, Kiambu District.
+- (a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
+- (b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
+- (c) Provincial Director of Environment, Central Province.
+- (d) District Environment Office, Kiambu District.
 
 The National Environment Management Authority invites members  of  the  public  to  submit  oral  or  written  comments  within thirty  (30)  days  from  the  date  of  publication  of  this  notice  to  the Director  General,  NEMA,  to  assist  the  authority  in  the  approval process of this project.
 
@@ -5414,13 +5382,13 @@ National Environmental Management Authority.
 
 GAZETTE NOTICE NO. 12338
 
-THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
+## THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
 
 ( No. 8 of 1999)
 
-THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
+## THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
 
-ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED MIXED DEVELOPMENT ON L. R.  NO. 1870/1/92 - MWANZI ROAD, WESTLANDS
+## ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED MIXED DEVELOPMENT ON L. R.  NO. 1870/1/92 - MWANZI ROAD, WESTLANDS
 
 PURSUANT to regulation 21 of Environmental (Impact Assessment and Audit) Regulations, the National Environment Management  Authority (NEMA)  has  received an environmental impact assessment Study Report for the implementation of the Proposed  Mixed  Development  on  L.  R.    No.  1870/1/92  -  Mwanzi Road, Westlands
 
@@ -5432,145 +5400,91 @@ The  project anticipates the  following  impacts  and mitigation measures:
 
 Possible Impacts Mitigation Measures
 
-Possible Impacts
+## Occupational health and safety
 
-Mitigitation Measures
-
- Provide clean toilets.
-
-Occupational health and safety
-
- Provide clean water stand pipe.
-
- Hire licensed construction workers.
-
- Workers to undergo medical check -ups.
-
- Provide a list of contact persons and hospitals.
-
- Provide safety gear to construction workers.
-
- Contracting qualified and experienced builders.
-
- Provide dust masks and noise mufflers to workers.
-
-Dust pollution
-
- Sprinkle water on dusty surfaces.
-
- Put hoarding around the project site.
-
- Skirt the external walls of the building with dust screens.
-
- Erect  temporary  hoarding  in  accordance  with the Nairobi City Council by laws.
-
-Reduce nuisance such as noise and dust
-
- Erect  an  entrance  gate  and  have  it  manned  all the time.
-
- Cover all building under construction with dust screens.
-
- Sprinkle water on loose soil.
-
- Use heavy excavation machinery after working hours.
-
- Strictly  avoid  parking  of  heavy  lorries  along Mwanzi Road
-
- Do  not  deliver  construction  materials  during peak hours.
-
- Trees along the plot boundaries to be conserved.
+## Dust pollution
 
 Destruction of flora and fauna
 
- More indigenous trees to be planted.
-
- Care of trees, shrubs, flowers and grass on the landscaped compound.
-
- Maintain the internal roads and car parks avoiding potholes.
-
- Assemble  all  waste  from  the  building  in  the central refuse room.
-
 Solid waste management
 
- Hiring licensed solid waste collector to dispose waste collected to designated city sites.
+-  Provide clean toilets.
+-  Provide clean water stand pipe.
+-  Hire licensed construction workers.
+-  Workers to undergo medical check -ups.
+-  Provide a list of contact persons and hospitals.
+-  Provide safety gear to construction workers.
+-  Contracting qualified and experienced builders.
+-  Provide dust masks and noise mufflers to workers.
+-  Sprinkle water on dusty surfaces.
+-  Put hoarding around the project site.
+-  Skirt the external walls of the building with dust screens.
+-  Erect  temporary  hoarding  in  accordance  with the Nairobi City Council by laws.
 
- Use  lighter  delivery  lorries  and  sand  carrying lorries  to  uphold  the  integrity  of  the  existing roads
+## Reduce nuisance such as noise and dust
+
+-  Erect  an  entrance  gate  and  have  it  manned  all the time.
+-  Cover all building under construction with dust screens.
+-  Sprinkle water on loose soil.
+-  Use heavy excavation machinery after working hours.
+-  Strictly  avoid  parking  of  heavy  lorries  along Mwanzi Road
+-  Do  not  deliver  construction  materials  during peak hours.
+-  Trees along the plot boundaries to be conserved.
+-  More indigenous trees to be planted.
+-  Care of trees, shrubs, flowers and grass on the landscaped compound.
+-  Maintain the internal roads and car parks avoiding potholes.
+-  Assemble  all  waste  from  the  building  in  the central refuse room.
+-  Hiring licensed solid waste collector to dispose waste collected to designated city sites.
+-  Use  lighter  delivery  lorries  and  sand  carrying lorries  to  uphold  the  integrity  of  the  existing roads
 
 Reduce possible resident/construct ion workers conflict 
 
-Cover the building under construction with dust screens
-
- Sprinkle water on loose soil.
-
- Strictly  avoid  parking  of  any  vehicle  along Mwanzi road.
-
- Do not leave construction materials on the road.
-
- Transport  building  materials  during  off  peak hours.
-
- Provide for site lunches and snacks to workers to avoid loitering around the project area.
+- Cover the building under construction with dust screens
+-  Sprinkle water on loose soil.
+-  Strictly  avoid  parking  of  any  vehicle  along Mwanzi road.
+-  Do not leave construction materials on the road.
+-  Transport  building  materials  during  off  peak hours.
+-  Provide for site lunches and snacks to workers to avoid loitering around the project area.
 
 Possible Impacts Mitigation Measures
 
- Supervise construction workers to limit loitering around the neighbourhood.
-
- Fire drills.
-
-Prevention and management  of fire outbreaks
-
- Installation and inspection of fire extinguishers.
-
- Water tanks should be kept full at all times.
-
- Installation and replacement of smoke detectors.
-
- Keep fume extract heads in good condition.
-
- Ensure fire  blankets  and  fire  extinguishers  and hose reels are always in good condition.
-
- Ensure  fire  exits  routes  are  properly  shown  in the building.
-
- Switch off gas cylinders and electric appliances when not in use.
-
- Provide  mechanized  controlled  entry  and  exit for customer's vehicles.
+## Prevention and management  of fire outbreaks
 
 Traffic congestion
 
- Collaborate with NCC to improve the infrastructure in the area.
-
- Adhere  to recommendations  of traffic  flow study for the area.
-
- Lifts should be kept in good working condition at all times.
-
- Ensure the construction of storm water drainage.
-
 Grey/storm water
-
- Run off water drains should be kept clean and free of garbage at all times.
-
- Regular  checks  ups  for  leakage  and  blockage sewer and foul, water drainage pipes.
-
- Hire  professional  firm  to  ensure  security  at  all times.
 
 Security
 
- Institute mechanized surveillance at all times
-
- Install power saving bulbs.
-
 Increased energy demand
 
- Put off power when not needed.
+-  Supervise construction workers to limit loitering around the neighbourhood.
+-  Fire drills.
+-  Installation and inspection of fire extinguishers.
+-  Water tanks should be kept full at all times.
+-  Installation and replacement of smoke detectors.
+-  Keep fume extract heads in good condition.
+-  Ensure fire  blankets  and  fire  extinguishers  and hose reels are always in good condition.
+-  Ensure  fire  exits  routes  are  properly  shown  in the building.
+-  Switch off gas cylinders and electric appliances when not in use.
+-  Provide  mechanized  controlled  entry  and  exit for customer's vehicles.
+-  Collaborate with NCC to improve the infrastructure in the area.
+-  Adhere  to recommendations  of traffic  flow study for the area.
+-  Lifts should be kept in good working condition at all times.
+-  Ensure the construction of storm water drainage.
+-  Run off water drains should be kept clean and free of garbage at all times.
+-  Regular  checks  ups  for  leakage  and  blockage sewer and foul, water drainage pipes.
+-  Hire  professional  firm  to  ensure  security  at  all times.
+-  Institute mechanized surveillance at all times
+-  Install power saving bulbs.
+-  Put off power when not needed.
 
 The full report of the proposed project is available for inspection during working hours at:
 
-(a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
-
-(b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
-
-(c) Provincial Director of Environment, Nairobi Province.
-
-(d) District Environment Office, Nairobi West District.
+- (a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
+- (b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
+- (c) Provincial Director of Environment, Nairobi Province.
+- (d) District Environment Office, Nairobi West District.
 
 The National Environment Management Authority invites members  of  the  public  to  submit  oral  or  written  comments  within thirty  (30)  days  from  the  date  of  publication  of  this  notice  to  the Director  General,  NEMA,  to  assist  the  authority  in  the  approval process of this project.
 
@@ -5578,17 +5492,17 @@ B. M. LANGWEN, for Director-General,
 
 National Environmental Management Authority.
 
-GAZETTE NOTICE NO. 12339
+## GAZETTE NOTICE NO. 12339
 
 THE ENVIRONMENTAL MANAGEMENT AND
 
-CO-ORDINATION ACT
+## CO-ORDINATION ACT
 
-( No. 8 of 1999)
+## ( No. 8 of 1999)
 
-THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
+## THE NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
 
-ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED SMALL-SCALE DRY CELL BATTERIES ASSEMBLY PLANT-KISII TOWN
+## ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED SMALL-SCALE DRY CELL BATTERIES ASSEMBLY PLANT-KISII TOWN
 
 PURSUANT to regulation 21 of Environmental (Impact Assessment and Audit) Regulations, the National Environment Management  Authority (NEMA)  has  received an environmental impact assessment study report for the implementation of the proposed small-ccale dry cell batteries assembly plant, Kisii town.
 
@@ -5598,101 +5512,66 @@ The proposed project is located at Kisii Municipality Block II/1, Kisii Town.
 
 The  project anticipates the  following  impacts  and mitigation measures:
 
-Possible Impacts
+## Possible Impacts
 
-Mitigation Measures
-
- Provision and proper use Personal Protective  Clothing/  Equipment  by  all workers
+## Mitigation Measures
 
 Health and safety
 
- Provision  of  adequate  first  aid  facilities as per First aid rules of 1977
-
- Training of at least 3 regular employees on basic first aid skills
-
- Display  basic  first  aid  procedures  and action plan in the workplace
-
- Maintain  up  to  date  records  of  all  first aid  cases  attended  to  on  daily  basis  acquire and maintain general register in accordance with Occupational Safety and Health Act, 2007
-
- Provide adequate toilets, washrooms and changing  rooms  for  all  employees  and separate for each sex
-
- Ensure that every worker has at least 10 cubic metres of space in accordance with OSHA,2007
-
- Ensure that all work stations are well lit at all times
-
- Provide adequate ventilation of workplace
-
- Provide  facilities  for  sitting  as  may  be necessary
-
- Provide clean and safe drinking water in sufficient quantities.
-
- Provide adequate and appropriate waste receptacles (bins)
-
 Waste management
-
- Segregation of wastes at source
-
- Contract  licensed  garbage  collector  for disposal of non-hazardous wastes
-
- Safe disposal of all hazardous wastes
-
- Conduct laboratory analyses for soil, air and water samples once a year
 
 Environmental monitoring
 
- Conduct environmental auditing  once every 12 months
-
- Conduct internal self environmental audits once every 4 months
-
- Formulation of an environmental policy
-
- Shall maintain adequate fire-fighting equipment, these shall include appropriate  fire  extinguishers,  fire  hose
-
 Fire Prevention
+
+-  Provision and proper use Personal Protective  Clothing/  Equipment  by  all workers
+-  Provision  of  adequate  first  aid  facilities as per First aid rules of 1977
+-  Training of at least 3 regular employees on basic first aid skills
+-  Display  basic  first  aid  procedures  and action plan in the workplace
+-  Maintain  up  to  date  records  of  all  first aid  cases  attended  to  on  daily  basis  acquire and maintain general register in accordance with Occupational Safety and Health Act, 2007
+-  Provide adequate toilets, washrooms and changing  rooms  for  all  employees  and separate for each sex
+-  Ensure that every worker has at least 10 cubic metres of space in accordance with OSHA,2007
+-  Ensure that all work stations are well lit at all times
+-  Provide adequate ventilation of workplace
+-  Provide  facilities  for  sitting  as  may  be necessary
+-  Provide clean and safe drinking water in sufficient quantities.
+-  Provide adequate and appropriate waste receptacles (bins)
+-  Segregation of wastes at source
+-  Contract  licensed  garbage  collector  for disposal of non-hazardous wastes
+-  Safe disposal of all hazardous wastes
+-  Conduct laboratory analyses for soil, air and water samples once a year
+-  Conduct environmental auditing  once every 12 months
+-  Conduct internal self environmental audits once every 4 months
+-  Formulation of an environmental policy
+-  Shall maintain adequate fire-fighting equipment, these shall include appropriate  fire  extinguishers,  fire  hose
 
 Possible Impacts
 
-Mitigation Measures
+## Mitigation Measures
 
 reels,  water  for  fire-fighting  (not  less than 10,000litres)
 
- All flammable materials shall be properly stored -the LPG container shall be  kept  outside  the  plant  and  in  a  well ventilated secure chamber
-
- Provide  at  least  1m  gangway  in  every store for ease of movement of persons
-
- Storage of batteries must minimize probability of short-circuits
-
- A  distance  of  at  least  1m  shall  be  left between any two machines or from any machine  and  fixed structure -section 15(1) of OSHA, 2007
-
- Proper earthing of all electrical machines and equipment
-
- Provide  adequate  fire  exits  and  ensure they are well lit and clear at all times
-
- Label all fire exits and escape routes
-
- Formation of a fire fighting team
-
- Conduct annual fire drills
-
- Install a fire alarm
-
- Training of all workers on safe use fire fighting appliances
-
- Establish a fire assembly point
-
- Display appropriate notices at workplace
-
- Conduct fire audit every 12 months
+-  All flammable materials shall be properly stored -the LPG container shall be  kept  outside  the  plant  and  in  a  well ventilated secure chamber
+-  Provide  at  least  1m  gangway  in  every store for ease of movement of persons
+-  Storage of batteries must minimize probability of short-circuits
+-  A  distance  of  at  least  1m  shall  be  left between any two machines or from any machine  and  fixed structure -section 15(1) of OSHA, 2007
+-  Proper earthing of all electrical machines and equipment
+-  Provide  adequate  fire  exits  and  ensure they are well lit and clear at all times
+-  Label all fire exits and escape routes
+-  Formation of a fire fighting team
+-  Conduct annual fire drills
+-  Install a fire alarm
+-  Training of all workers on safe use fire fighting appliances
+-  Establish a fire assembly point
+-  Display appropriate notices at workplace
+-  Conduct fire audit every 12 months
 
 The full report of the proposed project is available for inspection during working hours at:
 
-(a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
-
-(b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
-
-(c) Provincial Director of Environment, Nyanza Province.
-
-(d) District Environment Office, Kisii District.
+- (a) Director General, (NEMA), Kapiti Road, off Mombasa Road, P.O. Box 67839-00200, Nairobi.
+- (b) Permanent  Secretary,  Ministry  of  Environment  and  Natural Resources, N.H.I.F. Community, P.O. Box 30521, Nairobi.
+- (c) Provincial Director of Environment, Nyanza Province.
+- (d) District Environment Office, Kisii District.
 
 The National Environment Management Authority invites members  of  the  public  to  submit  oral  or  written  comments  within thirty  (30)  days  from  the  date  of  publication  of  this  notice  to  the Director  General,  NEMA,  to  assist  the  authority  in  the  approval process of this project.
 
@@ -5700,13 +5579,13 @@ B. M. LANGWEN, for Director-General, National Environmental Management Authority
 
 GAZETTE NOTICE. NO. 12613
 
-THE LIQUOR LICENSING ACT
+## THE LIQUOR LICENSING ACT
 
-( Cap. 121)
+## ( Cap. 121)
 
-KAJIADO NORTH DISTRICT LIQUOR LICENSING COURT
+## KAJIADO NORTH DISTRICT LIQUOR LICENSING COURT
 
-STATUTORY MEETING
+## STATUTORY MEETING
 
 NOTICE is given that the next statutory meeting of Kajiado North Liquor  Licensing  Court  will  be  held  in  the  District  Commissioner's boardroom on Wednesday, 2nd December, 2009 at 10.00 a.m.
 
@@ -5730,7 +5609,7 @@ Kajiado North Liquor Licensing Court.
 
 GAZETTE NOTICE NO. 12614
 
-THE COMPANIES ACT
+## THE COMPANIES ACT
 
 ( Cap . 486)
 
@@ -5756,50 +5635,52 @@ MARTIN MUTISO , for Registrar of Companies.
 
 GAZETTE NOTICE NO. 12615
 
-THE COMPANIES ACT
+## THE COMPANIES ACT
 
 ( Cap . 486)
 
-INTENDED DISSOLUTION
+## INTENDED DISSOLUTION
 
 PURSUANT to section 339 (3) of the companies Act, it is notified that at the expiration of three (3) months from the date of this gazette, the  names  of  the  under-mentioned  companies  shall,  unless  cause  is shown to the contrary, be struck off the register of companies and the companies shall be dissolved.
 
-Number | Name of Company
-100641 | Adventure Technology Company Limited.
-122595 | Aiwa Properties Limited.
-122598 | Akai Properties Limited.
-142593 | Ardane Limited.
-133577 | Bridge Holistic Education Company Limited.
-102768 | Blu Key Investments Limited.
-126689 | Coast Cookies Limited.
-6790 | Coast Saw Mills Limited.
-79313 | Cotecna Inspection (East Africa) Limited.
-26048 | Enterprise Developers Limited.
-CPR/2009/8706 | Executive Comfort Taxis Limited.
-97510 | Garden View Developers Limited.
-333607 | Ghannu Agencies Limited.
-CPR/2009/8156 | Global Metal Traders Limited.
-123292 | Goldseal Forex Limited.
-114309 | Haryana Investments (K) Limited.
-167079 | Helios Investments Limited.
-108612 | Hillside Developers Limited.
-35226 | Housing and Shelter Limited.
-144485 | Infini Ventures Limited.
-140871 | Import Leads Kenya Limited.
-136390 | Kamongo Transporters Limited.
-104065 | Kenya place for you Limited.
-102180 | Ketankumar Wholesalers Limited.
-19740 | Mutati Transporters Limited.
-87341 | Pwani Group of Companies Limited.
-93814 | Regional Rail Link Services Limited.
-128894 | Savag Consultancies Limited.
-115973 | Sims Service Station.
+| Number        | Name of Company                            |
+|---------------|--------------------------------------------|
+| 100641        | Adventure Technology Company Limited.      |
+| 122595        | Aiwa Properties Limited.                   |
+| 122598        | Akai Properties Limited.                   |
+| 142593        | Ardane Limited.                            |
+| 133577        | Bridge Holistic Education Company Limited. |
+| 102768        | Blu Key Investments Limited.               |
+| 126689        | Coast Cookies Limited.                     |
+| 6790          | Coast Saw Mills Limited.                   |
+| 79313         | Cotecna Inspection (East Africa) Limited.  |
+| 26048         | Enterprise Developers Limited.             |
+| CPR/2009/8706 | Executive Comfort Taxis Limited.           |
+| 97510         | Garden View Developers Limited.            |
+| 333607        | Ghannu Agencies Limited.                   |
+| CPR/2009/8156 | Global Metal Traders Limited.              |
+| 123292        | Goldseal Forex Limited.                    |
+| 114309        | Haryana Investments (K) Limited.           |
+| 167079        | Helios Investments Limited.                |
+| 108612        | Hillside Developers Limited.               |
+| 35226         | Housing and Shelter Limited.               |
+| 144485        | Infini Ventures Limited.                   |
+| 140871        | Import Leads Kenya Limited.                |
+| 136390        | Kamongo Transporters Limited.              |
+| 104065        | Kenya place for you Limited.               |
+| 102180        | Ketankumar Wholesalers Limited.            |
+| 19740         | Mutati Transporters Limited.               |
+| 87341         | Pwani Group of Companies Limited.          |
+| 93814         | Regional Rail Link Services Limited.       |
+| 128894        | Savag Consultancies Limited.               |
+| 115973        | Sims Service Station.                      |
 
-165126 | Selana Investments Limited.
-18014 | S &Sinvestments Limited.
-55499 | The plant Factory Limited.
-10783 | Transgloge Agencies Limited.
-13606 | Twiga Paints Limited.
+|   165126 | Selana Investments Limited.   |
+|----------|-------------------------------|
+|    18014 | S &Sinvestments Limited.      |
+|    55499 | The plant Factory Limited.    |
+|    10783 | Transgloge Agencies Limited.  |
+|    13606 | Twiga Paints Limited.         |
 
 Dated the 18th November, 2009
 
@@ -5807,7 +5688,7 @@ MARTIN MUTISO , for Registrar of Companies.
 
 GAZETTE NOTICE NO. 12616
 
-THE COMPANIES ACT
+## THE COMPANIES ACT
 
 ( Cap . 486)
 
@@ -5829,30 +5710,31 @@ MARTIN MUTISO , for Registrar of Companies.
 
 GAZETTE NOTICE NO. 12617
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
 ( Cap . 265)
 
-THE MUNICIPAL COUNCIL OF RUIRU
+## THE MUNICIPAL COUNCIL OF RUIRU
 
-PARKING FEE
+## PARKING FEE
 
 IN  EXERCISE  of  the  powers  conferred  by  section  148  of  the Local Government Act, the Municipal Council of Ruiru has, with the approval  of  the  Deputy  Prime  Minister  and  Minister  for  Local Government, imposed parking fees on the following designated areas.
 
-Kenyatta Highway, Githurai Upland Road, Githurai Kimbo Road (Mwihoko Bus Stage), The Railway Station Way, Kahawa-Wendani Road, G.S.U., Thika Junction, Kiambu Road at Ruiru Staff Training Matangiini Point, The daily fees are as follows- Vehicle above 7 tonnes Vehicle of 3 tonnes to 7 Pick-ups and Nissans Small cars Motor-cycles | College, 100 tonnes 75 50 30 10 2009. J. W.
-GAZETTE NOTICE NO. 12618 | 
-The effective date is 1st November, | 
-Dated the 3rd November, 2009. | 
- | KANGETHE,
- | Town Clerk.
- | ACT
-THE LOCAL GOVERNMENT | 
+| Kenyatta Highway, Githurai Upland Road, Githurai Kimbo Road (Mwihoko Bus Stage), The Railway Station Way, Kahawa-Wendani Road, G.S.U., Thika Junction, Kiambu Road at Ruiru Staff Training Matangiini Point, The daily fees are as follows- Vehicle above 7 tonnes Vehicle of 3 tonnes to 7 Pick-ups and Nissans Small cars Motor-cycles   | College, 100 tonnes 75 50 30 10 2009. J. W.   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| GAZETTE NOTICE NO. 12618                                                                                                                                                                                                                                                                                                                   |                                               |
+| The effective date is 1st November,                                                                                                                                                                                                                                                                                                        |                                               |
+| Dated the 3rd November, 2009.                                                                                                                                                                                                                                                                                                              |                                               |
+|                                                                                                                                                                                                                                                                                                                                            | KANGETHE,                                     |
+|                                                                                                                                                                                                                                                                                                                                            | Town Clerk.                                   |
+|                                                                                                                                                                                                                                                                                                                                            | ACT                                           |
+| THE LOCAL GOVERNMENT                                                                                                                                                                                                                                                                                                                       |                                               |
 
 ( Cap . 265)
 
-THE COUNTY COUNCIL OF KITUI
+## THE COUNTY COUNCIL OF KITUI
 
-APPROVAL OF COUNCIL'S CHARGES ON CONTRIBUTION IN LIEU OF RATES, 2009
+## APPROVAL OF COUNCIL'S CHARGES ON CONTRIBUTION IN LIEU OF RATES, 2009
 
 IN  EXERCISE  of  the  powers  conferred  by  section  148  of  the Local  Government  Act,  the  County  Council  of  Kitui  has,  with  the approval  of  the  Deputy  Prime  Minister  and  Minister  for  Local Government, imposed a fee of three hundred shillings (KSh. 300) per acre for all gazetted  forests within  its area of jurisdiction  with immediate effect.
 
@@ -5862,13 +5744,13 @@ GEORGE WAMBUA, County Clerk.
 
 GAZETTE NOTICE NO. 12619
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
 ( Cap . 265)
 
-MUNICIPAL COUNCIL OF HOMA BAY
+## MUNICIPAL COUNCIL OF HOMA BAY
 
-APPOINTMENT OF PROSECUTOR
+## APPOINTMENT OF PROSECUTOR
 
 IN  EXERCISE  of  the  powers  conferred  by  section  260  of  the Local  Government  Act,  the  Municipal  Council  of  Homa  Bay  has appointed  Carnoly  Otieno  as  prosecutor  in  the  surbodinate  court  at Homa Bay law courts with effect from 9th November, 2009. As such prosecutor, he is mandated to  prosecute all the criminal cases arising within the jurisdiction under the Local Government Act, the by-laws and other statutes relevant to council operation.
 
@@ -5876,13 +5758,13 @@ I. F. OLWERO, Town Clerk.
 
 GAZETTE NOTICE NO. 12620
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
 ( Cap . 265)
 
-MUNICIPAL COUNCIL OF NYERI
+## MUNICIPAL COUNCIL OF NYERI
 
-APPROVAL OF BY-LAWS
+## APPROVAL OF BY-LAWS
 
 IN PURSUANCE of the powers conferred by Section 205 of the Local  Government  Act,  notice  is  given  that  the  revised  and  updated Municipal Council of Nyeri By-laws 2009, have been approved by the Deputy  Prime  Minister  and  Minister for  Local  Government,  as required under Section 204 of the Local Government Act.
 
@@ -5890,34 +5772,31 @@ The following listed by-laws 2009 shall have full force of the law within  the  
 
 Municipal  Council  of  Nyeri  (Single  Business  Permit)  By-laws,
 
-2009.
-Municipal Council of Nyeri Conservancy) By-laws, 2009.
-Municipal Council of Nyeri (Control of Stock) By-laws, 2009.
-Municipal Council of Nyeri (Cemetery) By-laws, 2009.
-Municipal Council of Nyeri (Public Lavatories) By-laws, 2009.
-Municipal Council of Nyeri (Pounds) By-laws, 2009.
-Municipal Council of Nyeri (Control of Carts and Handcarts) By- laws, 2009.
-Municipal Council of Nyeri (Private Educational Institutions) By- laws, 2009.
-Municipal Council of Nyeri (Fire) By-laws, 2009.
-Municipal Council of Nyeri (Building and Development Control) By-laws, 2009.
-Municipal Council of Nyeri (General Nuisance) By-laws, 2009.
-Municipal Council of Nyeri (Omnibus Station) By-laws, 2009.
-Municipal Council of Nyeri (Hawkers) By-laws, 2009.
-Municipal Council of Nyeri (Public Road and Streets) By-laws, 2009.
-Municipal Council of Nyeri (Traffic) By-laws, 2009.
-Municipal Council of Nyeri (Hazardous Waste Disposal) By-laws, 2009.
+| 2009.                                                                         |
+|-------------------------------------------------------------------------------|
+| Municipal Council of Nyeri Conservancy) By-laws, 2009.                        |
+| Municipal Council of Nyeri (Control of Stock) By-laws, 2009.                  |
+| Municipal Council of Nyeri (Cemetery) By-laws, 2009.                          |
+| Municipal Council of Nyeri (Public Lavatories) By-laws, 2009.                 |
+| Municipal Council of Nyeri (Pounds) By-laws, 2009.                            |
+| Municipal Council of Nyeri (Control of Carts and Handcarts) By- laws, 2009.   |
+| Municipal Council of Nyeri (Private Educational Institutions) By- laws, 2009. |
+| Municipal Council of Nyeri (Fire) By-laws, 2009.                              |
+| Municipal Council of Nyeri (Building and Development Control) By-laws, 2009.  |
+| Municipal Council of Nyeri (General Nuisance) By-laws, 2009.                  |
+| Municipal Council of Nyeri (Omnibus Station) By-laws, 2009.                   |
+| Municipal Council of Nyeri (Hawkers) By-laws, 2009.                           |
+| Municipal Council of Nyeri (Public Road and Streets) By-laws, 2009.           |
+| Municipal Council of Nyeri (Traffic) By-laws, 2009.                           |
+| Municipal Council of Nyeri (Hazardous Waste Disposal) By-laws, 2009.          |
 
 Municipal Council of Nyeri (Public Markets) By-laws, 2009.
 
-Municipal Council of Nyeri (Public Parks and Open Spaces) Bylaws, 2009.
-
-Municipal Council of Nyeri (Control and Licensing of Dog) Bylaws, 2009.
-
-Municipal Council of Nyeri (Sale of Sand and Quarrying Activities) By-laws, 2009.
-
-Municipal Council of Nyeri (Protection of Council Properties) Bylaws, 2009.
-
-Municipal Council of Nyeri (Designated Parking Places) By-laws, 2009.
+- Municipal Council of Nyeri (Public Parks and Open Spaces) Bylaws, 2009.
+- Municipal Council of Nyeri (Control and Licensing of Dog) Bylaws, 2009.
+- Municipal Council of Nyeri (Sale of Sand and Quarrying Activities) By-laws, 2009.
+- Municipal Council of Nyeri (Protection of Council Properties) Bylaws, 2009.
+- Municipal Council of Nyeri (Designated Parking Places) By-laws, 2009.
 
 Dated the 6th November, 2009.
 
@@ -5925,145 +5804,148 @@ J. R. WANYOIKE, Town Clerk.
 
 County Clerk.
 
-GAZETTE NOTICE NO. 12621
+## GAZETTE NOTICE NO. 12621
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
-( Cap . 265)
+## ( Cap . 265)
 
-THE TOWN COUNCIL OF SAGANA KAGIO
+## THE TOWN COUNCIL OF SAGANA KAGIO
 
-APPROVED FEES AND CHARGES
+## APPROVED FEES AND CHARGES
 
 PURSUANT  to  section  148  of  the  Local  Government  Act,  the Town Council of Sagana Kagio has, with the approval of the Deputy Prime  Minister  and  Minister  for Local  Government,  imposed  the following Fess and Charges.
 
-Item | KSh.
-Change of registered ownership of a plot | 2,600
-Change of trade | 2,000
-Subletting of business premises | 1,500
-Allocation of a kiosk site | 1,500
-Extension of a plot | 1,000
-Change of user | 2,600
-Subdivision of plot | 2,600
-Transfer of a temporally plot | 2,600
-Partitioning/alteration of an existing approved | 3,000
-building plan | 
-Extension of lease | 2,000
-Consent to charge/formalization of land allocation | 3,000
-Filling a dispute | 1,300
-Canteen | 2,000
-Plot rent/ rate clearance certificate | 780
-House occupation/completion certificate | 5,000
-Sale of Tender documents | 3,200
-Transfer of license/permit to another premises | 1,000
-RENT/RATES ANNUAL FEES | 
-Standard plot (50X100) | 2,170
-Temporary plot | 1,690
-Canteen on private land | 2,000
-Canteen on Council land | 2,000
-Peppercorn rate of private land with | 2,000
-business/premises | 
-Penalties/interest on plot rent | 25%
-Penalty on late plot development every year after the mandatory 2 year period (year of cut of 1998) | 1,500
-Penalty on late Single Business Permit payment w.e.f 1st April | 25%
-1st May - 30th June | 30%
-1st July - 31st September | 60%
-1st October - 31st December | 80%
-impounding charges per vehicle | 2,600
-Penalty on impounding vehicle per day | 1,000
-BEACON PLACING/DEMARCATION FEE | 
-Commercial plot | 1,040
-Residential plot | 1,040
-Other plots | 2,000
-Beacon search fee for surveyed land | 1,040
-Market plan (per copy) | 1,500
-Cultivation of Council land per acre per year | 3,000
-Building plan per floor | 2,600
-Site visit fee - stages - 3no. | 2,000
+| Item                                                                                                | KSh.   |
+|-----------------------------------------------------------------------------------------------------|--------|
+| Change of registered ownership of a plot                                                            | 2,600  |
+| Change of trade                                                                                     | 2,000  |
+| Subletting of business premises                                                                     | 1,500  |
+| Allocation of a kiosk site                                                                          | 1,500  |
+| Extension of a plot                                                                                 | 1,000  |
+| Change of user                                                                                      | 2,600  |
+| Subdivision of plot                                                                                 | 2,600  |
+| Transfer of a temporally plot                                                                       | 2,600  |
+| Partitioning/alteration of an existing approved                                                     | 3,000  |
+| building plan                                                                                       |        |
+| Extension of lease                                                                                  | 2,000  |
+| Consent to charge/formalization of land allocation                                                  | 3,000  |
+| Filling a dispute                                                                                   | 1,300  |
+| Canteen                                                                                             | 2,000  |
+| Plot rent/ rate clearance certificate                                                               | 780    |
+| House occupation/completion certificate                                                             | 5,000  |
+| Sale of Tender documents                                                                            | 3,200  |
+| Transfer of license/permit to another premises                                                      | 1,000  |
+| RENT/RATES ANNUAL FEES                                                                              |        |
+| Standard plot (50X100)                                                                              | 2,170  |
+| Temporary plot                                                                                      | 1,690  |
+| Canteen on private land                                                                             | 2,000  |
+| Canteen on Council land                                                                             | 2,000  |
+| Peppercorn rate of private land with                                                                | 2,000  |
+| business/premises                                                                                   |        |
+| Penalties/interest on plot rent                                                                     | 25%    |
+| Penalty on late plot development every year after the mandatory 2 year period (year of cut of 1998) | 1,500  |
+| Penalty on late Single Business Permit payment w.e.f 1st April                                      | 25%    |
+| 1st May - 30th June                                                                                 | 30%    |
+| 1st July - 31st September                                                                           | 60%    |
+| 1st October - 31st December                                                                         | 80%    |
+| impounding charges per vehicle                                                                      | 2,600  |
+| Penalty on impounding vehicle per day                                                               | 1,000  |
+| BEACON PLACING/DEMARCATION FEE                                                                      |        |
+| Commercial plot                                                                                     | 1,040  |
+| Residential plot                                                                                    | 1,040  |
+| Other plots                                                                                         | 2,000  |
+| Beacon search fee for surveyed land                                                                 | 1,040  |
+| Market plan (per copy)                                                                              | 1,500  |
+| Cultivation of Council land per acre per year                                                       | 3,000  |
+| Building plan per floor                                                                             | 2,600  |
+| Site visit fee - stages - 3no.                                                                      | 2,000  |
 
-Official search fee | Official search fee | Official search fee | 260 | Ngurora/Ngojet | 20 | 15 | 10 | 
-Sale of Council Minutes per copy | Sale of Council Minutes per copy | Sale of Council Minutes per copy | 650 | PRODUCE CESS (LORRY | Seven | Three - |  | 
-Storage of confiscated goods Annual way leave per linear metre of | Storage of confiscated goods Annual way leave per linear metre of | Storage of confiscated goods Annual way leave per linear metre of | 1,000 | LOADS) | tons and | seven | Under 3 tons | 
-underground data cables | underground data cables | underground data cables | 50 |  | over | tons |  | 
-OTHER CHARGES | OTHER CHARGES | OTHER CHARGES |  | Particulars Charcoal | 500300 |  | 200 | 
-Commercial demonstration per performance | Commercial demonstration per performance | Commercial demonstration per performance | 2,000 | OTHERS |  |  |  | 
-Advertisement boards (bill boards) per sq.m. | Advertisement boards (bill boards) per sq.m. | Advertisement boards (bill boards) per sq.m. | 2,340 2,340 | Water bark | 500 | 300 |  | 200
-Illuminated signboards Ordinary signboards | Illuminated signboards Ordinary signboards | Illuminated signboards Ordinary signboards | 2,340 | Oranges, lemons per bag Mangoes per bag | 500 500 | 300 300 |  | 200 200
- |  |  |  | Sweet potatoes per bag | 500 | 300 |  | 200
-BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity | BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity | BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity |  | English potatoes per bag Cabbages per bag | 500 | 300 |  | 200
-1-7 passengers per entry | 1-7 passengers per entry | 1-7 passengers per entry | 30 35 | Bananas per bunch | 500 500 | 300 300 |  | 200
-8-10 passengers per entry 11-18 passengers per entry | 8-10 passengers per entry 11-18 passengers per entry | 8-10 passengers per entry 11-18 passengers per entry | 40 | French beans per carton | 500 | 300 |  | 200 200
- |  |  | 65 |  |  |  |  | 
-19-35 passengers per entry Over 35 passengers per entry | 19-35 passengers per entry Over 35 passengers per entry | 19-35 passengers per entry Over 35 passengers per entry | 80 | OPEN AIR MARKET FEES |  |  |  | 
-PARKING FEE PER MONTH | PARKING FEE PER MONTH | PARKING FEE PER MONTH |  | Particulars | Full Bag | Half Bag | Debe/Basket 20 | 
-1-7 passengers per month | 1-7 passengers per month | 1-7 passengers per month | 1,000 | Maize | 25 25 | 15 15 | 20 | 
-8-10 passengers per month | 8-10 passengers per month | 8-10 passengers per month | 1,000 1,500 | Njugu Njahi | 25 | 15 | 20 | 
-11-18 passengers per month | 11-18 passengers per month | 11-18 passengers per month | 2,000 | Beans | 25 | 15 | 20 | 
-19-35 passengers per month Over 35 passengers per month | 19-35 passengers per month Over 35 passengers per month | 19-35 passengers per month Over 35 passengers per month | 3,000 | Millet | 25 |  |  | 
-Motor bikes | Motor bikes | Motor bikes |  |  |  | 15 | 20 | 
- |  |  | 450 | Sorghum(mwere) Rice (local) | 25 25 | 15 | 20 20 | 
-OTHER VEHICLE (PARKING FEE PER DAY) | OTHER VEHICLE (PARKING FEE PER DAY) | OTHER VEHICLE (PARKING FEE PER DAY) |  | Green peas | 25 | 15 15 | 20 20 | 
- |  |  | 200 | Fox millet (wimbi) | 25 | 15 |  | 
-Lorries over 7 tones Lorries less than 7 tones | Lorries over 7 tones Lorries less than 7 tones | Lorries over 7 tones Lorries less than 7 tones | 100 | Flour all types | 25 | 15 | 20 | 
-Saloon cars | Saloon cars | Saloon cars | 20 | Carrots | 25 | 15 | 20 | 
- |  |  |  | Sweet potatoes | 25 | 15 | 20 | 
-CONSTRUCTION MATERIAL MINED WITHIN | CONSTRUCTION MATERIAL MINED WITHIN | CONSTRUCTION MATERIAL MINED WITHIN |  | English potatoes | 25 | 15 | 20 | 
-COUNCIL JURISDICTION | COUNCIL JURISDICTION | COUNCIL JURISDICTION |  | Cassava | 25 | 15 | 20 | 
-Per lorry per month | Per lorry per month | Per lorry per month | 30,000 400 | Arrowroots Cabbage | 25 25 | 15 | 20 20 | 
- |  |  | 3,000 | Onions | 25 | 15 15 | 20 | 
-Per lorry per trip Towing charges per vehicle | Per lorry per trip Towing charges per vehicle | Per lorry per trip Towing charges per vehicle | 15,000 | Green maize | 25 |  | 20 | 
-Building contractors fees for contract worthy kshs. 500,000 | Building contractors fees for contract worthy kshs. 500,000 | Building contractors fees for contract worthy kshs. 500,000 |  | Sukuma wiki | 25 | 15 | 20 | 
-Building contractors fees for contract worthy kshs. | Building contractors fees for contract worthy kshs. | Building contractors fees for contract worthy kshs. | 30,000 | Pumpkins | 25 | 15 | 20 | 
-1,000,000-2,000,000 | 1,000,000-2,000,000 | 1,000,000-2,000,000 |  | Tomatoes | 25 | 15 | 20 | 
-Building contractors fees for contract worthy over kshs. | Building contractors fees for contract worthy over kshs. | Building contractors fees for contract worthy over kshs. | 45,000 | Bananas | 25 | 15 | 20 | 
-2,000,000 Building/civil contractor Contractor site camping fee on Council's land per | 2,000,000 Building/civil contractor Contractor site camping fee on Council's land per | 2,000,000 Building/civil contractor Contractor site camping fee on Council's land per | 30,000 | (mukahuro) Particulars | Full | 15 | Half 15 | Bag
-annum | annum | annum | 5,000 | Avocado Mangoes | 25 25 | Bag | 15 | 
-Contractor site camping fee on Council's land per month | Contractor site camping fee on Council's land per month | Contractor site camping fee on Council's land per month | 25,000 | Oranges Pawpaw | 25 |  | 15 | 
-Contractor site camping fee on private land per annum | Contractor site camping fee on private land per annum | Contractor site camping fee on private land per annum |  |  |  |  | 15 | 
-Contractor site camping fee on private land per month | Contractor site camping fee on private land per month | Contractor site camping fee on private land per month | 4,000 | Passion fruits | 25 |  | 15 | 
- |  |  |  | Plums | 25 25 |  | 15 | 
-OTHER CHARGES | OTHER CHARGES | OTHER CHARGES | 10,000 | Pears Lemons | 25 25 |  | 15 15 | 
-Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | 100 | Pineapples | 25 25 |  | 15 | 
-Betting (subject to board permission) per year | Betting (subject to board permission) per year | Betting (subject to board permission) per year | 100,000 5,000 | Ripe bananas |  | Fees 40 | 15 | 
-CESS/ROYALTIES | CESS/ROYALTIES | CESS/ROYALTIES |  | Particulars Cattle per head |  | 50 |  | 
- |  |  | 2% | Sheep and goat per head Chicken and duck per head |  | 20 |  | 
-Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep | Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep | Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep | 100 | Lorry load - over 7 tons |  | 520 400 |  | 
-Slaughter fee per cow or pig Fish cess per kg. | Slaughter fee per cow or pig Fish cess per kg. | Slaughter fee per cow or pig Fish cess per kg. | 200 | 3-7 tons |  | 300 |  | 
-PRODUCE CESS IN | PRODUCE CESS IN | PRODUCE CESS IN | 5 | Under 3 tons |  |  |  | 
- |  |  |  | Charcoal per |  | 60 |  | 
-SMALL QUANTITIES | SMALL QUANTITIES | SMALL QUANTITIES |  | bag |  |  |  | 
- |  | Approved Cess |  | Fire wood per load Sugar cane per load |  |  | 50 | 40 15
- |  |  | Debe/Basket or | Hand make tins (ngwatira) piece | per |  |  | 15
-Item Cabbages | Full Bag | Half Bag Box |  | Hand made jikos per piece Hand made water knives per piece |  |  |  | 15 15
-Bananas | 20 20 | 15 10 15 10 |  | Hand made water jars per piece Leather straps (mikwa) per |  |  |  | 50
-tomatoes | 20 | 15 10 |  | bundle |  |  |  | 
-plums | 20 20 | 15 10 10 |  | Dyes per carton |  |  |  | 50
-Peas Sweet potatoes | 20 | 15 15 10 |  | Nganangu per bundle |  |  |  | 50
-English potatoes | 20 | 15 10 |  | Foot scraping stones/Nyaigi per |  |  |  | 50
-Passion fruits etc | 20 | 15 10 |  | carton Njembe handle per bundle |  |  |  | 50
-Eggs per tray Chicken per rugara | 20 20 | 15 10 15 10 |  | Natural washing sponges per bundle |  |  |  | 50
-Karera | 20 | 10 |  | Walking sticks per bundle |  |  |  | 50
- |  | 15 |  |  |  |  |  | 
+| Official search fee                                                                                                        | Official search fee                                                                                                        | Official search fee                                                                                                        | 260            | Ngurora/Ngojet                                             | 20       | 15       | 10             |         |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------|----------|----------|----------------|---------|
+| Sale of Council Minutes per copy                                                                                           | Sale of Council Minutes per copy                                                                                           | Sale of Council Minutes per copy                                                                                           | 650            | PRODUCE CESS (LORRY                                        | Seven    | Three -  |                |         |
+| Storage of confiscated goods Annual way leave per linear metre of                                                          | Storage of confiscated goods Annual way leave per linear metre of                                                          | Storage of confiscated goods Annual way leave per linear metre of                                                          | 1,000          | LOADS)                                                     | tons and | seven    | Under 3 tons   |         |
+| underground data cables                                                                                                    | underground data cables                                                                                                    | underground data cables                                                                                                    | 50             |                                                            | over     | tons     |                |         |
+| OTHER CHARGES                                                                                                              | OTHER CHARGES                                                                                                              | OTHER CHARGES                                                                                                              |                | Particulars Charcoal                                       | 500300   |          | 200            |         |
+| Commercial demonstration per performance                                                                                   | Commercial demonstration per performance                                                                                   | Commercial demonstration per performance                                                                                   | 2,000          | OTHERS                                                     |          |          |                |         |
+| Advertisement boards (bill boards) per sq.m.                                                                               | Advertisement boards (bill boards) per sq.m.                                                                               | Advertisement boards (bill boards) per sq.m.                                                                               | 2,340 2,340    | Water bark                                                 | 500      | 300      |                | 200     |
+| Illuminated signboards Ordinary signboards                                                                                 | Illuminated signboards Ordinary signboards                                                                                 | Illuminated signboards Ordinary signboards                                                                                 | 2,340          | Oranges, lemons per bag Mangoes per bag                    | 500 500  | 300 300  |                | 200 200 |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            |                | Sweet potatoes per bag                                     | 500      | 300      |                | 200     |
+| BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity                                                                 | BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity                                                                 | BUSPARK ENTRY/PARKING FEES Motor vehicle carrying capacity                                                                 |                | English potatoes per bag Cabbages per bag                  | 500      | 300      |                | 200     |
+| 1-7 passengers per entry                                                                                                   | 1-7 passengers per entry                                                                                                   | 1-7 passengers per entry                                                                                                   | 30 35          | Bananas per bunch                                          | 500 500  | 300 300  |                | 200     |
+| 8-10 passengers per entry 11-18 passengers per entry                                                                       | 8-10 passengers per entry 11-18 passengers per entry                                                                       | 8-10 passengers per entry 11-18 passengers per entry                                                                       | 40             | French beans per carton                                    | 500      | 300      |                | 200 200 |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | 65             |                                                            |          |          |                |         |
+| 19-35 passengers per entry Over 35 passengers per entry                                                                    | 19-35 passengers per entry Over 35 passengers per entry                                                                    | 19-35 passengers per entry Over 35 passengers per entry                                                                    | 80             | OPEN AIR MARKET FEES                                       |          |          |                |         |
+| PARKING FEE PER MONTH                                                                                                      | PARKING FEE PER MONTH                                                                                                      | PARKING FEE PER MONTH                                                                                                      |                | Particulars                                                | Full Bag | Half Bag | Debe/Basket 20 |         |
+| 1-7 passengers per month                                                                                                   | 1-7 passengers per month                                                                                                   | 1-7 passengers per month                                                                                                   | 1,000          | Maize                                                      | 25 25    | 15 15    | 20             |         |
+| 8-10 passengers per month                                                                                                  | 8-10 passengers per month                                                                                                  | 8-10 passengers per month                                                                                                  | 1,000 1,500    | Njugu Njahi                                                | 25       | 15       | 20             |         |
+| 11-18 passengers per month                                                                                                 | 11-18 passengers per month                                                                                                 | 11-18 passengers per month                                                                                                 | 2,000          | Beans                                                      | 25       | 15       | 20             |         |
+| 19-35 passengers per month Over 35 passengers per month                                                                    | 19-35 passengers per month Over 35 passengers per month                                                                    | 19-35 passengers per month Over 35 passengers per month                                                                    | 3,000          | Millet                                                     | 25       |          |                |         |
+| Motor bikes                                                                                                                | Motor bikes                                                                                                                | Motor bikes                                                                                                                |                |                                                            |          | 15       | 20             |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | 450            | Sorghum(mwere) Rice (local)                                | 25 25    | 15       | 20 20          |         |
+| OTHER VEHICLE (PARKING FEE PER DAY)                                                                                        | OTHER VEHICLE (PARKING FEE PER DAY)                                                                                        | OTHER VEHICLE (PARKING FEE PER DAY)                                                                                        |                | Green peas                                                 | 25       | 15 15    | 20 20          |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | 200            | Fox millet (wimbi)                                         | 25       | 15       |                |         |
+| Lorries over 7 tones Lorries less than 7 tones                                                                             | Lorries over 7 tones Lorries less than 7 tones                                                                             | Lorries over 7 tones Lorries less than 7 tones                                                                             | 100            | Flour all types                                            | 25       | 15       | 20             |         |
+| Saloon cars                                                                                                                | Saloon cars                                                                                                                | Saloon cars                                                                                                                | 20             | Carrots                                                    | 25       | 15       | 20             |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            |                | Sweet potatoes                                             | 25       | 15       | 20             |         |
+| CONSTRUCTION MATERIAL MINED WITHIN                                                                                         | CONSTRUCTION MATERIAL MINED WITHIN                                                                                         | CONSTRUCTION MATERIAL MINED WITHIN                                                                                         |                | English potatoes                                           | 25       | 15       | 20             |         |
+| COUNCIL JURISDICTION                                                                                                       | COUNCIL JURISDICTION                                                                                                       | COUNCIL JURISDICTION                                                                                                       |                | Cassava                                                    | 25       | 15       | 20             |         |
+| Per lorry per month                                                                                                        | Per lorry per month                                                                                                        | Per lorry per month                                                                                                        | 30,000 400     | Arrowroots Cabbage                                         | 25 25    | 15       | 20 20          |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | 3,000          | Onions                                                     | 25       | 15 15    | 20             |         |
+| Per lorry per trip Towing charges per vehicle                                                                              | Per lorry per trip Towing charges per vehicle                                                                              | Per lorry per trip Towing charges per vehicle                                                                              | 15,000         | Green maize                                                | 25       |          | 20             |         |
+| Building contractors fees for contract worthy kshs. 500,000                                                                | Building contractors fees for contract worthy kshs. 500,000                                                                | Building contractors fees for contract worthy kshs. 500,000                                                                |                | Sukuma wiki                                                | 25       | 15       | 20             |         |
+| Building contractors fees for contract worthy kshs.                                                                        | Building contractors fees for contract worthy kshs.                                                                        | Building contractors fees for contract worthy kshs.                                                                        | 30,000         | Pumpkins                                                   | 25       | 15       | 20             |         |
+| 1,000,000-2,000,000                                                                                                        | 1,000,000-2,000,000                                                                                                        | 1,000,000-2,000,000                                                                                                        |                | Tomatoes                                                   | 25       | 15       | 20             |         |
+| Building contractors fees for contract worthy over kshs.                                                                   | Building contractors fees for contract worthy over kshs.                                                                   | Building contractors fees for contract worthy over kshs.                                                                   | 45,000         | Bananas                                                    | 25       | 15       | 20             |         |
+| 2,000,000 Building/civil contractor Contractor site camping fee on Council's land per                                      | 2,000,000 Building/civil contractor Contractor site camping fee on Council's land per                                      | 2,000,000 Building/civil contractor Contractor site camping fee on Council's land per                                      | 30,000         | (mukahuro) Particulars                                     | Full     | 15       | Half 15        | Bag     |
+| annum                                                                                                                      | annum                                                                                                                      | annum                                                                                                                      | 5,000          | Avocado Mangoes                                            | 25 25    | Bag      | 15             |         |
+| Contractor site camping fee on Council's land per month                                                                    | Contractor site camping fee on Council's land per month                                                                    | Contractor site camping fee on Council's land per month                                                                    | 25,000         | Oranges Pawpaw                                             | 25       |          | 15             |         |
+| Contractor site camping fee on private land per annum                                                                      | Contractor site camping fee on private land per annum                                                                      | Contractor site camping fee on private land per annum                                                                      |                |                                                            |          |          | 15             |         |
+| Contractor site camping fee on private land per month                                                                      | Contractor site camping fee on private land per month                                                                      | Contractor site camping fee on private land per month                                                                      | 4,000          | Passion fruits                                             | 25       |          | 15             |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            |                | Plums                                                      | 25 25    |          | 15             |         |
+| OTHER CHARGES                                                                                                              | OTHER CHARGES                                                                                                              | OTHER CHARGES                                                                                                              | 10,000         | Pears Lemons                                               | 25 25    |          | 15 15          |         |
+| Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | Bore hole drillers per bore hole Electricity poles per pole per annum Telephone masts within Council jurisdiction per year | 100            | Pineapples                                                 | 25 25    |          | 15             |         |
+| Betting (subject to board permission) per year                                                                             | Betting (subject to board permission) per year                                                                             | Betting (subject to board permission) per year                                                                             | 100,000 5,000  | Ripe bananas                                               |          | Fees 40  | 15             |         |
+| CESS/ROYALTIES                                                                                                             | CESS/ROYALTIES                                                                                                             | CESS/ROYALTIES                                                                                                             |                | Particulars Cattle per head                                |          | 50       |                |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | 2%             | Sheep and goat per head Chicken and duck per head          |          | 20       |                |         |
+| Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep                                        | Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep                                        | Flowers for export cess percentage per quarter year Slaughter fee per goat or sheep                                        | 100            | Lorry load - over 7 tons                                   |          | 520 400  |                |         |
+| Slaughter fee per cow or pig Fish cess per kg.                                                                             | Slaughter fee per cow or pig Fish cess per kg.                                                                             | Slaughter fee per cow or pig Fish cess per kg.                                                                             | 200            | 3-7 tons                                                   |          | 300      |                |         |
+| PRODUCE CESS IN                                                                                                            | PRODUCE CESS IN                                                                                                            | PRODUCE CESS IN                                                                                                            | 5              | Under 3 tons                                               |          |          |                |         |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            |                | Charcoal per                                               |          | 60       |                |         |
+| SMALL QUANTITIES                                                                                                           | SMALL QUANTITIES                                                                                                           | SMALL QUANTITIES                                                                                                           |                | bag                                                        |          |          |                |         |
+|                                                                                                                            |                                                                                                                            | Approved Cess                                                                                                              |                | Fire wood per load Sugar cane per load                     |          |          | 50             | 40 15   |
+|                                                                                                                            |                                                                                                                            |                                                                                                                            | Debe/Basket or | Hand make tins (ngwatira) piece                            | per      |          |                | 15      |
+| Item Cabbages                                                                                                              | Full Bag                                                                                                                   | Half Bag Box                                                                                                               |                | Hand made jikos per piece Hand made water knives per piece |          |          |                | 15 15   |
+| Bananas                                                                                                                    | 20 20                                                                                                                      | 15 10 15 10                                                                                                                |                | Hand made water jars per piece Leather straps (mikwa) per  |          |          |                | 50      |
+| tomatoes                                                                                                                   | 20                                                                                                                         | 15 10                                                                                                                      |                | bundle                                                     |          |          |                |         |
+| plums                                                                                                                      | 20 20                                                                                                                      | 15 10 10                                                                                                                   |                | Dyes per carton                                            |          |          |                | 50      |
+| Peas Sweet potatoes                                                                                                        | 20                                                                                                                         | 15 15 10                                                                                                                   |                | Nganangu per bundle                                        |          |          |                | 50      |
+| English potatoes                                                                                                           | 20                                                                                                                         | 15 10                                                                                                                      |                | Foot scraping stones/Nyaigi per                            |          |          |                | 50      |
+| Passion fruits etc                                                                                                         | 20                                                                                                                         | 15 10                                                                                                                      |                | carton Njembe handle per bundle                            |          |          |                | 50      |
+| Eggs per tray Chicken per rugara                                                                                           | 20 20                                                                                                                      | 15 10 15 10                                                                                                                |                | Natural washing sponges per bundle                         |          |          |                | 50      |
+| Karera                                                                                                                     | 20                                                                                                                         | 10                                                                                                                         |                | Walking sticks per bundle                                  |          |          |                | 50      |
+|                                                                                                                            |                                                                                                                            | 15                                                                                                                         |                |                                                            |          |          |                |         |
 
-Ropes (sisal) per load | 30
-Tangawizi per container | 30
-Mats per bundle | 40
-Kikuyu trays per bundle | 30
-Basket per load | 50
-Clay pot each | 20
-Calabash per bag(rugara) | 60
-Tobacco per debe | 50
-Sweet potato per load | 50
-Porridge guard per piece | 40
-Mineral soda and salt per container | 40
-Bahatisha entry (lottery) per entry | 100
-Herbal medicine( assorted )per entry | 50
-Plastic and tar containers per entry | 100
-Nylon bag per entry | 60
-Seedlings per basket or box | 50
-Snuff per half debe (kimee) | 50
-Kikuyu woven basket per entry | 50
-One bunch of banana | 30
+| Ropes (sisal) per load               |   30 |
+|--------------------------------------|------|
+| Tangawizi per container              |   30 |
+| Mats per bundle                      |   40 |
+| Kikuyu trays per bundle              |   30 |
+| Basket per load                      |   50 |
+| Clay pot each                        |   20 |
+| Calabash per bag(rugara)             |   60 |
+| Tobacco per debe                     |   50 |
+| Sweet potato per load                |   50 |
+| Porridge guard per piece             |   40 |
+| Mineral soda and salt per container  |   40 |
+| Bahatisha entry (lottery) per entry  |  100 |
+| Herbal medicine( assorted )per entry |   50 |
+| Plastic and tar containers per entry |  100 |
+| Nylon bag per entry                  |   60 |
+| Seedlings per basket or box          |   50 |
+| Snuff per half debe (kimee)          |   50 |
+| Kikuyu woven basket per entry        |   50 |
+| One bunch of banana                  |   30 |
 
 By order of Town Council of Sagana Kagio.
 
@@ -6073,11 +5955,11 @@ A. G. GATIMU, Town Clerk .
 
 GAZETTE NOTICE NO. 12622
 
-THE LOCAL GOVERNMENT ACT
+## THE LOCAL GOVERNMENT ACT
 
 ( Cap . 265)
 
-COUNTY COUNCIL OF EMBU
+## COUNTY COUNCIL OF EMBU
 
 IN EXERCISE of the powers conferred by section 15 of the Rating Act,  the  County  Council  of  Embu,  with  the  approval  of  the  Deputy Prime  Minister  and  Minister  for  Local  Government  revises  the  land rates as follows:
 
@@ -6101,9 +5983,9 @@ S. M. KIBAARA, Clerk to Council.
 
 GAZETTE NOTICE NO. 12623
 
-AHMED ABDI & ADIJA MOHAMED ABDULLAHI
+## AHMED ABDI &amp; ADIJA MOHAMED ABDULLAHI
 
-DISPOSAL OF UNCOLLECTED GOODS
+## DISPOSAL OF UNCOLLECTED GOODS
 
 NOTICE is given pursuant to Section 6 and 7 of uncollected goods Act, (Cap. 38) of the laws of Kenya by the above-named (1) Ahmed Abdi and (2) Adija Mohamed, situated on Plot L.R. No. 36/VII/381, Eastleigh Section VII, Nairobi, P.O. Box 31032-00600, Nairobi to (1) Peter Karanja Kairu and (2) Stephen Mbugua Kairu and/or any other interested party who has a 20 feet container and metal scrap materials lying  uncollected  at  its  premises  on  Plot  L.  R.  No.  36/VII/381, Eastleigh Section VII, Nairobi.
 
@@ -6123,11 +6005,9 @@ BMW-KAG 081 R, Datsun-KRC 918, Landrover Ex-GK 716 and Mercedes Benz KAA 099C to
 
 Dated the 6th November, 2009.
 
-MR. JOHN, Owner of the Garage.
-
 GAZETTE NOTICE NO. 12625
 
-THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED Head Office: P.O. Box 30376-00100, Nairobi LOSS OF POLICY
+## THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED Head Office: P.O. Box 30376-00100, Nairobi LOSS OF POLICY
 
 Policy No . 146124/2 in the name of Peter Mbaluka Mutisya
 
@@ -6135,15 +6015,13 @@ APPLICATION has been made to this company for the issue of duplicate  of  the  a
 
 Dated the 29th October, 2009.
 
-S O. ANGIRA, Life Operations Officer, Life Department.
-
 GAZETTE NOTICE NO. 12626
 
-THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED
+## THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED
 
-Head Office: P.O. Box 30376-00100, Nairobi
+## Head Office: P.O. Box 30376-00100, Nairobi
 
-LOSS OF POLICY
+## LOSS OF POLICY
 
 Policy No . 177819/7 in the name of Wilson Mwangi Nganga.
 
@@ -6151,11 +6029,9 @@ APPLICATION has been made to this company for the issue of duplicate  of  the  a
 
 Dated the 29th October, 2009.
 
-S. O. ANGIRA, Life Operations Officer, Life Department.
-
 GAZETTE NOTICE NO. 12627
 
-THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED
+## THE JUBILEE INSURANCE COMPANY OF KENYA LIMITED
 
 Head Office: P.O. Box 30376-00100, Nairobi
 
@@ -6167,6 +6043,12 @@ APPLICATION has been made to this company for the issue of duplicate  of  the  a
 
 Dated the 30th October, 2009.
 
+MR. JOHN, Owner of the Garage.
+
+S O. ANGIRA, Life Operations Officer, Life Department.
+
+S. O. ANGIRA, Life Operations Officer, Life Department.
+
 S. O. ANGIRA,
 
 Life Operations Officer, Life Department.
@@ -6177,13 +6059,13 @@ CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 15th September, 2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  542,  in  Volume  DI,  Folio  202/2603,  File  No. MMIX, by our client, Margaret Wangui Kinuthia, of P.O. Box 6752500200, Nairobi in the Republic of Kenya, formerly known as Margaret Wangui  Gachau,  formally  and  absolutely  renounced  and  abandoned the  use  of  her  former  name  Margaret  Wangui  Gachau,  and  in  lieu thereof assumed and adopted the name Margaret Wangui Kinuthia, for all  purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  her  by  her  assumed  name  Margaret Wangui Kinuthia only.
 
-RUMBA KINUTHIA & CO.,
+RUMBA KINUTHIA &amp; CO.,
 
 Advocates for Margaret Wangui Kinuthia, formerly known as Margaret Wangui Gachau.
 
 GAZETTE NOTICE NO. 12629
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is  given  that  by  a  deed  poll  dated  26th  August,  2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  1838,  in  Volume  DI,  Folio  187/2429,  File  No. MMIX,  by  my  client,  Harjot  Singh  Badhan,  of  P.O.  Box  2614300504, Nairobi in the Republic of Kenya, formerly known as Harjot Singh,  formally  and  absolutely  renounced  and  abandoned  the  use  of his  former  name  Harjot  Singh,  and  in  lieu  thereof  assumed  and adopted the name Harjot Singh Badhan, for all purposes and authorizes and requests all persons at all times to designate, describe and address him by his assumed name Harjot Singh Badhan only.
 
@@ -6195,7 +6077,7 @@ Advocate for Harjot Singh Badhan, formerly known as Harjot Singh.
 
 GAZETTE NOTICE NO. 12630
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is  given  that  by  a  deed  poll  dated  26th  August,  2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  1839,  in  Volume  DI,  Folio  187/2428,  File  No. MMIX, by my client,  Gurdayal  Singh  Badhan,  of  P.O.  Box  2614300504, Nairobi in the Republic of Kenya, formerly known as Gurdayal Singh Amar Singh, formally and absolutely renounced and abandoned the use of his former name Gurdayal Singh Amar Singh, and in lieu thereof assumed and adopted the name Gurdayal Singh Badhan, for all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  him  by  his  assumed  name  Gurdayal Singh Badhan only.
 
@@ -6207,7 +6089,7 @@ Advocate for Gurdayal Singh Badhan, formerly known as Gurdayal Singh Amar Singh.
 
 GAZETTE NOTICE NO. 12631
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is  given  that  by  a  deed  poll  dated  26th  August,  2009, duly executed and registered in the Registry of Documents at Nairobi, as presentation number 2916 in Volume DI, Folio 196/2516, File No. MMIX, by my client, Bhavinder Kaur Badhan, of P.O. Box 2614300504, Nairobi in the Republic of Kenya, formerly known  as Bhavinder  Kaur,  formally  and  absolutely  renounced  and  abandoned the  use  of  her  former  name  Bhavinder  Kaur,  and  in  lieu  thereof assumed  and  adopted  the  name  Bhavinder  Kaur  Badhan,  for  all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate, describe and address her by her assumed name Bhavinder Kaur Badhan only.
 
@@ -6221,13 +6103,13 @@ CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 3rd September, 2009, duly executed and registered in the Registry of Documents at Nairobi, as presentation number 2512 in Volume DI, Folio 189/2443, File No. MMIX, by our client, Tolbert Otieno Jakopanga, of P.O. Box 5497900200, Nairobi in the Republic of Kenya, formerly known as Boniface Otieno Ojalah, formally and absolutely renounced and abandoned the use  of  his  former  name  Boniface  Otieno  Ojalah,  and  in  lieu  thereof assumed  and  adopted  the  name  Tolbert  Otieno  Jakopanga,  for  all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  him  by  his  assumed  name  Tolbert Otieno Jakopanga only.
 
-LUMUMBA MUMMA & KALUMA,
+LUMUMBA MUMMA &amp; KALUMA,
 
 Advocates for Tolbert Otieno Jakopanga, formerly known as Boniface Otieno Ojalah .
 
 GAZETTE NOTICE NO. 12633
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 15th July, 2009, duly executed  and  registered  in  the  Registry  of  Documents  at  Nairobi,  as presentation  number  1399  in  Volume  DI,  Folio  140/1718,  File  No. MMX, by me, Gacheke Gachihi, of P.O. Box 1271-0606, Nairobi in the Republic of Kenya, formerly known as Nahashon Gachihi Kamau, formally  and  absolutely  renounced  and  abandoned  the  use  of  my former name Nahashon Gachihi Kamau, and in lieu thereof assumed and adopted the name Gacheke Gachihi, for all purposes and authorize and request all persons at all times to designate, describe and address me by my assumed name Gacheke Gachihi only.
 
@@ -6235,7 +6117,7 @@ GACHEKE GACHIHI, formerly known as Nahashon Gachihi Kamau .
 
 GAZETTE NOTICE NO. 12634
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 16th September, 2009, duly executed and registered in the Registry of Documents at Nairobi, as presentation number 1761 in Volume DI, Folio 213/2710, File No. MMIX,  by  our  client,  James  Macharia  Ngugi,  of  P.O.  Box  1056000400, Nairobi in the Republic of Kenya, formerly known as Maurice James  Macharia,  formally  and  absolutely  renounced  and  abandoned the  use  of  his  former  name  Maurice  James  Macharia,  and  in  lieu thereof assumed and adopted the name James Macharia Ngugi, for all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  him  by  his  assumed  name  James Macharia Ngugi only.
 
@@ -6245,7 +6127,7 @@ Advocate for James Macharia Ngugi, formerly known as Maurice James Macharia.
 
 GAZETTE NOTICE NO. 12635
 
-CHANGE OF NAME
+## CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 7th October, 2009, duly executed  and  registered  in  the  Registry  of  Documents  at  Nairobi,  as presentation  number  1779  in  Volume  DI,  Folio  215/2732,  File  No. MMIX,  by  our  client,  Eugene  Schneider  Ornella  Gustavo  Laramie Egorov Jernigan, of P.O. Box 6776-00100, Nairobi in the Republic of Kenya,  formerly  known  as  Eugene  Echenje  Okilla,  formally  and absolutely  renounced  and  abandoned  the  use  of  his  former  name Eugene Echenje Okilla, and in lieu thereof assumed and adopted the name  Eugene  Schneider  Ornella  Gustavo  Laramie  Egorov  Jernigan, for all purposes and authorizes and requests all persons at all times to designate,  describe  and  address  him  by  his  assumed  name  Eugene
 
@@ -6253,7 +6135,7 @@ Schneider Ornella Gustavo Laramie Egorov Jernigan only.
 
 Dated the 22nd October, 2009.
 
-ONGICHO & CO.,
+ONGICHO &amp; CO.,
 
 Advocates for Eugene Scheneider Ornella Gustavo Laramie Egorov Jernigan, formerly known as Eugene Echenje Okilla.
 
@@ -6261,135 +6143,131 @@ NOW ON SALE ECONOMIC SURVEY, 2009
 
 Price: KSh. 1,000
 
-THE FINANCE BILL, 2009
+## THE FINANCE BILL, 2009
 
 Price: KSh.
 
 300
 
-2009/2010
-
-ESTIMATES OF RECURRENT EXPENDITURE
+## 2009/2010
 
 OF THE
 
-GOVERNMENT OF KENYA FOR THE YEAR ENDING 30TH JUNE, 2010
+## ESTIMATES OF RECURRENT EXPENDITURE
 
-VOL. I
+## GOVERNMENT OF KENYA FOR THE YEAR ENDING 30TH JUNE, 2010
+
+## VOL. I
 
 Price: KSh. 1,500
 
-VOL. II
+## VOL. II
 
 Price: KSh.
 
 1,100
 
-VOL. III
+## VOL. III
 
 Price: KSh.
 
 1,200
 
-2009/2010
-
-ESTIMATES OF DEVELOPMENT EXPENDITURE
+## 2009/2010
 
 OF THE
 
-GOVERNMENT OF KENYA FOR YEAR ENDING 30TH JUNE, 2010
+## ESTIMATES OF DEVELOPMENT EXPENDITURE
 
-VOL. I
+## GOVERNMENT OF KENYA FOR YEAR ENDING 30TH JUNE, 2010
+
+## VOL. I
+
+Price: KSh.
+
+## VOL. II
 
 Price: KSh.
 
 1,100
 
-VOL. II
-
-Price: KSh.
-
 1,100
 
-PRICES OF EXERCISE BOOKS
+## PRICES OF EXERCISE BOOKS
 
 DUE to frequent increase of prices of raw materials, the  Department  has  adjusted  the  prices  of  Exercise Books with effect from 12th January, 2009 , in order to continue serving you better.
 
-Manila Covers | Manila Covers | MG. Covers | MG. Covers
-32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 7.00 KSh. 9.00 KSh. 11.00 KSh. 13.00 KSh. 16.00 KSh. 17.00 KSh. 27.00 | 32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 6.00 KSh. 8.00 KSh. 10.00 KSh. 12.00 KSh. 15.00 KSh. 16.00 KSh. 25.00
-A4 Size-Manila Covers only | A4 Size-Manila Covers only |  | 
-A4-200 A4-120 A4-96 A4-80 | pages KSh. pages KSh. pages KSh. pages KSh. 25.00 | 52.00 35.00 32.00 | 
+| Manila Covers                                                    | Manila Covers                                                              | MG. Covers                                                       | MG. Covers                                                                 |
+|------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 7.00 KSh. 9.00 KSh. 11.00 KSh. 13.00 KSh. 16.00 KSh. 17.00 KSh. 27.00 | 32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 6.00 KSh. 8.00 KSh. 10.00 KSh. 12.00 KSh. 15.00 KSh. 16.00 KSh. 25.00 |
+| A4 Size-Manila Covers only                                       | A4 Size-Manila Covers only                                                 |                                                                  |                                                                            |
+| A4-200 A4-120 A4-96 A4-80                                        | pages KSh. pages KSh. pages KSh. pages KSh. 25.00                          | 52.00 35.00 32.00                                                |                                                                            |
 
 All exercise books are manufactured on high quality paper. For further information, contact: The Government Printer, ßP.O. Box 30128-00100, Nairobi, Tel. 317840/41/57/86/87.
 
-IMPORTANT NOTICE TO SUBSCRIBERS TO THE KENYA GAZETTE
+## IMPORTANT NOTICE TO SUBSCRIBERS TO THE KENYA GAZETTE
 
 THE following notes are for the guidance of persons submitting 'copy' for inclusion in the Kenya Gazette, Supplement , etc.:
 
-The Kenya Gazette contains Notices of a general nature which do not affect  legislation.  They  are,  therefore,  submitted  to  the  Government Printer directly.
-
-Legislative  Supplement contains  Rules  and  Regulations  which  are issued  by  the  Central  Government.  Because  of  this,  they  must  be submitted  to  the Government  Printer  through  the  office  of  the Attorney-General.
-
-Bill  Supplement contains  Bills  which  are  for  introduction  in  the National Assembly.
-
-Act Supplement contains Acts passed by the National Assembly.
+- (1) The Kenya Gazette contains Notices of a general nature which do not affect  legislation.  They  are,  therefore,  submitted  to  the  Government Printer directly.
+- (2) Legislative  Supplement contains  Rules  and  Regulations  which  are issued  by  the  Central  Government.  Because  of  this,  they  must  be submitted  to  the Government  Printer  through  the  office  of  the Attorney-General.
+- (3) Bill  Supplement contains  Bills  which  are  for  introduction  in  the National Assembly.
+- (4) Act Supplement contains Acts passed by the National Assembly.
 
 All 'copy' submitted for publication should be prepared on one side of an A4  sheet  no  matter  how  small  the  Notice  is,  each  page  being  numbered  and should  be  typewritten  with  double  spacing.  Copy  should  be  clear,  legible  and contain no alterations.
 
 Particular attention should be paid to the following points:
 
-(i) Signature must be supported by rubber-stamping or typing the name of the signatory in capital letters.
-
-(ii) Dates must be correct and filled in where necessary.
-
-(iii) Care  should  be  taken  to  ensure  that  all  headings  to  Notices  and references to legislation are up to date and conform with the Revised Edition of the Laws of Kenya.
+- (i) Signature must be supported by rubber-stamping or typing the name of the signatory in capital letters.
+- (ii) Dates must be correct and filled in where necessary.
+- (iii) Care  should  be  taken  to  ensure  that  all  headings  to  Notices  and references to legislation are up to date and conform with the Revised Edition of the Laws of Kenya.
 
 EXTRACT FROM THE CODE OF REGULATIONS, SECTION D-
 
 Kenya Gazette
 
-'D  34.  (1)  Communications  for  the Kenya  Gazette should  reach  the Government  Printer  not  later  than  9  a.m.  on  Friday  of  the  week  before publication is desired. The Government Printer will not publish communications received after that hour until the next subsequent issue of the Gazette.
-
-Ministries will be required to pay for the Kenya Gazette and to meet the cost of advertising in it.
+- 'D  34.  (1)  Communications  for  the Kenya  Gazette should  reach  the Government  Printer  not  later  than  9  a.m.  on  Friday  of  the  week  before publication is desired. The Government Printer will not publish communications received after that hour until the next subsequent issue of the Gazette.
+- (2) Ministries will be required to pay for the Kenya Gazette and to meet the cost of advertising in it.
 
 It  is  emphasized that these notes are for guidance only, but it is requested that  persons  submitting  copy  for  publication  first  satisfy  themselves  that  such copy is complete in every respect.
 
-SUBSCRIPTION AND ADVERTISEMENT CHARGES
+## SUBSCRIPTION AND ADVERTISEMENT CHARGES
 
 With effect from 9th August, 2005, subscription and advertisement fee for the Kenya Gazette are as follows:
 
 SUBSCRIPTION CHARGES:
 
+| Annual Subscription (excluding postage in Kenya)........................                                 | Annual Subscription (excluding postage in Kenya)........................                                 | Annual Subscription (excluding postage in Kenya)........................                                 | 9,830          | 00             |
+|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------|----------------|
+| Annual Subscription (including postage in Kenya).........................                                | Annual Subscription (including postage in Kenya).........................                                | Annual Subscription (including postage in Kenya).........................                                | 11,135         | 00             |
+| Annual Subscription (overseas).......................................................                    | Annual Subscription (overseas).......................................................                    | Annual Subscription (overseas).......................................................                    | 23,875         | 00             |
+| Half-year Subscription (excluding postage in Kenya) ....................                                 | Half-year Subscription (excluding postage in Kenya) ....................                                 | Half-year Subscription (excluding postage in Kenya) ....................                                 | 4,915          | 00             |
+| Half-year Subscription (including postage in Kenya).....................                                 | Half-year Subscription (including postage in Kenya).....................                                 | Half-year Subscription (including postage in Kenya).....................                                 | 5,570          | 00             |
+| Half-year Subscription (overseas) ...................................................                    | Half-year Subscription (overseas) ...................................................                    | Half-year Subscription (overseas) ...................................................                    | 11,940         | 00             |
+| Single copy without supplements....................................................                      | Single copy without supplements....................................................                      | Single copy without supplements....................................................                      | 50             | 00             |
+| GAZETTED S UPPLEMENT CHARGES-PER COPY :                                                                  | GAZETTED S UPPLEMENT CHARGES-PER COPY :                                                                  | GAZETTED S UPPLEMENT CHARGES-PER COPY :                                                                  | Postage in E.A | Postage in E.A |
+|                                                                                                          | KSh.                                                                                                     | cts                                                                                                      | KSh.           | cts.           |
+| Up to 2 pages .....................................................................                      | 7                                                                                                        | 00                                                                                                       | 40             | 00             |
+| Up to 4 pages .....................................................................                      | 14                                                                                                       | 00                                                                                                       | 40             | 00             |
+| Up to 8 pages .....................................................................                      | 28                                                                                                       | 00                                                                                                       | 40             | 00             |
+| Up to 12 pages ...................................................................                       | 42                                                                                                       | 00                                                                                                       | 40             | 00             |
+| Up to 16 pages ...................................................................                       | 56                                                                                                       | 00                                                                                                       | 40             | 00             |
+| Up to 20 pages ...................................................................                       | 70                                                                                                       | 00                                                                                                       | 95             | 00             |
+| Up to 24 pages ...................................................................                       | 84                                                                                                       | 00                                                                                                       | 95             | 00             |
+| Up to 32 pages ...................................................................                       | 112                                                                                                      | 00                                                                                                       | 95             | 00             |
+| Up to 36 pages ...................................................................                       | 126                                                                                                      | 00                                                                                                       |                |                |
+| Up to 40 pages ...................................................................                       | 140                                                                                                      | 00                                                                                                       | depending      | depending      |
+| Each additional 4 pages or part thereof .............................                                    | 14                                                                                                       | 00                                                                                                       | on weight      | on weight      |
+| ADVERTISEMENT CHARGES :                                                                                  | ADVERTISEMENT CHARGES :                                                                                  | ADVERTISEMENT CHARGES :                                                                                  | KSh.           | cts.           |
+| Full page............................................................................................... | Full page............................................................................................... | Full page............................................................................................... | 21,880         | 00             |
+| Full single column ...............................................................................       | Full single column ...............................................................................       | Full single column ...............................................................................       | 10,940         | 00             |
+| Three-quarter column ..........................................................................          | Three-quarter column ..........................................................................          | Three-quarter column ..........................................................................          | 8,205          | 00             |
+| Half column .........................................................................................    | Half column .........................................................................................    | Half column .........................................................................................    | 5,470          | 00             |
+| Quarter column or less.........................................................................          | Quarter column or less.........................................................................          | Quarter column or less.........................................................................          | 2,735          | 00             |
+
 KSh.
 
 cts.
-
-Annual Subscription (excluding postage in Kenya)........................ | Annual Subscription (excluding postage in Kenya)........................ | Annual Subscription (excluding postage in Kenya)........................ | 9,830 | 00
-Annual Subscription (including postage in Kenya)......................... | Annual Subscription (including postage in Kenya)......................... | Annual Subscription (including postage in Kenya)......................... | 11,135 | 00
-Annual Subscription (overseas)....................................................... | Annual Subscription (overseas)....................................................... | Annual Subscription (overseas)....................................................... | 23,875 | 00
-Half-year Subscription (excluding postage in Kenya) .................... | Half-year Subscription (excluding postage in Kenya) .................... | Half-year Subscription (excluding postage in Kenya) .................... | 4,915 | 00
-Half-year Subscription (including postage in Kenya)..................... | Half-year Subscription (including postage in Kenya)..................... | Half-year Subscription (including postage in Kenya)..................... | 5,570 | 00
-Half-year Subscription (overseas) ................................................... | Half-year Subscription (overseas) ................................................... | Half-year Subscription (overseas) ................................................... | 11,940 | 00
-Single copy without supplements.................................................... | Single copy without supplements.................................................... | Single copy without supplements.................................................... | 50 | 00
-GAZETTED S UPPLEMENT CHARGES-PER COPY : | GAZETTED S UPPLEMENT CHARGES-PER COPY : | GAZETTED S UPPLEMENT CHARGES-PER COPY : | Postage in E.A | Postage in E.A
- | KSh. | cts | KSh. | cts.
-Up to 2 pages ..................................................................... | 7 | 00 | 40 | 00
-Up to 4 pages ..................................................................... | 14 | 00 | 40 | 00
-Up to 8 pages ..................................................................... | 28 | 00 | 40 | 00
-Up to 12 pages ................................................................... | 42 | 00 | 40 | 00
-Up to 16 pages ................................................................... | 56 | 00 | 40 | 00
-Up to 20 pages ................................................................... | 70 | 00 | 95 | 00
-Up to 24 pages ................................................................... | 84 | 00 | 95 | 00
-Up to 32 pages ................................................................... | 112 | 00 | 95 | 00
-Up to 36 pages ................................................................... | 126 | 00 |  | 
-Up to 40 pages ................................................................... | 140 | 00 | depending | depending
-Each additional 4 pages or part thereof ............................. | 14 | 00 | on weight | on weight
-ADVERTISEMENT CHARGES : | ADVERTISEMENT CHARGES : | ADVERTISEMENT CHARGES : | KSh. | cts.
-Full page............................................................................................... | Full page............................................................................................... | Full page............................................................................................... | 21,880 | 00
-Full single column ............................................................................... | Full single column ............................................................................... | Full single column ............................................................................... | 10,940 | 00
-Three-quarter column .......................................................................... | Three-quarter column .......................................................................... | Three-quarter column .......................................................................... | 8,205 | 00
-Half column ......................................................................................... | Half column ......................................................................................... | Half column ......................................................................................... | 5,470 | 00
-Quarter column or less......................................................................... | Quarter column or less......................................................................... | Quarter column or less......................................................................... | 2,735 | 00
 
 Subscribers  and  advertisers  are  advised  to  remit  payment  by  bankers  cheques, Postal  orders  or  money  orders  drawn  in  favour  of  'The  Government  Printer, Nairobi'
 

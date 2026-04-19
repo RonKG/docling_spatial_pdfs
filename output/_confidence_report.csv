@@ -20,6 +20,7 @@ Kenya Gazette Vol CXINo 103,13179,0.907,1.0,1.0,0.627,1.0,,strict,spatial: 9 rep
 Kenya Gazette Vol CXXIVNo 282,15941,0.907,1.0,1.0,0.628,1.0,,strict,spatial: 15 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.14 (69/477 words)
 Kenya Gazette Vol CXXIVNo 282,15901,0.908,1.0,1.0,0.75,0.85,,strict,spatial: 5 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
 Kenya Gazette Vol CXXIVNo 282,15947,0.908,1.0,1.0,0.75,0.85,,strict,spatial: 5 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15994,0.908,1.0,0.9,0.85,0.85,,strict,structure: only one structural marker present | spatial: 3 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
 Kenya Gazette Vol CXINo 103,13453,0.909,1.0,1.0,0.637,1.0,,strict,spatial: 9 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.13 (36/285 words)
 Kenya Gazette Vol CXINo 103,13446,0.91,1.0,1.0,0.64,1.0,,strict,spatial: 7 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.12 (25/209 words)
 Kenya Gazette Vol CXINo 103,13267,0.911,1.0,1.0,0.646,1.0,,strict,spatial: 17 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (46/426 words)
@@ -59,7 +60,6 @@ Kenya Gazette Vol CXXIVNo 282,15945,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 rep
 Kenya Gazette Vol CXXIVNo 282,15950,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 22 repeated 6-grams (possible column merge)
 Kenya Gazette Vol CXXIVNo 282,15954,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
 Kenya Gazette Vol CXXIVNo 282,15976,0.925,1.0,0.9,0.918,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.16 (23/141 words) | boundary: text does not end with terminal punctuation
-Kenya Gazette Vol CXXIVNo 282,15994,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 55 repeated 6-grams (possible column merge)
 Kenya Gazette Vol CXINo 103,13177,0.926,1.0,1.0,0.704,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.19 (21/109 words)
 Kenya Gazette Vol CXXIVNo 282,15974,0.926,1.0,0.9,0.923,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.15 (21/137 words) | boundary: text does not end with terminal punctuation
 Kenya Gazette Vol CXINo 103,13490,0.93,1.0,1.0,0.721,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.16 (22/139 words)
