@@ -22,12 +22,12 @@
 
 ## Today (the only thing on your plate)
 
-**Task:** F11 — write `parse_masthead(text: str) -> dict` in a new cell of [`gazette_docling_pipeline_spatial.ipynb`](gazette_docling_pipeline_spatial.ipynb).
+**Task:** F12 — Trailing content detector. Detect end of last notice; exclude classified ads, pricing, index pages from notices array.
 
-- **Input:** the first ~30 lines of `plain_spatial` already produced inside `GazettePipeline.process_pdf`.
-- **Output:** `{"volume": "CXXIV", "issue_no": 282, "publication_date": "2022-12-30", "supplement_no": None}`.
-- **Rule:** unparseable field -> `None`. Never invent values. Never raise.
-- **Done when:** it returns sensible values for 5 PDFs you pick from `output/` — mix of modern, pre-2010 OCR, supplement, weird title page, "boring" baseline.
+- **Location:** Modify `split_gazette_notices` in `gazette_docling_pipeline_spatial.ipynb`.
+- **Done when:** F12 spec written, implemented, tests passing, and PROGRESS.md updated.
+
+**Previous:** F11 ✅ Complete — `parse_masthead()` implemented, extracts volume/issue/date/supplement from masthead."boring" baseline.
 - **Size:** ~half a day. Most of the time is reading mastheads, not coding.
 
 When this works, stop for the day and tick F11 to ✅. The next ⬜ row tells you what's next.
@@ -61,8 +61,8 @@ When this works, stop for the day and tick F11 to ✅. The next ⬜ row tells yo
 | Phase 0 | F8 | Confidence report (CSV) | Sortable per-notice CSV across all outputs<br>for human triage | notebook<br>(lines 2385-2633),<br>`output/_confidence_report.csv` | ✅ Complete | — |
 | Phase 0 | F9 | Calibration tooling | Sample notices into bands, hand-label,<br>score precision per band | notebook<br>(lines 2880-3065),<br>`tests/calibration_sample.yaml` | ✅ Complete (tooling) — labels still pending | — |
 | Phase 0 | F10 | Regression tooling | Capture baseline of mean composite per<br>canonical PDF; check current vs baseline | notebook<br>(lines 3066-3163) | ✅ Complete (tooling) — baseline file not yet captured | — |
-| **Phase 1** | **F11** | **Masthead parser** | **Parse Volume, Number, publication date,<br>supplement from the title block** | **notebook<br>(new cell)** | **⬜ Next** | **—** |
-| Phase 1 | F12 | Trailing content detector | Detect end of last notice; exclude classified<br>ads, pricing, index pages from notices array | notebook<br>(`split_gazette_notices` or new cell) | ⬜ Not started | — |
+| Phase 1 | F11 | Masthead parser | Parse Volume, Number, publication date,<br>supplement from the title block | notebook<br>(new cell) | ✅ Complete | 35a9557 |
+| **Phase 1** | **F12** | **Trailing content detector** | **Detect end of last notice; exclude classified<br>ads, pricing, index pages from notices array** | **notebook<br>(`split_gazette_notices` or new cell)** | **⬜ Next** | **—** |
 | Phase 1 | F13 | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`,<br>`notice_id`, `content_sha256`; corrigendum<br>`scope` enum | notebook<br>(`process_pdf`, `split_gazette_notices`,<br>`extract_corrigenda`) | ⬜ Not started | — |
 | Phase 1 | F14 | Envelope versioning fields | `library_version`, `schema_version`,<br>`output_format_version`, `extracted_at`<br>at top of record | notebook<br>(`process_pdf`) | ⬜ Not started | — |
 | Phase 2 | F15 | Hand-label calibration sample | Open `tests/calibration_sample.yaml`, mark<br>`is_correct: true/false` for ~30 notices,<br>run `score_calibration()` | `tests/<br>calibration_sample.yaml` | ⬜ Not started | — |
