@@ -45,7 +45,7 @@
 | **F10** | Regression tooling | Capture and check baselines | ✅ Complete (tooling) | — |
 | **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea |
 | **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 0af6b42 |
-| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | — |
+| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | 29132ed |
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ⬜ Not started | — |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ⬜ Not started | — |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ⬜ Not started | — |
