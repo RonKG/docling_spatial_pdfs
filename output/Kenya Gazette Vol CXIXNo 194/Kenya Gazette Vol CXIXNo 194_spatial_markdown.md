@@ -72,8 +72,7 @@ NAIROBI, 29th December, 2017
 
 CONTENTS
 
-GAZETTE NOTICE NO. 12714
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12714</span>
 THE MINING ACT
 
 ( No. 12 of 2016)
@@ -118,8 +117,7 @@ DAN KAZUNGU, .
 
 Cabinet Secretary for Mining
 
-GAZETTE NOTICE NO. 12715
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12715</span>
 THE MINING ACT
 
 ( No. 12 of 2016)
@@ -156,8 +154,7 @@ DAN KAZUNGU, .
 
 Cabinet Secretary for Mining
 
-GAZETTE NOTICE NO. 12716
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12716</span>
 THE MINING ACT
 
 ( No. 12 of 2016)
@@ -199,8 +196,7 @@ DAN KAZUNGU,
 
 Cabinet Secretary for Mining .
 
-GAZETTE NOTICE NO. 12717
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12717</span>
 THE MINING ACT
 
 ( No. 12 of 2016)
@@ -299,8 +295,7 @@ DAN KAZUNGU,
 
 Cabinet Secretary for Mining .
 
-GAZETTE NOTICE NO. 12718
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12718</span>
 THE COUNTY GOVERNMENT ACT ( No. 17 of 2012) THE KAJIADO COUNTY EXECUTIVE COMMITTEE
 
 APPOINTMENT
@@ -322,8 +317,7 @@ Jackline Nkamalo Koin | Trade, Culture and Wildlife
 Lenku Kanar Seki | Education and Vocational Training
 Dated the 7th December, 2017. | Dated the 7th December, 2017.
 
-GAZETTE NOTICE NO. 12719
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12719</span>
 THE COUNTY GOVERNMENT ACT ( No. 17 of 2012) THE GARISSA COUNTY EXECUTIVE COMMITTEE APPOINTMENT
 
 IN EXERCISE of the powers conferred by article 179 (2), ( b ) of the Contitution of Kenya, as read with section 30 (2), ( d ) ( e ) ( i ) and 35 of
@@ -338,8 +332,7 @@ Dated  the 20th December,  2017.
 
 ALI B. KORANE, Governor, Garissa County.
 
-GAZETTE NOTICE NO. 12720
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12720</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -356,8 +349,7 @@ Nairobi.
 
 MR/4167218
 
-GAZETTE NOTICE NO. 12721
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12721</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -374,8 +366,7 @@ Registrar of Titles, Mombasa.
 
 MR/4167182
 
-GAZETTE NOTICE NO. 12722
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12722</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -388,8 +379,7 @@ Dated the 29th December, 2017.
 
 J. G. WANJOHI,
 
-GAZETTE NOTICE NO. 12723
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12723</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -404,8 +394,7 @@ Land Registrar, Nakuru District .
 
 MR/4167157
 
-GAZETTE NOTICE NO. 12724
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12724</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -422,8 +411,7 @@ Land Registrar, Nakuru District .
 
 MR/4167157
 
-GAZETTE NOTICE NO. 12725
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12725</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -438,8 +426,7 @@ Land Registrar, Kisumu East/West Districts .
 
 MR/4167240
 
-GAZETTE NOTICE NO. 12726
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12726</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -452,8 +439,7 @@ H. L. MBALITSI,
 
 MR/4167015
 
-GAZETTE NOTICE NO. 12727
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12727</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -468,8 +454,7 @@ Land Registrar, Kakamega District .
 
 MR/4167033
 
-GAZETTE NOTICE NO. 12728
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12728</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -484,8 +469,7 @@ Land Registrar, Kakamega District .
 
 MR/4167033
 
-GAZETTE NOTICE NO. 12729
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12729</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -500,8 +484,7 @@ Land Registrar, Kakamega District .
 
 MR/4167033
 
-GAZETTE NOTICE NO. 12730
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12730</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -516,8 +499,7 @@ Land Registrar, Kakamega District .
 
 MR/4167033
 
-GAZETTE NOTICE NO. 12731
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12731</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -532,8 +514,7 @@ Land Registrar, Nyandarua District .
 
 MR/4167238
 
-GAZETTE NOTICE NO. 12732
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12732</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -548,8 +529,7 @@ Land Registrar, Embu District
 
 MR/4167174
 
-GAZETTE NOTICE NO. 12733
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12733</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -564,8 +544,7 @@ Land Registrar, Embu District .
 
 MR/4167174
 
-GAZETTE NOTICE NO. 12734
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12734</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -582,8 +561,7 @@ Land Registrar, Embu District .
 
 MR/4167174
 
-GAZETTE NOTICE NO. 12735
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12735</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -598,8 +576,7 @@ Land Registrar, Embu District .
 
 MR/4167174
 
-GAZETTE NOTICE NO. 12736
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12736</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -614,8 +591,7 @@ Land Registrar, Kiambu District .
 
 MR/4167232
 
-GAZETTE NOTICE NO. 12737
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12737</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -630,8 +606,7 @@ Land Registrar, Kiambu District .
 
 MR/3574477
 
-GAZETTE NOTICE NO. 12738
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12738</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -646,8 +621,7 @@ Land Registrar, Thika District .
 
 MR/4167059
 
-GAZETTE NOTICE NO. 12739
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12739</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -664,8 +638,7 @@ Land Registrar, Thika District
 
 MR/4167059
 
-GAZETTE NOTICE NO. 12740
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12740</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -682,8 +655,7 @@ Land Registrar, Thika District .
 
 MR/4167059
 
-GAZETTE NOTICE NO. 12741
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12741</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -700,8 +672,7 @@ Land Registrar, Thika District .
 
 MR/4167018
 
-GAZETTE NOTICE NO. 12742
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12742</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -716,8 +687,7 @@ Land Registrar, Thika District .
 
 MR/4167018
 
-GAZETTE NOTICE NO. 12743
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12743</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -732,8 +702,7 @@ Land Registrar, Thika District .
 
 MR/4167018
 
-GAZETTE NOTICE NO. 12744
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12744</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -748,8 +717,7 @@ Land Registrar, Thika District .
 
 MR/4167018
 
-GAZETTE NOTICE NO. 12745
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12745</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -766,8 +734,7 @@ Land Registrar, Thika District .
 
 MR/4167018
 
-GAZETTE NOTICE NO. 12746
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12746</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -784,8 +751,7 @@ Land Registrar, Kirinyaga District .
 
 MR/4167077
 
-GAZETTE NOTICE NO. 12747
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12747</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -802,8 +768,7 @@ Land Registrar, Murang'a District .
 
 MR/4167060
 
-GAZETTE NOTICE NO. 12748
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12748</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -820,8 +785,7 @@ Land Registrar, Kajiado District .
 
 MR/4167030
 
-GAZETTE NOTICE NO. 12749
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12749</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -836,8 +800,7 @@ Land Registrar, Kajiado District .
 
 MR/4167039
 
-GAZETTE NOTICE NO. 12750
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12750</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -852,8 +815,7 @@ Land Registrar, Kajiado District
 
 MR/4167009
 
-GAZETTE NOTICE NO. 12751
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12751</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012 )
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -868,8 +830,7 @@ Land Registrar, Narok North/South Districts.
 
 MR/4167185
 
-GAZETTE NOTICE NO. 12752
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12752</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -886,8 +847,7 @@ Land Registrar, Baringo District .
 
 MR/4167084
 
-GAZETTE NOTICE NO. 12753
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12753</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -902,8 +862,7 @@ Land Registrar, Kisii District .
 
 MR/4167085
 
-GAZETTE NOTICE NO. 12754
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12754</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF A NEW LAND TITLE DEED
@@ -918,8 +877,7 @@ Land Registrar, Homa Bay District .
 
 MR/4167258
 
-GAZETTE NOTICE NO. 12755
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12755</span>
 THE LAND REGISTRATION ACT ( No. 3 of 2012)
 
 ISSUE OF NEW LAND TITLE DEEDS
@@ -934,8 +892,7 @@ Land Registrar, Homa Bay District .
 
 MR/4167258
 
-GAZETTE NOTICE NO. 12756
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12756</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -954,8 +911,7 @@ Land Registrar, Homa Bay District
 
 MR/4167258
 
-GAZETTE NOTICE NO. 12757
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12757</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -972,8 +928,7 @@ MR/4167189
 
 .
 
-GAZETTE NOTICE NO. 12758
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12758</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -990,8 +945,7 @@ Land Registrar, Nairobi.
 
 MR/4167206
 
-GAZETTE NOTICE NO. 12759
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12759</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1006,8 +960,7 @@ C. N. KITUYI, Land Registrar, Nairobi.
 
 MR/4167161
 
-GAZETTE NOTICE NO. 12760
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12760</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1024,8 +977,7 @@ Land Registrar, Nairobi.
 
 MR/4167289
 
-GAZETTE NOTICE NO. 12761
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12761</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1042,8 +994,7 @@ Land Registrar, Machakos District.
 
 MR/4167235
 
-GAZETTE NOTICE NO. 12762
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12762</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1058,8 +1009,7 @@ M. A. OMULLO, Land Registrar, Kericho District.
 
 MR/4167305
 
-GAZETTE NOTICE NO. 12763
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12763</span>
 THE CAPITAL MARKETS ACT
 
 ( Cap . 485A)
@@ -1082,8 +1032,7 @@ Seriani Unit Trust Scheme Comprising of- 1. Seriani Money Market Fund 2. Seriani
 Dated the 30th October, 2017. | Dated the 30th October, 2017. | Dated the 30th October, 2017.
 P. M. MUTHAURA, MR/4167001 Chief Executive. | P. M. MUTHAURA, MR/4167001 Chief Executive. | P. M. MUTHAURA, MR/4167001 Chief Executive.
 
-GAZETTE NOTICE NO. 12764
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12764</span>
 THE CAPITAL MARKETS ACT
 
 ( Cap. 485A)
@@ -1100,8 +1049,7 @@ Name | Address | License Number
 VFS International (K) Limited | P.O. Box 4-00621, Village Market, Nairobi | 060
 MR/4167001 | P. M. MUTHAURA, Chief Executive. | P. M. MUTHAURA, Chief Executive.
 
-GAZETTE NOTICE NO. 12765
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12765</span>
 THE POLITICAL PARTIES ACT
 
 ( No. 11 of 2011)
@@ -1125,8 +1073,7 @@ Registrar of Political Parties.
 
 MR/4167052
 
-GAZETTE NOTICE NO. 12766
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12766</span>
 THE PHYSICAL PLANNING ACT
 
 ( Cap. 286)
@@ -1151,8 +1098,7 @@ I. K. PARASHINA, for Director of Physical Planning.
 
 MR/3574497
 
-GAZETTE NOTICE NO. 12767
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12767</span>
 THE PHYSICAL PLANNING ACT
 
 ( Cap. 286)
@@ -1177,8 +1123,7 @@ S. S. CHUNE,
 
 MR/3574483
 
-GAZETTE NOTICE NO. 12768
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12768</span>
 THE PHYSICAL PLANNING ACT ( Cap. 286)
 
 COMPLETION OF DEVELOPMENT PLANS
@@ -1207,8 +1152,7 @@ A. K. A. ROTICH, for Director of Physical Planning.
 
 MR/4167159
 
-GAZETTE NOTICE NO. 12769
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12769</span>
 THE RECORDS DISPOSAL (COURTS) RULES ( Cap. 14, Sub. Leg.)
 
 IN THE CHIEF MAGISTRATE'S COURT AT ELDORET
@@ -1252,8 +1196,7 @@ M. N. MWANIKI, Director, Anfield Auctioneers.
 
 MR/4167207
 
-GAZETTE NOTICE NO. 12771
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12771</span>
 BRITAM LIFE ASSURANCE COMPANY (K) LIMITED
 
 Head Office: P.O. Box 30375-00100, Nairobi
@@ -1272,8 +1215,7 @@ Underwriting Manager, Life.
 
 MR/4167158
 
-GAZETTE NOTICE NO. 12772
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12772</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 20th September, 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  1129,  in  Volume  DI,  Folio  298/5084,  File  No. MMXVII, by our client, Dennis Okoth Adipo, of P.O. Box 368-00100, Nairobi in the Republic of Kenya, formerly known as Dennish Okoth Adipoh, formally and absolutely renounced and abandoned the use of his  former  name Dennish Okoth Adipoh and in lieu thereof assumed and  adopted  the  name  Dennis  Okoth  Adipo,  for  all  purposes  and authorizes and requests all persons at all times to designate, describe and address him by his assumed name Dennis Okoth Adipo only.
@@ -1284,8 +1226,7 @@ Advocates for Dennis Okoth Adipo , formerly known as Dennish Okoth Adipoh .
 
 MR/4167251
 
-GAZETTE NOTICE NO. 12773
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12773</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 11th December, 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  3487,  in  Volume  DI,  Folio  322/5651,  File  No. MMXVII,  by  our  client,  Fauzia  Ali  Matano,  of  P.O.  Box  1019960100,  Embu  in  the  Republic  of  Kenya,  formerly  known  as  Nelly Matano, formally and absolutely renounced and abandoned the use of his  former  name  Nelly  Matano  and  in  lieu  thereof  assumed  and adopted the name Fauzia Ali Matano, for all purposes and authorizes and requests all persons at all times to designate, describe and address him by his assumed name Fauzia Ali Matano only.
@@ -1296,8 +1237,7 @@ MR/4167249
 
 .
 
-GAZETTE NOTICE NO. 12774
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12774</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 6th April, 2016, duly executed  and  registered  in  the  Registry  of  Documents  at  Nairobi  as Presentation  No.  1261,  in  Volume  DI,  Folio  333/5747,  File  No. MMXVII, by our client, Levi Benjamin Mointeor, of P.O. Box 1852700100, Nairobi in the Republic of Kenya, formerly known as Benjamin Kipkurui  Koskei  Moindio,  formally  and  absolutely  renounced  and abandoned  the  use  of  his  former  name  Benjamin  Kipkurui  Koskei Moindio  and  in  lieu  thereof  assumed  and  adopted  the  name  Levi Benjamin  Mointeor,  for  all  purposes  and  authorizes  and  requests  all persons  at  all  times  to  designate,  describe  and  address  him  by  his assumed name Levi Benjamin Mointeor only.
@@ -1306,8 +1246,7 @@ MUTUERANDU KAIMENYI MOSE & COMPANY, Advocates for Levi Benjamin Mointeor ,
 
 MR/4167156 formerly known as Benjamin Kipkurui Koskei Moindio .
 
-GAZETTE NOTICE NO. 12775
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12775</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated  31st October 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  2895,  in  Volume  DI,  Folio  307/5508,  File  No. MMXVII, by our client, Esther Gakenia Kiromo, of P.O. Box 800200200, Nairobi in the Republic of  Kenya, formerly known as  Esther Njambi Kiromo, formally and absolutely renounced and abandoned the use  of  her  former  name  Esther  Njambi  Kiromo  and  in  lieu  thereof assumed  and  adopted  the  name  Esther  Gakenia  Kiromo,  for  all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  her  by  her  assumed  name  Esther Gakenia Kiromo only.
@@ -1316,8 +1255,7 @@ ONYANGO, NDOLO & COMPANY, Advocates for Esther Gakenia Kiromo , formerly known a
 
 MR/4167254
 
-GAZETTE NOTICE NO. 12776
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12776</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 30th October, 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  218,  in  Volume  DI,  Folio  340/5848,  File  No. MMXVII, by our client, Krishan Poonjalal Patel, of P.O. Box 4903200100, Nairobi in the Republic of Kenya, formerly known as Krishan Punjalal Patel, formally and absolutely renounced and abandoned the use  of  his  former  name  Krishan  Punjalal  Patel  and  in  lieu  thereof assumed  and  adopted  the  name  Krishan  Poonjalal  Patel,  for  all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  him  by  his  assumed  name  Krishan Poonjalal Patel only.
@@ -1328,8 +1266,7 @@ Advocates for Krishan Poonjalal Patel , formerly known as Krishan Punjalal Patel
 
 MR/4167294
 
-GAZETTE NOTICE NO. 12777
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12777</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 19th June, 2017, duly executed  and  registered  in  the  Registry  of  Documents  at  Nairobi  as Presentation  No.  1472,  in  Volume  DI,  Folio  316/5598,  File  No. MMXVII,  by  our  client,  John  Ngugi,  of  P.O.  Box  36485-00200, Nairobi  in  the  Republic  of  Kenya,  formerly  known  as  John  Ndungu Haiyae, formally and absolutely renounced and abandoned the use of his former name John Ndungu Haiyae and in lieu thereof assumed and adopted  the  name  John  Ngugi,  for  all  purposes  and  authorizes  and requests all persons at all times to designate, describe and address him by his assumed name John Ngugi only.
@@ -1344,8 +1281,7 @@ Advocates for John Ngugi
 
 MR/4167173
 
-GAZETTE NOTICE NO. 12778
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12778</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 11th October, 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  2660,  in  Volume  DI,  Folio  311/5551,  File  No. MMXVII, by our client, Donald Kipkorir Kenei, of P.O. Box 25510100603, Nairobi in the Republic of Kenya, formerly known as Donald Ben Kenei, formally and absolutely renounced and abandoned the use of his former name Donald Ben Kenei and in lieu thereof assumed and adopted  the  name  Donald  Kipkorir  Kenei,  for  all  purposes  and authorizes and requests all persons at all times to designate, describe and address him by his assumed name Donald Kipkorir Kenei only.
@@ -1356,8 +1292,7 @@ Advocates for Donald Kipkorir Kenei , formerly known as Donald Ben Kenei .
 
 MR/3574478
 
-GAZETTE NOTICE NO. 12779
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12779</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 10th July, 2017, duly executed  and  registered  in  the  Registry  of  Documents  at  Nairobi  as Presentation  No.  1469,  in  Volume  DI,  Folio  275/4721,  File  No. MMXVII, by our client, Okello Nyawanda Paul, as guardian of Igen Kenan  Nyawanda,  formerly  known  as  Igen  Kenan,  formally  and absolutely renounced and abandoned the use of his former name Igen Kenan, and in lieu thereof assumed and adopted the name Igen Kenan Nyawanda, for all purposes and authorizes and requests all persons at all times to designate, describe and address him by his assumed name Igen Kenan Nyawanda only.
@@ -1370,8 +1305,7 @@ Advocates for Okello Nyawanda Paul, as guardian of Igen Kenan Nyawanda (a minor)
 
 MR/4167165
 
-GAZETTE NOTICE NO. 12780
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12780</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 21st September, 2017, duly executed and registered in the Registry of Documents at Nairobi as  Presentation  No.  1250,  in  Volume  DI,  Folio  306/5501,  File  No. MMXVII, by our client, Susan Awuor Ajwala, as guardian of Curtis Gallati,  formerly  known  as  Curtis  Ajwala,  formally  and  absolutely renounced and abandoned the use of his former name Curtis Ajwala, and in lieu thereof assumed and adopted the name Curtis Gallati, for all purposes  and  authorizes  and  requests  all  persons  at  all  times  to designate,  describe  and  address  him  by  his  assumed  name  Curtis Gallati only.
@@ -1382,8 +1316,7 @@ OWAGA & ASSOCIATES, Advocates for Susan Awuor Ajwala, as guardian of Curtis Gall
 
 MR/4167165
 
-GAZETTE NOTICE NO. 12781
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 12781</span>
 CHANGE OF NAME
 
 NOTICE is given that by a deed poll dated 3rd November, 2017, duly executed and registered in the Registry of Documents at Mombasa as Presentation No. 316, in Volume B13, Folio 1759/12097, File No. 1637, by our client, Ryan Hendry Tinnery, of P.O. Box 85223-80100, Mombasa,  formerly  known  as  Ryan  Hendry  Omondi,  formally  and absolutely renounced and abandoned the use of his former name Ryan Hendry  Omondi,  and  in  lieu  thereof  assumed  and  adopted  the  name Ryan Hendry Tinnery, for all purposes and authorizes and requests all persons  at  all  times  to  designate,  describe  and  address  him  by  his assumed name Ryan Hendry Tinnery only.

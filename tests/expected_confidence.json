@@ -1,0 +1,45 @@
+{
+  "Kenya Gazette Vol CXINo 100": {
+    "present": true,
+    "mean_composite": 0.0,
+    "min_composite": 0.0,
+    "layout": null,
+    "ocr_quality": null,
+    "n_notices": 0
+  },
+  "Kenya Gazette Vol CXINo 103": {
+    "present": true,
+    "mean_composite": 0.989,
+    "min_composite": 0.745,
+    "layout": 0.997,
+    "ocr_quality": 0.992,
+    "n_notices": 320
+  },
+  "Kenya Gazette Vol CXIINo 76": {
+    "present": true,
+    "mean_composite": 0.0,
+    "min_composite": 0.0,
+    "layout": null,
+    "ocr_quality": null,
+    "n_notices": 0
+  },
+  "Kenya Gazette Vol CXXVIINo 63": {
+    "present": true,
+    "mean_composite": 0.0,
+    "min_composite": 0.0,
+    "layout": null,
+    "ocr_quality": null,
+    "n_notices": 0
+  },
+  "Kenya Gazette Vol CXXIVNo 282": {
+    "present": true,
+    "mean_composite": 0.968,
+    "min_composite": 0.745,
+    "layout": 0.984,
+    "ocr_quality": 0.987,
+    "n_notices": 201
+  },
+  "Kenya Gazette Vol CIINo 83 - pre 2010": {
+    "present": false
+  }
+}

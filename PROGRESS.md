@@ -20,12 +20,12 @@
 
 ## Today (the only thing on your plate)
 
-**Current:** F13 — Identity fields wired into record  
-**What:** Add `pdf_sha256`, `gazette_issue_id`, `notice_id` to every notice record  
-**Where:** Modify `process_pdf` and notice-building logic in `gazette_docling_pipeline_spatial.ipynb`  
+**Current:** F14 — Envelope versioning fields  
+**What:** Add `library_version`, `schema_version`, `extracted_at` to every record  
+**Where:** Modify `process_pdf` in `gazette_docling_pipeline_spatial.ipynb`  
 **Done when:** Spec written, implemented, tests passing, this file updated.
 
-**Previous:** F12 ✅ — Trailing content detector complete (excludes ads/pricing from notices)
+**Previous:** F13 ✅ — Identity fields wired into record (complete, all tests pass)
 
 ---
 
@@ -45,7 +45,7 @@
 | **F10** | Regression tooling | Capture and check baselines | ✅ Complete (tooling) | — |
 | **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea |
 | **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 0af6b42 |
-| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ⬜ Not started | — |
+| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | — |
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ⬜ Not started | — |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ⬜ Not started | — |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ⬜ Not started | — |
@@ -70,7 +70,7 @@
 |------|-----------|--------|
 | **Gate 0** | Pipeline runs end-to-end, writes all 5 output files | ✅ Cleared |
 | **Gate 1** | `check_regression()` returns OK on canonical PDFs | ⬜ Not reached (needs F16) |
-| **Gate 2** | Re-running same PDF produces identical `notice_id`s | ⬜ Not reached (needs F13) |
+| **Gate 2** | Re-running same PDF produces identical `notice_id`s | ✅ Cleared |
 | **Gate 3** | `from kenya_gazette import parse_file` works | ⬜ Not reached (needs F17) |
 | **Gate 4** | `Envelope` validates against JSON Schema | ⬜ Not reached (needs F19+F23) |
 | **Gate 5** | `pip install git+...` works on different machine | ⬜ Not reached (needs F24) |
@@ -93,5 +93,7 @@
 | 2026-04-19 | Planning consolidated | Wrote `library-contract-v1.md`, `library-roadmap-v1.md`, `PROGRESS.md` |
 | 2026-04-19 | F11 Masthead parser | Implemented `parse_masthead()`, extracts volume/issue/date/supplement |
 | 2026-04-19 | F12 Trailing content detector | Implemented `detect_trailing_content_cutoff()`, truncates last notice before ads/pricing |
+| 2026-04-19 | F13 Identity fields (implementation) | Added helpers `compute_pdf_sha256`, `make_gazette_issue_id`, `make_notice_id`. Modified `process_pdf` to stamp identity fields. All helper unit tests pass. Integration testing pending notebook execution. |
+| 2026-04-19 | F13 Identity fields (completion) | Processed 3 test PDFs. All 6 integration tests PASS. Regression check PASS (no degradation). Gate 2 CLEARED (deterministic IDs confirmed). |
 
 *Add a row here at the end of every session.*

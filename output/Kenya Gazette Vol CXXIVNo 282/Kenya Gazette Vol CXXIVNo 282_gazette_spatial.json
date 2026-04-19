@@ -4,6 +4,8 @@
   "pdf_path": "C:\\Users\\Ronald Wahome\\Documents\\docling_spatial_pdfs\\pdfs\\Kenya Gazette Vol CXXIVNo 282.pdf",
   "pdf_size_bytes": 1178808,
   "pdf_sha256": "fd6adb427496096cd9e00ad652e7915556a021518c4713a7d929c918f9daf12e",
+  "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+  "warnings": [],
   "pages": 52,
   "volume": "CXXIV",
   "issue_no": 282,
@@ -729,7 +731,8 @@
       "what_corrected": "expression",
       "error_text": "Cause  No.  E265  of  2021",
       "correction_text": "Cause  No.  E265  of 2022",
-      "raw_text": "Gazette Notice No. 14373 of 2022, amend the expression printed as 'Cause No. E265 of 2021' to read 'Cause No. E265 of 2022'. ------------------"
+      "raw_text": "Gazette Notice No. 14373 of 2022, amend the expression printed as 'Cause No. E265 of 2021' to read 'Cause No. E265 of 2022'. ------------------",
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23"
     },
     {
       "referenced_notice_no": "4443",
@@ -737,7 +740,8 @@
       "what_corrected": "deceased's name",
       "error_text": "Caterina Wamuhu Kuria alias Catelina  Wamuhu  Kuria",
       "correction_text": "Caterina  Wamuhu  Kuria  alias Gaterina Wamuhu Kuria",
-      "raw_text": "Gazette Notice No. 4443 of 2021, Cause No. E347 of 2021, amend the deceased's name printed as 'Caterina Wamuhu Kuria alias Catelina Wamuhu Kuria' to read 'Caterina Wamuhu Kuria alias Gaterina Wamuhu Kuria'. ------------------"
+      "raw_text": "Gazette Notice No. 4443 of 2021, Cause No. E347 of 2021, amend the deceased's name printed as 'Caterina Wamuhu Kuria alias Catelina Wamuhu Kuria' to read 'Caterina Wamuhu Kuria alias Gaterina Wamuhu Kuria'. ------------------",
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23"
     },
     {
       "referenced_notice_no": "11120",
@@ -745,7 +749,8 @@
       "what_corrected": "title No.",
       "error_text": "Inoi/Kerugoya/1007",
       "correction_text": "Inoi/Kaitheri/1007",
-      "raw_text": "Gazette Notice No. 11120 of 2022, amend the title No. printed as 'Inoi/Kerugoya/1007' to read 'Inoi/Kaitheri/1007'."
+      "raw_text": "Gazette Notice No. 11120 of 2022, amend the title No. printed as 'Inoi/Kerugoya/1007' to read 'Inoi/Kaitheri/1007'.",
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23"
     }
   ],
   "gazette_notices": [
@@ -859,7 +864,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15793"
     },
     {
       "gazette_notice_no": "15794",
@@ -971,7 +978,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15794"
     },
     {
       "gazette_notice_no": "15795",
@@ -1116,7 +1125,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15795"
     },
     {
       "gazette_notice_no": "15796",
@@ -1228,7 +1239,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15796"
     },
     {
       "gazette_notice_no": "15797",
@@ -1362,7 +1375,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15797"
     },
     {
       "gazette_notice_no": "15798",
@@ -1474,7 +1489,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15798"
     },
     {
       "gazette_notice_no": "15799",
@@ -1608,7 +1625,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15799"
     },
     {
       "gazette_notice_no": "15800",
@@ -1700,7 +1719,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15800"
     },
     {
       "gazette_notice_no": "15801",
@@ -1785,7 +1806,9 @@
       "confidence_reasons": [
         "spatial: 7 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.16 (23/146 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15801"
     },
     {
       "gazette_notice_no": "15802",
@@ -2109,7 +2132,9 @@
       },
       "confidence_reasons": [
         "spatial: 19 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15802"
     },
     {
       "gazette_notice_no": "15803",
@@ -3007,7 +3032,9 @@
       "confidence_reasons": [
         "spatial: 102 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (241/2202 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15803"
     },
     {
       "gazette_notice_no": "15804",
@@ -3152,7 +3179,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15804"
     },
     {
       "gazette_notice_no": "15805",
@@ -3256,7 +3285,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15805"
     },
     {
       "gazette_notice_no": "15806",
@@ -3371,7 +3402,9 @@
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.19 (21/110 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15806"
     },
     {
       "gazette_notice_no": "15807",
@@ -3494,7 +3527,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15807"
     },
     {
       "gazette_notice_no": "15808",
@@ -3615,7 +3650,9 @@
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.24 (30/125 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15808"
     },
     {
       "gazette_notice_no": "15809",
@@ -3747,7 +3784,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15809"
     },
     {
       "gazette_notice_no": "15810",
@@ -3882,7 +3921,9 @@
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.20 (25/122 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15810"
     },
     {
       "gazette_notice_no": "15811",
@@ -4025,7 +4066,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15811"
     },
     {
       "gazette_notice_no": "15812",
@@ -4129,7 +4172,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15812"
     },
     {
       "gazette_notice_no": "15813",
@@ -4223,7 +4268,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15813"
     },
     {
       "gazette_notice_no": "15814",
@@ -4317,7 +4364,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15814"
     },
     {
       "gazette_notice_no": "15815",
@@ -4419,7 +4468,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15815"
     },
     {
       "gazette_notice_no": "15816",
@@ -4513,7 +4564,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15816"
     },
     {
       "gazette_notice_no": "15817",
@@ -4607,7 +4660,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15817"
     },
     {
       "gazette_notice_no": "15818",
@@ -4709,7 +4764,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15818"
     },
     {
       "gazette_notice_no": "15819",
@@ -4811,7 +4868,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15819"
     },
     {
       "gazette_notice_no": "15820",
@@ -4913,7 +4972,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15820"
     },
     {
       "gazette_notice_no": "15821",
@@ -5015,7 +5076,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15821"
     },
     {
       "gazette_notice_no": "15822",
@@ -5109,7 +5172,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15822"
     },
     {
       "gazette_notice_no": "15823",
@@ -5203,7 +5268,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15823"
     },
     {
       "gazette_notice_no": "15824",
@@ -5297,7 +5364,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15824"
     },
     {
       "gazette_notice_no": "15825",
@@ -5399,7 +5468,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15825"
     },
     {
       "gazette_notice_no": "15826",
@@ -5501,7 +5572,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15826"
     },
     {
       "gazette_notice_no": "15827",
@@ -5613,7 +5686,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15827"
     },
     {
       "gazette_notice_no": "15828",
@@ -5715,7 +5790,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15828"
     },
     {
       "gazette_notice_no": "15829",
@@ -5817,7 +5894,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15829"
     },
     {
       "gazette_notice_no": "15830",
@@ -5919,7 +5998,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15830"
     },
     {
       "gazette_notice_no": "15831",
@@ -6021,7 +6102,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15831"
     },
     {
       "gazette_notice_no": "15832",
@@ -6123,7 +6206,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15832"
     },
     {
       "gazette_notice_no": "15833",
@@ -6225,7 +6310,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15833"
     },
     {
       "gazette_notice_no": "15834",
@@ -6327,7 +6414,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15834"
     },
     {
       "gazette_notice_no": "15835",
@@ -6421,7 +6510,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15835"
     },
     {
       "gazette_notice_no": "15836",
@@ -6523,7 +6614,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15836"
     },
     {
       "gazette_notice_no": "15837",
@@ -6625,7 +6718,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15837"
     },
     {
       "gazette_notice_no": "15838",
@@ -6727,7 +6822,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15838"
     },
     {
       "gazette_notice_no": "15839",
@@ -6821,7 +6918,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15839"
     },
     {
       "gazette_notice_no": "15840",
@@ -6923,7 +7022,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15840"
     },
     {
       "gazette_notice_no": "15841",
@@ -7025,7 +7126,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15841"
     },
     {
       "gazette_notice_no": "15842",
@@ -7127,7 +7230,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15842"
     },
     {
       "gazette_notice_no": "15843",
@@ -7229,7 +7334,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15843"
     },
     {
       "gazette_notice_no": "15844",
@@ -7331,7 +7438,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15844"
     },
     {
       "gazette_notice_no": "15845",
@@ -7425,7 +7534,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15845"
     },
     {
       "gazette_notice_no": "15846",
@@ -7509,7 +7620,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15846"
     },
     {
       "gazette_notice_no": "15847",
@@ -7611,7 +7724,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15847"
     },
     {
       "gazette_notice_no": "15848",
@@ -7713,7 +7828,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15848"
     },
     {
       "gazette_notice_no": "15849",
@@ -7815,7 +7932,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15849"
     },
     {
       "gazette_notice_no": "15850",
@@ -7909,7 +8028,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15850"
     },
     {
       "gazette_notice_no": "15851",
@@ -8011,7 +8132,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15851"
     },
     {
       "gazette_notice_no": "15852",
@@ -8113,7 +8236,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15852"
     },
     {
       "gazette_notice_no": "15853",
@@ -8215,7 +8340,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15853"
     },
     {
       "gazette_notice_no": "15854",
@@ -8307,7 +8434,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15854"
     },
     {
       "gazette_notice_no": "15855",
@@ -8409,7 +8538,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15855"
     },
     {
       "gazette_notice_no": "15856",
@@ -8503,7 +8634,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15856"
     },
     {
       "gazette_notice_no": "15857",
@@ -8605,7 +8738,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15857"
     },
     {
       "gazette_notice_no": "15858",
@@ -8699,7 +8834,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15858"
     },
     {
       "gazette_notice_no": "15859",
@@ -8801,7 +8938,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15859"
     },
     {
       "gazette_notice_no": "15860",
@@ -8903,7 +9042,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15860"
     },
     {
       "gazette_notice_no": "15861",
@@ -9005,7 +9146,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15861"
     },
     {
       "gazette_notice_no": "15862",
@@ -9099,7 +9242,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15862"
     },
     {
       "gazette_notice_no": "15863",
@@ -9201,7 +9346,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15863"
     },
     {
       "gazette_notice_no": "15864",
@@ -9303,7 +9450,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15864"
     },
     {
       "gazette_notice_no": "15865",
@@ -9405,7 +9554,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15865"
     },
     {
       "gazette_notice_no": "15866",
@@ -9507,7 +9658,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15866"
     },
     {
       "gazette_notice_no": "15867",
@@ -9609,7 +9762,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15867"
     },
     {
       "gazette_notice_no": "15868",
@@ -9711,7 +9866,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15868"
     },
     {
       "gazette_notice_no": "15869",
@@ -9813,7 +9970,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15869"
     },
     {
       "gazette_notice_no": "15870",
@@ -9915,7 +10074,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15870"
     },
     {
       "gazette_notice_no": "15871",
@@ -10017,7 +10178,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15871"
     },
     {
       "gazette_notice_no": "15872",
@@ -10111,7 +10274,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15872"
     },
     {
       "gazette_notice_no": "15873",
@@ -10213,7 +10378,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15873"
     },
     {
       "gazette_notice_no": "15874",
@@ -10315,7 +10482,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15874"
     },
     {
       "gazette_notice_no": "15875",
@@ -10417,7 +10586,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15875"
     },
     {
       "gazette_notice_no": "15876",
@@ -10519,7 +10690,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15876"
     },
     {
       "gazette_notice_no": "15877",
@@ -10621,7 +10794,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15877"
     },
     {
       "gazette_notice_no": "15878",
@@ -10705,7 +10880,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15878"
     },
     {
       "gazette_notice_no": "15879",
@@ -10807,7 +10984,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15879"
     },
     {
       "gazette_notice_no": "15880",
@@ -10909,7 +11088,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15880"
     },
     {
       "gazette_notice_no": "15881",
@@ -11011,7 +11192,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15881"
     },
     {
       "gazette_notice_no": "15882",
@@ -11105,7 +11288,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15882"
     },
     {
       "gazette_notice_no": "15883",
@@ -11207,7 +11392,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15883"
     },
     {
       "gazette_notice_no": "15884",
@@ -11309,7 +11496,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15884"
     },
     {
       "gazette_notice_no": "15885",
@@ -11411,7 +11600,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15885"
     },
     {
       "gazette_notice_no": "15886",
@@ -11503,7 +11694,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15886"
     },
     {
       "gazette_notice_no": "15887",
@@ -11605,7 +11798,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15887"
     },
     {
       "gazette_notice_no": "15888",
@@ -11699,7 +11894,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15888"
     },
     {
       "gazette_notice_no": "15889",
@@ -11801,7 +11998,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15889"
     },
     {
       "gazette_notice_no": "15890",
@@ -11905,7 +12104,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.14 (21/153 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15890"
     },
     {
       "gazette_notice_no": "15891",
@@ -11999,7 +12200,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15891"
     },
     {
       "gazette_notice_no": "15892",
@@ -12093,7 +12296,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15892"
     },
     {
       "gazette_notice_no": "15893",
@@ -12195,7 +12400,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15893"
     },
     {
       "gazette_notice_no": "15894",
@@ -12297,7 +12504,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15894"
     },
     {
       "gazette_notice_no": "15895",
@@ -12399,7 +12608,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15895"
     },
     {
       "gazette_notice_no": "15896",
@@ -12501,7 +12712,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15896"
     },
     {
       "gazette_notice_no": "15897",
@@ -12603,7 +12816,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15897"
     },
     {
       "gazette_notice_no": "15898",
@@ -12707,7 +12922,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15898"
     },
     {
       "gazette_notice_no": "15899",
@@ -12801,7 +13018,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15899"
     },
     {
       "gazette_notice_no": "15900",
@@ -12903,7 +13122,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15900"
     },
     {
       "gazette_notice_no": "15901",
@@ -12998,7 +13219,9 @@
       "confidence_reasons": [
         "spatial: 5 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15901"
     },
     {
       "gazette_notice_no": "15902",
@@ -13102,7 +13325,9 @@
       },
       "confidence_reasons": [
         "spatial: 5 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15902"
     },
     {
       "gazette_notice_no": "15903",
@@ -13204,7 +13429,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15903"
     },
     {
       "gazette_notice_no": "15904",
@@ -13298,7 +13525,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15904"
     },
     {
       "gazette_notice_no": "15905",
@@ -13400,7 +13629,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15905"
     },
     {
       "gazette_notice_no": "15906",
@@ -13512,7 +13743,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15906"
     },
     {
       "gazette_notice_no": "15907",
@@ -13614,7 +13847,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15907"
     },
     {
       "gazette_notice_no": "15908",
@@ -13708,7 +13943,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15908"
     },
     {
       "gazette_notice_no": "15909",
@@ -13810,7 +14047,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15909"
     },
     {
       "gazette_notice_no": "15910",
@@ -13914,7 +14153,9 @@
       },
       "confidence_reasons": [
         "spatial: 6 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15910"
     },
     {
       "gazette_notice_no": "15911",
@@ -14009,7 +14250,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15911"
     },
     {
       "gazette_notice_no": "15912",
@@ -14111,7 +14354,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15912"
     },
     {
       "gazette_notice_no": "15913",
@@ -14215,7 +14460,9 @@
       },
       "confidence_reasons": [
         "spatial: 6 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15913"
     },
     {
       "gazette_notice_no": "15914",
@@ -14310,7 +14557,9 @@
       "confidence_reasons": [
         "spatial: 12 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15914"
     },
     {
       "gazette_notice_no": "15915",
@@ -14414,7 +14663,9 @@
       },
       "confidence_reasons": [
         "spatial: 15 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15915"
     },
     {
       "gazette_notice_no": "15916",
@@ -14518,7 +14769,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15916"
     },
     {
       "gazette_notice_no": "15917",
@@ -14633,7 +14886,9 @@
       "confidence_reasons": [
         "spatial: 10 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (25/238 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15917"
     },
     {
       "gazette_notice_no": "15918",
@@ -14735,7 +14990,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15918"
     },
     {
       "gazette_notice_no": "15919",
@@ -14830,7 +15087,9 @@
       "confidence_reasons": [
         "spatial: 9 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15919"
     },
     {
       "gazette_notice_no": "15920",
@@ -14934,7 +15193,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15920"
     },
     {
       "gazette_notice_no": "15921",
@@ -15038,7 +15299,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15921"
     },
     {
       "gazette_notice_no": "15922",
@@ -15140,7 +15403,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15922"
     },
     {
       "gazette_notice_no": "15923",
@@ -15244,7 +15509,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15923"
     },
     {
       "gazette_notice_no": "15924",
@@ -15328,7 +15595,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15924"
     },
     {
       "gazette_notice_no": "15925",
@@ -15430,7 +15699,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15925"
     },
     {
       "gazette_notice_no": "15926",
@@ -15657,7 +15928,9 @@
       "confidence_reasons": [
         "spatial: 10 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.15 (37/245 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15926"
     },
     {
       "gazette_notice_no": "15927",
@@ -15818,7 +16091,9 @@
         "spatial: 58 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.16 (151/925 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15927"
     },
     {
       "gazette_notice_no": "15928",
@@ -16042,7 +16317,9 @@
       "confidence_reasons": [
         "spatial: 85 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (153/1402 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15928"
     },
     {
       "gazette_notice_no": "15929",
@@ -16135,7 +16412,9 @@
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.31 (65/208 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15929"
     },
     {
       "gazette_notice_no": "15930",
@@ -16309,7 +16588,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.20 (36/183 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15930"
     },
     {
       "gazette_notice_no": "15931",
@@ -16600,7 +16881,9 @@
         "spatial: 12 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.36 (243/672 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15931"
     },
     {
       "gazette_notice_no": "15932",
@@ -16734,7 +17017,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.14 (21/152 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15932"
     },
     {
       "gazette_notice_no": "15933",
@@ -16848,7 +17133,9 @@
       },
       "confidence_reasons": [
         "spatial: 8 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15933"
     },
     {
       "gazette_notice_no": "15934",
@@ -16962,7 +17249,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.20 (29/148 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15934"
     },
     {
       "gazette_notice_no": "15935",
@@ -17096,7 +17385,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.20 (34/170 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15935"
     },
     {
       "gazette_notice_no": "15936",
@@ -17220,7 +17511,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.36 (54/149 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15936"
     },
     {
       "gazette_notice_no": "15937",
@@ -17364,7 +17657,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15937"
     },
     {
       "gazette_notice_no": "15938",
@@ -18007,7 +18302,9 @@
         "spatial: 51 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.57 (695/1222 words)",
         "boundary: gap of 77 lines to next notice -- possible missing content"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15938"
     },
     {
       "gazette_notice_no": "15940",
@@ -19332,7 +19629,9 @@
         "spatial: 3 mid-sentence breaks (possible column interleaving)",
         "spatial: 129 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15940"
     },
     {
       "gazette_notice_no": "15941",
@@ -19747,7 +20046,9 @@
       "confidence_reasons": [
         "spatial: 15 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.14 (69/477 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15941"
     },
     {
       "gazette_notice_no": "15942",
@@ -19881,7 +20182,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15942"
     },
     {
       "gazette_notice_no": "15943",
@@ -20056,7 +20359,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.29 (66/228 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15943"
     },
     {
       "gazette_notice_no": "15944",
@@ -20230,7 +20535,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.21 (53/253 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15944"
     },
     {
       "gazette_notice_no": "15945",
@@ -20474,7 +20781,9 @@
       },
       "confidence_reasons": [
         "spatial: 6 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15945"
     },
     {
       "gazette_notice_no": "15946",
@@ -20617,7 +20926,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15946"
     },
     {
       "gazette_notice_no": "15947",
@@ -20812,7 +21123,9 @@
       "confidence_reasons": [
         "spatial: 5 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15947"
     },
     {
       "gazette_notice_no": "15948",
@@ -21726,7 +22039,9 @@
       },
       "confidence_reasons": [
         "spatial: 5 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15948"
     },
     {
       "gazette_notice_no": "15949",
@@ -22321,7 +22636,9 @@
       "confidence_reasons": [
         "spatial: 9 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (66/593 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15949"
     },
     {
       "gazette_notice_no": "15950",
@@ -23335,7 +23652,9 @@
       },
       "confidence_reasons": [
         "spatial: 22 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15950"
     },
     {
       "gazette_notice_no": "15951",
@@ -24545,9 +24864,7 @@
         "structure": 0.9,
         "spatial": 0.3,
         "boundary": 0.85,
-        "composite": 0.77,
-        "llm_semantic": 0.75,
-        "composite_enhanced": 0.762
+        "composite": 0.77
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
@@ -24555,19 +24872,8 @@
         "spatial: 52 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
       ],
-      "llm_validation": {
-        "coherence_score": 0.8,
-        "completeness_score": 0.5,
-        "single_notice_score": 1.0,
-        "legal_structure_score": 0.7,
-        "issues": [
-          "Text appears truncated at the end.",
-          "Some sections lack clear transitions, affecting flow.",
-          "Missing closing date and signature."
-        ],
-        "needs_human_review": true
-      },
-      "needs_human_review": true
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15951"
     },
     {
       "gazette_notice_no": "15952",
@@ -25521,9 +25827,7 @@
         "structure": 0.9,
         "spatial": 0.2,
         "boundary": 0.85,
-        "composite": 0.745,
-        "llm_semantic": 0.65,
-        "composite_enhanced": 0.707
+        "composite": 0.745
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
@@ -25531,19 +25835,8 @@
         "spatial: 64 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
       ],
-      "llm_validation": {
-        "coherence_score": 0.7,
-        "completeness_score": 0.5,
-        "single_notice_score": 0.8,
-        "legal_structure_score": 0.6,
-        "issues": [
-          "Text appears scrambled in the mitigation options section.",
-          "Notice is truncated and does not end with a date and signature.",
-          "Some sections lack clear transitions, affecting coherence."
-        ],
-        "needs_human_review": true
-      },
-      "needs_human_review": true
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15952"
     },
     {
       "gazette_notice_no": "15953",
@@ -25657,7 +25950,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15953"
     },
     {
       "gazette_notice_no": "15954",
@@ -25781,7 +26076,9 @@
       },
       "confidence_reasons": [
         "spatial: 6 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15954"
     },
     {
       "gazette_notice_no": "15955",
@@ -25896,7 +26193,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15955"
     },
     {
       "gazette_notice_no": "15956",
@@ -26001,7 +26300,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15956"
     },
     {
       "gazette_notice_no": "15957",
@@ -26126,7 +26427,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15957"
     },
     {
       "gazette_notice_no": "15958",
@@ -26231,7 +26534,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15958"
     },
     {
       "gazette_notice_no": "15959",
@@ -26346,7 +26651,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15959"
     },
     {
       "gazette_notice_no": "15960",
@@ -26490,7 +26797,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15960"
     },
     {
       "gazette_notice_no": "15961",
@@ -26594,7 +26903,9 @@
       },
       "confidence_reasons": [
         "structure: only one structural marker present"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15961"
     },
     {
       "gazette_notice_no": "15962",
@@ -26718,7 +27029,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.27 (37/136 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15962"
     },
     {
       "gazette_notice_no": "15963",
@@ -26832,7 +27145,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15963"
     },
     {
       "gazette_notice_no": "15964",
@@ -26966,7 +27281,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15964"
     },
     {
       "gazette_notice_no": "15965",
@@ -27060,7 +27377,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15965"
     },
     {
       "gazette_notice_no": "15966",
@@ -27144,7 +27463,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15966"
     },
     {
       "gazette_notice_no": "15967",
@@ -27246,7 +27567,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15967"
     },
     {
       "gazette_notice_no": "15968",
@@ -27348,7 +27671,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15968"
     },
     {
       "gazette_notice_no": "15969",
@@ -27460,7 +27785,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15969"
     },
     {
       "gazette_notice_no": "15970",
@@ -27592,7 +27919,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15970"
     },
     {
       "gazette_notice_no": "15971",
@@ -27686,7 +28015,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15971"
     },
     {
       "gazette_notice_no": "15972",
@@ -27762,7 +28093,9 @@
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.20 (28/142 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15972"
     },
     {
       "gazette_notice_no": "15973",
@@ -27847,7 +28180,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.17 (24/138 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15973"
     },
     {
       "gazette_notice_no": "15974",
@@ -27923,7 +28258,9 @@
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.15 (21/137 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15974"
     },
     {
       "gazette_notice_no": "15975",
@@ -28017,7 +28354,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15975"
     },
     {
       "gazette_notice_no": "15976",
@@ -28093,7 +28432,9 @@
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.16 (23/141 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15976"
     },
     {
       "gazette_notice_no": "15977",
@@ -28179,7 +28520,9 @@
         "structure: only one structural marker present",
         "spatial: 3 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.20 (31/157 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15977"
     },
     {
       "gazette_notice_no": "15978",
@@ -28253,7 +28596,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15978"
     },
     {
       "gazette_notice_no": "15979",
@@ -28337,7 +28682,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15979"
     },
     {
       "gazette_notice_no": "15980",
@@ -28421,7 +28768,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15980"
     },
     {
       "gazette_notice_no": "15981",
@@ -28496,7 +28845,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15981"
     },
     {
       "gazette_notice_no": "15982",
@@ -28550,7 +28901,9 @@
       },
       "confidence_reasons": [
         "structure: only one structural marker present"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15982"
     },
     {
       "gazette_notice_no": "15983",
@@ -28634,7 +28987,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15983"
     },
     {
       "gazette_notice_no": "15984",
@@ -28709,7 +29064,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15984"
     },
     {
       "gazette_notice_no": "15985",
@@ -28803,7 +29160,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15985"
     },
     {
       "gazette_notice_no": "15986",
@@ -28879,7 +29238,9 @@
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.18 (26/144 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15986"
     },
     {
       "gazette_notice_no": "15987",
@@ -28963,7 +29324,9 @@
       },
       "confidence_reasons": [
         "structure: only one structural marker present"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15987"
     },
     {
       "gazette_notice_no": "15988",
@@ -29048,7 +29411,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15988"
     },
     {
       "gazette_notice_no": "15989",
@@ -29122,7 +29487,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15989"
     },
     {
       "gazette_notice_no": "15990",
@@ -29207,7 +29574,9 @@
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.16 (24/148 words)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15990"
     },
     {
       "gazette_notice_no": "15991",
@@ -29283,7 +29652,9 @@
         "structure: only one structural marker present",
         "spatial: 4 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15991"
     },
     {
       "gazette_notice_no": "15992",
@@ -29358,7 +29729,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15992"
     },
     {
       "gazette_notice_no": "15993",
@@ -29443,7 +29816,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "spatial: high mid-sentence cap density 0.16 (22/134 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15993"
     },
     {
       "gazette_notice_no": "15994",
@@ -29533,7 +29908,9 @@
         "structure: only one structural marker present",
         "spatial: 3 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15994"
     }
   ]
 }
