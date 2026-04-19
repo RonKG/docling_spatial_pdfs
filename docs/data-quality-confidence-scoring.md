@@ -215,23 +215,81 @@ Next: "A. I. HASSAN,"
 
 ---
 
+## Implemented JSON Surface
+
+Every notice now carries these additive fields:
+
+```json
+"confidence_scores": {
+  "notice_number": 0.0,
+  "structure": 0.0,
+  "spatial": 0.0,
+  "boundary": 0.0,
+  "table": 0.0,
+  "composite": 0.0,
+  "composite_enhanced": 0.0
+},
+"confidence_reasons": ["<prefix>: <short reason>", ...],
+"provenance": {
+  "header_match": "strict | recovered | inferred | none",
+  "line_span": [start_line, end_line],
+  "raw_header_line": "the original line that matched",
+  "stitched_from": [<notice_no>, ...]
+}
+```
+
+Every PDF's top-level record carries:
+
+```json
+"document_confidence": {
+  "layout": 0.0,
+  "ocr_quality": 0.0,
+  "notice_split": 0.0,
+  "composite": 0.0,
+  "mean_composite": 0.0,
+  "min_composite": 0.0,
+  "counts": {"high": 0, "medium": 0, "low": 0},
+  "n_notices": 0,
+  "ocr_reasons": [...]
+},
+"layout_info": {
+  "layout_confidence": 0.0,
+  "n_pages": 0,
+  "pages": [{"page_no": 1, "mode": "two_col|one_col|full_width|hybrid", "bands": [...]}]
+}
+```
+
 ## Composite Confidence Score
 
-**Overall confidence** combines the four dimensions using weighted average:
+**Overall confidence** combines the dimensions using weighted average:
 
 ```
-composite_confidence = 
-  (notice_no_confidence × 0.30) +
-  (structure_confidence × 0.25) +
-  (spatial_confidence × 0.25) +
-  (boundary_confidence × 0.20)
+base = notice_number × 0.30 + structure × 0.25 + spatial × 0.25 + boundary × 0.20
+
+If a derived_table is present:
+    composite = base × 0.85 + table × 0.15
+Else:
+    composite = base
 ```
+
+`table` is folded in only when a notice produced a `derived_table`, so notices without tables are not unfairly penalized.
 
 **Weight rationale:**
 - **Notice number (30%):** Most critical for notice identification and downstream processing
 - **Structure (25%):** Indicates completeness and usability of extracted content
 - **Spatial (25%):** Affects readability and text quality for human review or NLP
 - **Boundary (20%):** Important but some legitimate edge cases (multi-page notices, corrigenda)
+- **Table (15%, conditional):** Rewards clean structured-table recovery; only applied when `derived_table` exists
+
+### Table Confidence Signals
+
+`score_table(derived_table)` is 1.0 with no deductions when no table is present. When a `derived_table` exists:
+
+- **HIGH (0.8-1.0):** Rows are sequentially numbered, name/position cell lengths are consistent, and no `repairs` were needed.
+- **MEDIUM (0.5-0.7):** Some merged-row repairs applied (e.g. `625 626` split into two rows), or minor serial-number jumps.
+- **LOW (0.0-0.4):** Many repairs, many non-sequential jumps, or cells with dramatically different lengths suggesting unrepaired merges.
+
+**Optional LLM enhancement:** For notices scoring below 0.7, an LLM semantic check (see Option 4) can provide a fifth dimension (`llm_semantic`) that catches coherence/completeness issues invisible to rule-based scoring. The enhanced composite blends rule-based and LLM scores.
 
 **Confidence score ranges:**
 - **0.80-1.00:** High confidence -- likely correct, low priority for manual review
@@ -318,29 +376,135 @@ Build HTML report generator that:
 
 ---
 
+### Option 4: LLM-Enhanced Validation (Recommended Hybrid)
+
+Use a lightweight LLM (GPT-4o-mini, Claude Haiku, Gemini Flash) as a second-pass validator for notices that score below a threshold (e.g., composite < 0.7). The LLM can detect semantic issues that rule-based heuristics miss.
+
+**What LLM validation catches:**
+- **Scrambled text** — "The Commission hereby notifies conferred by section 38 the voters" (column merge error)
+- **Merged notices** — Body text suddenly switches topic mid-paragraph
+- **Truncated content** — Notice ends abruptly without signature/date
+- **OCR garbage** — Strings of non-words or garbled characters
+- **Legal incoherence** — "IN EXERCISE of powers... IT IS NOTIFIED that the following have been appointed" but no list follows
+
+**Suggested prompt structure:**
+
+```
+You are validating an extracted Kenya Gazette notice. Check for:
+1. Text coherence — Does the text flow naturally or appear scrambled?
+2. Completeness — Does the notice have a proper ending (date, signature)?
+3. Single notice — Does this appear to be one notice or multiple merged?
+4. Legal structure — Does it follow gazette notice patterns (preamble, body, closing)?
+
+Notice:
+---
+{gazette_notice_full_text}
+---
+
+Respond with JSON:
+{
+  "coherence_score": 0.0-1.0,
+  "completeness_score": 0.0-1.0,
+  "single_notice_score": 0.0-1.0,
+  "legal_structure_score": 0.0-1.0,
+  "issues": ["list of specific problems found"],
+  "needs_human_review": true/false
+}
+```
+
+**Cost-efficient workflow:**
+
+1. Run rule-based scoring on all notices (free, fast)
+2. Filter to notices with `composite_confidence < 0.7` (~10-20% typically)
+3. Send only those to LLM for semantic validation (~$0.001-0.003 per notice with GPT-4o-mini)
+4. Merge LLM scores into final confidence; flag `needs_human_review` for manual queue
+
+**Integration code sketch:**
+
+```python
+import openai  # or anthropic, google.generativeai
+
+def llm_validate_notice(notice: dict, model: str = "gpt-4o-mini") -> dict:
+    prompt = f"""You are validating an extracted Kenya Gazette notice...
+    
+Notice:
+---
+{notice["gazette_notice_full_text"][:4000]}  # truncate for token limits
+---
+
+Respond with JSON only."""
+
+    response = openai.chat.completions.create(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+        response_format={"type": "json_object"},
+        max_tokens=200,
+    )
+    return json.loads(response.choices[0].message.content)
+
+
+def enhance_confidence_with_llm(notices: list[dict], threshold: float = 0.7) -> list[dict]:
+    for notice in notices:
+        if notice["confidence_scores"]["composite"] < threshold:
+            llm_result = llm_validate_notice(notice)
+            notice["llm_validation"] = llm_result
+            # Blend LLM scores into composite
+            llm_avg = sum([
+                llm_result["coherence_score"],
+                llm_result["completeness_score"],
+                llm_result["single_notice_score"],
+                llm_result["legal_structure_score"],
+            ]) / 4
+            notice["confidence_scores"]["llm_semantic"] = llm_avg
+            notice["confidence_scores"]["composite_enhanced"] = (
+                notice["confidence_scores"]["composite"] * 0.6 + llm_avg * 0.4
+            )
+    return notices
+```
+
+**Pros:** Catches semantic errors invisible to regex. Low cost when filtered to low-confidence subset. Can explain *why* a notice is problematic.
+
+**Cons:** Requires API key and network. Adds latency. LLM may hallucinate issues on valid notices (mitigate with temperature=0).
+
+**Model recommendations:**
+- **GPT-4o-mini** — Best balance of cost/quality for structured validation (~$0.15/1M input tokens)
+- **Claude 3.5 Haiku** — Fast, good at following JSON schema (~$0.25/1M input)
+- **Gemini 1.5 Flash** — Cheapest for high volume (~$0.075/1M input)
+
+---
+
 ## Validation and Tuning
 
-To validate confidence scores correlate with actual errors:
+Two complementary tools live at the bottom of `gazette_docling_pipeline_spatial.ipynb` (the "Calibration and regression" section). They answer different questions and run on different cadences.
 
-1. **Sample validation:** Manually review 50-100 notices spanning confidence ranges 0.0-1.0
-2. **Error correlation:** Check if low-confidence notices actually have errors
-3. **False positive rate:** Check if high-confidence notices are indeed correct
-4. **Threshold tuning:** Adjust confidence thresholds and dimension weights based on findings
-5. **Pattern refinement:** Add new signal patterns discovered during manual review
+### Calibration -- "do I trust the scores?"
 
-**Suggested validation process:**
+Use after every meaningful change to the scoring rules (new heuristic, changed weight, new regex). It tells you, per band, how often a "high confidence" label is actually correct and how often a "low confidence" label is actually wrong. Requires a human to read notices.
 
-```
-1. Run confidence scoring on existing output
-2. Extract 20 notices each from:
-   - confidence 0.0-0.3 (expect high error rate)
-   - confidence 0.3-0.5 (expect medium error rate)
-   - confidence 0.5-0.7 (expect low error rate)
-   - confidence 0.7-1.0 (expect very low error rate)
-3. Manually review each notice for actual errors
-4. Calculate precision/recall for each confidence band
-5. Adjust weights and thresholds to optimize for workflow
-```
+| Step | Who | Action |
+| --- | --- | --- |
+| 1. Generate sample | code | `sample_for_calibration()` walks `output/`, buckets every scored notice into bands (`high` >= 0.80, `medium` >= 0.50, `low` < 0.50), and draws up to 20 per band into `tests/calibration_sample.yaml`. Reproducible via `seed=42`. |
+| 2. Hand-label | **you** | Open the YAML file. For each entry, find the notice in `output/<pdf>/<pdf>_spatial_markdown.md` (or the JSON), read it, and set `is_correct: true` or `is_correct: false`. Skip entries you cannot judge -- leave `null`. Even ~30 labels gives meaningful numbers. |
+| 3. Score it | code | `score_calibration()` parses the YAML, prints a per-band table (n, correct, wrong, precision), and emits two specific warnings: high-band precision below 85% (scorer too generous) or low-band precision above 30% (scorer too strict). |
+| 4. Decide | **you** | If a warning fires, edit weights in cell 6 (`composite_confidence` and the individual `score_*` functions), re-process the canonical PDFs, re-generate the sample, re-label, re-score. Iterate until precision stabilises. |
+
+Notes:
+
+- `sample_for_calibration()` **overwrites** the YAML on each call. The notebook keeps the call commented out so a top-to-bottom run does not erase your labels.
+- The minimal YAML parser (`_parse_calibration_yaml`) only understands the shape `sample_for_calibration` writes -- no need for PyYAML. Keep edits to the existing fields.
+
+### Regression -- "did I just break the scores?"
+
+Use after every code change that touches scoring, splitting, OCR, or layout. It is a 30-second sanity check, no human labelling involved.
+
+| Step | Who | Action |
+| --- | --- | --- |
+| 1. Capture baseline | **you**, once, when scores look good | Re-process the canonical PDFs through the pipeline, then run `update_regression_fixture()`. Writes `tests/expected_confidence.json` with mean composite, min composite, layout, OCR quality, and notice count for each canonical PDF. Re-run only when you intentionally accept a new baseline. |
+| 2. Make a code change | **you** | Tune a regex, change a weight, fix a bug. Re-process the canonical PDFs so their JSON outputs reflect the new code. |
+| 3. Compare | code | `check_regression()` recomputes mean composite per canonical PDF and prints `OK` or `REGRESSION` lines. Returns `True` if every PDF is within `tolerance` (default 0.05 = 5 percentage points), `False` otherwise -- handy if you wire it into CI. |
+| 4. React | **you** | All `OK` -> ship. Any `REGRESSION` -> open the offending PDF's JSON, find notices whose composite dropped, read their `confidence_reasons` for clues. Fix or revert. |
+
+The canonical PDF list is defined in cell 24 as `CANONICAL_PDFS` -- a deliberately small set chosen to cover clean, dense, table-heavy, and pre-2010 OCR cases. Add to the list to extend coverage; remove only if a PDF stops being representative.
 
 ---
 
@@ -360,14 +524,17 @@ To validate confidence scores correlate with actual errors:
 
 ## Next Steps
 
-- [ ] Decide on implementation strategy (Option 1, 2, or 3)
-- [ ] Implement confidence scoring functions with test cases
-- [ ] Run on sample of existing output (10-20 PDFs)
-- [ ] Perform manual validation on confidence score accuracy
-- [ ] Tune weights and thresholds based on validation findings
-- [x] ~~Document special cases (corrigenda, tables, multi-page)~~ — Corrigenda false positives addressed via strict header regex; table recovery added via `derived_table`
-- [ ] Integrate into production pipeline
-- [ ] Create review workflow for low-confidence notices
+- [x] ~~Decide on implementation strategy~~ — Option 1 (pipeline integration) + Option 4 (LLM second pass) implemented in `gazette_docling_pipeline_spatial.ipynb`.
+- [x] ~~Implement rule-based confidence scoring functions~~ — `score_notice_number`, `score_structure`, `score_spatial`, `score_boundary`, `score_table`, `composite_confidence`.
+- [x] ~~Integrate into production pipeline~~ — `GazettePipeline.process_pdf` calls `score_notices` and `compute_document_confidence`.
+- [x] ~~Document special cases (corrigenda, tables, multi-page)~~ — Corrigenda false positives addressed via strict header regex; table recovery added via `derived_table`; multi-page stitching post-process (`_stitch_multipage_notices`).
+- [x] ~~Prototype LLM validation on low-confidence notices~~ — `llm_validate_notice` and `enhance_with_llm` with on-disk cache under `.llm_cache/`, gated by `ENABLE_LLM_VALIDATION` flag.
+- [x] ~~Build calibration tooling~~ -- `sample_for_calibration()` and `score_calibration()` implemented; sample stub at `tests/calibration_sample.yaml`.
+- [ ] Hand-label the existing calibration sample and run `score_calibration()` to tune weights based on per-band precision.
+- [x] ~~Build regression tooling~~ -- `update_regression_fixture()` writes `tests/expected_confidence.json`; `check_regression()` compares current mean composite against baseline.
+- [ ] Capture an accepted regression baseline once scoring is stable, then wire `check_regression()` into CI.
+- [ ] Benchmark LLM accuracy vs manual review on 50-notice sample.
+- [ ] Evaluate cost/latency tradeoffs for GPT-4o-mini vs Haiku vs Flash.
 
 ---
 

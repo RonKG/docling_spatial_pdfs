@@ -1,0 +1,522 @@
+pdf,notice_no,composite,notice_number,structure,spatial,boundary,table,header_match,reasons
+Kenya Gazette Vol CXINo 103,13459,0.745,1.0,0.1,1.0,0.85,,strict,"structure: body short (70 chars) | structure: only header/no body content | structure: no legal marker, date, or signature found | boundary: text does not end with terminal punctuation"
+Kenya Gazette Vol CXINo 103,13460,0.745,1.0,0.1,1.0,0.85,,strict,"structure: body short (70 chars) | structure: only header/no body content | structure: no legal marker, date, or signature found | boundary: text does not end with terminal punctuation"
+Kenya Gazette Vol CXXIVNo 282,15952,0.745,1.0,0.9,0.2,0.85,,strict,structure: only one structural marker present | spatial: 5 mid-sentence breaks (possible column interleaving) | spatial: 64 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13458,0.75,1.0,0.6,1.0,0.25,,recovered,structure: only header/no body content | boundary: header recovered from noisy line (capped at 0.6) | boundary: span is very short | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13159,0.76,1.0,1.0,0.2,0.8,,strict,spatial: 20 mid-sentence breaks (possible column interleaving) | spatial: 49 repeated 6-grams (possible column merge) | boundary: gap of 113 lines to next notice -- possible missing content
+Kenya Gazette Vol CXXIVNo 282,15951,0.77,1.0,0.9,0.3,0.85,,strict,structure: only one structural marker present | spatial: 4 mid-sentence breaks (possible column interleaving) | spatial: 52 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15940,0.82,1.0,1.0,0.4,0.85,,strict,spatial: 3 mid-sentence breaks (possible column interleaving) | spatial: 129 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15938,0.848,1.0,1.0,0.55,0.8,,strict,spatial: 51 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.57 (695/1222 words) | boundary: gap of 77 lines to next notice -- possible missing content
+Kenya Gazette Vol CXXIVNo 282,15931,0.858,1.0,1.0,0.55,0.85,,strict,spatial: 12 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.36 (243/672 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15927,0.875,1.0,1.0,0.618,0.85,,strict,spatial: 58 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.16 (151/925 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13182,0.887,1.0,1.0,0.55,1.0,,strict,spatial: 17 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.39 (89/226 words)
+Kenya Gazette Vol CXXIVNo 282,15914,0.895,1.0,1.0,0.7,0.85,,strict,spatial: 12 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15919,0.895,1.0,1.0,0.7,0.85,,strict,spatial: 9 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15991,0.895,1.0,0.9,0.8,0.85,,strict,structure: only one structural marker present | spatial: 4 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15801,0.905,1.0,1.0,0.621,1.0,,strict,spatial: 7 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.16 (23/146 words)
+Kenya Gazette Vol CXINo 103,13487,0.906,1.0,1.0,0.624,1.0,,strict,spatial: 10 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.15 (24/158 words)
+Kenya Gazette Vol CXXIVNo 282,15926,0.906,1.0,1.0,0.624,1.0,,strict,spatial: 10 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.15 (37/245 words)
+Kenya Gazette Vol CXINo 103,13179,0.907,1.0,1.0,0.627,1.0,,strict,spatial: 9 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.15 (29/198 words)
+Kenya Gazette Vol CXXIVNo 282,15941,0.907,1.0,1.0,0.628,1.0,,strict,spatial: 15 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.14 (69/477 words)
+Kenya Gazette Vol CXXIVNo 282,15901,0.908,1.0,1.0,0.75,0.85,,strict,spatial: 5 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15947,0.908,1.0,1.0,0.75,0.85,,strict,spatial: 5 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13453,0.909,1.0,1.0,0.637,1.0,,strict,spatial: 9 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.13 (36/285 words)
+Kenya Gazette Vol CXINo 103,13446,0.91,1.0,1.0,0.64,1.0,,strict,spatial: 7 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.12 (25/209 words)
+Kenya Gazette Vol CXINo 103,13267,0.911,1.0,1.0,0.646,1.0,,strict,spatial: 17 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (46/426 words)
+Kenya Gazette Vol CXINo 103,13444,0.911,1.0,1.0,0.646,1.0,,strict,spatial: 12 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (28/259 words)
+Kenya Gazette Vol CXINo 103,13445,0.911,1.0,1.0,0.643,1.0,,strict,spatial: 8 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (27/238 words)
+Kenya Gazette Vol CXXIVNo 282,15803,0.911,1.0,1.0,0.645,1.0,,strict,spatial: 102 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (241/2202 words)
+Kenya Gazette Vol CXXIVNo 282,15928,0.911,1.0,1.0,0.645,1.0,,strict,spatial: 85 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (153/1402 words)
+Kenya Gazette Vol CXXIVNo 282,15949,0.911,1.0,1.0,0.644,1.0,,strict,spatial: 9 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (66/593 words)
+Kenya Gazette Vol CXINo 103,13265,0.912,1.0,1.0,0.648,1.0,,strict,spatial: 18 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.10 (35/335 words)
+Kenya Gazette Vol CXXIVNo 282,15917,0.912,1.0,1.0,0.647,1.0,,strict,spatial: 10 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.11 (25/238 words)
+Kenya Gazette Vol CXXIVNo 282,15977,0.913,1.0,0.9,0.751,1.0,,strict,structure: only one structural marker present | spatial: 3 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.20 (31/157 words)
+Kenya Gazette Vol CXXIVNo 282,15795,0.92,1.0,1.0,0.8,0.85,,strict,spatial: 4 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15804,0.92,1.0,1.0,0.8,0.85,,strict,spatial: 4 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15911,0.92,1.0,1.0,0.8,0.85,,strict,spatial: 4 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15972,0.92,1.0,0.9,0.901,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.20 (28/142 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15988,0.92,1.0,1.0,0.8,0.85,,strict,spatial: 4 repeated 6-grams (possible column merge) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15986,0.923,1.0,0.9,0.91,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.18 (26/144 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13261,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13266,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 17 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13269,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 18 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13270,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 7 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13272,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 30 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13443,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 11 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13455,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 16 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13156,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 9 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13157,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 13 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13158,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 12 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13461,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 48 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13480,0.925,1.0,0.9,0.8,1.0,,strict,structure: only one structural marker present | spatial: 4 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13493,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 36 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15802,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 19 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15910,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15913,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15915,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 15 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15933,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 8 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15945,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15950,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 22 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15954,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 6 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15976,0.925,1.0,0.9,0.918,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.16 (23/141 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15994,0.925,1.0,1.0,0.7,1.0,,strict,spatial: 55 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13177,0.926,1.0,1.0,0.704,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.19 (21/109 words)
+Kenya Gazette Vol CXXIVNo 282,15974,0.926,1.0,0.9,0.923,0.85,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.15 (21/137 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13490,0.93,1.0,1.0,0.721,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.16 (22/139 words)
+Kenya Gazette Vol CXXIVNo 282,15929,0.933,1.0,1.0,0.85,0.85,,strict,spatial: high mid-sentence cap density 0.31 (65/208 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13451,0.936,1.0,1.0,0.743,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge) | spatial: high mid-sentence cap density 0.21 (23/107 words)
+Kenya Gazette Vol CXINo 103,13452,0.938,1.0,1.0,0.75,1.0,,strict,spatial: 5 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15902,0.938,1.0,1.0,0.75,1.0,,strict,spatial: 5 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15948,0.938,1.0,1.0,0.75,1.0,,strict,spatial: 5 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15808,0.94,1.0,1.0,0.88,0.85,,strict,spatial: high mid-sentence cap density 0.24 (30/125 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15810,0.945,1.0,1.0,0.898,0.85,,strict,spatial: high mid-sentence cap density 0.20 (25/122 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15955,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15956,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15957,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15958,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15959,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15981,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15984,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15992,0.945,1.0,0.9,1.0,0.85,,strict,structure: only one structural marker present | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15806,0.946,1.0,1.0,0.905,0.85,,strict,spatial: high mid-sentence cap density 0.19 (21/110 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXINo 103,13454,0.95,1.0,1.0,0.8,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13482,0.95,1.0,1.0,0.8,1.0,,strict,spatial: 4 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15990,0.95,1.0,1.0,0.919,0.85,,strict,spatial: high mid-sentence cap density 0.16 (24/148 words) | boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15973,0.953,1.0,0.9,0.913,1.0,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.17 (24/138 words)
+Kenya Gazette Vol CXXIVNo 282,15993,0.955,1.0,0.9,0.918,1.0,,strict,structure: only one structural marker present | spatial: high mid-sentence cap density 0.16 (22/134 words)
+Kenya Gazette Vol CXINo 103,13178,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13189,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXINo 103,13450,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15936,0.963,1.0,1.0,0.85,1.0,,strict,spatial: high mid-sentence cap density 0.36 (54/149 words)
+Kenya Gazette Vol CXXIVNo 282,15937,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15964,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15985,0.963,1.0,1.0,0.85,1.0,,strict,spatial: 3 repeated 6-grams (possible column merge)
+Kenya Gazette Vol CXXIVNo 282,15943,0.964,1.0,1.0,0.855,1.0,,strict,spatial: high mid-sentence cap density 0.29 (66/228 words)
+Kenya Gazette Vol CXXIVNo 282,15962,0.966,1.0,1.0,0.864,1.0,,strict,spatial: high mid-sentence cap density 0.27 (37/136 words)
+Kenya Gazette Vol CXINo 103,13330,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15797,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15799,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15812,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15813,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15814,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15816,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15817,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15822,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15823,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15824,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15835,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15839,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15845,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15846,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15850,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15856,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15858,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15862,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15872,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15878,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15882,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15888,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15891,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15892,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15898,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15899,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15904,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15908,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15916,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15920,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15921,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15923,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15924,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15953,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15960,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15963,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15965,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15966,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15971,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15975,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15978,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15979,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15980,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15983,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15989,0.97,1.0,1.0,1.0,0.85,,strict,boundary: text does not end with terminal punctuation
+Kenya Gazette Vol CXXIVNo 282,15944,0.974,1.0,1.0,0.895,1.0,,strict,spatial: high mid-sentence cap density 0.21 (53/253 words)
+Kenya Gazette Vol CXINo 103,13479,0.975,1.0,0.9,1.0,1.0,,strict,structure: only one structural marker present
+Kenya Gazette Vol CXINo 103,13489,0.975,1.0,0.9,1.0,1.0,,strict,structure: only one structural marker present
+Kenya Gazette Vol CXXIVNo 282,15935,0.975,1.0,1.0,0.9,1.0,,strict,spatial: high mid-sentence cap density 0.20 (34/170 words)
+Kenya Gazette Vol CXXIVNo 282,15961,0.975,1.0,0.9,1.0,1.0,,strict,structure: only one structural marker present
+Kenya Gazette Vol CXXIVNo 282,15982,0.975,1.0,0.9,1.0,1.0,,strict,structure: only one structural marker present
+Kenya Gazette Vol CXXIVNo 282,15987,0.975,1.0,0.9,1.0,1.0,,strict,structure: only one structural marker present
+Kenya Gazette Vol CXXIVNo 282,15930,0.976,1.0,1.0,0.902,1.0,,strict,spatial: high mid-sentence cap density 0.20 (36/183 words)
+Kenya Gazette Vol CXXIVNo 282,15934,0.976,1.0,1.0,0.902,1.0,,strict,spatial: high mid-sentence cap density 0.20 (29/148 words)
+Kenya Gazette Vol CXINo 103,13176,0.978,1.0,1.0,0.913,1.0,,strict,spatial: high mid-sentence cap density 0.17 (22/127 words)
+Kenya Gazette Vol CXINo 103,13481,0.98,1.0,1.0,0.92,1.0,,strict,spatial: high mid-sentence cap density 0.16 (23/143 words)
+Kenya Gazette Vol CXINo 103,13485,0.98,1.0,1.0,0.918,1.0,,strict,spatial: high mid-sentence cap density 0.16 (23/140 words)
+Kenya Gazette Vol CXINo 103,13486,0.98,1.0,1.0,0.918,1.0,,strict,spatial: high mid-sentence cap density 0.16 (23/141 words)
+Kenya Gazette Vol CXXIVNo 282,15890,0.983,1.0,1.0,0.931,1.0,,strict,spatial: high mid-sentence cap density 0.14 (21/153 words)
+Kenya Gazette Vol CXXIVNo 282,15932,0.983,1.0,1.0,0.931,1.0,,strict,spatial: high mid-sentence cap density 0.14 (21/152 words)
+Kenya Gazette Vol CXINo 103,13447,0.986,1.0,1.0,0.944,1.0,,strict,spatial: high mid-sentence cap density 0.11 (24/215 words)
+Kenya Gazette Vol CXINo 103,13180,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13181,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13183,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13184,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13185,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13186,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13187,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13188,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13190,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13191,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13192,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13193,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13194,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13195,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13196,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13197,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13198,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13199,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13200,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13201,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13202,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13203,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13204,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13205,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13206,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13207,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13208,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13209,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13210,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13211,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13212,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13213,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13214,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13215,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13216,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13217,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13218,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13219,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13220,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13221,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13222,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13223,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13224,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13225,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13226,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13227,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13228,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13229,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13230,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13231,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13232,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13233,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13234,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13235,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13236,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13237,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13238,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13239,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13240,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13241,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13242,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13243,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13244,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13245,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13246,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13247,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13248,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13249,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13250,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13251,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13252,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13253,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13254,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13255,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13256,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13257,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13258,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13259,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13260,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13262,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13263,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13264,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13268,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13271,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13273,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13274,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13275,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13276,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13277,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13278,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13279,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13280,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13281,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13282,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13283,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13284,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13285,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13286,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13287,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13288,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13289,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13290,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13291,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13292,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13293,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13294,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13295,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13296,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13297,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13298,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13299,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13300,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13301,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13302,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13303,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13304,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13305,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13306,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13307,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13308,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13309,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13310,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13311,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13312,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13313,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13314,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13315,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13316,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13317,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13318,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13319,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13320,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13321,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13322,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13323,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13324,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13325,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13326,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13327,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13328,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13329,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13331,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13332,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13333,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13334,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13335,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13336,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13337,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13338,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13339,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13340,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13341,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13342,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13343,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13344,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13345,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13346,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13347,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13348,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13349,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13350,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13351,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13352,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13353,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13354,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13355,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13356,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13357,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13358,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13359,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13360,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13361,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13362,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13363,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13364,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13365,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13366,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13367,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13368,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13369,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13370,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13371,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13372,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13373,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13374,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13375,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13376,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13377,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13378,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13379,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13380,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13381,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13382,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13383,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13384,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13385,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13386,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13387,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13388,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13389,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13390,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13391,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13392,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13393,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13394,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13395,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13396,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13397,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13398,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13399,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13400,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13401,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13402,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13403,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13404,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13405,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13406,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13407,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13408,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13409,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13410,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13411,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13412,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13413,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13414,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13415,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13416,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13417,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13418,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13419,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13420,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13421,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13422,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13423,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13424,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13425,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13426,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13427,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13428,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13429,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13430,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13431,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13432,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13433,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13434,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13435,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13436,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13437,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13438,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13439,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13440,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13441,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13442,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13448,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13449,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13462,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13463,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13464,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13465,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13466,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13467,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13468,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13469,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13470,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13471,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13472,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13473,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13474,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13475,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13476,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13477,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13478,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13483,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13484,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13488,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13491,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXINo 103,13492,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15793,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15794,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15796,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15798,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15800,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15805,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15807,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15809,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15811,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15815,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15818,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15819,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15820,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15821,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15825,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15826,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15827,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15828,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15829,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15830,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15831,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15832,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15833,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15834,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15836,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15837,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15838,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15840,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15841,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15842,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15843,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15844,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15847,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15848,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15849,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15851,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15852,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15853,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15854,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15855,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15857,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15859,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15860,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15861,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15863,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15864,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15865,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15866,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15867,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15868,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15869,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15870,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15871,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15873,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15874,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15875,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15876,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15877,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15879,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15880,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15881,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15883,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15884,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15885,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15886,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15887,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15889,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15893,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15894,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15895,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15896,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15897,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15900,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15903,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15905,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15906,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15907,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15909,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15912,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15918,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15922,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15925,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15942,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15946,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15967,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15968,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15969,1.0,1.0,1.0,1.0,1.0,,strict,
+Kenya Gazette Vol CXXIVNo 282,15970,1.0,1.0,1.0,1.0,1.0,,strict,

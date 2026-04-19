@@ -4,8 +4,7 @@ THE KENYA
 
 Vol. CXI----No. 107
 
-GAZETTE NOTICE NO. 13809
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 13809</span>
 BUSINESS PROCESS OUTSOURCING /INFORMATION TECHNOLOGY SERVICES (BPO/ff ES) WORKING GROUP
 
 APPOINTMENT
