@@ -1,0 +1,12 @@
+{
+  "coherence_score": 0.7,
+  "completeness_score": 0.5,
+  "single_notice_score": 0.8,
+  "legal_structure_score": 0.6,
+  "issues": [
+    "Text appears scrambled in the mitigation options section.",
+    "Notice is truncated and does not end with a date and signature.",
+    "Some sections lack clear transitions, affecting coherence."
+  ],
+  "needs_human_review": true
+}

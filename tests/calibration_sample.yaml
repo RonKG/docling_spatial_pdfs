@@ -1,0 +1,185 @@
+# Calibration sample for confidence scoring.
+# For each entry, set is_correct to true or false after manual review.
+# Then run score_calibration() to compute precision/recall per band.
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13290"
+  header: "GAZETTE NOTICE NO. 13290"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13201"
+  header: "GAZETTE NOTICE NO. 13201"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13157"
+  header: "GAZETTE NOTICE NO. 13157"
+  composite: 0.925
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13426"
+  header: "GAZETTE NOTICE NO. 13426"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13404"
+  header: "GAZETTE NOTICE NO. 13404"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13318"
+  header: "GAZETTE NOTICE NO. 13318"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13280"
+  header: "GAZETTE NOTICE NO. 13280"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13265"
+  header: "GAZETTE NOTICE NO. 13265"
+  composite: 0.912
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXXIVNo 282"
+  notice_no: "15909"
+  header: "GAZETTE NOTICE NO. 15909"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13208"
+  header: "GAZETTE NOTICE NO. 13208"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13206"
+  header: "GAZETTE NOTICE NO. 13206"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13271"
+  header: "GAZETTE NOTICE NO. 13271"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13399"
+  header: "GAZETTE NOTICE NO. 13399"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13414"
+  header: "GAZETTE NOTICE NO. 13414"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13203"
+  header: "GAZETTE NOTICE NO. 13203"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13379"
+  header: "GAZETTE NOTICE NO. 13379"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXXIVNo 282"
+  notice_no: "15906"
+  header: "GAZETTE NOTICE NO. 15906"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13401"
+  header: "GAZETTE NOTICE NO. 13401"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXXIVNo 282"
+  notice_no: "15936"
+  header: "GAZETTE NOTICE NO. 15936"
+  composite: 0.963
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13462"
+  header: "GAZETTE NOTICE NO. 13462"
+  composite: 1.0
+  band: high
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13159"
+  header: "GAZETTE NOTICE NO. 13159"
+  composite: 0.76
+  band: medium
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13458"
+  header: "GAZETTE NOTICE NO. 13458"
+  composite: 0.75
+  band: medium
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13460"
+  header: "GAZETTE NOTICE NO. 13460"
+  composite: 0.745
+  band: medium
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXXIVNo 282"
+  notice_no: "15951"
+  header: "GAZETTE NOTICE NO. 15951"
+  composite: 0.77
+  band: medium
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXINo 103"
+  notice_no: "13459"
+  header: "GAZETTE NOTICE NO. 13459"
+  composite: 0.745
+  band: medium
+  is_correct: null  # true | false
+
+- pdf: "Kenya Gazette Vol CXXIVNo 282"
+  notice_no: "15952"
+  header: "GAZETTE NOTICE NO. 15952"
+  composite: 0.745
+  band: medium
+  is_correct: null  # true | false

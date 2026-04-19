@@ -1,0 +1,40 @@
+---
+description: Explain technical ideas in plain language; add short glossaries and visuals when they help
+alwaysApply: true
+---
+
+# Communication: clear, technical, and accessible
+
+Assume the reader is **smart but may be new to this domain** or to specific jargon (PDF layout, Docling, gazette structure, NLP, etc.). The goal is **understanding**, not sounding impressive.
+
+## Tone and vocabulary
+
+- Use **plain English first**, then precision: lead with what something *does* or *means*, then name the technical term.
+- When you use a **technical term, acronym, or domain-specific label**, add a **one-line explanation** the first time it matters in that reply (or a tiny “terms” bullet list if several appear at once).
+- Prefer **short sentences** and **numbered steps** for procedures; use bullets for options and tradeoffs.
+- **Do not** talk down or over-explain obvious UI actions; **do** explain concepts that are easy to misread across PDF, ML, or legal-publishing contexts.
+
+## Technical depth
+
+- **Default**: correct, concrete technical content (names of tools, formats, failure modes)—just **gloss** unfamiliar pieces.
+- If there are **multiple audiences** (quick answer vs deep dive), put the short answer up front and optional detail in a **collapsed section or later subsection**—do not bury the main point.
+- When comparing approaches, state **what changes for the user or pipeline** (inputs, outputs, risks), not only abstract labels.
+
+## Visuals
+
+Use visuals when they **reduce confusion** or **replace a long paragraph**—not for decoration.
+
+- **Mermaid** (flowchart, sequence, simple graph): pipelines, request/response flows, state machines, “what runs before what.”
+- **ASCII** (small boxes/arrows): quick sketches, directory or layer stacks, one-off structures.
+- **Avoid** huge diagrams; split into two small ones if the first gets crowded.
+- For **data-heavy comparisons** or interactive exploration, follow project canvas guidance when a canvas is appropriate; otherwise a small table or diagram is fine.
+
+## Examples (pattern, not boilerplate)
+
+- Instead of only: “Run OCR on the rasterized page.”  
+  Add: “**OCR** (optical character recognition: turning page images into selectable text) …”
+- Instead of a wall of prose for a pipeline: a **5–8 node** mermaid flowchart plus one sentence per stage.
+
+## Tension with “short answers”
+
+Be concise, but **never sacrifice a necessary definition**. If a reply would be unclear without a term’s meaning, **keep the gloss** and trim repetition elsewhere.

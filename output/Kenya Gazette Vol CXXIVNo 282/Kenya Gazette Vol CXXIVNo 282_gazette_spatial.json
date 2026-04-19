@@ -3,7 +3,14 @@
   "pdf_file_name": "Kenya Gazette Vol CXXIVNo 282.pdf",
   "pdf_path": "C:\\Users\\Ronald Wahome\\Documents\\docling_spatial_pdfs\\pdfs\\Kenya Gazette Vol CXXIVNo 282.pdf",
   "pdf_size_bytes": 1178808,
+  "pdf_sha256": "fd6adb427496096cd9e00ad652e7915556a021518c4713a7d929c918f9daf12e",
   "pages": 52,
+  "volume": "CXXIV",
+  "issue_no": 282,
+  "publication_date": "2022-12-23",
+  "supplement_no": null,
+  "masthead_text": "GAZETTE NOTICES\n\nPrice Sh. 60\n\nGAZETTE NOTICES-(\n\n)\n\nContd.\n\nTHE KENYA GAZETTE\n\nPublished by Authority of the Republic of Kenya\n\n(Registered as a Newspaper at the G.P.O.)\n\nVol. CXXIV-No. 282 NAIROBI, 23rd December, 2022\n\nCONTENTS\n\n | PAGE | PAGE | PAGE\nThe Ewaso Ng'iro South Development Authority Act- Revocation of Appointment ................................................ | 9228 | The Civil Aviation Act-Application for Variation or Issue of Air Service Licences........................................................ | 9250-9253\nThe Wildlife Conservation and Management Act- |  | The Unclaimed Financial Assets Act-No Objection.......... | 9253-9254\nAppointment......................................................................... | 9228 | The Proceeds of Crime and Anti-Money Laundering Act- Preservation Orders.............................................................. | 9260\nThe State Corporations Act-Appointments......................... The Forest Conservation and Management Act- | 9228 | The Political Parties Act-Change of Political Party Officials, etc.......................................................................... | 9260-9261\nThe National Health Insurance Fund Act-Appointment.... |  | The Co-operative Societies Act-Inquiry Order................... | 9261\n | 9229, 9233 | The Capital Markets Act-Revocation of Licence............... | 9261-9262\nThe Public Holidays Act-Declaration of a Public Holiday | 9229 | The Physical and Land Use Planning Act-Completion of Development Plan ................................................................ | 9262\nThe East African Community Customs Management Act-Duty Free Importation of Brown/Mill White Sugar, etc .......................................................................................... | 9229 | The Environmental Management and Co-ordination Act- Environmental Impact Assessment Study Reports............ | 9262-9269\nThe Statutory Instruments Act-Regulatory Impact Statement (RIS), November, 2022...................................... | 9229-9232 | The Companies Act-Creditors' Voluntary Winding-up..... | 9269",
+  "parse_confidence": 1.0,
   "document_confidence": {
     "layout": 0.984,
     "ocr_quality": 0.987,
@@ -24538,29 +24545,14 @@
         "structure": 0.9,
         "spatial": 0.3,
         "boundary": 0.85,
-        "composite": 0.77,
-        "llm_semantic": 0.75,
-        "composite_enhanced": 0.762
+        "composite": 0.77
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
         "spatial: 4 mid-sentence breaks (possible column interleaving)",
         "spatial: 52 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ],
-      "llm_validation": {
-        "coherence_score": 0.8,
-        "completeness_score": 0.5,
-        "single_notice_score": 1.0,
-        "legal_structure_score": 0.7,
-        "issues": [
-          "Text appears truncated at the end.",
-          "Some sections lack clear transitions, affecting flow.",
-          "Missing closing date and signature."
-        ],
-        "needs_human_review": true
-      },
-      "needs_human_review": true
+      ]
     },
     {
       "gazette_notice_no": "15952",
@@ -25514,29 +25506,14 @@
         "structure": 0.9,
         "spatial": 0.2,
         "boundary": 0.85,
-        "composite": 0.745,
-        "llm_semantic": 0.65,
-        "composite_enhanced": 0.707
+        "composite": 0.745
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
         "spatial: 5 mid-sentence breaks (possible column interleaving)",
         "spatial: 64 repeated 6-grams (possible column merge)",
         "boundary: text does not end with terminal punctuation"
-      ],
-      "llm_validation": {
-        "coherence_score": 0.7,
-        "completeness_score": 0.5,
-        "single_notice_score": 0.8,
-        "legal_structure_score": 0.6,
-        "issues": [
-          "Text appears scrambled in the mitigation options section.",
-          "Notice is truncated and does not end with a date and signature.",
-          "Some sections lack clear transitions, affecting coherence."
-        ],
-        "needs_human_review": true
-      },
-      "needs_human_review": true
+      ]
     },
     {
       "gazette_notice_no": "15953",

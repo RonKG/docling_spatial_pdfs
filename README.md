@@ -41,5 +41,5 @@ Once the library is installed, you can use it as follows:
 2. Initialize the library with necessary configuration (e.g., API keys, base URLs).
 3. Call the relevant function to pull the required gazette documents.
 
-For more details on known issues, confidence-scoring design, or future improvements, see `docs/known-issues.md`, `docs/data-quality-confidence-scoring.md`, and `spatial_reorder_changelog.md`.
+For more details on known issues, confidence-scoring design, or future improvements, see `docs/known-issues.md`, `docs/data-quality-confidence-scoring.md`, and `docs/spatial_reorder_changelog.md`.
 

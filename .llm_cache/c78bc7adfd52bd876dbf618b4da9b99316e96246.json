@@ -1,0 +1,12 @@
+{
+  "coherence_score": 0.8,
+  "completeness_score": 0.5,
+  "single_notice_score": 1.0,
+  "legal_structure_score": 0.7,
+  "issues": [
+    "Text appears truncated at the end.",
+    "Some sections lack clear transitions, affecting flow.",
+    "Missing closing date and signature."
+  ],
+  "needs_human_review": true
+}
