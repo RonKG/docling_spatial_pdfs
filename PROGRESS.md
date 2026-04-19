@@ -20,12 +20,12 @@
 
 ## Today (the only thing on your plate)
 
-**Current:** F12 — Trailing content detector  
-**What:** Detect end of last notice; exclude classified ads, pricing, index pages  
-**Where:** Modify `split_gazette_notices` in `gazette_docling_pipeline_spatial.ipynb`  
+**Current:** F13 — Identity fields wired into record  
+**What:** Add `pdf_sha256`, `gazette_issue_id`, `notice_id` to every notice record  
+**Where:** Modify `process_pdf` and notice-building logic in `gazette_docling_pipeline_spatial.ipynb`  
 **Done when:** Spec written, implemented, tests passing, this file updated.
 
-**Previous:** F11 ✅ — Masthead parser complete (extracts volume/issue/date/supplement)
+**Previous:** F12 ✅ — Trailing content detector complete (excludes ads/pricing from notices)
 
 ---
 
@@ -44,7 +44,7 @@
 | **F9** | Calibration tooling | Sample and hand-label notices | ✅ Complete (tooling) | — |
 | **F10** | Regression tooling | Capture and check baselines | ✅ Complete (tooling) | — |
 | **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea |
-| **F12** | Trailing content detector | Exclude ads/pricing from notices | **⬜ Next** | — |
+| **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 592064e |
 | **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ⬜ Not started | — |
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ⬜ Not started | — |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ⬜ Not started | — |
@@ -92,5 +92,6 @@
 |------|------|---------|
 | 2026-04-19 | Planning consolidated | Wrote `library-contract-v1.md`, `library-roadmap-v1.md`, `PROGRESS.md` |
 | 2026-04-19 | F11 Masthead parser | Implemented `parse_masthead()`, extracts volume/issue/date/supplement |
+| 2026-04-19 | F12 Trailing content detector | Implemented `detect_trailing_content_cutoff()`, truncates last notice before ads/pricing |
 
 *Add a row here at the end of every session.*
