@@ -35,15 +35,77 @@ Open the notebook/module from "Core files" in PROGRESS.md. Read the relevant cel
 
 ---
 
-## Phase 2: Write the Spec
+## Phase 2: Generate the Spec (with LLM)
 
-### Step 2.1: Create spec file
-Create `specs/[FEATURE-ID]-[kebab-case-name].md`.
+### Step 2.1: Prompt LLM to write the spec
+Use this exact prompt format:
 
-Example: `specs/F11-masthead-parser.md`
+> **Build [FEATURE-ID] specs for review to implement [kebab-case-name].md**
+>
+> Follow `specs/SOP.md` Phase 1 (Discovery) and Phase 2 (Spec Template). Create `specs/[FEATURE-ID]-[kebab-case-name].md` with all 8 sections filled.
+>
+> Read these files first:
+> - `PROGRESS.md` — locate [FEATURE-ID] row
+> - `docs/library-contract-v1.md` — relevant sections
+> - `docs/library-roadmap-v1.md` — milestone context
+> - `gazette_docling_pipeline_spatial.ipynb` — relevant cells from "Core files"
+>
+> Include 5 test cases with actual PDF sources from `output/`.
 
-### Step 2.2: Fill the template
-Copy this template exactly. Fill all sections. No omissions allowed.
+### Step 2.2: Human review
+Review the generated spec. Check:
+- [ ] All 8 template sections present
+- [ ] Test cases reference actual files in `output/`
+- [ ] Output shapes match contract requirements
+- [ ] Pass/fail criteria are objectively measurable
+- [ ] Could an implementer code this without asking questions?
+
+**If issues found:** Prompt LLM to revise: "Revise F11 spec: [specific changes needed]"
+
+**If approved:** Proceed to Phase 3.
+
+---
+
+## Phase 3: Implement from Spec
+
+### Step 3.1: Prompt LLM to implement
+Use this exact prompt format:
+
+> **Implement spec for [FEATURE-ID] [kebab-case-name].md in the specs folder**
+>
+> Read and implement the approved spec at `specs/[FEATURE-ID]-[kebab-case-name].md`.
+>
+> Follow the Definition of Done checklist. Update PROGRESS.md status when complete.
+
+### Step 3.2: Review the build
+Before accepting the implementation:
+- Run all 5 test cases from the spec
+- Verify integration (right fields populated)
+- Run `check_regression()` if applicable
+- Check PROGRESS.md was updated
+
+---
+
+## Phase 4: Close the Loop
+
+### Step 4.1: Update PROGRESS.md
+Change status from "⬜" to "✅ Complete" and add commit hash.
+
+### Step 4.2: Commit
+```bash
+git add specs/[FEATURE-ID]-[name].md [implementation files] PROGRESS.md
+git commit -m "[FEATURE-ID] Implement [feature name]"
+git push origin main
+```
+
+### Step 4.3: Verify next feature
+Read PROGRESS.md. The next "⬜ Next" row is your next task. Return to Phase 1.
+
+---
+
+## Appendix A: Spec Template (for LLM generation)
+
+When generating a spec in Phase 2, the LLM must use this exact template:
 
 ```markdown
 # [FEATURE-ID] Spec: [Feature Name]
@@ -111,53 +173,9 @@ Minimum 5 test cases:
 List any ambiguities needing resolution before build.
 ```
 
-### Step 2.3: Validate the spec
-Before finishing, verify:
-- [ ] Could an implementer code this without asking questions?
-- [ ] Are all source PDFs in `output/` actually present?
-- [ ] Does output shape match contract requirements?
-- [ ] Are pass/fail criteria objectively measurable?
-
 ---
 
-## Phase 3: Build the Feature
-
-### Step 3.1: Hand spec to LLM
-Use this exact prompt format:
-
-> **Build [FEATURE-ID]: [Feature Name]**
->
-> Read and implement the spec at `specs/[FEATURE-ID]-[name].md`.
->
-> Follow the Definition of Done checklist. Update PROGRESS.md status when complete.
-
-### Step 3.2: Review the build
-Before accepting the implementation:
-- Run all 5 test cases from the spec
-- Verify integration (right fields populated)
-- Run `check_regression()` if applicable
-- Check PROGRESS.md was updated
-
----
-
-## Phase 4: Close the Loop
-
-### Step 4.1: Update PROGRESS.md
-Change status from "⬜" to "✅ Complete" and add commit hash.
-
-### Step 4.2: Commit
-```bash
-git add specs/[FEATURE-ID]-[name].md [implementation files] PROGRESS.md
-git commit -m "[FEATURE-ID] Implement [feature name]"
-git push origin main
-```
-
-### Step 4.3: Verify next feature
-Read PROGRESS.md. The next "⬜ Next" row is your next task. Return to Phase 1.
-
----
-
-## Appendix: Quick Reference
+## Appendix B: Quick Reference
 
 ### Feature ID patterns
 - F1-F10: Phase 0 (complete)
