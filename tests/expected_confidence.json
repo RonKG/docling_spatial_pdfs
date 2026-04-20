@@ -1,7 +1,7 @@
 {
   "Kenya Gazette Vol CXINo 100": {
     "present": true,
-    "mean_composite": 0.9904773519163763,
+    "mean_composite": 0.99,
     "min_composite": 0.8,
     "layout": 0.993,
     "ocr_quality": 0.995,
@@ -9,7 +9,7 @@
   },
   "Kenya Gazette Vol CXINo 103": {
     "present": true,
-    "mean_composite": 0.9891625,
+    "mean_composite": 0.989,
     "min_composite": 0.745,
     "layout": 0.997,
     "ocr_quality": 0.992,
@@ -17,29 +17,34 @@
   },
   "Kenya Gazette Vol CXIINo 76": {
     "present": true,
-    "mean_composite": 0.0,
-    "min_composite": 0.0,
-    "layout": null,
-    "ocr_quality": null,
-    "n_notices": 0
+    "mean_composite": 0.963,
+    "min_composite": 0.89,
+    "layout": 0.946,
+    "ocr_quality": 0.991,
+    "n_notices": 3
   },
   "Kenya Gazette Vol CXXVIINo 63": {
     "present": true,
-    "mean_composite": 0.0,
-    "min_composite": 0.0,
-    "layout": null,
-    "ocr_quality": null,
-    "n_notices": 0
+    "mean_composite": 0.977,
+    "min_composite": 0.82,
+    "layout": 0.96,
+    "ocr_quality": 0.89,
+    "n_notices": 139
   },
   "Kenya Gazette Vol CXXIVNo 282": {
     "present": true,
-    "mean_composite": 0.9684427860696518,
+    "mean_composite": 0.968,
     "min_composite": 0.745,
     "layout": 0.984,
     "ocr_quality": 0.987,
     "n_notices": 201
   },
   "Kenya Gazette Vol CIINo 83 - pre 2010": {
-    "present": false
+    "present": true,
+    "mean_composite": 0.253,
+    "min_composite": 0.253,
+    "layout": 0.924,
+    "ocr_quality": 0.926,
+    "n_notices": 1
   }
 }

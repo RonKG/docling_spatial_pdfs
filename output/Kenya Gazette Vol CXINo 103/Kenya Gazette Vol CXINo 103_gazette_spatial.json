@@ -3,7 +3,27 @@
   "pdf_file_name": "Kenya Gazette Vol CXINo 103.pdf",
   "pdf_path": "C:\\Users\\Ronald Wahome\\Documents\\docling_spatial_pdfs\\pdfs\\Kenya Gazette Vol CXINo 103.pdf",
   "pdf_size_bytes": 625807,
+  "pdf_sha256": "73c308d20ffabb0435ebb37f592b377423b121527fffa26b6ca3d4a915d6b569",
+  "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+  "library_version": "0.1.0",
+  "schema_version": "1.0",
+  "extracted_at": "2026-04-20T02:53:29Z",
+  "warnings": [
+    {
+      "kind": "masthead.parse_failed",
+      "message": "Required masthead field missing; using fallback issue id",
+      "where": {
+        "pdf_file_name": "Kenya Gazette Vol CXINo 103.pdf"
+      }
+    }
+  ],
   "pages": 64,
+  "volume": "CXI",
+  "issue_no": 103,
+  "publication_date": null,
+  "supplement_no": null,
+  "masthead_text": "H\n\nTHE KENYA GAZETTE\n\nPublished by Authority of the Republic of Kenya\n\n(Registered as a Newspaper at the G.P.O.)\n\nVol. CXI-No. 103 NAIROBI, 11th December, |  | 2009 | Price Sh. 50 | Price Sh. 50\nCONTENTS | CONTENTS | CONTENTS | CONTENTS | CONTENTS\nGAZETTE NOTICES | PAGE | GAZETTE NOTICES-( Contd | .) | PAGE\nOffice of the Deputy Prime Minister and Ministry of Finance-Statement of Actual Revenue and Net Exchequer Issues as at 31st October, 2009..................... | 3508 | Local Government Notices..................................................... The Bankruptcy Act-Receiving Order and Creditors' |  | 3560-3562\nThe Geologists Registration Act-Appointment.................. | 3508-3509 | Meeting.............................................................................. The Kenya Power and Lighting Company-Fuel Cost |  | 3562\nThe National Museums and Heritage Act-Appointment... | 3508 | Charges, etc. ...................................................................... | 3563 | \nThe Kenya National Library Service Board Act- Appointment...................................................................... | 3509 | Closure of Roads...................................................................... | 3563-3564 | \nThe Labour Relations Act-Collection of Agency Fees...... | 3509 | Disposal of Uncollected Goods.............................................. |  | 3564\nThe Criminal Procedure Code-Appointment...................... | 3509 | Loss of Policies........................................................................ |  | 3564-3566\nThe Children Act-Appointment........................................... | 350- | Change of Names .................................................................... |  | 3566-3567\nThe Medical Practitioners and Dentists Act-Approved Institutions ......................................................................... | 3510 | SUPPLEMENT No. | ---------- 81 | PAGE\nThe Registration of Titles Act-Issue of Provisional Certificate .......................................................................... The Registered Land Act-Issue of New Land Title Deeds, | 3510-3511 | Legislative Supplement LEGAL NOTICE NO. 174-The | Immigration Regulations .......................... | \netc....................................................................................... Probate and Administration .................................................... | 3511-3520 3521-3551 | 175-The Immigration (Amendment) | Regulations, | 725\nThe Physical Planning Act-Completion of Part Development Plans........................................................... | 3551-3553 | 2009.................................................................. 176-The Kenya National | Examination Council | 727\nThe Co-operative Societies Act-Appointment of Liquidator, etc. .................................................................. | 3553 | (Kenya Certificate of Secondary Education Examinations) Rules, | 2009.............................. Registered Land (Application) (No. 15) | 728\nThe Customs and Excise Act-Approved Manufacturers and Producers.................................................................... | 3553 | 177-The Order, 2009 | ...................................................... | 743\nThe Transfer of Business Act ................................................. | 3553 | 178-The Registered Order, 2009 | Land (Application) (No. 16) ...................................................... | 743\nThe Kenya Communications Act-Application for Licences............................................................................. | 3553-3554 | 179-The Order, 2009 | Registered Land (Application) (No. 17) ...................................................... | 744\nThe Companies Act-Winding-up........................................ | 3554 | 180-The Registered Land (Application) (No. | 18) Order, 2009 ...................................................... | 744\nThe Environmental Management and Co-ordination Act- Environmental Impact Assessment Study Report.......... | 3554-3559 | 181-The | Registered Land (Application) (No. 19) Order, 2009 ...................................................... | 745\n\nGAZETTE NOTICE NO. 13174 | GAZETTE NOTICE NO. 13174 | GAZETTE NOTICE NO. 13174",
+  "parse_confidence": 0.5,
   "document_confidence": {
     "layout": 0.997,
     "ocr_quality": 0.992,
@@ -1030,7 +1050,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.17 (22/127 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13176"
     },
     {
       "gazette_notice_no": "13177",
@@ -1175,7 +1197,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.19 (21/109 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13177"
     },
     {
       "gazette_notice_no": "13178",
@@ -1289,7 +1313,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13178"
     },
     {
       "gazette_notice_no": "13179",
@@ -1404,7 +1430,9 @@
       "confidence_reasons": [
         "spatial: 9 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.15 (29/198 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13179"
     },
     {
       "gazette_notice_no": "13180",
@@ -1496,7 +1524,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13180"
     },
     {
       "gazette_notice_no": "13181",
@@ -1598,7 +1628,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13181"
     },
     {
       "gazette_notice_no": "13182",
@@ -1703,7 +1735,9 @@
       "confidence_reasons": [
         "spatial: 17 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.39 (89/226 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13182"
     },
     {
       "gazette_notice_no": "13183",
@@ -1785,7 +1819,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13183"
     },
     {
       "gazette_notice_no": "13184",
@@ -1877,7 +1913,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13184"
     },
     {
       "gazette_notice_no": "13185",
@@ -1959,7 +1997,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13185"
     },
     {
       "gazette_notice_no": "13186",
@@ -2041,7 +2081,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13186"
     },
     {
       "gazette_notice_no": "13187",
@@ -2113,7 +2155,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13187"
     },
     {
       "gazette_notice_no": "13188",
@@ -2185,7 +2229,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13188"
     },
     {
       "gazette_notice_no": "13189",
@@ -2259,7 +2305,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13189"
     },
     {
       "gazette_notice_no": "13190",
@@ -2331,7 +2379,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13190"
     },
     {
       "gazette_notice_no": "13191",
@@ -2403,7 +2453,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13191"
     },
     {
       "gazette_notice_no": "13192",
@@ -2475,7 +2527,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13192"
     },
     {
       "gazette_notice_no": "13193",
@@ -2547,7 +2601,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13193"
     },
     {
       "gazette_notice_no": "13194",
@@ -2619,7 +2675,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13194"
     },
     {
       "gazette_notice_no": "13195",
@@ -2691,7 +2749,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13195"
     },
     {
       "gazette_notice_no": "13196",
@@ -2763,7 +2823,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13196"
     },
     {
       "gazette_notice_no": "13197",
@@ -2835,7 +2897,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13197"
     },
     {
       "gazette_notice_no": "13198",
@@ -2907,7 +2971,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13198"
     },
     {
       "gazette_notice_no": "13199",
@@ -2979,7 +3045,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13199"
     },
     {
       "gazette_notice_no": "13200",
@@ -3061,7 +3129,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13200"
     },
     {
       "gazette_notice_no": "13201",
@@ -3133,7 +3203,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13201"
     },
     {
       "gazette_notice_no": "13202",
@@ -3205,7 +3277,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13202"
     },
     {
       "gazette_notice_no": "13203",
@@ -3277,7 +3351,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13203"
     },
     {
       "gazette_notice_no": "13204",
@@ -3349,7 +3425,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13204"
     },
     {
       "gazette_notice_no": "13205",
@@ -3421,7 +3499,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13205"
     },
     {
       "gazette_notice_no": "13206",
@@ -3493,7 +3573,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13206"
     },
     {
       "gazette_notice_no": "13207",
@@ -3565,7 +3647,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13207"
     },
     {
       "gazette_notice_no": "13208",
@@ -3637,7 +3721,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13208"
     },
     {
       "gazette_notice_no": "13209",
@@ -3719,7 +3805,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13209"
     },
     {
       "gazette_notice_no": "13210",
@@ -3791,7 +3879,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13210"
     },
     {
       "gazette_notice_no": "13211",
@@ -3863,7 +3953,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13211"
     },
     {
       "gazette_notice_no": "13212",
@@ -3935,7 +4027,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13212"
     },
     {
       "gazette_notice_no": "13213",
@@ -4007,7 +4101,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13213"
     },
     {
       "gazette_notice_no": "13214",
@@ -4079,7 +4175,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13214"
     },
     {
       "gazette_notice_no": "13215",
@@ -4161,7 +4259,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13215"
     },
     {
       "gazette_notice_no": "13216",
@@ -4233,7 +4333,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13216"
     },
     {
       "gazette_notice_no": "13217",
@@ -4305,7 +4407,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13217"
     },
     {
       "gazette_notice_no": "13218",
@@ -4377,7 +4481,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13218"
     },
     {
       "gazette_notice_no": "13219",
@@ -4459,7 +4565,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13219"
     },
     {
       "gazette_notice_no": "13220",
@@ -4531,7 +4639,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13220"
     },
     {
       "gazette_notice_no": "13221",
@@ -4603,7 +4713,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13221"
     },
     {
       "gazette_notice_no": "13222",
@@ -4675,7 +4787,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13222"
     },
     {
       "gazette_notice_no": "13223",
@@ -4757,7 +4871,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13223"
     },
     {
       "gazette_notice_no": "13224",
@@ -4829,7 +4945,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13224"
     },
     {
       "gazette_notice_no": "13225",
@@ -4901,7 +5019,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13225"
     },
     {
       "gazette_notice_no": "13226",
@@ -4973,7 +5093,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13226"
     },
     {
       "gazette_notice_no": "13227",
@@ -5045,7 +5167,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13227"
     },
     {
       "gazette_notice_no": "13228",
@@ -5117,7 +5241,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13228"
     },
     {
       "gazette_notice_no": "13229",
@@ -5189,7 +5315,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13229"
     },
     {
       "gazette_notice_no": "13230",
@@ -5261,7 +5389,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13230"
     },
     {
       "gazette_notice_no": "13231",
@@ -5333,7 +5463,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13231"
     },
     {
       "gazette_notice_no": "13232",
@@ -5405,7 +5537,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13232"
     },
     {
       "gazette_notice_no": "13233",
@@ -5477,7 +5611,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13233"
     },
     {
       "gazette_notice_no": "13234",
@@ -5549,7 +5685,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13234"
     },
     {
       "gazette_notice_no": "13235",
@@ -5621,7 +5759,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13235"
     },
     {
       "gazette_notice_no": "13236",
@@ -5703,7 +5843,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13236"
     },
     {
       "gazette_notice_no": "13237",
@@ -5775,7 +5917,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13237"
     },
     {
       "gazette_notice_no": "13238",
@@ -5847,7 +5991,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13238"
     },
     {
       "gazette_notice_no": "13239",
@@ -5929,7 +6075,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13239"
     },
     {
       "gazette_notice_no": "13240",
@@ -6001,7 +6149,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13240"
     },
     {
       "gazette_notice_no": "13241",
@@ -6073,7 +6223,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13241"
     },
     {
       "gazette_notice_no": "13242",
@@ -6145,7 +6297,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13242"
     },
     {
       "gazette_notice_no": "13243",
@@ -6217,7 +6371,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13243"
     },
     {
       "gazette_notice_no": "13244",
@@ -6289,7 +6445,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13244"
     },
     {
       "gazette_notice_no": "13245",
@@ -6361,7 +6519,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13245"
     },
     {
       "gazette_notice_no": "13246",
@@ -6433,7 +6593,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13246"
     },
     {
       "gazette_notice_no": "13247",
@@ -6505,7 +6667,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13247"
     },
     {
       "gazette_notice_no": "13248",
@@ -6587,7 +6751,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13248"
     },
     {
       "gazette_notice_no": "13249",
@@ -6659,7 +6825,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13249"
     },
     {
       "gazette_notice_no": "13250",
@@ -6731,7 +6899,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13250"
     },
     {
       "gazette_notice_no": "13251",
@@ -6803,7 +6973,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13251"
     },
     {
       "gazette_notice_no": "13252",
@@ -6875,7 +7047,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13252"
     },
     {
       "gazette_notice_no": "13253",
@@ -6947,7 +7121,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13253"
     },
     {
       "gazette_notice_no": "13254",
@@ -7019,7 +7195,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13254"
     },
     {
       "gazette_notice_no": "13255",
@@ -7091,7 +7269,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13255"
     },
     {
       "gazette_notice_no": "13256",
@@ -7163,7 +7343,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13256"
     },
     {
       "gazette_notice_no": "13257",
@@ -7235,7 +7417,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13257"
     },
     {
       "gazette_notice_no": "13258",
@@ -7307,7 +7491,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13258"
     },
     {
       "gazette_notice_no": "13259",
@@ -7379,7 +7565,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13259"
     },
     {
       "gazette_notice_no": "13260",
@@ -7461,7 +7649,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13260"
     },
     {
       "gazette_notice_no": "13261",
@@ -7535,7 +7725,9 @@
       },
       "confidence_reasons": [
         "spatial: 6 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13261"
     },
     {
       "gazette_notice_no": "13262",
@@ -7617,7 +7809,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13262"
     },
     {
       "gazette_notice_no": "13263",
@@ -7699,7 +7893,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13263"
     },
     {
       "gazette_notice_no": "13264",
@@ -7781,7 +7977,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13264"
     },
     {
       "gazette_notice_no": "13265",
@@ -7946,7 +8144,9 @@
       "confidence_reasons": [
         "spatial: 18 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.10 (35/335 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13265"
     },
     {
       "gazette_notice_no": "13266",
@@ -8160,7 +8360,9 @@
       },
       "confidence_reasons": [
         "spatial: 17 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13266"
     },
     {
       "gazette_notice_no": "13267",
@@ -8375,7 +8577,9 @@
       "confidence_reasons": [
         "spatial: 17 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (46/426 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13267"
     },
     {
       "gazette_notice_no": "13268",
@@ -8467,7 +8671,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13268"
     },
     {
       "gazette_notice_no": "13269",
@@ -8611,7 +8817,9 @@
       },
       "confidence_reasons": [
         "spatial: 18 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13269"
     },
     {
       "gazette_notice_no": "13270",
@@ -8735,7 +8943,9 @@
       },
       "confidence_reasons": [
         "spatial: 7 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13270"
     },
     {
       "gazette_notice_no": "13271",
@@ -8827,7 +9037,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13271"
     },
     {
       "gazette_notice_no": "13272",
@@ -9161,7 +9373,9 @@
       },
       "confidence_reasons": [
         "spatial: 30 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13272"
     },
     {
       "gazette_notice_no": "13273",
@@ -9283,7 +9497,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13273"
     },
     {
       "gazette_notice_no": "13274",
@@ -9395,7 +9611,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13274"
     },
     {
       "gazette_notice_no": "13275",
@@ -9507,7 +9725,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13275"
     },
     {
       "gazette_notice_no": "13276",
@@ -9599,7 +9819,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13276"
     },
     {
       "gazette_notice_no": "13277",
@@ -9721,7 +9943,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13277"
     },
     {
       "gazette_notice_no": "13278",
@@ -9833,7 +10057,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13278"
     },
     {
       "gazette_notice_no": "13279",
@@ -9945,7 +10171,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13279"
     },
     {
       "gazette_notice_no": "13280",
@@ -10067,7 +10295,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13280"
     },
     {
       "gazette_notice_no": "13281",
@@ -10169,7 +10399,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13281"
     },
     {
       "gazette_notice_no": "13282",
@@ -10281,7 +10513,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13282"
     },
     {
       "gazette_notice_no": "13283",
@@ -10393,7 +10627,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13283"
     },
     {
       "gazette_notice_no": "13284",
@@ -10505,7 +10741,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13284"
     },
     {
       "gazette_notice_no": "13285",
@@ -10607,7 +10845,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13285"
     },
     {
       "gazette_notice_no": "13286",
@@ -10719,7 +10959,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13286"
     },
     {
       "gazette_notice_no": "13287",
@@ -10821,7 +11063,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13287"
     },
     {
       "gazette_notice_no": "13288",
@@ -10933,7 +11177,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13288"
     },
     {
       "gazette_notice_no": "13289",
@@ -11035,7 +11281,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13289"
     },
     {
       "gazette_notice_no": "13290",
@@ -11137,7 +11385,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13290"
     },
     {
       "gazette_notice_no": "13291",
@@ -11239,7 +11489,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13291"
     },
     {
       "gazette_notice_no": "13292",
@@ -11341,7 +11593,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13292"
     },
     {
       "gazette_notice_no": "13293",
@@ -11453,7 +11707,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13293"
     },
     {
       "gazette_notice_no": "13294",
@@ -11565,7 +11821,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13294"
     },
     {
       "gazette_notice_no": "13295",
@@ -11677,7 +11935,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13295"
     },
     {
       "gazette_notice_no": "13296",
@@ -11769,7 +12029,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13296"
     },
     {
       "gazette_notice_no": "13297",
@@ -11881,7 +12143,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13297"
     },
     {
       "gazette_notice_no": "13298",
@@ -11993,7 +12257,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13298"
     },
     {
       "gazette_notice_no": "13299",
@@ -12085,7 +12351,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13299"
     },
     {
       "gazette_notice_no": "13300",
@@ -12187,7 +12455,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13300"
     },
     {
       "gazette_notice_no": "13301",
@@ -12289,7 +12559,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13301"
     },
     {
       "gazette_notice_no": "13302",
@@ -12391,7 +12663,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13302"
     },
     {
       "gazette_notice_no": "13303",
@@ -12503,7 +12777,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13303"
     },
     {
       "gazette_notice_no": "13304",
@@ -12615,7 +12891,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13304"
     },
     {
       "gazette_notice_no": "13305",
@@ -12727,7 +13005,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13305"
     },
     {
       "gazette_notice_no": "13306",
@@ -12839,7 +13119,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13306"
     },
     {
       "gazette_notice_no": "13307",
@@ -12961,7 +13243,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13307"
     },
     {
       "gazette_notice_no": "13308",
@@ -13073,7 +13357,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13308"
     },
     {
       "gazette_notice_no": "13309",
@@ -13185,7 +13471,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13309"
     },
     {
       "gazette_notice_no": "13310",
@@ -13317,7 +13605,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13310"
     },
     {
       "gazette_notice_no": "13311",
@@ -13439,7 +13729,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13311"
     },
     {
       "gazette_notice_no": "13312",
@@ -13541,7 +13833,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13312"
     },
     {
       "gazette_notice_no": "13313",
@@ -13643,7 +13937,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13313"
     },
     {
       "gazette_notice_no": "13314",
@@ -13755,7 +14051,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13314"
     },
     {
       "gazette_notice_no": "13315",
@@ -13867,7 +14165,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13315"
     },
     {
       "gazette_notice_no": "13316",
@@ -13979,7 +14279,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13316"
     },
     {
       "gazette_notice_no": "13317",
@@ -14091,7 +14393,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13317"
     },
     {
       "gazette_notice_no": "13318",
@@ -14203,7 +14507,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13318"
     },
     {
       "gazette_notice_no": "13319",
@@ -14325,7 +14631,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13319"
     },
     {
       "gazette_notice_no": "13320",
@@ -14427,7 +14735,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13320"
     },
     {
       "gazette_notice_no": "13321",
@@ -14539,7 +14849,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13321"
     },
     {
       "gazette_notice_no": "13322",
@@ -14651,7 +14963,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13322"
     },
     {
       "gazette_notice_no": "13323",
@@ -14763,7 +15077,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13323"
     },
     {
       "gazette_notice_no": "13324",
@@ -14845,7 +15161,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13324"
     },
     {
       "gazette_notice_no": "13325",
@@ -14967,7 +15285,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13325"
     },
     {
       "gazette_notice_no": "13326",
@@ -15089,7 +15409,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13326"
     },
     {
       "gazette_notice_no": "13327",
@@ -15191,7 +15513,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13327"
     },
     {
       "gazette_notice_no": "13328",
@@ -15313,7 +15637,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13328"
     },
     {
       "gazette_notice_no": "13329",
@@ -15435,7 +15761,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13329"
     },
     {
       "gazette_notice_no": "13330",
@@ -15539,7 +15867,9 @@
       },
       "confidence_reasons": [
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13330"
     },
     {
       "gazette_notice_no": "13331",
@@ -15661,7 +15991,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13331"
     },
     {
       "gazette_notice_no": "13332",
@@ -15773,7 +16105,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13332"
     },
     {
       "gazette_notice_no": "13333",
@@ -15875,7 +16209,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13333"
     },
     {
       "gazette_notice_no": "13334",
@@ -15997,7 +16333,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13334"
     },
     {
       "gazette_notice_no": "13335",
@@ -16109,7 +16447,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13335"
     },
     {
       "gazette_notice_no": "13336",
@@ -16221,7 +16561,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13336"
     },
     {
       "gazette_notice_no": "13337",
@@ -16333,7 +16675,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13337"
     },
     {
       "gazette_notice_no": "13338",
@@ -16455,7 +16799,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13338"
     },
     {
       "gazette_notice_no": "13339",
@@ -16567,7 +16913,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13339"
     },
     {
       "gazette_notice_no": "13340",
@@ -16679,7 +17027,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13340"
     },
     {
       "gazette_notice_no": "13341",
@@ -16781,7 +17131,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13341"
     },
     {
       "gazette_notice_no": "13342",
@@ -16903,7 +17255,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13342"
     },
     {
       "gazette_notice_no": "13343",
@@ -17005,7 +17359,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13343"
     },
     {
       "gazette_notice_no": "13344",
@@ -17107,7 +17463,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13344"
     },
     {
       "gazette_notice_no": "13345",
@@ -17209,7 +17567,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13345"
     },
     {
       "gazette_notice_no": "13346",
@@ -17321,7 +17681,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13346"
     },
     {
       "gazette_notice_no": "13347",
@@ -17423,7 +17785,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13347"
     },
     {
       "gazette_notice_no": "13348",
@@ -17535,7 +17899,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13348"
     },
     {
       "gazette_notice_no": "13349",
@@ -17647,7 +18013,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13349"
     },
     {
       "gazette_notice_no": "13350",
@@ -17749,7 +18117,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13350"
     },
     {
       "gazette_notice_no": "13351",
@@ -17861,7 +18231,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13351"
     },
     {
       "gazette_notice_no": "13352",
@@ -17973,7 +18345,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13352"
     },
     {
       "gazette_notice_no": "13353",
@@ -18085,7 +18459,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13353"
     },
     {
       "gazette_notice_no": "13354",
@@ -18197,7 +18573,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13354"
     },
     {
       "gazette_notice_no": "13355",
@@ -18309,7 +18687,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13355"
     },
     {
       "gazette_notice_no": "13356",
@@ -18431,7 +18811,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13356"
     },
     {
       "gazette_notice_no": "13357",
@@ -18543,7 +18925,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13357"
     },
     {
       "gazette_notice_no": "13358",
@@ -18655,7 +19039,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13358"
     },
     {
       "gazette_notice_no": "13359",
@@ -18777,7 +19163,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13359"
     },
     {
       "gazette_notice_no": "13360",
@@ -18899,7 +19287,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13360"
     },
     {
       "gazette_notice_no": "13361",
@@ -19011,7 +19401,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13361"
     },
     {
       "gazette_notice_no": "13362",
@@ -19113,7 +19505,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13362"
     },
     {
       "gazette_notice_no": "13363",
@@ -19225,7 +19619,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13363"
     },
     {
       "gazette_notice_no": "13364",
@@ -19347,7 +19743,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13364"
     },
     {
       "gazette_notice_no": "13365",
@@ -19469,7 +19867,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13365"
     },
     {
       "gazette_notice_no": "13366",
@@ -19591,7 +19991,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13366"
     },
     {
       "gazette_notice_no": "13367",
@@ -19713,7 +20115,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13367"
     },
     {
       "gazette_notice_no": "13368",
@@ -19825,7 +20229,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13368"
     },
     {
       "gazette_notice_no": "13369",
@@ -19927,7 +20333,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13369"
     },
     {
       "gazette_notice_no": "13370",
@@ -20049,7 +20457,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13370"
     },
     {
       "gazette_notice_no": "13371",
@@ -20161,7 +20571,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13371"
     },
     {
       "gazette_notice_no": "13372",
@@ -20283,7 +20695,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13372"
     },
     {
       "gazette_notice_no": "13373",
@@ -20395,7 +20809,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13373"
     },
     {
       "gazette_notice_no": "13374",
@@ -20507,7 +20923,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13374"
     },
     {
       "gazette_notice_no": "13375",
@@ -20619,7 +21037,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13375"
     },
     {
       "gazette_notice_no": "13376",
@@ -20731,7 +21151,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13376"
     },
     {
       "gazette_notice_no": "13377",
@@ -20843,7 +21265,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13377"
     },
     {
       "gazette_notice_no": "13378",
@@ -20955,7 +21379,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13378"
     },
     {
       "gazette_notice_no": "13379",
@@ -21067,7 +21493,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13379"
     },
     {
       "gazette_notice_no": "13380",
@@ -21179,7 +21607,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13380"
     },
     {
       "gazette_notice_no": "13381",
@@ -21291,7 +21721,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13381"
     },
     {
       "gazette_notice_no": "13382",
@@ -21403,7 +21835,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13382"
     },
     {
       "gazette_notice_no": "13383",
@@ -21515,7 +21949,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13383"
     },
     {
       "gazette_notice_no": "13384",
@@ -21627,7 +22063,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13384"
     },
     {
       "gazette_notice_no": "13385",
@@ -21749,7 +22187,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13385"
     },
     {
       "gazette_notice_no": "13386",
@@ -21871,7 +22311,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13386"
     },
     {
       "gazette_notice_no": "13387",
@@ -21983,7 +22425,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13387"
     },
     {
       "gazette_notice_no": "13388",
@@ -22105,7 +22549,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13388"
     },
     {
       "gazette_notice_no": "13389",
@@ -22227,7 +22673,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13389"
     },
     {
       "gazette_notice_no": "13390",
@@ -22339,7 +22787,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13390"
     },
     {
       "gazette_notice_no": "13391",
@@ -22461,7 +22911,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13391"
     },
     {
       "gazette_notice_no": "13392",
@@ -22583,7 +23035,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13392"
     },
     {
       "gazette_notice_no": "13393",
@@ -22695,7 +23149,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13393"
     },
     {
       "gazette_notice_no": "13394",
@@ -22817,7 +23273,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13394"
     },
     {
       "gazette_notice_no": "13395",
@@ -22939,7 +23397,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13395"
     },
     {
       "gazette_notice_no": "13396",
@@ -23051,7 +23511,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13396"
     },
     {
       "gazette_notice_no": "13397",
@@ -23173,7 +23635,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13397"
     },
     {
       "gazette_notice_no": "13398",
@@ -23285,7 +23749,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13398"
     },
     {
       "gazette_notice_no": "13399",
@@ -23397,7 +23863,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13399"
     },
     {
       "gazette_notice_no": "13400",
@@ -23519,7 +23987,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13400"
     },
     {
       "gazette_notice_no": "13401",
@@ -23641,7 +24111,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13401"
     },
     {
       "gazette_notice_no": "13402",
@@ -23763,7 +24235,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13402"
     },
     {
       "gazette_notice_no": "13403",
@@ -23875,7 +24349,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13403"
     },
     {
       "gazette_notice_no": "13404",
@@ -23997,7 +24473,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13404"
     },
     {
       "gazette_notice_no": "13405",
@@ -24109,7 +24587,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13405"
     },
     {
       "gazette_notice_no": "13406",
@@ -24221,7 +24701,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13406"
     },
     {
       "gazette_notice_no": "13407",
@@ -24343,7 +24825,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13407"
     },
     {
       "gazette_notice_no": "13408",
@@ -24455,7 +24939,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13408"
     },
     {
       "gazette_notice_no": "13409",
@@ -24577,7 +25063,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13409"
     },
     {
       "gazette_notice_no": "13410",
@@ -24689,7 +25177,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13410"
     },
     {
       "gazette_notice_no": "13411",
@@ -24811,7 +25301,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13411"
     },
     {
       "gazette_notice_no": "13412",
@@ -24933,7 +25425,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13412"
     },
     {
       "gazette_notice_no": "13413",
@@ -25055,7 +25549,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13413"
     },
     {
       "gazette_notice_no": "13414",
@@ -25177,7 +25673,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13414"
     },
     {
       "gazette_notice_no": "13415",
@@ -25289,7 +25787,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13415"
     },
     {
       "gazette_notice_no": "13416",
@@ -25401,7 +25901,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13416"
     },
     {
       "gazette_notice_no": "13417",
@@ -25513,7 +26015,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13417"
     },
     {
       "gazette_notice_no": "13418",
@@ -25625,7 +26129,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13418"
     },
     {
       "gazette_notice_no": "13419",
@@ -25737,7 +26243,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13419"
     },
     {
       "gazette_notice_no": "13420",
@@ -25849,7 +26357,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13420"
     },
     {
       "gazette_notice_no": "13421",
@@ -25961,7 +26471,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13421"
     },
     {
       "gazette_notice_no": "13422",
@@ -26073,7 +26585,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13422"
     },
     {
       "gazette_notice_no": "13423",
@@ -26185,7 +26699,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13423"
     },
     {
       "gazette_notice_no": "13424",
@@ -26297,7 +26813,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13424"
     },
     {
       "gazette_notice_no": "13425",
@@ -26419,7 +26937,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13425"
     },
     {
       "gazette_notice_no": "13426",
@@ -26531,7 +27051,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13426"
     },
     {
       "gazette_notice_no": "13427",
@@ -26643,7 +27165,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13427"
     },
     {
       "gazette_notice_no": "13428",
@@ -26755,7 +27279,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13428"
     },
     {
       "gazette_notice_no": "13429",
@@ -26867,7 +27393,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13429"
     },
     {
       "gazette_notice_no": "13430",
@@ -26979,7 +27507,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13430"
     },
     {
       "gazette_notice_no": "13431",
@@ -27091,7 +27621,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13431"
     },
     {
       "gazette_notice_no": "13432",
@@ -27203,7 +27735,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13432"
     },
     {
       "gazette_notice_no": "13433",
@@ -27325,7 +27859,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13433"
     },
     {
       "gazette_notice_no": "13434",
@@ -27447,7 +27983,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13434"
     },
     {
       "gazette_notice_no": "13435",
@@ -27559,7 +28097,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13435"
     },
     {
       "gazette_notice_no": "13436",
@@ -27681,7 +28221,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13436"
     },
     {
       "gazette_notice_no": "13437",
@@ -27793,7 +28335,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13437"
     },
     {
       "gazette_notice_no": "13438",
@@ -27905,7 +28449,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13438"
     },
     {
       "gazette_notice_no": "13439",
@@ -28027,7 +28573,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13439"
     },
     {
       "gazette_notice_no": "13440",
@@ -28149,7 +28697,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13440"
     },
     {
       "gazette_notice_no": "13441",
@@ -28261,7 +28811,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13441"
     },
     {
       "gazette_notice_no": "13442",
@@ -28373,7 +28925,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13442"
     },
     {
       "gazette_notice_no": "13443",
@@ -28497,7 +29051,9 @@
       },
       "confidence_reasons": [
         "spatial: 11 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13443"
     },
     {
       "gazette_notice_no": "13444",
@@ -28632,7 +29188,9 @@
       "confidence_reasons": [
         "spatial: 12 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (28/259 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13444"
     },
     {
       "gazette_notice_no": "13445",
@@ -28757,7 +29315,9 @@
       "confidence_reasons": [
         "spatial: 8 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.11 (27/238 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13445"
     },
     {
       "gazette_notice_no": "13446",
@@ -28892,7 +29452,9 @@
       "confidence_reasons": [
         "spatial: 7 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.12 (25/209 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13446"
     },
     {
       "gazette_notice_no": "13447",
@@ -29016,7 +29578,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.11 (24/215 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13447"
     },
     {
       "gazette_notice_no": "13448",
@@ -29119,7 +29683,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13448"
     },
     {
       "gazette_notice_no": "13449",
@@ -29221,7 +29787,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13449"
     },
     {
       "gazette_notice_no": "13450",
@@ -29375,7 +29943,9 @@
       },
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13450"
     },
     {
       "gazette_notice_no": "13451",
@@ -29490,7 +30060,9 @@
       "confidence_reasons": [
         "spatial: 3 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.21 (23/107 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13451"
     },
     {
       "gazette_notice_no": "13452",
@@ -29624,7 +30196,9 @@
       },
       "confidence_reasons": [
         "spatial: 5 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13452"
     },
     {
       "gazette_notice_no": "13453",
@@ -29772,7 +30346,9 @@
       "confidence_reasons": [
         "spatial: 9 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.13 (36/285 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13453"
     },
     {
       "gazette_notice_no": "13454",
@@ -29916,7 +30492,9 @@
       },
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13454"
     },
     {
       "gazette_notice_no": "13455",
@@ -30583,7 +31161,9 @@
       },
       "confidence_reasons": [
         "spatial: 16 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13455"
     },
     {
       "gazette_notice_no": "13156",
@@ -31137,7 +31717,9 @@
       },
       "confidence_reasons": [
         "spatial: 9 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13156"
     },
     {
       "gazette_notice_no": "13157",
@@ -31871,7 +32453,9 @@
       },
       "confidence_reasons": [
         "spatial: 13 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13157"
     },
     {
       "gazette_notice_no": "13158",
@@ -32525,7 +33109,9 @@
       },
       "confidence_reasons": [
         "spatial: 12 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13158"
     },
     {
       "gazette_notice_no": "13159",
@@ -33174,13 +33760,29 @@
         "structure": 1.0,
         "spatial": 0.2,
         "boundary": 0.8,
-        "composite": 0.76
+        "composite": 0.76,
+        "llm_semantic": 0.85,
+        "composite_enhanced": 0.796
       },
       "confidence_reasons": [
         "spatial: 20 mid-sentence breaks (possible column interleaving)",
         "spatial: 49 repeated 6-grams (possible column merge)",
         "boundary: gap of 113 lines to next notice -- possible missing content"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13159",
+      "llm_validation": {
+        "coherence_score": 0.7,
+        "completeness_score": 0.8,
+        "single_notice_score": 1.0,
+        "legal_structure_score": 0.9,
+        "issues": [
+          "Text appears somewhat scrambled in the mitigation measures section.",
+          "Notice is truncated at the end, missing the closing date and signature."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "13458",
@@ -33220,14 +33822,31 @@
         "structure": 0.6,
         "spatial": 1.0,
         "boundary": 0.25,
-        "composite": 0.75
+        "composite": 0.75,
+        "llm_semantic": 0.425,
+        "composite_enhanced": 0.62
       },
       "confidence_reasons": [
         "structure: only header/no body content",
         "boundary: header recovered from noisy line (capped at 0.6)",
         "boundary: span is very short",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13458",
+      "llm_validation": {
+        "coherence_score": 0.3,
+        "completeness_score": 0.8,
+        "single_notice_score": 0.2,
+        "legal_structure_score": 0.4,
+        "issues": [
+          "Text appears scrambled and lacks natural flow.",
+          "Multiple notices merged together.",
+          "Legal structure is not clearly defined."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "13459",
@@ -33271,14 +33890,31 @@
         "structure": 0.1,
         "spatial": 1.0,
         "boundary": 0.85,
-        "composite": 0.745
+        "composite": 0.745,
+        "llm_semantic": 0.325,
+        "composite_enhanced": 0.577
       },
       "confidence_reasons": [
         "structure: body short (70 chars)",
         "structure: only header/no body content",
         "structure: no legal marker, date, or signature found",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13459",
+      "llm_validation": {
+        "coherence_score": 0.2,
+        "completeness_score": 0.1,
+        "single_notice_score": 0.8,
+        "legal_structure_score": 0.2,
+        "issues": [
+          "Text appears scrambled or incomplete.",
+          "Notice does not end with a date and signature.",
+          "Lacks proper gazette structure."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "13460",
@@ -33322,14 +33958,32 @@
         "structure": 0.1,
         "spatial": 1.0,
         "boundary": 0.85,
-        "composite": 0.745
+        "composite": 0.745,
+        "llm_semantic": 0.275,
+        "composite_enhanced": 0.557
       },
       "confidence_reasons": [
         "structure: body short (70 chars)",
         "structure: only header/no body content",
         "structure: no legal marker, date, or signature found",
         "boundary: text does not end with terminal punctuation"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13460",
+      "llm_validation": {
+        "coherence_score": 0.2,
+        "completeness_score": 0.1,
+        "single_notice_score": 0.5,
+        "legal_structure_score": 0.3,
+        "issues": [
+          "Text appears scrambled or lacks flow.",
+          "Notice is truncated, missing date and signature.",
+          "Unclear if this is a single notice or part of multiple notices.",
+          "Does not follow typical gazette structure."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "13461",
@@ -33684,7 +34338,9 @@
       },
       "confidence_reasons": [
         "spatial: 48 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13461"
     },
     {
       "gazette_notice_no": "13462",
@@ -33756,7 +34412,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13462"
     },
     {
       "gazette_notice_no": "13463",
@@ -33818,7 +34476,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13463"
     },
     {
       "gazette_notice_no": "13464",
@@ -33890,7 +34550,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13464"
     },
     {
       "gazette_notice_no": "13465",
@@ -33972,7 +34634,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13465"
     },
     {
       "gazette_notice_no": "13466",
@@ -34064,7 +34728,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13466"
     },
     {
       "gazette_notice_no": "13467",
@@ -34146,7 +34812,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13467"
     },
     {
       "gazette_notice_no": "13468",
@@ -34228,7 +34896,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13468"
     },
     {
       "gazette_notice_no": "13469",
@@ -34310,7 +34980,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13469"
     },
     {
       "gazette_notice_no": "13470",
@@ -34402,7 +35074,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13470"
     },
     {
       "gazette_notice_no": "13471",
@@ -34504,7 +35178,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13471"
     },
     {
       "gazette_notice_no": "13472",
@@ -34606,7 +35282,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13472"
     },
     {
       "gazette_notice_no": "13473",
@@ -34688,7 +35366,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13473"
     },
     {
       "gazette_notice_no": "13474",
@@ -34790,7 +35470,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13474"
     },
     {
       "gazette_notice_no": "13475",
@@ -34892,7 +35574,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13475"
     },
     {
       "gazette_notice_no": "13476",
@@ -34974,7 +35658,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13476"
     },
     {
       "gazette_notice_no": "13477",
@@ -35056,7 +35742,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13477"
     },
     {
       "gazette_notice_no": "13478",
@@ -35128,7 +35816,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13478"
     },
     {
       "gazette_notice_no": "13479",
@@ -35192,7 +35882,9 @@
       },
       "confidence_reasons": [
         "structure: only one structural marker present"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13479"
     },
     {
       "gazette_notice_no": "13480",
@@ -35247,7 +35939,9 @@
       "confidence_reasons": [
         "structure: only one structural marker present",
         "spatial: 4 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13480"
     },
     {
       "gazette_notice_no": "13481",
@@ -35321,7 +36015,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.16 (23/143 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13481"
     },
     {
       "gazette_notice_no": "13482",
@@ -35385,7 +36081,9 @@
       },
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13482"
     },
     {
       "gazette_notice_no": "13483",
@@ -35457,7 +36155,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13483"
     },
     {
       "gazette_notice_no": "13484",
@@ -35519,7 +36219,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13484"
     },
     {
       "gazette_notice_no": "13485",
@@ -35583,7 +36285,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.16 (23/140 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13485"
     },
     {
       "gazette_notice_no": "13486",
@@ -35657,7 +36361,9 @@
       },
       "confidence_reasons": [
         "spatial: high mid-sentence cap density 0.16 (23/141 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13486"
     },
     {
       "gazette_notice_no": "13487",
@@ -35732,7 +36438,9 @@
       "confidence_reasons": [
         "spatial: 10 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.15 (24/158 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13487"
     },
     {
       "gazette_notice_no": "13488",
@@ -35804,7 +36512,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13488"
     },
     {
       "gazette_notice_no": "13489",
@@ -35868,7 +36578,9 @@
       },
       "confidence_reasons": [
         "structure: only one structural marker present"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13489"
     },
     {
       "gazette_notice_no": "13490",
@@ -35933,7 +36645,9 @@
       "confidence_reasons": [
         "spatial: 4 repeated 6-grams (possible column merge)",
         "spatial: high mid-sentence cap density 0.16 (22/139 words)"
-      ]
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13490"
     },
     {
       "gazette_notice_no": "13491",
@@ -35995,7 +36709,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13491"
     },
     {
       "gazette_notice_no": "13492",
@@ -36057,7 +36773,9 @@
         "boundary": 1.0,
         "composite": 1.0
       },
-      "confidence_reasons": []
+      "confidence_reasons": [],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13492"
     },
     {
       "gazette_notice_no": "13493",
@@ -36065,8 +36783,22 @@
       "title_lines": [
         "CHANGE OF NAME"
       ],
-      "gazette_notice_full_text": "GAZETTE NOTICE NO. 13493\nCHANGE OF NAME\n\nNOTICE is given that by a deed poll dated 19th November, 2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  1482  in  Volume  DI,  Folio  195/4119,  File  No. MMIX,  by  our  client,  Hellen  Lily  Namvua  Hendriks,  of  P.O.  Box 26165-00504, Nairobi in the Republic of Kenya, formerly known as Hellen  Lily  Namvua  Mbelle,  formally  and  absolutely  renounced  and abandoned the use of her former name Hellen Lily Naamvua Mbelle, and in lieu thereof assumed and adopted the name Hellen Lily Namvua Hendriks, for all purposes and authorizes and requests all persons at all times  to  designate,  describe  and  address  her  by  her  assumed  name Hellen Lily Namvua Hendriks only.\n\nDated the 23rd November, 2009.\n\nMOSI &  COMPANY,\n\nAdvocates for Hellen Lily Namvua Hendriks, formerly known as Hellen Lily Namvua Mbelle.\n\nNATIONAL DEVELOPMENT PLAN 2002-2008\n\nEffective Management for Sustainable Economic Growth and Poverty Reduction\n\nPrice: KSh.\n\n750\n\nTHE KENYA COMMUNICATIONS ACT (No. 2 OF 1998)\n\nTransfer of Assets-Telposta Pension Scheme\n\nTransfer and Vesting of Assets and Liabilities-The Communications Commission of Kenya and the Postal Corporation of Kenya\n\nTransfer of Employees of the Kenya Posts and Telecommunications Corporation\n\n( Kenya Gazette Supplement No . 59).\n\nPrice: KSh.\n\n550\n\nTHE KENYA COMMUNICATIONS ACT (No. 2 OF 1998)\n\nTransfer and Vesting of Assets and Liabilities-Telkom Kenya Limited\n\n( Kenya Gazette Supplement No. 59 A and 59 B )\n\nVolume I (59A)\n\nPrice: KSh.\n\n1,300\n\nVolume I (59B)\n\nPrice: KSh.\n\n900\n\nTREASURY MEMORANDUM OF THE IMPLEMENTATION STATUS ON THE SEVENTH REPORT OF THE PUBLIC INVESTMENTS COMMITTEE\n\nVolume II\n\n\nPrice: KSh\n\n. 200\n\nTHE REPORT OF THE CONTROLLER AND AUDITOR GENERAL TOGETHER WITH THE APPROPRIATION ACCOUNTS AND OTHER PUBLIC ACCOUNTS AND THE ACCOUNTS OF THE FUNDS FOR THE YEAR 1996/97\n\nPrice: KSh. 5,000- per set of 5 Volumes\n\nSESSIONAL PAPER NO. 1 OF 1999 ON NATIONAL POLICY ON WATER RESOURCES MANAGEMENT AND DEVELOPMENT\n\nMinistry of Water Resources\n\nPrice: KSh.\n\n200\n\nREPORT OF THE PUBLIC ACCOUNTS COMMITTEE ON THE GOVERNMENT OF KENYA ACCOUNTS FOR THE YEAR 1995/96 Volume II\n\nPrice: KSh\n\n. 500\n\nNOW ON SALE\n\nTHE NATIONAL POVERTY ERADICATION PLAN (1999-2015)\n\nPrice: KSh.\n\n500\n\nCATALOGUE OF GOVERNMENT PUBLICATIONS\n\nAugust, 2005\n\nPrice: KSh.\n\n200\n\nPUBLIC SECTOR WORKPLACE POLICY ON HIV/AIDS\n\nApril, 2005\n\nPrice: KSh.\n\n300\n\nE-GOVERNMENT STRATEGY\n\nThe Strategic Framework Administrative Structure, Training Requirements and Standardization Framework\n\nMarch, 2004\n\nPrice: KSh.\n\n300\n\nECONOMIC RECOVERY STRATEGY FOR WEALTH AND EMPLOYMENT CREATION (2003-2007)\n\nPrice: KSh.\n\n500\n\nRECRUITMENT AND TRAINING POLICY FOR PUBLIC SERVICE\n\nMay, 2005\n\nPrice: KSh.\n\n250\n\nSESSIONAL PAPER NO. 2 OF 2005\n\nOn Development of Micro and Small Enterprises for Wealth and Employment Creation for Poverty Reduction\n\nPrice: KSh.\n\n300\n\nSESSIONAL PAPER NO. 9 OF 2005 ON FOREST POLICY\n\nPrice: KSh.\n\n300\n\nSTRATEGY FOR REVITALIZING AGRICULTURE (2004 -2014)\n\nMarch, 2004\n\nPrice: KSh.\n\n200\n\nREPORT OF THE JUDICIAL COMMISSION OF INQUIRY INTO THE GOLDENBERG AFFAIR\n\nOctober, 2005\n\nPrice: KSh.\n\n800\n\nNOW ON SALE ECONOMIC SURVEY, 2009\n\nPrice: KSh. 1,000\n\nTHE FINANCE BILL, 2009\n\nPrice: KSh. 300\n\n2009/2010\n\nESTIMATES OF RECURRENT EXPENDITURE\n\nOF THE\n\nGOVERNMENT OF KENYA FOR THE YEAR ENDING 30TH JUNE, 2010\n\nVOL. I\n\nPrice: KSh. 1,500\n\nVOL. II\n\nPrice: KSh.\n\n1,100\n\nVOL. III\n\nPrice: KSh.\n\n1,200\n\n2009/2010 ESTIMATES OF DEVELOPMENT\n\nEXPENDITURE\n\nOF THE\n\nGOVERNMENT OF KENYA FOR YEAR ENDING 30TH JUNE, 2010\n\nVOL. I\n\nPrice: KSh. 1,100\n\nVOL. II\n\nPrice: KSh.\n\n1,100\n\nPRICES OF EXERCISE BOOKS\n\nDUE to frequent increase of prices of raw materials, the  Department  has  adjusted  the  prices  of  Exercise Books with effect from 12th January, 2009 , in order to continue serving you better.\n\nManila Covers | Manila Covers | MG. Covers | MG. Covers\n32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 7.00 KSh. 9.00 KSh. 11.00 KSh. 13.00 KSh. 16.00 KSh. 17.00 KSh. 27.00 | 32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 6.00 KSh. 8.00 KSh. 10.00 KSh. 12.00 KSh. 15.00 KSh. 16.00 KSh. 25.00\nA4 Size-Manila Covers only | A4 Size-Manila Covers only |  | \nA4-200 A4-120 A4-96 A4-80 | pages KSh. 52.00 pages KSh. 35.00 pages KSh. 32.00 pages KSh. 25.00 |  | \n\nAll exercise books are manufactured on high quality paper. For further information, contact: The Government Printer,  P.O.,  P.O.  Box  30128-00100,  Nairobi,  Tel. 317840/41/57/86/87.\n\nIMPORTANT NOTICE TO SUBSCRIBERS TO THE KENYA GAZETTE\n\nTHE following notes are for the guidance of persons submitting 'copy' for inclusion in the Kenya Gazette, Supplement , etc.:\n\nThe Kenya Gazette contains Notices of a general nature which do not affect  legislation.  They  are,  therefore,  submitted  to  the  Government Printer directly.\n\nLegislative  Supplement contains  Rules  and  Regulations  which  are issued  by  the  Central  Government.  Because  of  this,  they  must  be submitted  to  the Government  Printer  through  the  office  of  the Attorney-General.\n\nBill  Supplement contains  Bills  which  are  for  introduction  in  the National Assembly.\n\nAct Supplement contains Acts passed by the National Assembly.\n\nAll 'copy' submitted for publication should be prepared on one side of an A4  sheet  no  matter  how  small  the  Notice  is,  each  page  being  numbered  and should  be  typewritten  with  double  spacing.  Copy  should  be  clear,  legible  and contain no alterations.\n\nParticular attention should be paid to the following points:\n\n(i) Signature must be supported by rubber-stamping or typing the name of the signatory in capital letters.\n\n(ii) Dates must be correct and filled in where necessary.\n\n(iii) Care  should  be  taken  to  ensure  that  all  headings  to  Notices  and references to legislation are up to date and conform with the Revised Edition of the Laws of Kenya.\n\nEXTRACT FROM THE CODE OF REGULATIONS, SECTION D-\n\nKenya Gazette\n\n'D  34.  (1)  Communications  for  the Kenya  Gazette should  reach  the Government  Printer  not  later  than  9  a.m.  on  Friday  of  the  week  before publication is desired. The Government Printer will not publish communications received after that hour until the next subsequent issue of the Gazette.\n\nMinistries will be required to pay for the Kenya Gazette and to meet the cost of advertising in it.\n\nIt  is  emphasized that these notes are for guidance only, but it is requested that  persons  submitting  copy  for  publication  first  satisfy  themselves  that  such copy is complete in every respect.\n\nSUBSCRIPTION AND ADVERTISEMENT CHARGES\n\nWith effect from 9th August, 2005, subscription and advertisement fee for the Kenya Gazette are as follows:\n\nSUBSCRIPTION CHARGES:\n\nKSh.\n\ncts.\n\nAnnual Subscription (excluding postage in Kenya)........................ | Annual Subscription (excluding postage in Kenya)........................ | 9,830 | 00\nAnnual Subscription (including postage in Kenya)......................... | Annual Subscription (including postage in Kenya)......................... | 11,135 | 00\nAnnual Subscription (overseas)....................................................... | Annual Subscription (overseas)....................................................... | 23,875 | 00\nHalf-year Subscription (excluding postage in Kenya) .................... | Half-year Subscription (excluding postage in Kenya) .................... | 4,915 | 00\nHalf-year Subscription (including postage in Kenya)..................... | Half-year Subscription (including postage in Kenya)..................... | 5,570 | 00\nHalf-year Subscription (overseas) ................................................... | Half-year Subscription (overseas) ................................................... | 11,940 | 00\nSingle copy without supplements.................................................... | Single copy without supplements.................................................... | 50 | 00\nGAZETTED S UPPLEMENT CHARGES-PER COPY : | GAZETTED S UPPLEMENT CHARGES-PER COPY : | Postage in E.A | Postage in E.A\n | KSh. cts | KSh. | cts.\nUp to 2 pages ..................................................................... | 7 00 | 40 | 00\nUp to 4 pages ..................................................................... | 14 00 | 40 40 | 00\nUp to 8 pages ..................................................................... | 28 00 |  | 00\nUp to 12 pages ................................................................... | 42 00 | 40 | 00\nUp to 16 pages ................................................................... | 56 00 | 40 | 00\nUp to 20 pages ................................................................... | 70 | 00 95 00 | 00\nUp to 24 pages ................................................................... | 84 | 95 | 00\nUp to 32 pages ................................................................... | 112 | 00 95 | 00\nUp to 36 pages ................................................................... | 126 00 | depending | \nUp to 40 pages ................................................................... | 140 00 |  | weight\nEach additional 4 pages or part thereof ............................. | 14 00 | on | \nADVERTISEMENT CHARGES : | ADVERTISEMENT CHARGES : | KSh. | cts.\nFull page............................................................................................... | Full page............................................................................................... | 21,880 | 00\nFull single column ............................................................................... | Full single column ............................................................................... | 10,940 | 00\nThree-quarter column .......................................................................... | Three-quarter column .......................................................................... | 8,205 | 00\nHalf column ......................................................................................... | Half column ......................................................................................... | 5,470 | 00\nQuarter column or less......................................................................... | Quarter column or less......................................................................... | 2,735 | 00\n\nSubscribers  and  advertisers  are  advised  to  remit  payment  by  bankers  cheques, Postal  orders  or  money  orders  drawn  in  favour  of  'The  Government  Printer, Nairobi'\n\nRevenue  stamps  cannot  be  accepted.  Subscriptions  and  advertisement  charges are paid in advance.\n\nA. G. RUKARIA, Government Printer.",
+      "gazette_notice_full_text": "GAZETTE NOTICE NO. 13493\nCHANGE OF NAME\n\nNOTICE is given that by a deed poll dated 19th November, 2009, duly executed and registered in the Registry of Documents at Nairobi, as  presentation  No.  1482  in  Volume  DI,  Folio  195/4119,  File  No. MMIX,  by  our  client,  Hellen  Lily  Namvua  Hendriks,  of  P.O.  Box 26165-00504, Nairobi in the Republic of Kenya, formerly known as Hellen  Lily  Namvua  Mbelle,  formally  and  absolutely  renounced  and abandoned the use of her former name Hellen Lily Naamvua Mbelle, and in lieu thereof assumed and adopted the name Hellen Lily Namvua Hendriks, for all purposes and authorizes and requests all persons at all times  to  designate,  describe  and  address  her  by  her  assumed  name Hellen Lily Namvua Hendriks only.\n\nDated the 23rd November, 2009.\n\nMOSI &  COMPANY,\n\nAdvocates for Hellen Lily Namvua Hendriks, formerly known as Hellen Lily Namvua Mbelle.\n\nNATIONAL DEVELOPMENT PLAN 2002-2008\n\nEffective Management for Sustainable Economic Growth and Poverty Reduction\n\nPrice: KSh.\n\n750\n\nTHE KENYA COMMUNICATIONS ACT (No. 2 OF 1998)\n\nTransfer of Assets-Telposta Pension Scheme\n\nTransfer and Vesting of Assets and Liabilities-The Communications Commission of Kenya and the Postal Corporation of Kenya\n\nTransfer of Employees of the Kenya Posts and Telecommunications Corporation\n\n( Kenya Gazette Supplement No . 59).\n\nPrice: KSh.\n\n550\n\nTHE KENYA COMMUNICATIONS ACT (No. 2 OF 1998)\n\nTransfer and Vesting of Assets and Liabilities-Telkom Kenya Limited\n\n( Kenya Gazette Supplement No. 59 A and 59 B )\n\nVolume I (59A)\n\nPrice: KSh.\n\n1,300\n\nVolume I (59B)\n\nPrice: KSh.\n\n900\n\nTREASURY MEMORANDUM OF THE IMPLEMENTATION STATUS ON THE SEVENTH REPORT OF THE PUBLIC INVESTMENTS COMMITTEE\n\nVolume II\n\n\nPrice: KSh\n\n. 200\n\nTHE REPORT OF THE CONTROLLER AND AUDITOR GENERAL TOGETHER WITH THE APPROPRIATION ACCOUNTS AND OTHER PUBLIC ACCOUNTS AND THE ACCOUNTS OF THE FUNDS FOR THE YEAR 1996/97\n\nPrice: KSh. 5,000- per set of 5 Volumes\n\nSESSIONAL PAPER NO. 1 OF 1999 ON NATIONAL POLICY ON WATER RESOURCES MANAGEMENT AND DEVELOPMENT\n\nMinistry of Water Resources\n\nPrice: KSh.\n\n200\n\nREPORT OF THE PUBLIC ACCOUNTS COMMITTEE ON THE GOVERNMENT OF KENYA ACCOUNTS FOR THE YEAR 1995/96 Volume II\n\nPrice: KSh\n\n. 500",
       "body_segments": [
+        {
+          "type": "blank",
+          "line": ""
+        },
+        {
+          "type": "text",
+          "lines": [
+            "CHANGE OF NAME"
+          ]
+        },
+        {
+          "type": "blank",
+          "line": ""
+        },
         {
           "type": "text",
           "lines": [
@@ -36440,997 +37172,18 @@
         {
           "type": "blank",
           "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "NOW ON SALE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE NATIONAL POVERTY ERADICATION PLAN (1999-2015)"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "500"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "CATALOGUE OF GOVERNMENT PUBLICATIONS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "August, 2005"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "200"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "PUBLIC SECTOR WORKPLACE POLICY ON HIV/AIDS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "April, 2005"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "300"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "E-GOVERNMENT STRATEGY"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "The Strategic Framework Administrative Structure, Training Requirements and Standardization Framework"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "March, 2004"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "300"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "ECONOMIC RECOVERY STRATEGY FOR WEALTH AND EMPLOYMENT CREATION (2003-2007)"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "500"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "RECRUITMENT AND TRAINING POLICY FOR PUBLIC SERVICE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "May, 2005"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "250"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "SESSIONAL PAPER NO. 2 OF 2005"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "On Development of Micro and Small Enterprises for Wealth and Employment Creation for Poverty Reduction"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "300"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "SESSIONAL PAPER NO. 9 OF 2005 ON FOREST POLICY"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "300"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "STRATEGY FOR REVITALIZING AGRICULTURE (2004 -2014)"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "March, 2004"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "200"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "REPORT OF THE JUDICIAL COMMISSION OF INQUIRY INTO THE GOLDENBERG AFFAIR"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "October, 2005"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "800"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "NOW ON SALE ECONOMIC SURVEY, 2009"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh. 1,000"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE FINANCE BILL, 2009"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh. 300"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "2009/2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "ESTIMATES OF RECURRENT EXPENDITURE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "OF THE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "GOVERNMENT OF KENYA FOR THE YEAR ENDING 30TH JUNE, 2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "VOL. I"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh. 1,500"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "VOL. II"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "1,100"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "VOL. III"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "1,200"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "2009/2010 ESTIMATES OF DEVELOPMENT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "EXPENDITURE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "OF THE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "GOVERNMENT OF KENYA FOR YEAR ENDING 30TH JUNE, 2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "VOL. I"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh. 1,100"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "VOL. II"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Price: KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "1,100"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "PRICES OF EXERCISE BOOKS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "DUE to frequent increase of prices of raw materials, the  Department  has  adjusted  the  prices  of  Exercise Books with effect from 12th January, 2009 , in order to continue serving you better."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Manila Covers | Manila Covers | MG. Covers | MG. Covers",
-            "32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 7.00 KSh. 9.00 KSh. 11.00 KSh. 13.00 KSh. 16.00 KSh. 17.00 KSh. 27.00 | 32 pages 48 pages 64 pages 80 pages 96 pages 120 pages 200 pages | KSh. 6.00 KSh. 8.00 KSh. 10.00 KSh. 12.00 KSh. 15.00 KSh. 16.00 KSh. 25.00"
-          ]
-        },
-        {
-          "type": "table",
-          "raw_lines": [
-            "A4 Size-Manila Covers only | A4 Size-Manila Covers only |  | ",
-            "A4-200 A4-120 A4-96 A4-80 | pages KSh. 52.00 pages KSh. 35.00 pages KSh. 32.00 pages KSh. 25.00 |  | "
-          ],
-          "rows": [
-            [
-              "A4 Size-Manila Covers only | A4 Size-Manila Covers only |",
-              "|"
-            ],
-            [
-              "A4-200 A4-120 A4-96 A4-80 | pages KSh. 52.00 pages KSh. 35.00 pages KSh. 32.00 pages KSh. 25.00 |",
-              "|"
-            ]
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "All exercise books are manufactured on high quality paper. For further information, contact: The Government Printer,  P.O.,  P.O.  Box  30128-00100,  Nairobi,  Tel. 317840/41/57/86/87."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "IMPORTANT NOTICE TO SUBSCRIBERS TO THE KENYA GAZETTE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE following notes are for the guidance of persons submitting 'copy' for inclusion in the Kenya Gazette, Supplement , etc.:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "The Kenya Gazette contains Notices of a general nature which do not affect  legislation.  They  are,  therefore,  submitted  to  the  Government Printer directly."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Legislative  Supplement contains  Rules  and  Regulations  which  are issued  by  the  Central  Government.  Because  of  this,  they  must  be submitted  to  the Government  Printer  through  the  office  of  the Attorney-General."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Bill  Supplement contains  Bills  which  are  for  introduction  in  the National Assembly."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Act Supplement contains Acts passed by the National Assembly."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "All 'copy' submitted for publication should be prepared on one side of an A4  sheet  no  matter  how  small  the  Notice  is,  each  page  being  numbered  and should  be  typewritten  with  double  spacing.  Copy  should  be  clear,  legible  and contain no alterations."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Particular attention should be paid to the following points:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(i) Signature must be supported by rubber-stamping or typing the name of the signatory in capital letters."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(ii) Dates must be correct and filled in where necessary."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(iii) Care  should  be  taken  to  ensure  that  all  headings  to  Notices  and references to legislation are up to date and conform with the Revised Edition of the Laws of Kenya."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "EXTRACT FROM THE CODE OF REGULATIONS, SECTION D-"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Kenya Gazette"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "'D  34.  (1)  Communications  for  the Kenya  Gazette should  reach  the Government  Printer  not  later  than  9  a.m.  on  Friday  of  the  week  before publication is desired. The Government Printer will not publish communications received after that hour until the next subsequent issue of the Gazette."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Ministries will be required to pay for the Kenya Gazette and to meet the cost of advertising in it."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "It  is  emphasized that these notes are for guidance only, but it is requested that  persons  submitting  copy  for  publication  first  satisfy  themselves  that  such copy is complete in every respect."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "SUBSCRIPTION AND ADVERTISEMENT CHARGES"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "With effect from 9th August, 2005, subscription and advertisement fee for the Kenya Gazette are as follows:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "SUBSCRIPTION CHARGES:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "KSh."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "cts."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Annual Subscription (excluding postage in Kenya)........................ | Annual Subscription (excluding postage in Kenya)........................ | 9,830 | 00",
-            "Annual Subscription (including postage in Kenya)......................... | Annual Subscription (including postage in Kenya)......................... | 11,135 | 00",
-            "Annual Subscription (overseas)....................................................... | Annual Subscription (overseas)....................................................... | 23,875 | 00",
-            "Half-year Subscription (excluding postage in Kenya) .................... | Half-year Subscription (excluding postage in Kenya) .................... | 4,915 | 00",
-            "Half-year Subscription (including postage in Kenya)..................... | Half-year Subscription (including postage in Kenya)..................... | 5,570 | 00",
-            "Half-year Subscription (overseas) ................................................... | Half-year Subscription (overseas) ................................................... | 11,940 | 00",
-            "Single copy without supplements.................................................... | Single copy without supplements.................................................... | 50 | 00",
-            "GAZETTED S UPPLEMENT CHARGES-PER COPY : | GAZETTED S UPPLEMENT CHARGES-PER COPY : | Postage in E.A | Postage in E.A",
-            " | KSh. cts | KSh. | cts.",
-            "Up to 2 pages ..................................................................... | 7 00 | 40 | 00",
-            "Up to 4 pages ..................................................................... | 14 00 | 40 40 | 00"
-          ]
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Up to 8 pages ..................................................................... | 28 00 |  | 00",
-            "Up to 12 pages ................................................................... | 42 00 | 40 | 00",
-            "Up to 16 pages ................................................................... | 56 00 | 40 | 00",
-            "Up to 20 pages ................................................................... | 70 | 00 95 00 | 00",
-            "Up to 24 pages ................................................................... | 84 | 95 | 00",
-            "Up to 32 pages ................................................................... | 112 | 00 95 | 00",
-            "Up to 36 pages ................................................................... | 126 00 | depending | "
-          ]
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Up to 40 pages ................................................................... | 140 00 |  | weight",
-            "Each additional 4 pages or part thereof ............................. | 14 00 | on | ",
-            "ADVERTISEMENT CHARGES : | ADVERTISEMENT CHARGES : | KSh. | cts.",
-            "Full page............................................................................................... | Full page............................................................................................... | 21,880 | 00",
-            "Full single column ............................................................................... | Full single column ............................................................................... | 10,940 | 00",
-            "Three-quarter column .......................................................................... | Three-quarter column .......................................................................... | 8,205 | 00",
-            "Half column ......................................................................................... | Half column ......................................................................................... | 5,470 | 00",
-            "Quarter column or less......................................................................... | Quarter column or less......................................................................... | 2,735 | 00"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Subscribers  and  advertisers  are  advised  to  remit  payment  by  bankers  cheques, Postal  orders  or  money  orders  drawn  in  favour  of  'The  Government  Printer, Nairobi'"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Revenue  stamps  cannot  be  accepted.  Subscriptions  and  advertisement  charges are paid in advance."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "A. G. RUKARIA, Government Printer."
-          ]
         }
       ],
       "other_attributes": {
         "char_span_start_line": 6522,
-        "char_span_end_line": 6815,
-        "lines_in_body": 291
+        "char_span_end_line": 6602,
+        "lines_in_body": 78
       },
       "provenance": {
         "header_match": "strict",
         "line_span": [
           6522,
-          6815
+          6602
         ],
         "raw_header_line": "GAZETTE NOTICE NO. 13493",
         "stitched_from": []
@@ -37438,13 +37191,17 @@
       "confidence_scores": {
         "notice_number": 1.0,
         "structure": 1.0,
-        "spatial": 0.7,
-        "boundary": 1.0,
-        "composite": 0.925
+        "spatial": 0.619,
+        "boundary": 0.85,
+        "composite": 0.875
       },
       "confidence_reasons": [
-        "spatial: 36 repeated 6-grams (possible column merge)"
-      ]
+        "spatial: 8 repeated 6-grams (possible column merge)",
+        "spatial: high mid-sentence cap density 0.16 (57/353 words)",
+        "boundary: text does not end with terminal punctuation"
+      ],
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-73c308d20ffa",
+      "notice_id": "KE-GAZ-UNKNOWN-73c308d20ffa:13493"
     }
   ]
 }

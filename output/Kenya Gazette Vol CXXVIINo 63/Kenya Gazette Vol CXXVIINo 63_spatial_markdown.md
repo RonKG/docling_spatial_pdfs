@@ -89,8 +89,7 @@ IN Gazette Notice No. 14299 of 2024, Cause No. E366 of 2024, amend the expressio
 
 IN Gazette Notice No. 16653 of 2024, Cause No. E273 of 2024, amend the petitioners names printed as '(1) Odhiambo Collins Odoyo and (2) John Aluko Otuoro' to read '(1) William Opiyo Apiyo and (2) Julius Ogutu Opiyo'.
 
-GAZETTE NOTICE NO. 3862
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3862</span>
 TECHNICAL WORKING GROUP ON GENDER-BASED VIOLENCE (GBV) INCLUDING FEMICIDE
 
 APPOINTMENT
@@ -107,8 +106,7 @@ WILLIAM SAMOEI RUTO,
 
 President.
 
-GAZETTE NOTICE NO. 3863
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3863</span>
 THE NATIONAL TRANSPORT AND SAFETY AUTHORITY ACT ( No. 33 of 2012)
 
 NATIONAL TRANSPORT AND SAFETY AUTHORITY
@@ -129,8 +127,7 @@ President.
 
 *G.N. 391/2025
 
-GAZETTE NOTICE NO. 3864
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3864</span>
 PRESIDENTIAL TASKFORCE ON THE DEVELOPMENT OF KENYA HOME OF HUMAN ORIGINS MUSEUM AND SCIENCE PARK IN THE LAKE TURKANA BASIN
 
 EXTENSION OF TERM
@@ -143,8 +140,7 @@ FELIX K. KOSKEI,
 
 Chief of Staff and Head of the Public Service.
 
-GAZETTE NOTICE NO. 3865
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3865</span>
 THE INSURANCE ACT
 
 ( Cap. 487)
@@ -171,8 +167,7 @@ Cabinet Secretary for the
 
 National Treasury and Economic Planning.
 
-GAZETTE NOTICE NO. 3866
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3866</span>
 THE FIREARMS ACT
 
 ( Cap. 114)
@@ -211,8 +206,7 @@ KIPCHUMBA MURKOMEN,
 
 Cabinet Secretary for Interior and National Administration.
 
-GAZETTE NOTICE NO. 3867
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3867</span>
 THE UNIVERSITIES ACT
 
 ( Cap. 210)
@@ -237,8 +231,7 @@ JULIUS MIGOS OGAMBA,
 
 Cabinet Secretary for Education.
 
-GAZETTE NOTICE NO. 3868
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3868</span>
 THE SCIENCE, TECHNOLOGY AND INNOVATION ACT
 
 (Cap. 511)
@@ -283,8 +276,7 @@ JULIUS MIGOS OGAMBA,
 
 Cabinet Secretary for Education.
 
-GAZETTE NOTICE NO. 3869
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3869</span>
 THE KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ACT
 
 ( No. 4 of 2013)
@@ -305,8 +297,7 @@ JULIUS MIGOS OGAMBA,
 
 Cabinet Secretary for Education.
 
-GAZETTE NOTICE NO. 3870
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3870</span>
 THE SOCIAL HEALTH INSURANCE ACT
 
 ( No. 16 of 2023)
@@ -329,8 +320,7 @@ Cabinet Secretary for Health.
 
 *G.N. 391/2025
 
-GAZETTE NOTICE NO. 3871
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3871</span>
 THE STATE CORPORATIONS ACT
 
 ( Cap. 446)
@@ -351,8 +341,7 @@ ADEN DUALE,
 
 Cabinet Secretary for Health.
 
-GAZETTE NOTICE NO. 3872
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3872</span>
 THE TEA ACT
 
 ( No. 23 of 2020)
@@ -373,8 +362,7 @@ MUTAHI KAGWE,
 
 Cabinet Secretary for Agriculture and Livestock Development.
 
-GAZETTE NOTICE NO. 3873
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3873</span>
 THE MINING ACT
 
 ( Cap. 306)
@@ -412,8 +400,7 @@ Dated the 20th March, 2025.
 
 HASSAN ALI JOHO, Cabinet Secretary for Mining.
 
-GAZETTE NOTICE NO. 3874
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3874</span>
 THE MINING ACT
 
 ( Cap. 306)
@@ -457,8 +444,7 @@ Dated the 20th March, 2025.
 
 HASSAN ALI JOHO, Cabinet Secretary for Mining.
 
-GAZETTE NOTICE NO. 3875
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3875</span>
 THE NATIONAL SOCIAL SECURITY FUND ACT
 
 ( Cap. 258)
@@ -479,8 +465,7 @@ ALFRED MUTUA,
 
 Cabinet Secretary for Labour and Social Protection.
 
-GAZETTE NOTICE NO. 3876
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3876</span>
 KENYA LAW REFORM COMMISSION ACT ( No. 19 of 2023)
 
 KENYA LAW REFORM COMMISSION
@@ -499,8 +484,7 @@ DORCAS ODUOR,
 
 Attorney-General.
 
-GAZETTE NOTICE NO. 3877
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3877</span>
 THE WAQF ACT
 
 ( Cap. 109)
@@ -519,8 +503,7 @@ DORCAS A. ODUOR,
 
 Attorney-General.
 
-GAZETTE NOTICE NO. 3878
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3878</span>
 THE CONSTITUTION OF KENYA
 
 THE INTERGOVERNMENTAL RELATIONS ACT
@@ -543,8 +526,7 @@ DORCAS A. ODUOR,
 
 Attorney-General.
 
-GAZETTE NOTICE NO. 3879
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3879</span>
 THE CONSTITUTION OF KENYA
 
 THE COUNTY GOVERNMENTS ACT
@@ -573,8 +555,7 @@ MUTULA KILONZO JUNIOR, Governor, Makueni County.
 
 MR/6522056
 
-GAZETTE NOTICE NO. 3880
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3880</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -589,8 +570,7 @@ J. O. MAURA, Registrar of Titles, Nairobi.
 
 MR/6527887
 
-GAZETTE NOTICE NO. 3881
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3881</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -607,8 +587,7 @@ MR/6527905
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3882
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3882</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -625,8 +604,7 @@ P. A. PESA, Registrar of Titles, Nairobi.
 
 MR/6527917
 
-GAZETTE NOTICE NO. 3883
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3883</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -643,8 +621,7 @@ MR/6527880
 
 Registrar of Titles, Mombasa.
 
-GAZETTE NOTICE NO. 3884
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3884</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -661,8 +638,7 @@ MR/6522069
 
 Registrar of Titles, Mombasa.
 
-GAZETTE NOTICE NO. 3885
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3885</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -677,8 +653,7 @@ S. N. SOITA, Registrar of Titles, Mombasa.
 
 MR/6522045
 
-GAZETTE NOTICE NO. 3886
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3886</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -693,8 +668,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6522001
 
-GAZETTE NOTICE NO. 3887
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3887</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -709,8 +683,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6527947
 
-GAZETTE NOTICE NO. 3888
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3888</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -725,8 +698,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6522041
 
-GAZETTE NOTICE NO. 3889
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3889</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -743,8 +715,7 @@ MR/6522031
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3890
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3890</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -759,8 +730,7 @@ S.  C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6522028
 
-GAZETTE NOTICE NO. 3891
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3891</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -775,8 +745,7 @@ P. A. PESA, Registrar of Titles, Nairobi.
 
 MR/6527801
 
-GAZETTE NOTICE NO. 3892
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3892</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -793,8 +762,7 @@ MR/6527879
 
 Land Registrar, Mombasa.
 
-GAZETTE NOTICE NO. 3893
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3893</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -811,8 +779,7 @@ MR/6522006
 
 Land Registrar, Uasin Gishu County.
 
-GAZETTE NOTICE NO. 3894
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3894</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -829,8 +796,7 @@ MR/6527859
 
 Land Registrar, Nakuru District.
 
-GAZETTE NOTICE NO. 3895
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3895</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -847,8 +813,7 @@ MR/6527899
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3896
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3896</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -865,8 +830,7 @@ MR/6527899
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3897
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3897</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -885,8 +849,7 @@ MR/6527830
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3898
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3898</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -903,8 +866,7 @@ MR/6527857
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3899
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3899</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -921,8 +883,7 @@ MR/6522023
 
 Registrar of Titles, Kakamega.
 
-GAZETTE NOTICE NO. 3900
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3900</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -939,8 +900,7 @@ MR/6522071
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3901
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3901</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -957,8 +917,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3902
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3902</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -975,8 +934,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3903
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3903</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -993,8 +951,7 @@ MR/6527900
 
 Land Registrar, Busia County.
 
-GAZETTE NOTICE NO. 3904
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3904</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1011,8 +968,7 @@ MR/6527864
 
 Land Registrar, Nyeri District.
 
-GAZETTE NOTICE NO. 3905
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3905</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1027,8 +983,7 @@ G. M. MUYANGA, Land Registrar, Kiambu County.
 
 MR/6527944
 
-GAZETTE NOTICE NO. 3906
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3906</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1045,8 +1000,7 @@ MR/6527901
 
 Land Registrar, Kiambu County.
 
-GAZETTE NOTICE NO. 3907
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3907</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1061,8 +1015,7 @@ G. M. MUYANGA, Land Registrar, Kiambu County.
 
 MR/6527904
 
-GAZETTE NOTICE NO. 3908
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3908</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1079,8 +1032,7 @@ MR/6527924
 
 Land Registrar, Kiambu County.
 
-GAZETTE NOTICE NO. 3909
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3909</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1095,8 +1047,7 @@ G. M. MUYANGA, Land Registrar, Kiambu County.
 
 MR/6522017
 
-GAZETTE NOTICE NO. 3910
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3910</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1113,8 +1064,7 @@ MR/6527875
 
 Land Registrar, Thika District.
 
-GAZETTE NOTICE NO. 3911
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3911</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1131,8 +1081,7 @@ MR/6527826
 
 Land Registrar, Thika District.
 
-GAZETTE NOTICE NO. 3912
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3912</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1149,8 +1098,7 @@ MR/6522008
 
 Land Registrar, Gatundu District.
 
-GAZETTE NOTICE NO. 3913
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3913</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1167,8 +1115,7 @@ MR/6527878
 
 Land Registrar, Gatundu District.
 
-GAZETTE NOTICE NO. 3914
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3914</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1185,8 +1132,7 @@ MR/6522007
 
 Land Registrar, Kirinyaga County.
 
-GAZETTE NOTICE NO. 3915
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3915</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1203,8 +1149,7 @@ MR/6527827
 
 Land Registrar, Embu District.
 
-GAZETTE NOTICE NO. 3916
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3916</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1221,8 +1166,7 @@ MR/6527933
 
 Land Registrar, Embu District.
 
-GAZETTE NOTICE NO. 3917
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3917</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1239,8 +1183,7 @@ MR/6527907
 
 Land Registrar, Meru County.
 
-GAZETTE NOTICE NO. 3918
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3918</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1257,8 +1200,7 @@ MR/6522010
 
 Land Registrar, Meru Central District.
 
-GAZETTE NOTICE NO. 3919
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3919</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1275,8 +1217,7 @@ MR/6522074
 
 Land Registrar, Meru Central District.
 
-GAZETTE NOTICE NO. 3920
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3920</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1293,8 +1234,7 @@ MR/6522030
 
 Land Registrar, Meru Central District.
 
-GAZETTE NOTICE NO. 3921
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3921</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1311,8 +1251,7 @@ MR/6527902
 
 Land Registrar, Nyandarua/Samburu County.
 
-GAZETTE NOTICE NO. 3922
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3922</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1329,8 +1268,7 @@ MR/6527903
 
 Land Registrar, Nyandarua/Samburu County.
 
-GAZETTE NOTICE NO. 3923
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3923</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1347,8 +1285,7 @@ MR/6527852
 
 Land Registrar, Nyandarua/Samburu County.
 
-GAZETTE NOTICE NO. 3924
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3924</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1365,8 +1302,7 @@ MR/6527854
 
 Land Registrar, Laikipia County.
 
-GAZETTE NOTICE NO. 3925
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3925</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1383,8 +1319,7 @@ MR/6522018
 
 Land Registrar, Laikipia County.
 
-GAZETTE NOTICE NO. 3926
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3926</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1401,8 +1336,7 @@ MR/6527941
 
 Land Registrar, Kitui District.
 
-GAZETTE NOTICE NO. 3927
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3927</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1417,8 +1351,7 @@ G. M. MALUNDU, Land Registrar, Kitui County.
 
 MR/6527895
 
-GAZETTE NOTICE NO. 3928
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3928</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1435,8 +1368,7 @@ MR/6527906
 
 Land Registrar, Kitui County.
 
-GAZETTE NOTICE NO. 3929
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3929</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1453,8 +1385,7 @@ MR/6527833
 
 Land Registrar, Makueni County.
 
-GAZETTE NOTICE NO. 3930
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3930</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1471,8 +1402,7 @@ MR/6527894
 
 Land Registrar, Makueni County.
 
-GAZETTE NOTICE NO. 3931
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3931</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1489,8 +1419,7 @@ MR/6522054
 
 Land Registrar, Machakos County.
 
-GAZETTE NOTICE NO. 3932
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3932</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1507,8 +1436,7 @@ MR/6522055
 
 Land Registrar, Machakos County.
 
-GAZETTE NOTICE NO. 3933
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3933</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1525,8 +1453,7 @@ MR/6122038
 
 Land Registrar, Kajiado West District.
 
-GAZETTE NOTICE NO. 3934
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3934</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1541,8 +1468,7 @@ T. H. HAITHAR, Land Registrar, Kajiado County.
 
 MR/6522042
 
-GAZETTE NOTICE NO. 3935
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3935</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1559,8 +1485,7 @@ MR/6527911
 
 Land Registrar, Kajiado County.
 
-GAZETTE NOTICE NO. 3936
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3936</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1577,8 +1502,7 @@ MR/6527794
 
 Land Registrar, Trans Nzoia County.
 
-GAZETTE NOTICE NO. 3937
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3937</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1595,8 +1519,7 @@ MR/6527838
 
 Land Registrar, Trans Nzoia County.
 
-GAZETTE NOTICE NO. 3938
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3938</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1613,8 +1536,7 @@ MR/6527839
 
 Land Registrar, Siaya District.
 
-GAZETTE NOTICE NO. 3939
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3939</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1631,8 +1553,7 @@ MR/6527839
 
 Land Registrar, Siaya District.
 
-GAZETTE NOTICE NO. 3940
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3940</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1649,8 +1570,7 @@ MR/6527858
 
 Land Registrar, Rachuonyo.
 
-GAZETTE NOTICE NO. 3941
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3941</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1667,8 +1587,7 @@ MR/6527848
 
 Land Registrar, Homa Bay County.
 
-GAZETTE NOTICE NO. 3942
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3942</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1685,8 +1604,7 @@ MR/6527848
 
 Land Registrar, Homa Bay County.
 
-GAZETTE NOTICE NO. 3943
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3943</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1703,8 +1621,7 @@ MR/6527871
 
 Land Registrar, Homa Bay County.
 
-GAZETTE NOTICE NO. 3944
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3944</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1721,8 +1638,7 @@ MR/6527872
 
 Land Registrar, Homa Bay County.
 
-GAZETTE NOTICE NO. 3945
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3945</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1739,8 +1655,7 @@ MR/6522035
 
 Land Registrar, Migori County.
 
-GAZETTE NOTICE NO. 3946
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3946</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1757,8 +1672,7 @@ MR/6527823
 
 Land Registrar, Migori County.
 
-GAZETTE NOTICE NO. 3947
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3947</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1773,8 +1687,7 @@ J. O. OSIOLO, Land Registrar, Ugenya District.
 
 MR/6527949
 
-GAZETTE NOTICE NO. 3948
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3948</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1789,8 +1702,7 @@ T. N. NDEGE, Land Registrar, Bomet County.
 
 MR/6527752
 
-GAZETTE NOTICE NO. 3949
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3949</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1807,8 +1719,7 @@ MR/6522073
 
 Land Registrar, Kericho County.
 
-GAZETTE NOTICE NO. 3950
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3950</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1825,8 +1736,7 @@ MR/6527938
 
 Land Registrar, Kwale County.
 
-GAZETTE NOTICE NO. 3951
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3951</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -1843,8 +1753,7 @@ MR/6522036
 
 Land Registrar, Taita Taveta County.
 
-GAZETTE NOTICE NO. 3952
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3952</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1861,8 +1770,7 @@ MR/6527886
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3953
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3953</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1877,8 +1785,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6527844
 
-GAZETTE NOTICE NO. 3954
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3954</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1895,8 +1802,7 @@ MR/6527873
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3955
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3955</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1911,8 +1817,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6527814
 
-GAZETTE NOTICE NO. 3956
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3956</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1929,8 +1834,7 @@ MR/6527815
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3957
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3957</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1945,8 +1849,7 @@ S. C. NJOROGE, Registrar of Titles, Nairobi.
 
 MR/6522037
 
-GAZETTE NOTICE NO. 3958
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3958</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1963,8 +1866,7 @@ MR/6527934
 
 Registrar of Titles,
 
-GAZETTE NOTICE NO. 3959
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3959</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1981,8 +1883,7 @@ MR/6522002
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3960
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3960</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -1999,8 +1900,7 @@ MR/6527925
 
 Registrar of Titles,
 
-GAZETTE NOTICE NO. 3961
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3961</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2017,8 +1917,7 @@ MR/6527893
 
 Nairobi.
 
-GAZETTE NOTICE NO. 3962
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3962</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2035,8 +1934,7 @@ MR/6527909
 
 Registrar of Titles, Nairobi.
 
-GAZETTE NOTICE NO. 3963
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3963</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2053,8 +1951,7 @@ MR/6522261
 
 Registrar of Titles, Mombasa.
 
-GAZETTE NOTICE NO. 3964
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3964</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2073,8 +1970,7 @@ MR/6527861
 
 Land Registrar, Kisumu County.
 
-GAZETTE NOTICE NO. 3965
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3965</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2091,8 +1987,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3966
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3966</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2109,8 +2004,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3967
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3967</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2127,8 +2021,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3968
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3968</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2145,8 +2038,7 @@ MR/6522046
 
 Land Registrar, Kiambu.
 
-GAZETTE NOTICE NO. 3969
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3969</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2163,8 +2055,7 @@ MR/6527819
 
 Land Registrar, Nyandarua/Samburu Counties.
 
-GAZETTE NOTICE NO. 3970
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3970</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2181,8 +2072,7 @@ MR/6522048
 
 Registrar of Titles, Machakos.
 
-GAZETTE NOTICE NO. 3971
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3971</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012 )
@@ -2199,8 +2089,7 @@ MR/6527829
 
 Land Registrar, Nyamira County.
 
-GAZETTE NOTICE NO. 3972
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3972</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2217,8 +2106,7 @@ MR/6527939
 
 Land Registrar, Kwale County.
 
-GAZETTE NOTICE NO. 3973
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3973</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2235,8 +2123,7 @@ MR/6527930
 
 Land Registrar, Naivasha District.
 
-GAZETTE NOTICE NO. 3974
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3974</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2253,8 +2140,7 @@ MR/6527817
 
 Land Registrar, Nakuru County.
 
-GAZETTE NOTICE NO. 3975
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3975</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2271,8 +2157,7 @@ E. C. SITIENEI, Land Registrar, Nakuru County.
 
 MR/6527806
 
-GAZETTE NOTICE NO. 3976
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3976</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2289,8 +2174,7 @@ MR/6527899
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3977
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3977</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2307,8 +2191,7 @@ MR/6522024
 
 Land Registrar, Kakamega County.
 
-GAZETTE NOTICE NO. 3978
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3978</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2325,8 +2208,7 @@ MR/6527828
 
 Land Registrar, Bungoma County.
 
-GAZETTE NOTICE NO. 3979
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3979</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2343,8 +2225,7 @@ MR/6527884
 
 Land Registrar, Kiambu County.
 
-GAZETTE NOTICE NO. 3980
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3980</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2361,8 +2242,7 @@ MR/6522057
 
 Land Registrar, Kiambu County.
 
-GAZETTE NOTICE NO. 3981
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3981</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2377,8 +2257,7 @@ G. M.  SAYA, Land Registrar, Murang'a County.
 
 MR/6522060
 
-GAZETTE NOTICE NO. 3982
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3982</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2395,8 +2274,7 @@ MR/6522062
 
 Land Registrar, Murang'a County.
 
-GAZETTE NOTICE NO. 3983
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3983</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2413,8 +2291,7 @@ MR/6527807
 
 Land Registrar, Murang'a County.
 
-GAZETTE NOTICE NO. 3984
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3984</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2431,8 +2308,7 @@ MR/6527845
 
 Land Registrar,
 
-GAZETTE NOTICE NO. 3985
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3985</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2449,8 +2325,7 @@ MR/6527866
 
 Land Registrar, Nyeri County.
 
-GAZETTE NOTICE NO. 3986
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3986</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2467,8 +2342,7 @@ F. W. GATONGA, Land Registrar, Nyeri County.
 
 MR/6527867
 
-GAZETTE NOTICE NO. 3987
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3987</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2485,8 +2359,7 @@ MR/6527897
 
 Land Registrar, Nyeri County.
 
-GAZETTE NOTICE NO. 3988
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3988</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2503,8 +2376,7 @@ MR/6527798
 
 Land Registrar, Nyandarua County.
 
-GAZETTE NOTICE NO. 3989
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3989</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2519,8 +2391,7 @@ J. C. CHERUTICH, Land Registrar, Vihiga County.
 
 MR/6527800
 
-GAZETTE NOTICE NO. 3990
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3990</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2535,8 +2406,7 @@ A. W. MARARIA, Land Registrar, Kajiado County.
 
 MR/6527950
 
-GAZETTE NOTICE NO. 3991
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3991</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2553,8 +2423,7 @@ MR/6522022
 
 Land Registrar, Nandi County.
 
-GAZETTE NOTICE NO. 3992
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3992</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2571,8 +2440,7 @@ MR/6522021
 
 Land Registrar, Nandi County.
 
-GAZETTE NOTICE NO. 3993
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3993</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2593,8 +2461,7 @@ Land Registrar, Kajiado West.
 
 *Gazette Notice No. 3298 of 2025 is revoked.
 
-GAZETTE NOTICE NO. 3994
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3994</span>
 THE LAND REGISTRATION ACT
 
 ( No. 3 of 2012)
@@ -2609,8 +2476,7 @@ J. M. RAMA, Land Registrar, Kilifi County.
 
 MR/6122049
 
-GAZETTE NOTICE NO. 3995
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3995</span>
 THE LAND ACT
 
 ( No. 6 of 2012)
@@ -2650,8 +2516,7 @@ Dated the 5th March, 2025.
 
 MR6522032
 
-GAZETTE NOTICE NO. 3996
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3996</span>
 GERSHOM OTACHI,
 
 Chairman, National Land Commission.
@@ -2721,8 +2586,7 @@ Commissioner of Customs and Border Control.
 Place | Limits | Purpose
  | on the Agriplast Investment SEZ Limited Layout Plan (deposited in the Office of the Commissioner of Customs and Border Control) | 
 
-GAZETTE NOTICE NO. 3997
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3997</span>
 THE SEEDS AND PLANT VARIETIES ACT
 
 ( Cap. 326)
@@ -2867,8 +2731,7 @@ Cotton (Genetically Modified) | Us 255 Bg2 | Us 410 Bgii | Seedworks Internation
 
 Maintainer and Source
 
-GAZETTE NOTICE NO. 3998
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3998</span>
 THE UNCLAIMED FINANCIAL ASSETS ACT ( No. 40 of 2011)
 
 UNCLAIMED FINANCIAL ASSETS TRUST FUND
@@ -2958,8 +2821,7 @@ A complete set of Financial Statements for FY 2023-2024 for the Trust Fund and f
 
 MR/6524080
 
-GAZETTE NOTICE NO. 3999
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 3999</span>
 THE LEGAL EDUCATION ACT
 
 ( No. 27 of 2012)
@@ -3616,8 +3478,7 @@ S/No. | Reg. No. | Name | Nationality | Exam | Puppilage
 618. | CLE20231800 | Chumba Wesley Kipruto | Kenyan | Pass | Compliant
 619. | CLE20231808 | Michelle Nyabuonya Khaemba | Kenyan | Pass | Compliant
 
-GAZETTE NOTICE NO. 4000
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4000</span>
 THE ENGINEERS ACT, 2011
 
 ENGINEERS BOARD OF KENYA
@@ -5702,3 +5563,222 @@ S/No. | Reg. No. | Name | Postal Address | Affixes
  |  |  |  | MIEEE.,
 1614 | A3882 |  | P.O. Box 38081-00623 | P.Eng.,BEng.,GIEK
  |  | Eng. Raghwani, Arun Shivji | Nairobi | 
+
+S/No. | Reg. No. | Name | Postal Address | Affixes
+1615 | A3215 | Eng. Rama, James Mahinda | P.O. Box 34059 -00100 Nairobi | P.Eng.,BSc., MIEK
+1616 | A5030 | Eng. Rangili, Erick Otieno | P.O Box 207-0606 Nairobi | P.Eng.,BSc.,MIEK
+1617 | A2707 | Eng. Raude, James Messo | P.O. Box 4925-Kisumu | P.Eng.BSc.,MSc.,MIEK
+1618 | A4605 | Eng. Rayolah, Kennedy Ukeh | P.O. Box 10320-00200 Nairobi | P.Eng.,BSc.,MIEK
+1619 | A4627 | Eng. Riaman, Elias Pchumba | P.O. Box 148-30600 Kapenguria | P.Eng.,BEng.,MIEK
+1620 | A5066 | Eng. Riitho, Joshua Ichangi | P.O Box 19641-00202 Nairobi | P.Eng.,BSc.,MIEK
+1621 | A3150 | Eng. Rono, Michael Kiptonui | P.O. Box 48151-00100 Nairobi | P.Eng.,BTech., MIEK
+1622 | A4503 | Eng. Rono, Anthony Cheruiyot | P.O. Box 830-20200 Kericho | P.Eng.,BSc.,MIEK
+1623 | A5034 | Eng. Rono, Evans Kipkoech | P.O Box 2002-20200 Kericho | P.Eng.,BSc.,MIEK
+1624 1625 | A4405 | Eng. Ronoh, Erick Kiplangat Eng. Ronoh, Joyline Chepkemoi | P.O. Box 62000-00200 Nairobi P.O Box 30643-00100 Nairobi | P.Eng.,BSc.,MSc., PhD.,MIEK
+1626 | A5069 A4827 | Eng. Rop, Laban Kiprono | P.O Box 1073-20100-Nakuru | P.Eng.,BSc.,MIEK P.Eng.,BSc., MIEk
+1627 1628 | A4217 | Eng. Rosana, Clinton Maroria Eng. Rotich, Zipporah C. | P.O. Box 824-40200 Kisii P.O. Box 76114 Nairobi | P.Eng.,BSc.,MIEK P.Eng., BSc.,MIEK
+1629 | A1952 |  |  | P.Eng.,BTech., MIEK
+ | A3361 | Eng. Rotich, David Kibet | P.O. Box 9111-30100 Eldoret | 
+1630 | A4231 | Eng. Rotich, Nicholas Cheruiyot | P.O. Box 37-20210 Litein | P.Eng.,BEng.,MIEK
+1631 | A4257 | Eng. Rotich, Judy Cherono | P.O. Box 911-30100 Eldoret | P.Eng.,BEng.,MIEK
+1632 1633 | A5164 | Eng. Rotich, Daniel Kipkoros | P.O. Box 207-30400 Kabarnet | P.Eng.,BSc.,MIEK
+1634 | A3207 A5162 | Eng. Ruathe, Julius Kiragu Eng. Ruigu, Christopher Mwangi | P.O. Box 14210-00400 Nairobi P.O. Box 773-00217 Limuru | P.Eng.,BSc., MIEK P.Eng.,BSc.,MIEK
+1635 |  |  |  | 
+1636 | A3160 A1065 | Eng. Runanu, Ambrose Waita Eng. Rutere, Japhet K.G | P.O. Box 27753-00506 Nairobi P.O. Box 67744- 00200 Nairobi | P.Eng.,BSc.,MIEK P.Eng., BSc., C.Eng., MICE., MIEK., MASCE.,
+ |  |  |  | MACEK., MAAK (E)., ACIAArb.
+1637 | A4525 | Eng. Ruto, Fredrick Kiprono | P.O. Box 38650-00623 Nairobi | P.Eng.,BSc.,MIEK P.Eng.,BEng.,MIEK
+1638 1639 | A5182 | Eng. Ruto, Hillary Kiprono Eng. Rutto, Edwin Kiprono | P.O. Box 431-20210 Litein P.O. Box 6444-00620 Nairobi | P.Eng.,BSc.,MIEK
+ | A3940 |  | P.O. Box 2547-30100 Eldoret | P.Eng.,BSc.,MIEK
+1640 | A5006 | Eng. Rutto, Cornelius Kipkeu Eng. Ruttoh, Ernest Kipkirui |  | 
+1641 | A3021 | Eng. Ruwa, Jacob Z. | P.O. Box 122-20204 Roret | P.Eng.,BTech.,MIEK P.Eng., BSc.,MIEK
+1642 | A1693 | Eng. Rwamba, Gideon | P.O. Box 2833- 00200 Nairobi P.O Box 21646-00100 Nairobi | 
+1643 1644 | A3665 A4390 | Gitonga Eng. Saani, David Muli | P.O. Box 14835-00100 Nairobi | P.Eng.,BTech.,MSc.,MIEK P.Eng.,BEng.,MIEK
+1645 | A3010 | Eng. Sabuni, Benedette Nabwile | P.O. Box 2403-50100 | P.Eng.,BSc.,MPhil.MIEK
+ |  | Waswa | Kakamega | 
+1646 1647 | A3273 A4548 | Eng. Sacho, Daniel Kipkenei Eng. Sagini, Miriam Nyaboke | P.O. Box 101516-00101 Nairobi | P.Eng.,BTech., MIEK P.Eng.,BSc.,MIEK
+1648 | A4560 | Eng. Saidimu, Dennis Leteipa | P.O. Box 186-00204 Athi River P.O. Box 245-40700 Kilgoris | P.Eng.,BEng.,MIEK
+1649 | A4441 | Eng. Salim, Ali Mlatso | P.O. Box 4-80403 Kwale | P.Eng.,BSc.,MIEK
+ | A5105 | Eng. Salim, Bush Saidi | P.O Box 1011-50102 Mumias | P.Eng.,BEng.,MIEK
+1650 | A3590 | Eng. Sammy, Melvin Sawe | P.O. Box 398-00200 Nairobi | P.Eng.,BTech.,MIEK
+1651 | A4015 |  |  | 
+1652 |  | Eng. Sammy, Paul Kimeu Eng. Samoei, Daniel Kiprop | P.O. Box 3075 Machakos | P.Eng.,BEng.,MArts.,MIEK P.Eng.,BSc., MIEk
+1653 1654 | A4661 A4006 | Eng. Samwel, Maroa Chacha | P.O. Box 48-20300 Ng'arua P.O. Box 111-40413 | P.Eng.,BSc.,MIEK
+1655 | A5065 | Eng. Sang, Joseph Kipyegon | Kehancha P.O. Box 67679 - 00200 | PEng.,BSc.,MSc.,PhD.,MIEK
+1656 | A4252 | Eng. Saya, James Indika | Nairobi P.O. Box 79254-00200 Nairobi | P.Eng.,BSc.,MIEK
+1657 | A3374 | Eng. Schwartzman, Joseph | P.O. Box 30118-00100 Nairobi | P.Eng.,BSc.,MSc.,MIEK
+1658 | A3471 | Eng. Segero, Bernaby Dally | P.O. Box 46060- 00100 Nairobi | P.Eng.,MEng., MIEK
+1659 1660 | A2690 A1254 | Eng. Semutwa, Albert Rumanzi Eng. Shankla, Arjan | P.O. Box 7841-00100 Nairobi P.O. Box 41990 Nairobi | P.Eng.,BSc.,MIEK P.Eng., B.Eng.,
+1661 | A3683 |  |  | MIStructE. P.Eng.,BSc.,GIEK
+1662 | A2639 | Eng. Shikoli, Brian Akhonya Eng. Shikuku, Martin Wycliffe | P.O. Box 1623-50100 Kakamega P.O. Box 660 Nakuru | R. Eng., BTech.,MIEK
+1663 | A4673 | Eng. Shitote, Geoffrey Olubaha | P.O. Box 85706-80100 Mombasa | P.Eng.,BTech., MIEk
+1664 | A4261 | Eng. Sichangi, Kennedy Wafula | P.O. Box 40-50211 Bungoma | P.Eng.,BSc.,MIEK
+1665 | A5003 | Eng. Sila, Charles Kyalo | P.O. Box 3221-00100 Nairobi | P.Eng.,BEng.,MIEK
+1666 | A3736 |  | P.O. Box 21773-00505 Nairobi | P.Eng.,BSc.,GIEK
+1667 | A4648 | Eng. Simba, Lorena Evon Achieng Eng. Simba, Alex Tonny | P.O. Box 30173-00100 Nairobi | P.Eng.,BSc., MIEk
+1668 1669 | A5165 A3631 | Eng. Simbeiwet, Daniel Koskei | P.O Box 270-20152 P.O. Box 52514-00200 Nairobi | P.Eng.,BEng.,MIEK P.Eng.,BSc.,GIEK
+1670 | A2404 | Eng. Simbii, Joseph Maluki | Olenguruone P.O. Box 46439 - 00100 Nairobi | P.Eng., BSc.MIEK
+1671 | A3385 | Eng. Simiyu, Jane A. Eng. Simiyu, Michael | P.O. Box 18466-00500 Nairobi | P.Eng.,BTech.,
+1672 | A4670 | Eng. Simiyu, Florida | P.O Box 42446-00100 Nairobi | P.Eng.,MSc., BSc.,
+1673 1674 | A5158 | Nabangi Nasambu Eng. Sinei, Brian Kipyegon | P.O Box 22705-00100 Nairobi | MSc.,MIEK P.Eng.,BEng.,MIEK
+1675 | A388 | Eng. Sira, Kuldip Singh | P.O. Box 66694 - 00800 | MIEk P.Eng., MICE.,
+ | A2814 | Eng. Siror, Joseph Kiplagat | P.O. Box 3555-00100 Nairobi | P.Eng.,BSc, MBA.,MIEK
+1676 |  | Arap Kokwon | Nairobi | C.Eng.,MIEK
+1677 | A3872 A2492 | Eng. Sisungo, Job Musamali Eng. (Dr.) Sitati, Stanley Simiyu | P.O. Box 52258-00100 Nairobi P.O. Box 1454 Eldoret | P.Eng.,BTech.,MIEK
+1678 | A3448 |  |  | 
+1679 |  | Eng. Sitienei, Eric Cheruiyot | P.O. Box 54074-00200 Nairobi P.O. Box 57-30304 Nandi | P.Eng.,BSc.,MSc.,Ph.D.,MIEK P.Eng.,BSc.,MIEK P.Eng.,BSc.,MIEK
+1680 | A5116 A3728 | Eng. Sitienei, Varity Jemutai Eng. Soi, Stanley Kipkemoi | P.O Box 74-30100 Eldoret | P.Eng.,BSc.,MIEK
+1681 | A5115 | Eng. Songok, Titus | P.O. Box 1894-30100 Eldoret | P.Eng.,BSc.,MBA.,
+1682 |  | Eng. Steven, Ingabo | P.O. Box 579-50100 | P.Eng.,BEng.,GIEK
+ | A3520 |  |  | MIEK
+1683 | A3755 | Eng. Sugut, Vincent Kimutai | P.O. Box 806-30100 Eldoret | P.Eng.,BEng.,MSc.,MIEK
+1684 | A3494 | Eng. Sum, Noah Kipyego | Kakamega P.O. Box 2742-30100 Eldoret | P.Eng.,BSc.,MPhil;MIEK
+ |  | Eng. Sungu, Harrison Jerry Shiverenje | P.O. Box 15102-00100 Nairobi | 
+1685 | A3813 |  |  | 
+ |  |  |  | P.Eng.,BSc.,MIET.,MICLES.,MIEK
+
+S/No. | Reg. No. | Name | Postal Address | Affixes
+1686 | A4950 | Eng. Supaki, Nancy Neema | P.O. Box 22480-00400 Nairobi | P.Eng.,BSc., MIEk
+1687 | A3865 | Eng. Sutter, Joel Rutto | P.O. Box 58-20157 Kabarak | P.Eng.,BTech.,MIEK
+1688 | A3764 | Eng. Swabu, Jamal Ali | P.O Box 80801-80100 Mombasa | P.Eng.,BSc.,GIEK
+1689 | A4255 | Eng. Sweta, Joseph Agingu | P.O. Box 3767-40100 Kisumu | P.Eng.,BEng.,MIEK
+1690 | A4765 | Eng. Taffi, Andronics Ogambi | P.O Box 53715-00200-Nairobi | P.Eng.,BSc., MIEk
+1691 | A3621 | Eng. Tai, Julius Kipkoech Eng. | P.O. Box 83836-80100 Mombasa | P.Eng.,BTech.,MIEK
+1692 1693 | A4100 A4297 | Tambo, Nashon Onyango Tangara, Teresia Ipara | P.O. Box 2660-40100 Kisumu P.O. Box 35272-00100 Nairobi | P.Eng.,BSc.,MIEK
+1694 | A2348 | Eng. | P.O. Box 8532 - 00100 Nairobi | P.Eng.,BSc.,MIEK
+1695 | A3701 | Eng. Tanui, John Kipchumba | P.O. Box 41191-00100 Nairobi | P.Eng., BSc.,MIEK P.Eng.,BTech., MIEK
+1696 | Eng. | Eng. Tanui, Joseph Kipruto | P.O. Box 33090-30100 Eldoret | P.Eng.,BEng., MIEk
+1697 | A4709 | Tarus, Newton Kibet | P.O. Box 3875 - 00200 Nairobi | P.Eng., BSc., MCSCE, MEUSC.,MIEK
+ | A2319 | Eng. Telieny, Mike Yego | Nairobi | P.Eng.,BSc., MIEK
+1698 1699 | A3332 | Eng. Terigin, Cornelius Kibet Eng. Theuri, Esau Mirii | P.O. Box 50038-00100 P.O. Box 67744-00200 Nairobi | P.Eng.,BSc.,GIEK
+1700 | A3554 A4396 | Eng. Thilange, Acquilino Munjuri | P.O. Box 00346-00511 Nairobi | P.Eng.,BTech.,MBA.,MIEK
+1701 | A3341 | Eng. Thiongo, Daniel Mwangi | P.O. Box 30156-00100 Nairobi | P.Eng.,BSc., MIEK
+1702 |  |  |  | 
+1703 | A4931 | Eng. Thirima, John Gachinu | P.O Box 44022- 00100 Nairobi | P.Eng.,BSc.,MIEK
+1704 | A2131 A4356 | Eng. Thitai, Richard Githaiga Eng. Thitai, John Mwangi | P.O. Box 4186 - 01002 Thika P.O. Box 3106-10100 Nyeri | P.Eng., BSc., MSc.,MIEK P.Eng.,BSc.,MIEK
+1705 | A2979 | Eng. Thuku, Peter Mwangi | P.O. Box 76702-00620 Nairobi | P.Eng.,BSc.,MIEK
+ |  | Eng. Thuku, John Kimani |  | P.Eng.,BSc.,MIEK
+1706 1707 | A3527 A3618 | Eng. Thuku, Teresia Wanjiru | P.O. Box 5905-00100 Nairobi P.O. Box 33944-00600 Nairobi | P.Eng.,BSc.,MA.,MIEK
+1708 | A3946 | Eng. Thuku, Peter Waithaka | P.O. Box 5905-00100 Nairobi | P.Eng.,BSc.,MIEK
+1709 | A4629 | Eng. Thuku, Samuel Gicheche | P.O. Box 35731-00200 Nairobi | P.Eng.,BEng.,MIEK
+1710 | A3513 | Eng. Thuranira, Murimi | P.O. Box 13011-00100 Nairobi | P.Eng.,BSc.,GIEK
+1711 | A3853 | Eng. Thure, Ceaser Mervin | P.O Box 68053- 00200 Nairobi | P.Eng.,BTech.,MIEK
+1712 | A3508 | Eng. Tirkole, John | P.O. Box 1373-20100 Nakuru | P.Eng.,BTech.,MIEK
+1713 | A2810 | Eng. Tonui, Wesley Kiprono | P.O. Box 4517-30100 Eldoret | P.Eng.,BSc, MIEK P.Eng.,BEng.,MIEK
+1714 |  | Eng. Tonui, Henry Kibett | P.O. Box 3036 Eldoret | 
+1715 | A3862 A4603 | Eng. Tonui, Kevin Kiplangat | P.O. Box 4517-30100 Eldoret | P.Eng.,BSc.,MIEK
+1716 1717 | A5007 A4430 | Eng. Tonui, Cosmas Cheruiyot Eng. Too, Peter Kimeli | P.O Box 73-20203 Londiani P.O. Box 8993-30100 Eldoret | P.Eng.,BTech.,MIEK
+ | A4722 | Eng. Too, Timothy Kibett | P.O. Box 55 Sotik | P.Eng.,BTech.,MA.,MIEK P.Eng.,BSc., MIEk
+1718 1719 | A4833 | Eng. Too, Manasses | P.O Box 409-Kapsabet | P.Eng.,BSc., MIEk
+1720 | A4833 | Kiplangat Eng. Too, Manasses Kiplangat | P.O Box 409-Kapsabet | P.Eng.,BSc., MIEk
+1721 |  |  |  | P.Eng.,BSc.,MIEK
+1722 | A3434 A4990 | Eng. Tubi, Abdulrahman Guyo Eng. Tuitoek, Andrew Kipkogei | P.O. Box 92-60300 Isiolo P.O. Box 272-30400 Kabarnet | P.Eng.,BSc.,MIEK
+1723 1724 | A3348 A4698 | Eng. Tumbo, Martin Maina | P.O. Box 803-40200 Kisii | P.Eng.,BSc., MIEK P.Eng.,BTech.,
+ |  | Eng. Tumbo, Lowry Caleb | P.O. Box 56111-00200 Nairobi | MIEk P.Eng.,BEng.,MIEK
+1725 1726 | A4349 A4651 | Eng. Valji, Alpesh Vijay Eng. Varvani, Bilal Abdulaziz | P.O. Box 75977-00200 Nairobi P.O. Box 40036-80100 | P.Eng.,BSc., MIEk
+1727 | A3901 | Hussein Eng. Vavu, Victor Nzamalu | Mombasa P.O. Box 59528-00200 Nairobi | P.Eng.,BSc.,MSc.,
+1728 |  |  |  | GIEK P.Eng.,BSc.,MIEK
+1729 | A5121 A2433 | Eng. Vincent Ben Jumba Eng. Vithalani,Nanalal Govindji | P.O. Box 8528-00300 Nairobi P.O. Box 49351 Nairobi | P.Eng.BSc.,MIEK
+1730 | A3330 | Eng. Vusaka, Christopher Kisesi | P.O. Box 44456-00100 | P.Eng.,BSc., MIEK
+1731 1732 | A3552 | Eng. Wabwire, Kenneth Ngwabe | Nairobi P.O. Box 186-50400 Butere P.O Box 782-10200 Muranga | P.Eng.,BSc.,GIEK P.Eng.,BSc.,MIEK
+1733 | A5011 A2356 | Eng. Wabwire, Davis Mukotsa | P.O. Box 5131 - 00100 Nairobi | P.Eng., BSc., MSc.,
+1734 |  | Eng. Wachai, Peter Mwangi |  | GIEK P.Eng.,BSc.,MIEK
+1735 | A3569 A2710 | Eng. Wachira , Kennedy Gichohi Eng. Wachira, Kahoro | P.O. Box 23751-00100 Nairobi P.O. Box 1203, Nairobi | P.Eng.BSc.,FIEK
+1736 | A4668 | Eng. Wachira, Elizabeth Wanjira | P.O. Box 5-10300 Kerugoya | P.Eng.,BSc., MIEk
+1737 | A5009 | Eng. Wachira, Daniel Gakumbi | P.O Box 291-10103 | P.Eng.,BSc.,MIEK
+1738 | A2455 | Eng. Wafula, Ezekiel Fukwo | Mukurweini P.O. Box 71541 - 00622 Nairobi | P.Eng.,BSc.,MIEK
+1739 | A2737 |  | P.O. Box 430-50204 Kimilili | P.Eng.,BSc.,MIEK
+1740 | A4363 | Eng. Wafula, Timothy Namunaba Eng. Wafula, Kevin Simiyu | P.O. Box 2558 Bungoma | P.Eng.,BSc.,MIEK
+1741 1742 | A5142 | Eng. Wafula, Michael Masibo | P.O.Box 1470 -50205 Webuye | P.Eng.,BSc.,MIEK
+1743 | A2457 | Eng. Wagai, Julius Karachi | P.O. Box 11868 - 00400 | P.Eng.,BEng.,MIEK
+1744 | A5139 | Eng. Waguma, Lucas Okong'o | Nairobi P.O Box 14353-00100 Nairobi | P.Eng.,BSc.,MIEK
+1745 | A1643 | Eng. Wahome, Samuel Muraguri | P.O. Box 60039 Nairobi | P.Eng., BSc., P.Eng.,BSc.,MIEK
+1746 | A5175 | Eng. Wahome, Eunice Wangari | P.O. Box 80-00300 Nairobi | MSc.,MIEK P.Eng.,BTech., MIEK
+1747 | A3269 | Eng. Waicungo, Samson Kinyua | P.O. Box 99329-80107 Mombasa | P.Eng.,BSc., MIEK
+1748 | A2835 | Eng. Waigwa, Joseph Kinyua | P.O. Box 104198-00101 Nairobi | P.Eng.,BSc.,MIEK
+1749 | A5168 A2003 | Eng. Waikwa, Dennis Gitonga | P.O. Box 495-10400 Nanyuki P.O. Box 1175 - 00502karen | P.Eng., BSc., MIEK
+1750 | A2028 | Eng. Wainaina, Michael | P.O. Box 4356 - 00506 Nairobi | P.Eng., BSc.,MIEK
+1751 |  | Eng. Wainaina, James Kamau |  | 
+1752 | A3543 A4281 | Eng. Wainaina, James Mwangi Eng. Wainaina, Pauline Muthoni | P.O. Box 104-20100 Nairobi P.O. Box 605 Karatina | P.Eng.,BTech.,MBA.,MIEK P.Eng.,BSc.,MIEK
+1753 | A4518 |  |  | P.Eng.,BSc.,MIEK
+1754 |  | Eng. Wainaina, Jeremy Maina | P.O. Box 82-20300 Nyahururu | P.Eng.,BTech., MIEK
+1755 | A3127 A3252 | Eng. Wairimu, Samuel Maina | P.O. Box 104175-00101 Nairobi | 
+ |  | Eng. Wairimu, Angela Karigo | P.O. Box 12186-00100 Nairobi | P.Eng.,BSc.,MIEK
+1756 | A4885 | Eng. Wairimu, Joyce Muguru | P.O Box 625-20117-Nakuru | P.Eng.,BSc., MIEk
+1757 | A2699 | Eng. Wairua, Joel Kireru | P.O. Box 30156-00100 Nairobi | P.Eng.BSc.,MIEK
+1758 | A2537 | Eng. Waithaka, Stephen | P.O. Box 2218 Nyahururu | R. Eng.,BSc.,MIEK
+1759 |  | Eng. Waithaka, John Mwangi | P.O. Box 4487 - 00100 Nairobi | R. Eng.,BSc.,MIEK
+ | A2550 |  |  | 
+
+S/No. | Reg. No. | Name | Postal Address | Affixes
+1760 | A2669 Eng. | Waithaka, George Wainaina P.O. Box | 11886-00100 Nairobi | P.Eng.BSc.,MIEK
+1761 | A3528 | Waithaka, David Mburu | P.O. Box 19406-00100 Nairobi | P.Eng.,BSc.,MIEK
+1762 | Eng. A4241 | Eng. Waithaka, Eliud Gachago | P.O. Box 238-10204 Kiria-Ni | P.Eng.,BSc.,MIEK
+1763 | A4515 Eng. Waitheru, | Gladys Gathoni P.O. Box | 367-00100 Nairobi | P.Eng.,BSc.,MIEK
+1764 | A4812 Eng. | Waithira, John Ngugi P.O. Box | 100-01000 Thika P.Eng.,BSc., | MIEk
+1765 | A4414 A2425 | Eng. Waka, Jairus Ngote Wakimani,Joseph | P.O. Box 397-50135 Khwisero | P.Eng.,BSc.,MIEK
+1766 1767 | Eng. | Mukora P.O. Box P.O. Box 41191 - | 72548-00200 Nairobi 00100 Nairobi | P.Eng.BSc.,MIEK
+1768 | A2497 | Eng. Walela, Michael Eng. | 274-50202 Chwele | P.Eng.,BSc.,MIEK
+1769 | A4695 A1588 | Wamalwa, Kennedy Juma P.O Box | Box 52691 - 00200 Nairobi | P.Eng.,Msc., BSc., MIEk P.Eng., BSc.,MIEK
+1770 | Eng. Eng. Wambua, Cecilia | Wamaya, Benson Mukoya P.O. Mutheu | P.O. Box 11751-00100 Nairobi | P.Eng.,BSc.,GIEK
+1771 | A3522 A3837 | Eng. Wambua, Lenah Mutheu | P.O. Box 64801-00620 Nairobi | P.Eng.,BSc.,MIEK
+1772 | A1519 |  | P.O. Box 43561 Nairobi | 
+1773 | Eng. | Wambugu, Mercy Muthoni |  | P.Eng., BSc., DIPL.,MIEK
+1774 | A2397 | Eng. Wambugu, Simon Gateru | P.O. Box 7391-01000 Thika | P.Eng., BSc., MIEK
+ | A5113 | Eng. Wambui, Kariuki Tabitha | P.O Box 1850-20100 Nakuru | P.Eng.,BSc.,MIEK
+1775 | A2263 | Eng. Wamugunda, Kinyua | P.O. Box 73259 - 00200 Nairobi | P.Eng., BSc.,MIEK
+1776 1777 | A2263 | Eng. Wamugunda, Kinyua Kariuki | P.O. Box 73259 - 00200 Nairobi | P.Eng., BSc.,MIEK
+1778 | A4766 A3589 | Eng. Wamugunda, Anthony Eng. Wanangwe, Davis Shatimba | P.O Box 26912-00100-Nairobi P.O. Box 24398-00100 Nairobi | P.Eng.,BEng., MIEk P.Eng.,BSc.,MIEK
+1779 |  | Eng. Wanarua, Stanley Muchina | P.O. Box 68053-00200 Nairobi | 
+1780 | A3525 | Eng. Wandera, Simon Mdondo | P.O. Box 50948-00100 Nairobi | P.Eng.,BSc.,MIEK P.Eng.,BTech., MPhil.,MIEK
+1781 | A2685 A2541 | Eng. Wandiema, John Javan | P.O. Box 370-40300 Homabay | R. Eng.,BSc.,MIEK
+1782 | A3667 | Eng. Wandu, Anthony Gichira | P.O Box 17085-00100 Nairobi | P.Eng.,BSc.,GIEK
+1783 | A3832 | Eng. Wangare, Monicah | P.O. Box 30260-00100 Nairobi | P.Eng.,BTech.,MIEK
+1784 | A5124 | Eng. Wangia, Stephen Wakholi | P.O Box 39-50127 Nambacha | P.Eng.,BSc.,MIEK P.Eng.,BSc.,MIEK
+1785 | A3181 | Eng. Wangui, Maureen | P.O. Box 102113-00101 Nairobi | 
+1786 | A3185 | Eng. Wangui, Erastus Waweru | P.O. Box 3905-00506 Nairobi | P.Eng.,BSc.,MIEK
+1787 | A4775 | Eng. Wangwe, Andrew Boaz Eng. Wanjala, Godfrey Wekesa | P.O Box 953-50205-Webuye | P.Eng.,BSc., MIEk P.Eng.,BSc., MIEk
+ | A4754 |  | P.O Box 535-00511 Rongai | 
+1788 1789 | A3768 | Eng. Wanjiku, Geofrey Mwangi | Box 40676-00100 Nairobi | P.Eng.,BSc.,MIEK
+1790 | A3949 A4397 | Eng. Wanjiku, Nicholas Mahinda | P.O. P.O. Box 251-01000 Thika | P.Eng.,BSc.,MIEK
+1791 1792 | A4808 | Eng. Wanjiku, Agnes Wangui Wanjiku, Isaac Maina | P.O. Box 743-20300 Nyahururu Box 3893-00100-Nairobi | P.Eng.,BSc.,MIEK P.Eng.,BSc., MIEk
+1793 |  | Eng. | P.O | P.Eng.,BSc., MIEK
+1794 1795 | A3645 A3639 | Eng. Wanjira, Wilfred Njuguna Eng. Wanjiru, Evan Murimi Nyamu | P.O. Box 161-00300 Nairobi P.O. Box 477-10101 Karatina | P.Eng.,BSc.,MSc.,
+ | A2414 | Eng. Wanjohi, Joseph Mwangi | P.O. Box 1857 - 00200 Nairobi | PhD.,MIEK P.Eng., BSc., MIEK
+1796 1797 | A3379 | Eng. Wanjohi, Francis Kinga | P.O. Box 14287-20100 Nakuru | P.Eng.,BTech., MSc., MIEK P.Eng.,BEng.,MIEK
+1798 | A3638 A3779 | Eng. Wanjohi, Francis Maina | P.O. Box 61730-00200 Nairobi | P.Eng.,BSc.,MIEK
+ | A4043 | Eng. Wanjohi, Jeremiah Kiragu | P.O. Box 62729-00200 Nairobi | P.Eng.,BSc.,MSc., MIEK
+1799 1800 | A4355 | Eng. Wanyama, Paul Eng. Wanyama, Martin Mutoro | P.O. Box 104333-00101 P.O. Box 73442-00200 Nairobi | P.Eng.,BSc.,MBA., MIEK
+ | A2386 |  | Nairobi | P.Eng., BSc.,MIEK
+1801 | A3861 | Eng. Wanyanga, Charles Mwaura | P.O. Box 5290 - 00100 Nairobi P.O. Box 52258-00100 Nairobi | P.Eng.,BEng.,MIEK
+1802 1803 | A5020 | Eng. Wanyela, Milton Archbon Eng. Wanyiri, Edwin Wambugu | P.O Box 182-10105 Naromoru | P.Eng.,BSc.,MIEK
+1804 |  |  | P.O. Box 20198-00200 Nairobi | P.Eng.,BSc., MIEK
+1805 | A2868 A3487 | Eng. Wanyoike, John Karanja Eng. Wanyoike, Paul Kungu | Box 16208-00610 Nairobi | P.Eng.,BTech.,
+1806 | A3647 | Eng. Wanyonyi, Jamin Khalakayi | P.O. P.O. Box 30156-00100 Nairobi | MIEK P.Eng.,BTech.,GIEK
+1807 | A4162 | Eng. Wanyonyi, Bramuel Muliro | P.O. Box 83660-80100 Mombasa | P.Eng.,BSc.,MIEK
+1808 1809 | A4848 | Eng. Washiali, Paul Eshinali | P.O Box 22748-20100-Nakuru | P.Eng.,BSc., MIEk P.Eng.BTech.,MIEK
+ | A2664 | Eng. Wasike, Philip Wanjala | P.O. Box 1272-00100 Nairobi | 
+1810 | A2899 | Eng. Watako, Julius Maloba | P.O. Box 2818 Bungoma | P.Eng.,BSc., MIEK P.Eng., BSc.,
+1811 | A2061 | Eng. Wathome, Alex Mutunga | P.O. Box 7530 -00100 Nairobi | M.I.E.K.,
+1812 | A3948 | Eng. Waweru, James Kimani | P.O. Box 10389-00400 Nairobi | MICE P.Eng.,BSc.,MIEK
+1813 | A5000 | Eng. Waweru, Boaz Kamau | P.O Box 135-00206 Kiserian | P.Eng.,BEng.,MIEK
+1814 1815 | A5155 | Eng. Waweru, Bonface Ng'aru | P.O. Box 64518-00620 Nairobi | P.Eng.,BSc.,MIEK P.Eng.,BSc., MIEK
+1816 | A3320 | Eng. Wawire, Alex Wamboga | P.O. Box 9882-00100 Nairobi P.O. Box 151-40100 Kisumu | R. Eng.,
+1817 | A2595 | Eng. Wekesa, Cleophas Simiyu | P.O. Box 7534-00200 Nairobi | P.Eng.,BSc.,MIEK
+1818 | A3906 | Eng. Wekesa, Edmond Wanyela |  | BSc.,MIEK P.Eng.,BEng.,MIEK
+1819 | A5037 A2881 | Eng. Wekesa, Florence Nasimiyu C. | Box 27318-00100 Nairobi Box 26190-00100 Nairobi | P.Eng.,BTech.,
+1820 |  | Eng. Wende, Luke Ouma | P.O. P.O. | P.Eng.,BTech.,
+1821 | A3008 A3191 | Eng. Wende, Joash Odhiambo | P.O. Box 2585-40100 Kisumu | MIEK MIEK P.Eng.,BSc.,MIEK
+1822 | A3354 | Eng. Wendot, Robert | Box 1803-00502 Nairobi Box 20023-00200 Nairobi | P.Eng., BSc., MIEK
+1823 1824 | A4816 | Eng. Were, Dickson Omondi Eng. Weya, Joseph Otieno | P.O. P.O. P.O Box 822-40610-Yala | P.Eng.,BSc., MIEk
+ | A3823 | Eng. Wilfred, Kipkirui Langat | Box 49712-00100 Nairobi | P.Eng.,BSc.,GIEK
+1825 |  |  | P.O. | P.Eng.,BSc.,MIEK
+1826 | A5212 A4185 | Eng. Wochuna, Victor Mabuka | P.O Box 235-50202 Chwele P.O. Box 151-40111 Pap Onditi | 
+1827 |  | Eng. Wycliffe, Were Owiti | P.O. Box 24811-00502 Nairobi | P.Eng.,BTech.,MIEK P.Eng.,BSc.,MIEK
+1828 | A4134 | Eng. Yator, Neville Kipkirui | P.O. Box 24103-00100 Nairobi | P.Eng.,BSc, MIEK
+ | A2930 A4089 | Eng. Yego, Shadrack Kiprutto Eng. Yego, Nathan Kiplagat | P.O. Box 17958-00100 Nairobi | P.Eng.,BSc.,MIEK
+1829 |  | Mibey |  | P.Eng.,BSc.,MIEK
+1830 | A4608 | Eng. Yego, Linus Kibet | P.O. Box 10097 Eldoret | 
+1831 | A4481 | Eng. Yegon, Ronny Cheruiyot | P.O. Box 133-20210 Nakuru | P.Eng.,BSc.,MIEK
+1832 | A4992 | Eng. Zembi, Anita Jerop | P.O Box 53 -30400 Kabarnet | P.Eng.,BSc.,MIEK
+ |  | Eng. Zimbu, Salim Ali | P.O. Box 694-80400 Ukunda | P.Eng.,BSc.,MSc., MIEK
+1833 | A4288 |  |  | 

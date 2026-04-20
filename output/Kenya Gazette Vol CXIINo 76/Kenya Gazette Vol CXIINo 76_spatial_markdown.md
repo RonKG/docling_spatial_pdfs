@@ -4,8 +4,7 @@ H
 
 Vol. CXII-No. 76
 
-GAZETTE NOTICE NO. 9103
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 9103</span>
 THE CONSTITUTION OF KENYA
 
 THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT
@@ -38,8 +37,7 @@ Chairman,
 
 Interim Independent Electoral Commission.
 
-GAZETTE NOTICE NO. 9104
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 9104</span>
 THE CONSTITUTION OF KENYA
 
 THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT
@@ -112,8 +110,7 @@ THE KENYA GAZETTE
 
 NAIROBI, 3rd August, 2010
 
-GAZETTE NOTICE NO. 9105
-
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 9105</span>
 THE CONSTITUTION OF KENYA
 
 THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT
