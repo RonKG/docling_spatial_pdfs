@@ -1,7 +1,7 @@
 {
   "Kenya Gazette Vol CXINo 100": {
     "present": true,
-    "mean_composite": 0.99,
+    "mean_composite": 0.9904773519163763,
     "min_composite": 0.8,
     "layout": 0.993,
     "ocr_quality": 0.995,
@@ -9,7 +9,7 @@
   },
   "Kenya Gazette Vol CXINo 103": {
     "present": true,
-    "mean_composite": 0.989,
+    "mean_composite": 0.9891625,
     "min_composite": 0.745,
     "layout": 0.997,
     "ocr_quality": 0.992,
@@ -33,7 +33,7 @@
   },
   "Kenya Gazette Vol CXXIVNo 282": {
     "present": true,
-    "mean_composite": 0.968,
+    "mean_composite": 0.9684427860696518,
     "min_composite": 0.745,
     "layout": 0.984,
     "ocr_quality": 0.987,
