@@ -5,6 +5,9 @@
   "pdf_size_bytes": 679855,
   "pdf_sha256": "bb498d8c331826cf094b1c6954dc92158f4ce0d75acbdcaab4fd16d0ae5b835e",
   "gazette_issue_id": "KE-GAZ-UNKNOWN-bb498d8c3318",
+  "library_version": "0.1.0",
+  "schema_version": "1.0",
+  "extracted_at": "2026-04-20T00:47:24Z",
   "warnings": [
     {
       "kind": "masthead.parse_failed",

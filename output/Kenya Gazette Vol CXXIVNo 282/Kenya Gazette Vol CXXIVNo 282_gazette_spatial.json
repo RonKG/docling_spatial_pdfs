@@ -5,6 +5,9 @@
   "pdf_size_bytes": 1178808,
   "pdf_sha256": "fd6adb427496096cd9e00ad652e7915556a021518c4713a7d929c918f9daf12e",
   "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
+  "library_version": "0.1.0",
+  "schema_version": "1.0",
+  "extracted_at": "2026-04-20T00:40:35Z",
   "warnings": [],
   "pages": 52,
   "volume": "CXXIV",
@@ -24864,7 +24867,9 @@
         "structure": 0.9,
         "spatial": 0.3,
         "boundary": 0.85,
-        "composite": 0.77
+        "composite": 0.77,
+        "llm_semantic": 0.75,
+        "composite_enhanced": 0.762
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
@@ -24873,7 +24878,20 @@
         "boundary: text does not end with terminal punctuation"
       ],
       "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
-      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15951"
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15951",
+      "llm_validation": {
+        "coherence_score": 0.8,
+        "completeness_score": 0.5,
+        "single_notice_score": 1.0,
+        "legal_structure_score": 0.7,
+        "issues": [
+          "Text appears truncated at the end.",
+          "Some sections lack clear transitions, affecting flow.",
+          "Missing closing date and signature."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "15952",
@@ -25827,7 +25845,9 @@
         "structure": 0.9,
         "spatial": 0.2,
         "boundary": 0.85,
-        "composite": 0.745
+        "composite": 0.745,
+        "llm_semantic": 0.65,
+        "composite_enhanced": 0.707
       },
       "confidence_reasons": [
         "structure: only one structural marker present",
@@ -25836,7 +25856,20 @@
         "boundary: text does not end with terminal punctuation"
       ],
       "gazette_issue_id": "KE-GAZ-CXXIV-282-2022-12-23",
-      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15952"
+      "notice_id": "KE-GAZ-CXXIV-282-2022-12-23:15952",
+      "llm_validation": {
+        "coherence_score": 0.7,
+        "completeness_score": 0.5,
+        "single_notice_score": 0.8,
+        "legal_structure_score": 0.6,
+        "issues": [
+          "Text appears scrambled in the mitigation options section.",
+          "Notice is truncated and does not end with a date and signature.",
+          "Some sections lack clear transitions, affecting coherence."
+        ],
+        "needs_human_review": true
+      },
+      "needs_human_review": true
     },
     {
       "gazette_notice_no": "15953",

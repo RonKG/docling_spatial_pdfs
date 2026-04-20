@@ -20,12 +20,12 @@
 
 ## Today (the only thing on your plate)
 
-**Current:** F14 — Envelope versioning fields  
-**What:** Add `library_version`, `schema_version`, `extracted_at` to every record  
-**Where:** Modify `process_pdf` in `gazette_docling_pipeline_spatial.ipynb`  
-**Done when:** Spec written, implemented, tests passing, this file updated.
+**Current:** F15 — Hand-label calibration sample  
+**What:** Label ~30 notices manually, run scoring to set confidence baseline  
+**Where:** Create labeled sample in `tests/` directory  
+**Done when:** Labeled sample created, scoring run, baseline captured.
 
-**Previous:** F13 ✅ — Identity fields wired into record (complete, all tests pass)
+**Previous:** F14 ✅ — Envelope versioning fields (complete, all tests pass)
 
 ---
 
@@ -46,7 +46,7 @@
 | **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea |
 | **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 0af6b42 |
 | **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | 29132ed |
-| **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ⬜ Not started | — |
+| **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | — |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ⬜ Not started | — |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ⬜ Not started | — |
 | **F17** | Package skeleton | Create `kenya_gazette/` with `pyproject.toml` | ⬜ Not started | — |
@@ -95,5 +95,6 @@
 | 2026-04-19 | F12 Trailing content detector | Implemented `detect_trailing_content_cutoff()`, truncates last notice before ads/pricing |
 | 2026-04-19 | F13 Identity fields (implementation) | Added helpers `compute_pdf_sha256`, `make_gazette_issue_id`, `make_notice_id`. Modified `process_pdf` to stamp identity fields. All helper unit tests pass. Integration testing pending notebook execution. |
 | 2026-04-19 | F13 Identity fields (completion) | Processed 3 test PDFs. All 6 integration tests PASS. Regression check PASS (no degradation). Gate 2 CLEARED (deterministic IDs confirmed). |
+| 2026-04-19 | F14 Envelope versioning fields | Extended F13 helper cell with `LIBRARY_VERSION="0.1.0"`, `SCHEMA_VERSION="1.0"`, `make_extracted_at()`. Modified `process_pdf` to capture timestamp at top and add three envelope fields. Processed 3 test PDFs. All 4 tests (T1-T4) PASS. Regression check PASS (no degradation). Gate 2 still cleared (extracted_at excluded from identity). |
 
 *Add a row here at the end of every session.*

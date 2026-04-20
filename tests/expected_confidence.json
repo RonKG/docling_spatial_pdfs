@@ -1,11 +1,11 @@
 {
   "Kenya Gazette Vol CXINo 100": {
     "present": true,
-    "mean_composite": 0.0,
-    "min_composite": 0.0,
-    "layout": null,
-    "ocr_quality": null,
-    "n_notices": 0
+    "mean_composite": 0.99,
+    "min_composite": 0.8,
+    "layout": 0.993,
+    "ocr_quality": 0.995,
+    "n_notices": 287
   },
   "Kenya Gazette Vol CXINo 103": {
     "present": true,
