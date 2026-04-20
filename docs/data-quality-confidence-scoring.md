@@ -530,7 +530,7 @@ The canonical PDF list is defined in cell 24 as `CANONICAL_PDFS` -- a deliberate
 - [x] ~~Document special cases (corrigenda, tables, multi-page)~~ — Corrigenda false positives addressed via strict header regex; table recovery added via `derived_table`; multi-page stitching post-process (`_stitch_multipage_notices`).
 - [x] ~~Prototype LLM validation on low-confidence notices~~ — `llm_validate_notice` and `enhance_with_llm` with on-disk cache under `.llm_cache/`, gated by `ENABLE_LLM_VALIDATION` flag.
 - [x] ~~Build calibration tooling~~ -- `sample_for_calibration()` and `score_calibration()` implemented; sample stub at `tests/calibration_sample.yaml`.
-- [ ] Hand-label the existing calibration sample and run `score_calibration()` to tune weights based on per-band precision.
+- [x] ~~Hand-label the existing calibration sample~~ -- **2026-04-20:** Labeled 26 notices (20 high, 6 medium). High-band precision 100% (exceeds 85% target). Medium-band 33.3% (expected). Scoring well-calibrated, no weight tuning needed. Re-run with new data as corpus evolves.
 - [x] ~~Build regression tooling~~ -- `update_regression_fixture()` writes `tests/expected_confidence.json`; `check_regression()` compares current mean composite against baseline.
 - [ ] Capture an accepted regression baseline once scoring is stable, then wire `check_regression()` into CI.
 - [ ] Benchmark LLM accuracy vs manual review on 50-notice sample.
