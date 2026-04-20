@@ -48,7 +48,7 @@
 | **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | 29132ed |
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | e0d9672 |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab |
-| **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | [pending] |
+| **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | 343560d |
 | **F17** | Package skeleton | Create `kenya_gazette/` with `pyproject.toml` | ⬜ Not started | — |
 | **F18** | Pydantic models from contract | Translate contract into classes | ⬜ Not started | — |
 | **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ⬜ Not started | — |
