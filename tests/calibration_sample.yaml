@@ -2,12 +2,11 @@
 # For each entry, set is_correct to true or false after manual review.
 # Then run score_calibration() to compute precision/recall per band.
 #
-# Last calibration run: 2026-04-20
-#   - 26 notices labeled (20 high, 6 medium, 0 low)
-#   - High-band precision: 100% (20/20 correct) - exceeds 85% target
-#   - Medium-band precision: 33.3% (2/6 correct) - expected mixed quality
-#   - Verdict: Scoring well-calibrated, no weight tuning needed
-#   - This is a point-in-time baseline; re-run with new data/PDFs as needed
+# IMPORTANT: This file is OVERWRITTEN each time sample_for_calibration() runs.
+# Before regenerating, commit your labels to git. Calibration history lives
+# in tests/calibration_history.md (not here - it gets blown away).
+#
+# Last generated: [Will be overwritten - see calibration_history.md for timeline]
 
 - pdf: "Kenya Gazette Vol CXINo 103"
   notice_no: "13290"

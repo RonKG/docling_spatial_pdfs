@@ -484,7 +484,7 @@ Use after every meaningful change to the scoring rules (new heuristic, changed w
 | Step | Who | Action |
 | --- | --- | --- |
 | 1. Generate sample | code | `sample_for_calibration()` walks `output/`, buckets every scored notice into bands (`high` >= 0.80, `medium` >= 0.50, `low` < 0.50), and draws up to 20 per band into `tests/calibration_sample.yaml`. Reproducible via `seed=42`. |
-| 2. Hand-label | **you** | Open the YAML file. For each entry, find the notice in `output/<pdf>/<pdf>_spatial_markdown.md` (or the JSON), read it, and set `is_correct: true` or `is_correct: false`. Skip entries you cannot judge -- leave `null`. Even ~30 labels gives meaningful numbers. |
+| 2. Hand-label | **you** | Open the YAML file. For each entry, find the notice in `output/<pdf>/<pdf>_spatial_markdown.md` (or the JSON), read it, and set `is_correct: true` or `is_correct: false`. Skip entries you cannot judge -- leave `null`. Even ~30 labels gives meaningful numbers. Document results in `tests/calibration_history.md` for tracking successive runs. |
 | 3. Score it | code | `score_calibration()` parses the YAML, prints a per-band table (n, correct, wrong, precision), and emits two specific warnings: high-band precision below 85% (scorer too generous) or low-band precision above 30% (scorer too strict). |
 | 4. Decide | **you** | If a warning fires, edit weights in cell 6 (`composite_confidence` and the individual `score_*` functions), re-process the canonical PDFs, re-generate the sample, re-label, re-score. Iterate until precision stabilises. |
 
@@ -530,7 +530,7 @@ The canonical PDF list is defined in cell 24 as `CANONICAL_PDFS` -- a deliberate
 - [x] ~~Document special cases (corrigenda, tables, multi-page)~~ — Corrigenda false positives addressed via strict header regex; table recovery added via `derived_table`; multi-page stitching post-process (`_stitch_multipage_notices`).
 - [x] ~~Prototype LLM validation on low-confidence notices~~ — `llm_validate_notice` and `enhance_with_llm` with on-disk cache under `.llm_cache/`, gated by `ENABLE_LLM_VALIDATION` flag.
 - [x] ~~Build calibration tooling~~ -- `sample_for_calibration()` and `score_calibration()` implemented; sample stub at `tests/calibration_sample.yaml`.
-- [x] ~~Hand-label the existing calibration sample~~ -- **2026-04-20:** Labeled 26 notices (20 high, 6 medium). High-band precision 100% (exceeds 85% target). Medium-band 33.3% (expected). Scoring well-calibrated, no weight tuning needed. Re-run with new data as corpus evolves.
+- [x] ~~Hand-label the existing calibration sample~~ -- **2026-04-20:** Labeled 26 notices (20 high, 6 medium). High-band precision 100% (exceeds 85% target). Medium-band 33.3% (expected). Scoring well-calibrated, no weight tuning needed. Re-run with new data as corpus evolves. History tracked in `tests/calibration_history.md`.
 - [x] ~~Build regression tooling~~ -- `update_regression_fixture()` writes `tests/expected_confidence.json`; `check_regression()` compares current mean composite against baseline.
 - [ ] Capture an accepted regression baseline once scoring is stable, then wire `check_regression()` into CI.
 - [ ] Benchmark LLM accuracy vs manual review on 50-notice sample.
