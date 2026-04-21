@@ -1,0 +1,11 @@
+{
+  "coherence_score": 0.7,
+  "completeness_score": 0.8,
+  "single_notice_score": 1.0,
+  "legal_structure_score": 0.9,
+  "issues": [
+    "Text appears somewhat scrambled in the mitigation measures section.",
+    "Notice is truncated at the end, missing the closing date and signature."
+  ],
+  "needs_human_review": true
+}

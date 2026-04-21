@@ -1,0 +1,12 @@
+{
+  "coherence_score": 0.2,
+  "completeness_score": 0.1,
+  "single_notice_score": 0.8,
+  "legal_structure_score": 0.2,
+  "issues": [
+    "Text appears scrambled or incomplete.",
+    "Notice does not end with a date and signature.",
+    "Lacks proper gazette structure."
+  ],
+  "needs_human_review": true
+}

@@ -1,0 +1,13 @@
+{
+  "coherence_score": 0.2,
+  "completeness_score": 0.1,
+  "single_notice_score": 0.5,
+  "legal_structure_score": 0.3,
+  "issues": [
+    "Text appears scrambled or lacks flow.",
+    "Notice is truncated, missing date and signature.",
+    "Unclear if this is a single notice or part of multiple notices.",
+    "Does not follow typical gazette structure."
+  ],
+  "needs_human_review": true
+}

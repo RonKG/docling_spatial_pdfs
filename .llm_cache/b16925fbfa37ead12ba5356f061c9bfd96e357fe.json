@@ -1,0 +1,12 @@
+{
+  "coherence_score": 0.3,
+  "completeness_score": 0.8,
+  "single_notice_score": 0.2,
+  "legal_structure_score": 0.4,
+  "issues": [
+    "Text appears scrambled and lacks natural flow.",
+    "Multiple notices merged together.",
+    "Legal structure is not clearly defined."
+  ],
+  "needs_human_review": true
+}
