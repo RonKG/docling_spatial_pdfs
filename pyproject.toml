@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kenya-gazette-parser"
+version = "0.1.0"
+description = "Parse Kenya Gazette PDFs into structured, validated envelopes."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [
+    { name = "Ronald Wahome" },
+]
+keywords = ["kenya", "gazette", "pdf", "docling", "legal", "parsing"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Legal Industry",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Markup",
+    "Typing :: Typed",
+]
+dependencies = [
+    "docling>=2.86.0,<3",
+    "docling-core>=2.0.0",
+    "openai>=1.40.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter>=1.1.0",
+    "ipykernel>=7.0.0",
+    "pytest>=8.0.0",
+    "pyyaml>=6.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/rwahome/docling_spatial_pdfs"
+Repository = "https://github.com/rwahome/docling_spatial_pdfs"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kenya_gazette_parser*"]
+exclude = ["tests*", "docs*", "specs*", "output*", "pdfs*", ".llm_cache*"]
+
+[tool.setuptools.package-data]
+kenya_gazette_parser = ["py.typed"]

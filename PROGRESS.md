@@ -3,7 +3,7 @@
 **Project:** Kenya Gazette PDF -> structured library  
 **Builder:** Solo, part-time  
 **Target 1.0:** `pip install`-able package returning a validated `Envelope` from a PDF  
-**Last updated:** 2026-04-19
+**Last updated:** 2026-04-20
 
 ---
 
@@ -20,12 +20,12 @@
 
 ## Today (the only thing on your plate)
 
-**Current:** F17 — Package skeleton  
-**What:** Create `kenya_gazette/` with `pyproject.toml` for pip installation  
-**Where:** Set up Python package structure with dependencies  
-**Done when:** Package structure created, can import locally.
+**Current:** F18 — Pydantic models from contract  
+**What:** Translate `docs/library-contract-v1.md` section 3 into Pydantic v2 classes under `kenya_gazette_parser/models/`  
+**Where:** New submodule; bump `pyproject.toml` deps to add `pydantic>=2.0`  
+**Done when:** All contract types instantiate, `from kenya_gazette_parser.models import Envelope` works.
 
-**Previous:** F16 ✅ — Capture regression baseline (complete, 6/6 PDFs, Gate 1 fully cleared)
+**Previous:** F17 ✅ — Package skeleton (`kenya_gazette_parser/` created, `pip install -e .` works, T1-T5 all PASS)
 
 ---
 
@@ -49,7 +49,7 @@
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | e0d9672 |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | cddacba |
-| **F17** | Package skeleton | Create `kenya_gazette/` with `pyproject.toml` | ⬜ Not started | — |
+| **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | — |
 | **F18** | Pydantic models from contract | Translate contract into classes | ⬜ Not started | — |
 | **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ⬜ Not started | — |
 | **F20** | Move logic into modules | Copy helpers into submodules | ⬜ Not started | — |
@@ -71,7 +71,7 @@
 | **Gate 0** | Pipeline runs end-to-end, writes all 5 output files | ✅ Cleared |
 | **Gate 1** | `check_regression()` returns OK on canonical PDFs | ✅ Cleared (6/6 PDFs) |
 | **Gate 2** | Re-running same PDF produces identical `notice_id`s | ✅ Cleared |
-| **Gate 3** | `from kenya_gazette import parse_file` works | ⬜ Not reached (needs F17) |
+| **Gate 3** | `from kenya_gazette_parser import parse_file` works | ⬜ Partially unblocked (import works after F17; `parse_file` fully clears at F21) |
 | **Gate 4** | `Envelope` validates against JSON Schema | ⬜ Not reached (needs F19+F23) |
 | **Gate 5** | `pip install git+...` works on different machine | ⬜ Not reached (needs F24) |
 
@@ -99,5 +99,6 @@
 | 2026-04-20 | F15 Hand-label calibration sample | Manually labeled 26 notices in `tests/calibration_sample.yaml` (20 high-band, 6 medium-band). Ran `score_calibration()`. Results: High-band 100% precision (20/20 correct), exceeds 85% target. Medium-band 33.3% precision (2/6 correct), expected mixed quality. Verdict: Scoring well-calibrated, no weight tuning needed. Proceed to F16. |
 | 2026-04-20 | F16 Capture regression baseline (initial) | Ran `update_regression_fixture()` to capture baseline scores in `tests/expected_confidence.json`. Ran `check_regression()`: PASS (all PDFs match baseline). Documented status in `tests/regression_baseline_notes.md`. Current baseline: 2 PDFs with F13/F14 fields (Vol CXINo 100: mean 0.990, Vol CXXIVNo 282: mean 0.968). 3 PDFs pending re-processing (missing F13/F14). Gate 1 CLEARED (partial). |
 | 2026-04-20 | F16 Capture regression baseline (complete) | Re-processed 4 canonical PDFs (Vol CXINo 103, Vol CXIINo 76, Vol CXXVIINo 63, Vol CIINo 83 pre-2010) with F13/F14 fields. Ran `update_regression_fixture()` to capture complete baseline for all 6 PDFs. Ran `check_regression()`: all OK. Updated `tests/regression_baseline_notes.md` with full baseline table. Quality Gate 1 FULLY CLEARED (6/6 PDFs). All canonical PDFs now have deterministic baselines for regression detection. |
+| 2026-04-20 | F17 Package skeleton | Created `kenya_gazette_parser/` with `__init__.py` (parse_file/parse_bytes stubs raising NotImplementedError), `__version__.py` (0.1.0), `py.typed` (PEP 561), `pyproject.toml` (setuptools backend, Apache-2.0 license, `docling+docling-core+openai` runtime deps, `dev` extra), and `LICENSE` (full Apache 2.0 text). `pip install -e .` succeeds in `.venv`. T1-T4 PASS (import, stub messages with required tokens, keyword-only `filename`, pyproject metadata incl. Apache-2.0/openai assertions). T5 regression PASS for all 6 canonical PDFs (baselines unchanged). Notebook, `requirements.txt`, and existing `README.md` untouched. `LIBRARY_VERSION` duplication between notebook and package documented for F20 cleanup. Helper scripts: `scripts/f17_smoke_tests.py`, `scripts/f17_regression_check.py`. |
 
 *Add a row here at the end of every session.*
