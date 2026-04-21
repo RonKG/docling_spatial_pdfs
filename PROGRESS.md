@@ -49,7 +49,7 @@
 | **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | e0d9672 |
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | cddacba |
-| **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | — |
+| **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | 19e9e2c |
 | **F18** | Pydantic models from contract | Translate contract into classes | ⬜ Not started | — |
 | **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ⬜ Not started | — |
 | **F20** | Move logic into modules | Copy helpers into submodules | ⬜ Not started | — |
