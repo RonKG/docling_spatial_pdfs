@@ -78,6 +78,37 @@
 
 ---
 
+## Known Debt / Gotchas
+
+Single place for non-feature items the project must not forget. Two categories:
+**Active debt** gets fixed in a future feature (F-number in the Target column).
+**Enduring gotchas** are design decisions that will bite if forgotten — they stay in this list forever.
+
+Update rule: when any build report or review surfaces a non-blocking discrepancy, add a row here. Mark a row obsolete (do not delete) when the target feature ships.
+
+### Active debt (scheduled)
+
+| ID | Item | Surfaced in | Target | Consequence if forgotten |
+|----|------|-------------|--------|--------------------------|
+| D1 | `LIBRARY_VERSION = "0.1.0"` duplicated in notebook literal and `kenya_gazette_parser.__version__`. Notebook should read from package once logic moves. | F14, F17, F19 | F20 | Version bumps require edits in two places; guaranteed to drift. |
+| D2 | `layout_info.n_pages` emitted by notebook reorder helper but not in contract `LayoutInfo`. F19 adapter prunes it; source should drop it. | F19 | F20 | Adapter prune step is permanent tech debt; when F20 lifts `build_envelope_dict` into a module, the prune logic goes with it unnecessarily. |
+| D3 | `scripts/f18_*.py` and `scripts/f19_*.py` are ad-hoc print-and-exit test scripts, not `pytest`. Need consolidation into a proper `tests/` folder. | F18, F19, convo | F24 | Scripts become stale; no CI wiring; easy to forget to run them. |
+| D4 | `adapt_notice_to_contract` in `scripts/f18_validate_real_notice.py` is an identity stub retained for backward compat. Dies cleanly at F24 consolidation. | F19 | F24 | Dead code; minor. |
+| D5 | `BodySegment.type` locked to `Literal["text","blank"]` at 1.0. Notebook can emit `"table"` blocks; F19 adapter coerces to `"text"` + `Warning(kind="table_coerced_to_text")`. Baseline 197 warnings across 6 PDFs (CXXVIINo 63 = 186). Roadmap M5 promotes `"table"` to a first-class type via MINOR schema bump. | F19 | Roadmap M5 (post-1.0) | Row text is preserved but table structure is lost until M5 lands. |
+| D6 | Corrigendum `scope` and `provenance` fields stamped with sentinels (`scope="notice_references_other"`, placeholder `line_span=[0,0]`). Real extraction deferred. Baseline 16 `corrigendum_scope_defaulted` warnings across 6 PDFs. | F19 | F31 | Corrigendum metadata is technically contract-valid but not accurate; downstream consumers reading `corrigendum.scope` get wrong-but-valid data. |
+
+### Enduring gotchas (never fix — remember forever)
+
+| ID | Gotcha | Surfaced in | Consequence if forgotten |
+|----|--------|-------------|--------------------------|
+| G1 | Regression tolerance must stay at 0.05. Never tighten below. CXXVIINo 63 has Docling OCR non-determinism of ~0.005 between runs. | F19 | Tightening tolerance would produce false-positive regression failures on every CXXVIINo 63 re-run. |
+| G2 | `extracted_at` is the one envelope field that legitimately changes per run. Any content-equality, diff, or round-trip check MUST exclude it. Gate 2 (notice_id stability) already excludes it. | F14 | Naive equality checks will always fail across runs, masking real regressions behind spurious noise. |
+| G3 | `Warning` class in `kenya_gazette_parser.models.envelope` shadows Python's built-in `Warning`. Import as `from kenya_gazette_parser.models import Warning as GazetteWarning` when mixing with built-in warnings in the same module. | F18 | Silent class shadowing; hard-to-debug AttributeError / TypeError when builtin Warning behavior is expected. |
+| G4 | `DerivedTable` is the ONLY Pydantic model with `extra="allow"`. Every other model (including `Notice`, `Envelope`, `Corrigendum`, `BodySegment`, etc.) inherits `StrictBase` with `extra="forbid"`. Any stray key in an input dict raises `ValidationError`. | F18, F19 | Adding new emitted keys to the notebook without updating the contract + models will hard-fail validation at the tail of `process_pdf`. |
+| G5 | Orphan notice `notice_id` uses `provenance.line_span[0]` (not list index) for stability. Never use list index, `id()`, processing time, or random values for identity fields. | F13 | Two consecutive runs of the same PDF would produce different orphan ids, breaking Gate 2 deterministic-id invariant. |
+
+---
+
 ## Reference docs
 
 - [`docs/library-contract-v1.md`](docs/library-contract-v1.md) — spec: output shape, public API
