@@ -5846,3 +5846,826 @@ JENNIFER GITIRI, Ag. Secretary/Chief Executive Officer Council of Legal Educatio
 | 1832      | A4992                     | Eng. Zembi, Anita Jerop                                       | P.O Box 53 -30400 Kabarnet                                 | P.Eng.,BSc.,MIEK                            |
 |           |                           | Eng. Zimbu, Salim Ali                                         | P.O. Box 694-80400 Ukunda                                  | P.Eng.,BSc.,MSc., MIEK                      |
 | 1833      | A4288                     |                                                               |                                                            |                                             |
+
+## TEMPORARY PROFESSIONAL ENGINEERS
+
+|   S/No. | Country   | Name                 | Postal Address                 | Affixes     |
+|---------|-----------|----------------------|--------------------------------|-------------|
+|       1 | China     | Eng. Bo Pan          | P.O Box 48297-00100 Nairobi    | P.Temp.Eng. |
+|       2 | China     | Eng. Dong Shaobo     | P.O. Box 49282-00100 Nairobi   | P.Temp.Eng. |
+|       3 | China     | Eng. Hailong Wang    | P.O Box 00-00200 Nairobi       | P.Temp.Eng. |
+|       4 | China     | Eng. Li Ying Tao     | P.O. Box 24446 - 00100 Nairobi | P.Temp.Eng. |
+|       5 | China     | Eng. Liu Qinghua     | P.O. Box 49282-00100 Nairobi   | P.Temp.Eng. |
+|       6 | China     | Eng. Peixao Fan      | P.O Box 48297-00100 Nairobi    | P.Temp.Eng. |
+|       7 | China     | Eng. Wang Zhongqiang | P.O Box 48151-00100 Nairobi    | P.Temp.Eng. |
+|       8 | China     | Eng. Wenbin Wang     | P.O Box 48297-00100 Nairobi    | P.Temp.Eng. |
+|       9 | China     | Eng. Yang Zhifeng    | P.O Box 362-00900 Nairobi      | P.Temp.Eng. |
+
+## ENGINEERING CONSULTING FIRMS
+
+| S/No. Reg. No.     | Name                                                              | Postal Address                                         | Discipline             |
+|--------------------|-------------------------------------------------------------------|--------------------------------------------------------|------------------------|
+| 1 ECF55            | Acal Consulting Engineers                                         | P.O Box 20382-00100 Nairobi                            | Civil                  |
+| 2 ECF202           | Adept Civil And Environmental Engineering Consultants Limited     | P.O Box 13786-Gpo-Nairobi                              | Civil                  |
+| 3 ECF151           | Advanced Engineering Consultants Limited                          | P.O Box 52608-00200 Nairobi                            | Civil                  |
+| 4 ECF58            | Africon Universal Consulting Ltd                                  | P.O Box 3181-00506 Nairobi                             | Civil                  |
+| 5 ECF44            | Ama Consulting Engineers Limited                                  | P.O Box 66266-00800 Nairobi                            | Civil                  |
+| 6 ECF119           | Amplus Consulting Engineers Ltd                                   | P.O Box 42450-00100 Nairobi                            | Civil                  |
+| 7 ECF41            | Amsowconsult Limited                                              | P.O Box 63090-00200 Nairobi                            | Electrical& Mechanical |
+| 8 ECF175           | Anlarge Company Limited                                           | P.O Box 100762-00100 Nairobi                           | Civil                  |
+| 9 ECF200           | Ans Engineering Group                                             | P.O Box 78007-00507-Nairobi                            | Civil                  |
+| 10 ECF116          | Anthonyisaacs Engineers Limited                                   | P.O Box 17520-20100 Nakuru                             | Civil                  |
+| 11 ECF61           | Apec Consortium Limited                                           | P.O Box 3786-00100 Nairobi                             | Civil                  |
+| 12 ECF149          | Apex Projects Limited                                             | P.O Box 10782-00100 Nairobi                            | Civil                  |
+| 13 ECF76           | Apex Systems Consulting Group Limited                             | P.O Box 38900-00100 Nairobi                            | Civil                  |
+| 14 ECF142          | Arak Consulting Engineers Limited                                 | P.O Box 3516-00100 Nairobi                             | Civil                  |
+| 15 ECF171          | Armitech Consulting Engineers                                     | P.O Box 48453-00100 Nairobi                            | Civil                  |
+| 16 ECF187          | Asec Engineering Consultants Limited                              | P.O Box 34799-00100-Nairobi                            | Civil                  |
+| 17 ECF45           | Associated Services Consultants                                   | P.O Box 55284-00200 Nairobi                            | Mechanical& Electrical |
+| 18 ECF141          | Avatech Consult Limited                                           | P.O Box 2393-00200 Nairobi                             | Civil                  |
+| 19 ECF145          | B&L Engineering Services Limited                                  | P.O Box 79795-00200 Nairobi                            | Civil                  |
+| 20 ECF146          | Bac Engineering Services Limited                                  | P.O Box 61231-00100 Nairobi                            | Civil                  |
+| 21 ECF11           | Batch Associates Ltd                                              | P.O Box 24103-00100 Nairobi                            | Civil                  |
+| 22 ECF4 23 ECF185  | Batiment Project Consulting Ltd. Bernnet Engineering Limited      | P.O Box 23751-00100 Nairobi P.O Box 3311-00506-Nairobi | Civil Civil            |
+| 24 ECF25           | Bhundia Associates                                                | P.O Box 48499-00100 Nairobi                            | Civil                  |
+| 25 ECF89           | Bosko Engineering Consultants Ltd                                 | P.O Box 25371-00100 Nairobi                            | Civil                  |
+| 26 ECF113          | Building Services Group Limited                                   | P.O Box 24529-00100 Nairobi                            | Mechanical             |
+| 27 ECF125          | Butichi& Associates Engineering Consultants Limited               | P.O Box 104815-00101 Nairobi                           | Civil                  |
+| 28 ECF65           | C MKamau & Associates Ltd                                         | P.O Box 74694-00200 Nairobi                            | Civil                  |
+| 29 ECF127          | Cape Consult Limited                                              | P.O Box 10128-00100 Nairobi                            | Civil                  |
+| 30 ECF88           | Cas Consultants Limited                                           | P.O Box 67693-00200 Nairobi                            | Civil                  |
+| 31 ECF168          | Cengprom Services Ltd                                             | P.O Box 38472-00100 Nairobi                            | Civil                  |
+| 32 ECF103          | Cgp Consulting Engineers Ltd                                      | P.O Box 58911-00200 Nairobi                            | Civil                  |
+| 33 ECF104          | Choice Consultants                                                | P.O Box 8484-00200 Nairobi                             | Electrical             |
+| 34 ECF129          | Civil One Consulting Engineers Ltd                                | P.O Box 103409-00101 Nairobi                           | Civil                  |
+| 35 ECF60           | Civotech Associates Ltd                                           | P.O Box 26603-00100 Nairobi                            | Civil                  |
+| 36 ECF20           | Cobeam Designs                                                    | P.O Box 6437-00200 Nairobi                             | Civil                  |
+| 37 ECF115          | Connex Engineering Limited                                        | P.O Box 21396-00505 Ngong Road                         | Civil                  |
+| 38 ECF154          | Coperk Consultants Limited                                        | P.O Box 14548-00800 Nairobi                            | Civil                  |
+| 39 ECF191          | Crossbill Limited                                                 | P.O Box 42553-00600-Nairobi                            | Mechanical             |
+| 40 ECF167          | Dakajagi Engineering Limited                                      | P.O Box 54869-00200 Nairobi                            | Civil                  |
+| 41 ECF138          | Design Masterplan Limited                                         | P.O Box 58438-00200 Nairobi                            | Civil                  |
+| 42 ECF74           | Donn Consultants                                                  | P.O Box 10457-00100 Nairobi                            | Electrical             |
+| 43 ECF179          | Dunstone Consultants Engineers Limited                            | P.O Box 23167-00100 Nairobi                            | Mechanical             |
+| 44 ECF71           | East African Engineering Consultants Limited                      | P.O Box 30707-00100 Nairobi                            | Civil                  |
+| 45 ECF201          | Ebatech Partnership Limited                                       | P.O Box 5633-00200                                     | Civil                  |
+| 46 ECF57           | Ecosite Development Consultants Ltd                               | P.O Box 56075-00200 Nairobi                            | Civil                  |
+| 47 ECF83           | Edcons (K) Ltd                                                    | P.O Box 19721-00100 Nairobi                            | Civil                  |
+| 48 ECF117          | Edvik Consulting Kenya Limited                                    | P.O Box 1245-00606 Sarit Centre                        | Civil                  |
+| 49 ECF160          | Empaq Consultancy Limited                                         | P.O Box 68140-00200 Nairobi                            | Mechanical             |
+| 50 ECF189          | Eng-Design Consulting Engineers Ltd                               | P.O Box 5875-00100-Nairobi                             | Civil                  |
+|                    |                                                                   | P.O Box 42256-00100 Nairobi                            | Civil                  |
+| 51 ECF68           | Engiconsult Consulting Engineers Engineering Ideals Kenya Limited | P.O Box 51288-00200 Nairobi                            | Civil                  |
+| 52 ECF139 53 ECF87 | Engplan Consulting Engineers Limited                              | P.O Box 17845-00100 Nairobi                            | Civil                  |
+| 54 ECF155          | Epoch Cosulting Engfineers                                        | P.O Box 75193-00200 Nairobi                            | Civil                  |
+| 55 ECF86           | Feradon Associates Ltd                                            | P.O Box 7375-00300 Nairobi                             | Electrical             |
+|                    | Finix Consulting Ltd                                              | P.O Box 1088-00517 Nairobi                             | Civil                  |
+| 56 ECF91 57 ECF166 | Fountainhead Consultancy Limited                                  | P.O Box 9423-00100 Nairobi                             | Civil                  |
+| 58 ECF108 59 ECF7  | Frame Consultants Ltd Frinconsult Ltd.                            | P.O Box 58624-00200 Nairobi P.O Box 235 - 01000 Thika  | Civil Civil            |
+
+| S/No. Reg. No.       | Name                                                                 | Postal Address                                           | Discipline                        |
+|----------------------|----------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------|
+| 60 ECF22             | G A Consultants Limited                                              | P.O Box 2670-00100 Nairobi                               | Civil                             |
+| 61 ECF198            | Gallant Technologies Limited.                                        | P.O Box 10550-00100-Nairobi                              | Civil                             |
+| 62 ECF93             | Gath Consulting Engineers Ltd                                        | P.O Box 14279-00800 Nairobi                              | Civil                             |
+| 63 ECF50             | Gathara Consulting Engineers Limited                                 | P.O Box 53980-00200 Nairobi                              | Civil                             |
+| 64 ECF110            | Gedox Associates Limited                                             | P.O Box 64441-00620 Nairobi                              | Electrical                        |
+| 65 ECF192            | Geomax Consulting Engineers Limited                                  | P.O Box 53748-00200-Nairobi                              | Electrical and Mechanical         |
+| 66 ECF176            | Gibb Africa Limited                                                  | P.O Box 30020-00100 Nairobi                              | Civil                             |
+| 67 ECF162            | Girder Associates Limited                                            | P.O Box 37330-00100 Nairobi                              | Civil                             |
+| 68 ECF172            | Global Synergy Link Limited                                          | P.O Box 4325-00200 Nairobi                               | Electrical                        |
+| 69 ECF114            | Graeme Watson Associates Limited                                     | P.O Box 66507-00800 Nairobi                              | Civil                             |
+| 70 ECF186            | Growline Consulting Engineers Limited                                | P.O Box 56164-00200-Nairobi                              | Civil                             |
+| 71 ECF196            | Horicon Engineering Solutions Limited                                | P.O Box 161-00300-Nairobi                                | Civil                             |
+| 72 ECF80             | Horicon Engineering Solutions Limited.                               | P.O Box 161-00300 Nairobi                                | Civil                             |
+| 73 ECF140            | Howard Humphreys (East Africa) Limited                               | P.O Box 30156-00100 Nairobi                              | Civil, Mechanical and             |
+|                      |                                                                      |                                                          | Electrical                        |
+| 74 ECF42             | Ilovi Consulting Engineers                                           | P.O Box 79625-00200 Nairobi                              | Civil                             |
+| 75 ECF173            | Infraline Consulting Engineers Limited                               | P.O Box 11769-00100 Nairobi                              | Electrical                        |
+| 76 ECF72             | Infrastructure Development Advisory Services Limited                 | P.O Box 61259-00200 Nairobi                              | Civil                             |
+| 77 ECF112            | Interconsult Engineers Limited                                       | P.O Box 55176-00200 Nairobi                              | Civil                             |
+| 78 ECF69             | Interphase Consultants Limited                                       | P.O Box 21974-00505 Nairobi                              | Civil                             |
+| 79 ECF14             | Inticom Limited Consulting Engineers                                 | P.O Box 14105-00100 Nairobi                              | Civil                             |
+| 80 ECF34             | Itec Engineering Limited                                             | P.O Box 63532-00619 Nairobi                              | Civil                             |
+| 81 ECF174            | Jugoco Engineering Services                                          | P.O Box 62287-00200 Nairobi                              | Mechanical                        |
+| 82 ECF6              | Juno Consult Consulting Engineers& Planners                          | P.O Box 2110-20100 Nakuru                                | Civil                             |
+| 83 ECF181            | Katchcon Company Limited                                             | P.O Box 16-00204 Nairobi                                 | Electrical                        |
+| 84 ECF147            | Kent Africa Limited                                                  | P.O Box 2897-00100 Nairobi                               | Civil                             |
+| 85 ECF64             | Kinconsult Associates Limited Consulting Engineers                   | P.O Box 10529-00100 Nairobi                              | Civil                             |
+| 86 ECF33             | Kiri Consult Limited                                                 | P.O Box 4125-00506 Nairobi                               | Civil                             |
+| 87 ECF95             | Kurrent Technologies Limited                                         | P.O Box 16989-00620 Nairobi                              | Mechanical                        |
+| 88 ECF94             | La Femme Engineering Services                                        | P.O Box 64723-00620 Nairobi                              | Civil                             |
+| 89 ECF97             | Ltd Loadline Engineering Services                                    | P.O Box 52440-00200 Nairobi                              | Electrical                        |
+| 90 ECF124 91 ECF62   | Lotus& Partners Consulting Engineers Limited M&EConsulting Engineers | P.O Box 40887-00100 Nairobi                              | Electrical Mechanical& Electrical |
+| 92 ECF159            | Maiyo & Partners Limited                                             | P.O Box 50744-00100 Nairobi P.O Box 56034-00200 Nairobi  | Civil                             |
+| 93 ECF79 94 ECF82    | Mangat I.B. Patel (Mibp) Limited Mankan Consulting Engineers         | P.O Box 48674-00100 Nairobi                              | Civil Civil                       |
+| 95                   | Limited                                                              | P.O Box 57866-00200 Nairobi                              | Civil                             |
+| ECF121 ECF111        | Mascal Ltd                                                           | P.O Box 27309-00100 Nairobi P.O Box 1349-00606 Nairobi   | Civil                             |
+| 96                   | Max & Partners Limited                                               |                                                          | Civil                             |
+| 97 ECF12             | Maxcad Consulting Engineers Ltd                                      | P.O Box 40482-80100 Mombasa                              |                                   |
+| 98 ECF144            | Mebs& Industrials Limited Mecoy Consultants Ltd                      | P.O Box 99784-80107 Mombasa P.O Box 20198-00200 Nairobi  | Electrical Electrical             |
+| 99                   |                                                                      | P.O Box 15472-00509 Nairobi                              | Civil                             |
+| ECF107 100 ECF165    | Meister Infrastructure Development Consortium Limited                |                                                          | Civil                             |
+| 101 102 ECF75        | Metrix Integrated Consultancy Metrocom Consultants Limited           | P.O Box 26524- 00504 Nairobi P.O Box 27090-00100 Nairobi | Electrical                        |
+| ECF143               |                                                                      |                                                          |                                   |
+| 103 ECF39            | Moti Consultants Limited                                             | P.O Box 27345-00100 Nairobi                              | Civil                             |
+| 104 ECF56 105 ECF137 | Multiscope Consulting Engineers Ltd Nemel Kenya Limited              | P.O Box 12012-00100 Nairobi P.O Box 76230-00508 Nairobi  | Civil Electrical                  |
+|                      |                                                                      | P.O Box 57290-00200 Nairobi                              | Civil                             |
+| 106 ECF156           | Neo Design Associates Limited                                        |                                                          |                                   |
+| 107 ECF130           | Ngasi Consulting Engineers                                           | P.O Box 2680-00202 Nairobi                               | Civil                             |
+| 108 ECF183           | Nopex Engineering Consultants Limited                                | P.O Box 45558-00100 Nairobi                              | Civil                             |
+| 109                  | Norken International Limited                                         | P.O Box 9882-00100 Nairobi                               | Civil Electrical /                |
+| ECF131 110 ECF96     | Norkun Intakes Limited                                               | P.O Box 605-00100 Nairobi                                | Mechanical                        |
+| 111                  | Nucleus Consultants Limited.                                         | P.O Box 59823-00200-Nairobi                              | Civil                             |
+| ECF197 112 113 ECF66 | Oville Associates Limited                                            | P.O Box 56272-00200 Nairobi                              | Civil                             |
+| ECF158 114 ECF102    | Pleng Engineering Limited                                            | P.O Box 24866-00100 Nairobi                              | Civil                             |
+|                      | Prisma Technics Limited                                              | P.O Box 49197-00100 Nairobi                              | Electrical                        |
+| 115 ECF1 116 ECF35   | Procon Consulting Engineers                                          | P.O Box 5201-00506 Nairobi P.O Box 45792-00100 Nairobi   | Civil Civil                       |
+|                      | Ltd. Professional Consultants Limited                                |                                                          |                                   |
+| 117 ECF37            | Remax Consult Limited                                                | P.O Box 3550-00506 Nairobi                               | Electrical& Mechanical            |
+| 118 ECF178 119 ECF78 | Renelle Consultancy Limited                                          | P.O Box 643-00900 Kiambu P.O Box 14026-00800 Nairobi     | Civil Civil                       |
+| 120 ECF170           | Resconsult Ltd                                                       | P.O Box 73878-00200 Nairobi                              |                                   |
+|                      | Rex Consultants Ltd                                                  |                                                          | Electrical                        |
+| 121 ECF109 122 ECF48 | Rhines Engineering Services Runji Consulting Group Ltd               | P.O Box 9947-00200 Nairobi P.O Box 68053 Nairobi         | Civil Civil                       |
+| 123 ECF169           | Limited                                                              | P.O Box 72398-00200 Nairobi                              | Civil                             |
+| 124 ECF194           | Samez Consultants Limited                                            | P.O Box 11836-00100-Nairobi                              |                                   |
+| 125 ECF188           | Select Structural Consultants Limited.                               | P.O Box 141-00606-Nairobi                                | Civil Civil                       |
+|                      | Sensei Capital Limited                                               |                                                          |                                   |
+| 126 ECF161           | Sepac Consultants Limited                                            | P.O Box 23874-00100 Nairobi                              | Mechanical                        |
+| 127 ECF81            | Servcon Associates Limited                                           | P.O Box 5602-00100 Nairobi                               | Electrical& Mechanical            |
+| 128 ECF182           | Sigma Consulting And Service                                         | P.O Box 72438-00200 Nairobi                              | Civil                             |
+| 129 ECF177           | Engineering Limited Skynad Limited                                   | P.O Box 3230-00200 Nairobi                               | Civil                             |
+|                      |                                                                      | P.O Box 4095-20100 Nakuru                                |                                   |
+| 130 ECF54            | Smoothconsult Consulting Engineers Limited                           |                                                          | Civil                             |
+| 131 ECF106           | Sobocon Associates Limited                                           | P.O Box 34558-00100 Nairobi P.O Box 45650-00100 Nairobi  | Civil                             |
+| 132 ECF153           | Sow Consulting Engineers Limited                                     |                                                          | Civil                             |
+
+| S/No. Reg. No.   | Name                                               | Postal Address               | Discipline             |
+|------------------|----------------------------------------------------|------------------------------|------------------------|
+| 133 ECF122       | Span Consulting Engineers Llp                      | P.O Box 75093-00200 Nairobi  | Civil                  |
+| 134 ECF16        | Stance Consult Ltd                                 | P.O Box 54098-00200 Nairobi  | Civil                  |
+| 135 ECF148       | Strasan Group Limited                              | P.O Box 9618-00200 Nairobi   | Civil                  |
+| 136 ECF30        | Stroutel Africa Limited                            | P.O Box 76664-00508          | Civil                  |
+| 137 ECF123       | Syldon & Partners Consulting Engineers Limited     | P.O Box 664-00606 Nairobi    | Electrical             |
+| 138 ECF133       | Synchroconsult Associates Ltd                      | P.O Box 79626-00200 Nairobi  | Electrical             |
+| 139 ECF184       | Synergetic Engineering & Advisory Partners Limited | P.O Box 14236-00100-Nairobi  | Civil                  |
+| 140 ECF152       | Teknobyte Limited                                  | P.O Box 74680-00200 Nairobi  | Electrical             |
+| 141 ECF5         | Terms Kenya Limited                                | P.O Box 29204-00100 Nairobi  | Civil                  |
+| 142 ECF51        | Terraconsult Kenya Ltd                             | P.O Box 35305-00100 Nairobi  | Civil                  |
+| 143 ECF47        | Tertiary Consulting Engineers Limited              | P.O Box 46439-00100 Nairobi  | Civil                  |
+| 144 ECF135       | Timcon Transport Consulting Ltd                    | P.O Box 62389-00200 Nairobi  | Civil                  |
+| 145 ECF199       | Tmp Consulting Engineers                           | P.O Box 75819-00200-Nairobi  | Civil                  |
+| 146 ECF21        | Uniconsult Engineering Consultants Ltd             | P.O. Box 59763-00200 Nairobi | Civil                  |
+| 147 ECF132       | Varsani Associates Limited                         | P.O Box 325-00606 Nairobi    | Mechanical             |
+| 148 ECF63        | Vejtech Consult Limited                            | P.O Box 15702-00509 Nairobi  | Civil                  |
+| 149 ECF100       | Vemart Engineering Consultants Ltd                 | P.O Box 9333-00200 Nairobi   | Civil                  |
+| 150 ECF67        | Wanjohi Mutonyi Consult Limited                    | P.O Box 21714-00505 Nairobi  | Civil                  |
+| 151 ECF53        | Westconsult                                        | P.O Box 50222-00200 Nairobi  | Mechanical& Electrical |
+| 152 ECF10        | Witts Engineerring Consulting Ltd.                 | P.O Box 70584-00400 Nairobi  | Civil                  |
+| 153 ECF27        | Xenocon Consulting Engineers                       | P.O Box 59385-00200 Nairobi  | Civil                  |
+| 154 ECF105       | Zamconsult Consulting Engineers Ltd                | P.O Box 68221-00200 Nairobi  | Civil                  |
+| 155 ECF157       | Zpojawo Consulting Engineers                       | P.O Box 41805-80100 Mombasa  | Electrical             |
+| 156 ECF164       | Zutari (Kenya) Limited                             | P.O Box 40111-00100 Nairobi  | Civil& Electrical      |
+
+Dated the 27th March, 2025.
+
+## MR/6522412
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4001</span>
+THE COUNTY GOVERNMENTS ACT ( No. 17 of 2012)
+
+## COUNTY ASSEMBLY OF MOMBASA STANDING ORDERS THIRD ASSEMBLY - FOURTH SESSION
+
+CALENDAR, 2025
+
+( Regular Sessions of the County Assembly-February to December 2025)
+
+IT IS notified for general information of the public that pursuant to the provisions of Standing Order Nos. 24 (1) and 25 (1) of the County Assembly  of  Mombasa  Standing  Orders,  by  a  resolution  made  on Wednesday,  5th  March,  2025,  the  County  Assembly  approved  its calendar (regular session) for 2025  as set out in the schedule:
+
+## SCHEDULE
+
+| Sitting Dates                           | Sitting Days                                                    | Recess Dates                             |
+|-----------------------------------------|-----------------------------------------------------------------|------------------------------------------|
+| FOURTH: PART I                          | FOURTH: PART I                                                  | FOURTH: PART I                           |
+| 11th February, 2025 to 12th March, 2025 | Tuesdays Morning - Afternoon Wednesdays Morning - Afternoon     | 13th March, 2025 to 14th April, 2025     |
+| FOURTH SESSION: PART II                 | FOURTH SESSION: PART II                                         | FOURTH SESSION: PART II                  |
+| 15th April, 2025 to 7th May, 2025       | Tuesdays Morning - Afternoon Wednesdays Morning - Afternoon     | 8th May, 2025 to 9th June, 2025          |
+| FOURTH SESSION: PART III                | FOURTH SESSION: PART III                                        | FOURTH SESSION: PART III                 |
+| 10th June, 2025 to 9th July, 2025       | Tuesdays - Morning - Afternoon Wednesdays - Morning - Afternoon | 10th July, 2025 to 28th July, 2025       |
+| FOURTH SESSION: PART IV                 | FOURTH SESSION: PART IV                                         | FOURTH SESSION: PART IV                  |
+| 29th July, 2025 To 20th August, 2025    | Tuesdays Morning - Afternoon Wednesdays - Morning - Afternoon   | 21st August, 2025 to 8th September, 2025 |
+
+MARGARET N. OGAI,
+
+Registrar/ Chief Executive Officer, Engineers Board of Kenya.
+
+| Sitting Dates                             | Sitting Days                                                | Recess Dates                             |
+|-------------------------------------------|-------------------------------------------------------------|------------------------------------------|
+| FOURTH SESSION: PART V                    | FOURTH SESSION: PART V                                      | FOURTH SESSION: PART V                   |
+| 9th September, 2025 To 15th October, 2025 | Tuesdays Morning -Afternoon Wednesdays Morning - Afternoon  | 16th October, 2025 To 27th October, 2025 |
+| FOURTH SESSION: PART VI                   | FOURTH SESSION: PART VI                                     | FOURTH SESSION: PART VI                  |
+| 28th October, 2025 To 3rd December, 2025  | Tuesdays Morning - Afternoon Wednesdays Morning - Afternoon | 4th December, 2025 To 9th February, 2026 |
+
+Note:
+
+- (i) The County Assembly shall sit from 10.00 a.m. to 12.30 p.m. and  2.30  p.m.  to  6.30  p.m.  on  Tuesday  and  Wednesday, pursuant  to  Standing  Order  No.  27  of  the  County  Assembly Standing Orders
+- (ii) Special  Sittings  shall  be  notified  through Kenya  Gazette notices,  as  per  Standing  Order  No.  26  (3)  of  the  County Assembly Standing Orders.
+
+Dated the 5th March, 2025.
+
+MR/6527868
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4002</span>
+THE COUNTY GOVERNMENTS ACT ( No. 17 of 2012)
+
+## COUNTY ASSEMBLY OF MAKUENI STANDING ORDERS COUNTY ASSEMBLY OF MAKUENI
+
+## THIRD ASSEMBLY-FOURTH SESSION
+
+CALENDAR, 2025
+
+( Regular Sessions )
+
+IT IS notified for general information of the public that pursuant to Standing  Order  Nos.  30,  31  and  33  of  the  County  Assembly  of Makueni Standing Orders, by a resolution made on Wednesday, 12th February, 2025, the County Assembly approved its calendar (regular session) for 2025  as set out in the schedule:
+
+SALIM JUMA, Clerk, County Assembly of Mombasa.
+
+| Period                                                                                                                                                                                                                                                                                                                                                                                                                        | Sitting Days                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Fourth Session                                                                                                                                                                                                                                                                                                                                                                                                                | 10th February 2025 - 3rd December, 2025                                                                                                |
+| FIRST PART                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                        |
+| A: Sitting Days Monday, 10th February - Wednesday, 12th March, 2025 (20 sittings) B: Short Recess Thursday, 13th March - Friday 4th April, 2025 (17 recess days) C: Sitting Days Monday, 7th April - Wednesday, 7th May, 2025 (20 sittings) D: Long Recess Thursday, 8th May - Friday, 6th June, 2025 (22 recess days) SECOND PART E: Sitting Days Monday, 9th June - Wednesday, 9th July, 2025 (20 Sittings) F: Short Recess | Monday 10th February - Wednesday, 7th May, 2025 Mondays (Afternoon), Tuesdays (Morning and Afternoon) and Wednesdays (Afternoon).      |
+| Thursday, 10th July - Friday 25th July, 2025 (12 recess days) G: Sitting Days Monday, 28th July - Wednesday, 27th August, 2025 (20 sittings) H: Long Recess (22 recess days) THIRD PART I: Sitting Days Monday, 29th September - Wednesday, 15th October, (12 sittings)                                                                                                                                                       | Monday 9th June - Wednesday, 27th August, 2025 Mondays (Afternoon), Tuesdays (Morning and Afternoon) and Wednesdays (Afternoon).       |
+| Thursday, 28th August - Friday, 26th September, 2025 2025 J: Short Recess                                                                                                                                                                                                                                                                                                                                                     | Monday 29th September- Wednesday, 3rd December, 2025 Mondays (Afternoon), Tuesdays (Morning and Afternoon) and Wednesdays (Afternoon). |
+| Thursday, 16th October - Friday, 7th November, 2025 (17 recess days) K: Sitting Days Monday 10th November - Wednesday, 3rd December, 2025 (16 sittings) L: Long Recess Thursday, 4th December, 2025-                                                                                                                                                                                                                          |                                                                                                                                        |
+
+Disclaimer: The House may however resolve to hold sittings on other days outside this published Calendar.
+
+## KEVIN MUTUKU,
+
+Clerk, County Assembly of Makueni.
+
+## MR/6527851
+
+## <span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4003</span>
+THE NAROK COUNTY ASSEMBLY STANDING ORDERS NAROK COUNTY ASSEMBLY THIRD ASSEMBLY - FOURTH SESSION
+
+## CALENDAR OF THE COUNTY ASSEMBLY, 2025
+
+Regular Sittings of the County Assembly (February to December)
+
+IT  IS  notified  for  general  information  of  the  general  public  that, pursuant to Standing Order No. 25 of the County Assembly Standing Orders,  by  a  resolution  made  on  the  12th  March,  2025,  the  County Assembly approved the Calendar of the Assembly ( Regular Sessions ) for 2025 as set out in the Schedule: -
+
+## SCHEDULE
+
+| Period                                                                                                                                             | 12th February, 2025- 9th February, 2026                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| First Part                                                                                                                                         | Days                                                    |
+| A: Sitting Days Tuesday, 11th February - Wednesday, 5th March 2025 B: Short Recess: Thursday, 6th March - Monday, 17th March, 2025 C: Sitting Days | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| Tuesday, 18th March - Wednesday, 2nd April, 2025 D: Long Recess: Thursday, 3rd April - Monday, 5th May, 2025                                       | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| SECOND PART                                                                                                                                        | SECOND PART                                             |
+| E: Sitting Days Tuesday, 6th May - Wednesday, 25th June, 2025 F: Short Recess: Thursday, 26th June - Monday,7th                                    | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| G: Sitting Days Tuesday,8th July - Wednesday, 6th August, 2025 H: Long Recess Thursday,7th August - Monday, 1st                                    | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| THIRD PART                                                                                                                                         | THIRD PART                                              |
+| I: Sitting Days Tuesday, 2nd September - Wednesday, 15th October 2025 J: Short Recess Thursday, 16th October - Monday, 27th October, 2025          | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| K: Sitting Days Tuesday, 28th October - Wednesday, 3rd December, 2025                                                                              | Tuesdays (Afternoon) Wednesdays (Morning and afternoon) |
+| L: Long Recess Thursday, 4th December, 2025 - Monday, 9th February, 2026                                                                           |                                                         |
+
+- (i) Committees  shall  meet  on  Tuesday  (mornings),  Mondays, Thursdays and Fridays.
+- (ii) Special sittings shall be notified through the Kenya Gazette, per  Standing  Order  No.  26  of  the  Narok  County  Assembly Standing Orders.
+
+Dated the 12th March, 2025.
+
+MR/6522404
+
+JOSEPH K. LENGENY, Clerk, Narok County Assembly.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4004</span>
+## THE PHYSICAL AND LAND USE PLANNING ACT
+
+( No. 13 of 2019)
+
+## COUNTY GOVERNMENT OF TURKANA
+
+COMPLETION OF PART DEVELOPMENT PLANS
+
+Title of Development Plans:
+
+Proposed Sites For National Inteligence Offices, Kakuma PDP No. TCG/LPPD/KKM/15/24 Lokichar (Ref. No. TCG/LPPD/LKR/O8/24), Kibish (Ref. No. TCG/LPPD/KBS/02/24)
+
+Existing Sites for Salvation Army Churches, Canaan (TCG/LPPD/LDW/24/24)  Kaikor  Ref.  No.  TCG/LPPD/KKR/01/24, Nasachabwin (TCG/LPPD/NCN/01/24), Kaalen'g (TCG/LPPD/KAAL/01/24), Kalokol (TCG/LPPD/KKL/07/24), Lowareng, AK (TCG/LPPD/LWK/05/24), Lokichoggio (TCG/LPPD/LOK/12/24), Lokitaung (TCG/LPPD/LPPD/LTG/05/24), Kakuma (TCG/LPPD/KKM/16/24), Lodwar (TCG/LPPD/LDW/25/24).
+
+## Title of Development Plans
+
+1. Existing  Sites  For  Lucky  Petrol  Stations,  Kakuma  Town (TCG/LPPD/KKM/16,17/24)
+2. Existing  Sites  For  Al-Amin  Group  of  Companies,  Kakuma (TCG/LPPD/KKM/18,19/24)
+3. Existing Site For Lorus Hardware, Kakuma Town (TCG/LPPD/KKM/20/24)
+4. Existing Site For Islamic Centre, Lodwar (PDP No. TCG/LPPD/LDW/03/24)
+
+## Title of Development Plans
+
+1. Tumaini Girls Secondary School (TCG/LPPD/TM/01/25)
+2. Brightstar Intergrated Secondary School (TCG/LPPD/BT/02/25)
+3. Kalobeyei Settlement Secondary School (TCG/LPPD/KB/03/25)
+4. Angelina Jolie Girls Primary (TCG/LPPD/AJ/04/25)
+5. Kalobeyei Settlement Primary and (JSS TCG/LPPD/KS/05/25)
+6. Kalobeyei Joy Primary and JSS (TCG/LPPD/KJ/06/25)
+7. Kalobeyei Friends Primary and JSS (TCG/LPPD/KF/07/25)
+8. Kalobeyei Morning Star Primary and (JSS TCG/LPPD/KMS/08/25)
+9. Kalobeyei Future Primary and JSS (TCG/LPPD/KF/09/25)
+10. Kalobeyei Bright Primary and JSS Kalobeyei Joy Pre School (TCG/LPPD/KB/10/25)
+11. Kalobeyei Settlement Pre School (TCG/LPPD/KS/11/25)
+12. Kalobeyei Morning Star Pres School (TCG/LPPD/KMS/12/25)
+13. Kalobeyei Friends Pre School (TCG/LPPD/KF/13/25)
+14. Kalobeyei Future Pre School (TCG/LPPD/KF/14/25)
+15. Kalobeyei Bright Pre School (TCG/LPPD/KB/15/25)
+
+PURSUANT to the provisions of section 49 (1) of the Physical and Land Use Planning Act, 2019, notice is given that the preparation of the above mentioned  part development  plans was on the 19th December, 2024 completed.
+
+Copies  of  the  part  development  plans  as  prepared  have  been deposited  for  public  inspection  free  of  charge  at  the  office  of  the County Director of Physical Planning, Lodwar.
+
+Any interested person who wishes to make any representation in connection with or objection to the above part development plans may within  sixty  (60)  days  send  the  same  to  the  County  Director  of Physical  Planning  P.O.  Box  11,  Lodwar  and  such  representations  or comments shall state the grounds upon which they are made
+
+Dated the 14th March, 2025.
+
+DAVIES MUNIALO,
+
+Director Lands and Physical Planning. for CECM, Lands, Physical Planning, Housing and Urban Areas Management.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4005</span>
+## THE COUNTY GOVERNMENTS ACT
+
+( No. 17 of 2012)
+
+## MWONGOZO CODE OF GOVERNANCE, 2015
+
+## COUNTY GOVERNMENT OF SAMBURU
+
+## APPOINTMENT
+
+PURSUANT  to governance parameters 1.1 (11) of the Mwongozo Code  of  Governance,  2015  for  state  corporation  and  for  effective service delivery, the County Executive Committee Member in-charge of Water gazettes the following board members of the Samburu Water and Sanitation Company (SAWASCO).
+
+| Name                      | Position         |
+|---------------------------|------------------|
+| Fred Kiragu               | Chairperson      |
+| Faustine Lenangetai       | Vice-Chairperson |
+| Paul Lelukumani           | Member           |
+| Col. Rtd. Wilson Lenyarua | Member           |
+| Julieta Naiponi           | Member           |
+
+Dated the 12th March, 2025.
+
+MR/6522085
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4006</span>
+## THE COUNTY GOVERNMENTS ACT
+
+( No. 17 of 2012)
+
+## THE TAITA TAVETA COUNTY TAX WAIVERS ADMINISTRATION ACT, 2013
+
+WAIVER ON LAND RATES PENALTIES AND INTERESTS
+
+IN  EXERCISE  of  powers  conferred  by  sections  5  and  6  of  the Taita Taveta County Tax Waivers Administration Act, 2014, notice is given that the County Executive Committee Member for Finance and Economic Planning with the concurrence of the Governor shall grant 100% waiver of penalties and interests on land rates if the principal is paid in full within the period of 28th March, 2025 and 30th May, 2025 inclusive.
+
+The  waiver  intends  to  encourage  defaulting  ratepayers  to  clear their outstanding balances and improve revenue collection for county development.
+
+Dated the 27th March, 2025.
+
+ELIJAH MWAZIGHE MWAZO,
+
+MR/6522429
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4007</span>
+## THE COUNTY GOVERNMENTS ACT
+
+( No. 17 of 2012)
+
+## THE NATIONAL RATING ACT
+
+( No. 15 of 2024)
+
+## COUNTY GOVERNMENT OF TAITA TAVETA
+
+## PUBLIC INSPECTION OF THE TAITA TAVETA COUNTY DRAFT VALUATION ROLL, 2021
+
+PURSUANT to section 35 of the National Rating Act, the County Government of Taita Taveta, through the County Executive Committee Member for Lands, Physical Planning, Urban Development  and  Mining,  hereby  notifies  the  public  that  the  Taita Taveta  County  Draft  Valuation  has  been  approved  by  the  County Assembly and is open for public inspection.
+
+The roll shall be available for inspection for a period of Forty-five (45) days from the date of publication of this notice.
+
+The roll may be inspected during official working hours (8.00 a.m. to  5.00  p.m.)  at  the  County  Department  of  Lands  Offices  situated  at Ardhi House, Wundanyi Taita Taveta.
+
+CECM, Finance and Economic Planning.
+
+PATRICK LEKIMAIN,
+
+CECM, Water.
+
+Any person who wishes to lodge an objection regarding any entry in the roll, or an omission from it, is invited to do so within of fortyfive (45) days from the date of publication of this notice.
+
+Objections  shall  be  in  prescribed  format  and  in  the  manner prescribed by the National Rating Act, 2024.
+
+Dated the 19th March, 2025.
+
+MR/6522429
+
+## <span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4008</span>
+## THE KIAMBU COUNTY EDUCATION BURSARY FUND ACT, 2014
+
+## REVOCATION OF APPOINTMENT
+
+IN EXERCISE of the powers conferred by section 7 of the Kiambu County  Education  Bursary  Fund  Act,  2014,  the  County  Executive Committee  Member  for  Education  revokes  the  appointment  of  the persons named in the first column of the schedule as members of Ward Education Bursary Committees of respective wards as specified in the third column of the Schedule:
+
+## SCHEDULE
+
+| Name                      | Position    | Ward Committee   |
+|---------------------------|-------------|------------------|
+| Immaculate Wanja Mang'ere | Chairperson | Muguga Ward      |
+| Maryticron Wangui         | Member      | Ikinu Ward       |
+| Peter Kanja Kimani        | Chairperson | Uthiru Ward      |
+| Jane Njeri Makumi         | Member      | Uthiru Ward      |
+
+Dated the 24th March, 2025.
+
+## C. Z. MWASHIGADI,
+
+CECM, Lands, Physical Planning, Urban Development and Mining.
+
+MERCY NJAGI,
+
+MR/6522467 CECM, Education, Gender, Culture and Social Services.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4009</span>
+## THE KIAMBU COUNTY EDUCATION BURSARY FUND ACT, 2014
+
+## APPOINTMENT
+
+IN EXERCISE of the powers conferred by section 7 of the Kiambu County  Education  Bursary  Fund  Act,  2014,  the  County  Executive Committee Member for Education appoints the persons named in the first  column of the schedule as members of Ward Education Bursary Committees of respective wards as specified in the third column of the Schedule-
+
+## SCHEDULE
+
+| Name                     | Position    | Ward Committee   |
+|--------------------------|-------------|------------------|
+| Nelson Njenga Githinji   | Chairperson | Muguga Ward      |
+| Esther Nyambura Nyutu    | Member      | Ikinu Ward       |
+| Loise Njoki Maina        | Chairperson | Kijabe Ward      |
+| Joseph Njuguna Wanjiru   | Chairperson | Uthiru Ward      |
+| Beatrice Wambura Muchiri | Member      | Uthiru Ward      |
+
+Dated the 24th March, 2025.
+
+MERCY NJAGI,
+
+MR/6522467 CECM, Education, Gender, Culture and Social Services.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4010</span>
+## THE COMPANIES ACT
+
+( Cap. 486)
+
+## DISSOLUTION
+
+PURSUANT to section 897 (4) of the Companies Act, it is notified for the information of the general public that the following companies are  dissolved  and  their  names  have  been  struck  off  the  Register  of Companies with effect from the date of publication of this notice.
+
+Number
+
+C.109321 PVT-LRUYEJQY PVT-BEUX27P8
+
+Name of Company
+
+Abba Mining Company Limited Amira Cosmetics Limited Anza Academy Limited
+
+CPR/2013/112175 PVT-EYU68XM PVT-BEUAXEX PVT/2016/006702 PVT-EYU33EXB CPR/2011/64122 PVT-AAAAUD0 PVT-Q7U9ZBKR PVT-9XUGD8Y7 PVT-LRUMLKJ3 C.26482 PVT-ZQULZA5 PVT/2016/014552
+
+PVT-DLUGEA6
+
+CPR/2015/182017
+
+PVT/2016/017620
+
+CPR/2014/148055
+
+CPR/2015/181021
+
+PVT-V7U9QZA
+
+PVT-JZU3MVL
+
+PVT-GYUQJ3LK
+
+PVT-3QU7QDY5
+
+CPR/2015/200163
+
+PVT-JZUA6YZM
+
+PVT-Q7U99PLB
+
+PVT-27UX9M
+
+PVT-5JUE3G3D
+
+PVT-DLUPVRP
+
+PVT-JZUGZR89
+
+PVT-BEUQ99D
+
+CPR/2014/150766
+
+PVT-GYUYXQJ
+
+PVT-XYU8M5LE
+
+PVT-PJUY6XK9
+
+PVT-GYUQ2QLD
+
+CPR/2015/219657
+
+PVT-AJUDP3Z
+
+PVT-ZQUX639
+
+PVT-Q7U7R5DP
+
+CPR/2013/123429
+
+PVT-3QUQ8GY
+
+C.112946
+
+PVT-MKUM83VJ
+
+CPR/2013/103144
+
+CPR/2016/220282
+
+PVT-DLUL359
+
+PVT-JZU8Q9Q
+
+PVT/2016/021835
+
+PVT-AAABJU5
+
+## PVT-5JUEVR2
+
+PVT-LRUZDYQ
+
+PVT-MKUMDKLM
+
+C.146592
+
+C.150222
+
+PVT-6LULREYQ
+
+PVT-MKUMLALV
+
+PVT-EYUB52ZK
+
+PVT-Y2UMZL5
+
+PVT-PJU7KQ3
+
+PVT-GYU8886
+
+CPR/2013/107336
+
+PVT-RXUL7Y5
+
+C.110452
+
+PVT-DLULY6YB CPR/2014/129973 PVT-AJU2KR5 PVT-Y2UK6BA
+
+Dated the 17th March, 2025.
+
+Bdo Project Management Limited Bean Box Limited Bidii Mmbg Africa Limited Big Brother Aberdares Limited Binama Investment Limited Burhani Holdings Limited Byfaith Travels Limited Chemxpert Limited Dalweyn Company Limited Donmed Diagnostics Centre Limited Eden Media Productions Limited Eenviosh Consultants Limited Equity Resilience and Continuity Kenya Limited G4S Cash Solutions (Kenya) Limited Haista Neurotech Pharmaceutical Company Limited Herald Education Limited Hydrill Borewell ( Ea ) Limited Italian Genuine Made Limited Jemicha Bizhub Limited K&amp;M Properties Limited Kulture Executive Salon Limited Kuza Management Company Limited Media Room Three Limited Miremo Travel Limited Mojis Enterprises Limited Mua Hills Dairy And Spring Farm Limited Muthoni Nduhiu Advocates Limited Nanny Placement Center Limited Nanoscope Pathologists Laboratory Limited Neelkhant Hardware Limited Ole Matanya Limited Pacific Azul Limited Paza Three Management Limited Paza Two Management Limited Peloever Limited Rapid Custom Solutions Limited Realbuild Consulting Limited Recutex East Africa Limited Revelation Mutual Investment Partners Limited Right Here East Africa Limited Rinson Logistics Limited Sasa Developments Limited Savannah Snaps Limited Seven Heights Limited Sky Vision Limited Somedical Tours Africa Limited Sophiemo Limited Tereos Commodities Kenya Limited The Siemon Company Kenya Limited Trans-Interpret Language Consultants and Trainers Limited Triumph Elite Limited Tsw Group (K) Limited Vangold Resources (K) Limited Vintage Developers and  Builders Limited Vivaworks Innovations Limited Xararey Company Limited Agency Atkiva Limited Cmcom Kenya Limited Bregu Company Limited Development Done Differently Limited Ecopole Industries (Kenya) Limited Freqcom Radio Technologies Limited Ukwala Supermarket (Nakuru) Limited Virunga Belqique SRL Limited Falaou Trading Limited Marijan Kraft Limited Comlac Company Limited
+
+HIRAM GACHUGI,
+
+Deputy Registrar of Companies.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4011</span>
+## THE COMPANIES ACT
+
+( Cap. 486)
+
+## INTENDED DISSOLUTION
+
+PURSUANT  to  section  897  (3)  of  the  Companies  Act,  the Registrar of Companies gives notice that the names of the companies specified hereunder shall be struck off from the Register of Companies at  the  expiry  of  three  months  from  the  date  of  publication  of  this Notice,  and  invites  any  person  to  show  cause  why  the  companies should not be struck off from the Register of Companies.
+
+| Number                          | Name of Company                                           |
+|---------------------------------|-----------------------------------------------------------|
+| C.53468                         | Abri Limited                                              |
+| CPR/2013/123364                 | Adversol Agencies Limited                                 |
+| C.109657                        | African Venture Advertising                               |
+| PLC-AYS3XP                      | Limited Airports Infrastructure Plc                       |
+| PVT-GYUAYZP                     | Arndest Co. Limited                                       |
+| PVT-JZUG3YDD                    | Atheris Adventures Limited                                |
+| CPR/2015/187377                 | Bendito Limited                                           |
+| PVT-3QU35VB                     | Bronoco Energy Limited                                    |
+| CPR/2011/43503                  | Bush And Bangs Kenya Limited                              |
+| PVT-MKUY6D9                     | Campus Tech Innovations Limited                           |
+| PVT-V7UYMKRZ                    | Capital Deal Limited                                      |
+| C.122673                        | Causeway Holdings Limited                                 |
+| C.104925                        | Cedah Limited                                             |
+| CPR/2015/199996                 | Champion Supermarket Limited                              |
+| PVT-Y2U6VZ2                     | Chandi Company Limited                                    |
+| CPR/2010/28671                  | Charleston Investments Limited                            |
+| PVT-27U5LGM                     | Christocomfit Limited                                     |
+| PVT-XYU8XG7Z                    | Coast Sustainable Fisheries Group Limited                 |
+| PVT-8LUD7ZQ                     | Containerized Bulk Solutions Limited                      |
+| PVT-KAU3V38                     | Cottars Oursun Energy Limited                             |
+| PVT-DLULQ9GG                    | Cross Border Designs Limited                              |
+| PVT-DLUGAZA                     | Diverse Friends Investment Limited                        |
+| PVT-9XUKARE                     | Domicile Ventures Limited                                 |
+| PVT-MKUMMPGZ PVT-EYU9EKG        | Duralete Trading Limited East Africa Calcium Carbonates   |
+| CPR/2014/172706                 | Limited East Thirty Six Limited Egymatec East Africa      |
+| PVT-DLULYAGX                    | Limited Endeavour Wintech Elevators                       |
+| PVT/2016/020288                 | Limited                                                   |
+| PVT-MKUMQJ83                    | Footage Investment Limited Fountain Gate Logistics        |
+| PVT/2016/007662                 | Limited                                                   |
+| C.147764                        | Future Polymers Kenya Limited                             |
+| PVT-Y2UVBPJ                     | Hassan Commodities Limited                                |
+| C.34818                         | Hawkins Associates Limited                                |
+| PVT-XYULBRMP                    | Healbree Pharmacy Limited                                 |
+| PVT-RXU5PY6                     | Henrix Liquor Stores Limited                              |
+| CPR/2012/64929                  | Homeland Dairy Foods Limited                              |
+| PVT/2016/008985                 | Hyper Solutions Limited                                   |
+| PVT-Q7U97975 PVT-JZUAVM67       | Ingwe Invetments Limited Integrity Sisters Kiheo          |
+|                                 | Group Limited                                             |
+| PVT/2016/000123                 | Japa Growers and Exporters Limited                        |
+| C.63693                         | Jimbi Insurance Agents Limited                            |
+| PVT-JZU9Q5Y                     | Jonje Limited Kiletu Limited                              |
+| PVT-Y2U5J7G                     |                                                           |
+| C.125952 CPR/2015/188003        | Kirepwe Properties Limited Kitale Supreme Shuttle Company |
+| PVT-Q7U77QKL                    | Limited Kiuran By Grace Quarry Limited                    |
+| PVT-EYUM72R                     | Laabis Iyo Degan Limited                                  |
+| PVT/2016/030211                 | Lake Ol Bolossat Hotel and Country Resort Limited         |
+| CPR/2013/114284 CPR/2015/187083 | Leyton Properties Limited Mahalakshmi Garment Kenya EPZ   |
+|                                 | Limited                                                   |
+| PVT-3QUDGBKZ                    | Market Magnet Limited Meraxie Group                       |
+| PVT-GYURA7K                     | Limited Metropolitan Vehicle Limited                      |
+| PVT-KAU758Z                     | Surveillance                                              |
+| PVT-KAUDGQ3V                    | Migotiyo Quality Quarry Limited                           |
+
+| PVT-PJUYY5K6                | Minishow Kenya Limited                                 |
+|-----------------------------|--------------------------------------------------------|
+| CPR/2012/85891              | Mizigo Hauliers Limited                                |
+| PVT-DLULRPXP                | Nafasi Vifaa Trading Limited                           |
+| PVT-EYUMYA6                 | Nandi Development Corporation Limited                  |
+| PVT-PJUYEZ2V                | Neelkanth Cables Sez (K) Limited                       |
+| C.167789                    | Olivia (Kenya) Limited                                 |
+| PVT-8LU2P8MG                | Pajami Events, Tours and Travel Company Limited        |
+| PVT-ZQUXG9XG                | Perfume United Company Limited                         |
+| PVT-6LUBXB3                 | Petra Vallis Investments Limited                       |
+| CPR/2011/48944              | Power Conservation System Limited                      |
+| PVT-EYUBP28Z                | Powerast Limited                                       |
+| CPR/2014/135473             | Premier Pharmaceuticals and Medical Laboratory Limited |
+| C.48134                     | Rand Investments Limited                               |
+| PVT-LRUYQAGV                | Raqba Energy Company Limited                           |
+| CPR/2012/66742              | Road Repair EA Limited                                 |
+| PVT-Q7U23JM                 | Ruhrgold Kenya Limited                                 |
+| CPR/2012/86135              | Samakab Construction Company Limited                   |
+| PVT-DLUPYYGL                | Sanhok Gaming Limited                                  |
+| PVT-ZQUL56PR                | Sharp Mobile Limited                                   |
+| PVT-GYUQGK2X                | Sierra Mobile Store Limited                            |
+| CPR/2010/31225              | Six Eighty Magazines and Gifts Limited                 |
+| PVT-EYUYXMZ                 | Somerset Traders Limited                               |
+| PVT-XYUQ85                  | Sparten Seven Limited                                  |
+| C.28943                     | Spray-Tex Limited                                      |
+| PVT-DLUZ7GY                 | Strabe Construction Limited                            |
+| PVT-GYU3MZP                 | Sublime Industries Limited                             |
+| CPR/2015/215203             | Sudarshan Steel Corporation Limited                    |
+| C.42361                     | Suraj Investments Limited                              |
+| PVT/2016/032605             | Tennerco Investments Limited                           |
+| C.35/68                     | The Beale Farm Limited                                 |
+| PVT-5JUEGA92                | The Mighty Elephant Pub and Restaurant Limited         |
+| C.157176                    | Tiger Tinga Productions Limited                        |
+| C.107784                    | Top Pak Limited                                        |
+| PVT-7LU52YMJ                | Treo Consulting Limited                                |
+| C.26749                     | Tunnel Technology Limited                              |
+| CPR/2015/204046             | United First Capital Limited                           |
+| PVT/2016/009464             | Upendo Healthcare Limited                              |
+| CPR/2013/117683             | Virgin Fashions Limited                                |
+| CPR/2013/122850             | Wealth Creator Security Limited                        |
+| PVT/2016/009043             | Zumaridi Beauty Center Limited                         |
+|                             | HIRAM GACHUGI,                                         |
+| Dated the 17th March, 2025. | Deputy Registrar of Companies.                         |
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4012</span>
+## THE LABOUR RELATIONS ACT
+
+( No. 14 of 2007)
+
+APPLICATION FOR REGISTRATION OF A TRADE UNION
+
+NOTICE  is  given  pursuant  to  section  14  (1) (d) (i)  the  Labour Relations  Act,  to  all  Trade  Unions,  Employers  Organizations  or Federations, of the receipt of an application for registration of-
+
+KENYA UNION OF PROFESSIONAL SECRETARIES AND EXECUTIVE ASSISTANTS (KUPSEA).
+
+Notice  is  given  to  the  following  registered  trade  unions  and  the general public:
+
+1. Kenya National Union of Service Employees (KNUSE).
+2. Union  of Domestic, Hotel, Educational Institutions and Hospital Workers (KUDHEIHA Workers).
+3. Kenya Tertiary and Schools Workers Union (KETASWU).
+4. Kenya  Union  of  Secondary  Schools  Non-Teaching  Staff (KUSSNTS).
+
+to submit to the registrar in writing any such objection (s) against the  registration  of  the  proposed  union  within  twenty-one  (21)  days from the date of this publication.
+
+| Dated the 5th March, 2025.   | ANN K. KANAKE (Ms.),           |
+|------------------------------|--------------------------------|
+| MR/6527825                   | Ag. Registrar of Trade Unions. |
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4013</span>
+## THE PHYSICAL AND LAND USE PLANNING ACT, 2019 ( No. 13 of 2019)
+
+## COMPLETION OF PART DEVELOPMENT PLAN
+
+Title of Development Plan: PDP No. KAP/126/2025/01Regularization of existing site for Deliverance Church Kapsabet
+
+NOTICE is given that,  pursuant  to  the  provisions  of  sections  13 (g), and 69 (1 and 4) of the Physical and Land Use Planning Act, 2019 read together with Legal Notice No. 27 of 2020, the preparation of the above plan was on the 14th March, 2025, completed.
+
+The  part  development  plan  relates  to  land  situated  in  Kapsabet Town, Nandi County.
+
+A  copy  of  the  plan  as  prepared  has  been  deposited  for  public inspection  free  of  charge  at  the  offices  of  the  CECM  in  charge  of Physical and Land Use Planning, Nandi County, North Rift Regional Co-ordinator, Eldoret and County Physical Planner, Kapsabet, between the hours of 8.00 a.m. to 5.00 p.m., Monday to Friday.
+
+Any interested person who wishes to make any representation in connection  with  or  objection  to  the  above  plan  may  send  such representation or objection in writing to be received by the North Rift Regional Co-ordinator, National Physical Planning Department, Eldoret P.O. Box 173-30100, Eldoret, Ardhi House, Room 13, within sixty  (60)  days  from  the  date  of  publication  of  this  notice  and  such representation  or  objection  shall  state  the  grounds  upon  which  it  is made.
+
+Dated the 17th March, 2005.
+
+## VERONICAH MUSEE,
+
+MR/6527890
+
+North Rift Regional Co-ordinator for National Director of Physical Planning State Department for Lands and Physical Planning.
+
+<span style="background-color:#fff3cd;color:#1a1a1a;padding:0.15em 0.35em;border-radius:3px;font-weight:600;">GAZETTE NOTICE NO. 4014</span>
+## THE ENVIRONMENTAL MANAGEMENT AND CO-ORDINATION ACT
+
+## ( No. 8 of 1999)
+
+## NATIONAL ENVIRONMENT MANAGEMENT AUTHORITY
+
+ENVIRONMENTAL IMPACT ASSESSMENT STUDY REPORT FOR THE PROPOSED PAINT MANUFACTURING PLANT IN EXISTING GODOWNS ON PLOT L.R. NO. MOMBASA/BLOCK 1/314 SHIMANZI, MOMBASA COUNTY
+
+## INVITATION OF PUBLIC COMMENTS
+
+PURSUANT to section 59 of the Environmental Management and Co-ordination  Act  1999,  the  National  Environment  Management Authority (NEMA) has received an Environmental Impact Assessment Study Report for the above proposed project.
+
+The proponent, Nipsea Paint Kenya Limited, proposes to develop a paint  manufacturing  plant  in  3No.  existing  go-downs,  whereby  Godown 1(will have handling equipment for paint raw materials which will  include;  resins,  solvents  and  additives),  Go-down  2(will  have Paint Products Manufacturing units which will include; mixing equipment, milling equipment and filtration equipment) and Go-down 3(will have Quality control testing laboratory and storage for finished products),  a  septic  tank,  soak  pit  system,  operational  office  and associated amenities in Shimanzi area, Mombasa County.
+
+The following are the anticipated impacts and proposed mitigation measures:
+
+## Impacts
+
+## Mitigation Measures
+
+Management of air emissions (fumes, dust, vapors, VOCs)
+
+- Baseline  ambient  air  quality  has  been undertaken.
+- Bi-annual monitoring of the occupational, stack and ambient air quality.
+- Adoption of Cleaner production approaches as discussed in the main report.
+
+Impacts
+
+General solid waste management
+
+Process solid wastes
+
+Process wastewater
+
+Sanitary waste water
+
+Energy use
+
+Water use
+
+Occupational Safety and Health
+
+## Mitigation Measures
+
+- The  installed  scrubbing  equipment  such as Regenerative Thermal Oxidizers (RTOs)  will  effectively  destroy  odour and  VOCs  before  they  are  released  into the atmosphere.
+- Transitioning to water-based or lowVOC paints will also significantly reduce VOC emissions.
+- The proponent/operator should ensure waste  segregation  is  done  in  line  with Sustainable Waste Management Act, 2022 and the National Color-Coding System.
+- Periodic collection will be undertaken by a NEMA Licensed waste transporter.
+- Adoption of Cleaner production approaches as discussed in the main report.
+- Engage a NEMA  licensed recycling company  for  all  the  recyclable  process solid waste.
+- The handling, segregation, storage, transportation and treatment of hazardous waste  shall  be  undertaken  in  line  with waste management regulation of 2024.
+- Adoption of Cleaner production approaches as discussed in the main report.
+- The  waste  water  and  resultant  solvent should be drummed/stored awaiting collection, transportation and disposal by a licensed hazardous waste handler.
+- Use  of  septic  tank  and  soak  pit  system with a proper exhaustion plan.
+- Adopt  cleaner  production  approaches  as discussed in the main report.
+- Exploring  the  use  of  renewable  energy sources like solar panels.
+- Undertake  energy  audits  by  accredited energy auditors.
+- Sensitize the workers on efficient energy use and management.
+- The proponent is advised to exploit rain water harvesting for use in the facility.
+- Sensitize  the  workers  on  efficient  water use and management.
+- Adherence to OSHA, 2007 provisions, its subsidiary legislation and rules.
+- Conduct fire safety audits and risk assessments as required.
+- Designation of fire assembly points, installation of firefighting equipment, emergency  response  plans,  provision  of PPEs and a well-stocked First Aid kit and staff training on their use.
+- A  safety  and  health  committee  will  be established and trained.
+- Control and monitoring of indoor air and ensure medical examination of the workers.
+- Ensure compliance to LD 280 on sanitary convenience standards.

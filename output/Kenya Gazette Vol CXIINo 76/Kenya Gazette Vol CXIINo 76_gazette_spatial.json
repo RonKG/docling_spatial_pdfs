@@ -1,29 +1,755 @@
 {
-  "pdf_title": "Kenya Gazette Vol CXIINo 76",
-  "pdf_file_name": "Kenya Gazette Vol CXIINo 76.pdf",
-  "pdf_path": "C:\\Users\\Ronald Wahome\\Documents\\docling_spatial_pdfs\\pdfs\\Kenya Gazette Vol CXIINo 76.pdf",
-  "pdf_size_bytes": 107879,
-  "pdf_sha256": "3c93ada5ee316aa58ab8cc19b626f96e67d15ef8876da1a16650b5e78c9680b7",
-  "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
   "library_version": "0.1.0",
   "schema_version": "1.0",
-  "extracted_at": "2026-04-20T02:58:23Z",
-  "warnings": [
+  "output_format_version": 1,
+  "extracted_at": "2026-04-22T01:36:07Z",
+  "pdf_sha256": "3c93ada5ee316aa58ab8cc19b626f96e67d15ef8876da1a16650b5e78c9680b7",
+  "issue": {
+    "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
+    "masthead_text": "SPECIAL ISSUE\n\nH\n\nVol. CXII-No. 76\n\nGAZETTE NOTICE NO. 9103\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n",
+    "parse_confidence": 0.5,
+    "volume": "CXII",
+    "issue_no": 76,
+    "publication_date": null,
+    "supplement_no": null
+  },
+  "notices": [
     {
-      "kind": "masthead.parse_failed",
-      "message": "Required masthead field missing; using fallback issue id",
-      "where": {
-        "pdf_file_name": "Kenya Gazette Vol CXIINo 76.pdf"
-      }
+      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9103",
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
+      "title_lines": [
+        "THE CONSTITUTION OF KENYA"
+      ],
+      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9103\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n\nIN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.\n\nDated the 3rd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
+      "body_segments": [
+        {
+          "type": "text",
+          "lines": [
+            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(Cap. 7 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA REVIEW ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(No. 9 of 2008 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "APPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "POLLING STATIONS FOR THE REFERENDUM"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "REMUNERATION OF REFERENDUM OFFICIALS"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "DECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Corrigenda"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "IN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Dated the 3rd August, 2010."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "A. I. HASSAN,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Chairman,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Interim Independent Electoral Commission."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        }
+      ],
+      "other_attributes": {
+        "char_span_start_line": 6,
+        "char_span_end_line": 40,
+        "lines_in_body": 33
+      },
+      "provenance": {
+        "header_match": "strict",
+        "line_span": [
+          6,
+          40
+        ],
+        "raw_header_line": "GAZETTE NOTICE NO. 9103",
+        "stitched_from": [],
+        "ocr_quality": null
+      },
+      "confidence_scores": {
+        "notice_number": 1.0,
+        "structure": 1.0,
+        "spatial": 1.0,
+        "boundary": 1.0,
+        "composite": 1.0,
+        "table": null
+      },
+      "confidence_reasons": [],
+      "content_sha256": "68485c6b5b428c1b462253ea826e5653dd351ee633d157a6f46cf04c8ef90633",
+      "gazette_notice_no": "9103",
+      "gazette_notice_header": "GAZETTE NOTICE NO. 9103",
+      "derived_table": null
+    },
+    {
+      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9104",
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
+      "title_lines": [
+        "THE CONSTITUTION OF KENYA"
+      ],
+      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9104\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\n8\n\n\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nPOLLING STATIONS FOR REFERENDUM\n\nCorrigenda\n\nIN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:\n\nPage 2596\n\nPolling Station Code: 038\n\nDelete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH\n\nPolling Station Code: 068\n\nDelete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI\n\nPolling Station Code: 089\n\nDelete GACUA PRIMARY and insert GACHUA PRIMARY\n\nPolling Station Code: 092\n\nDelete KITHWENE PRIMARY and insert KITHUENE PRIMARY\n\nPolling Station Code: 097\n\nDelete SIRIMON CENTRE and insert SIRMON CENTRE\n\nPage 2597\n\nPolling Station Code: 150\n\nDelete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY\n\nPolling Station Code: 158\n\nDelete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
+      "body_segments": [
+        {
+          "type": "text",
+          "lines": [
+            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(Cap. 7 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "8"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA REVIEW ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(No. 9 of 2008 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "POLLING STATIONS FOR REFERENDUM"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Corrigenda"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "IN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Page 2596"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 038"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 068"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 089"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete GACUA PRIMARY and insert GACHUA PRIMARY"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 092"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete KITHWENE PRIMARY and insert KITHUENE PRIMARY"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 097"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete SIRIMON CENTRE and insert SIRMON CENTRE"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Page 2597"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 150"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Polling Station Code: 158"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Delete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Dated the 2nd August, 2010."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "A. I. HASSAN,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Chairman,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Interim Independent Electoral Commission."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "blank",
+          "lines": []
+        }
+      ],
+      "other_attributes": {
+        "char_span_start_line": 40,
+        "char_span_end_line": 114,
+        "lines_in_body": 68
+      },
+      "provenance": {
+        "header_match": "strict",
+        "line_span": [
+          40,
+          114
+        ],
+        "raw_header_line": "GAZETTE NOTICE NO. 9104",
+        "stitched_from": [],
+        "ocr_quality": null
+      },
+      "confidence_scores": {
+        "notice_number": 1.0,
+        "structure": 1.0,
+        "spatial": 1.0,
+        "boundary": 1.0,
+        "composite": 1.0,
+        "table": null
+      },
+      "confidence_reasons": [],
+      "content_sha256": "3e8aa9ef2aa7f86d900ac7e774e931a731ea67d1686315f858c35fdd5cbb33c1",
+      "gazette_notice_no": "9104",
+      "gazette_notice_header": "GAZETTE NOTICE NO. 9104",
+      "derived_table": null
+    },
+    {
+      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9105",
+      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
+      "title_lines": [
+        "THE CONSTITUTION OF KENYA"
+      ],
+      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9105\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nTRANSFER OF POLLING STATION\n\nElectors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .\n\nAND THAT the reason(s) for the transfer is (are) as follows:\n\nMukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nIN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of",
+      "body_segments": [
+        {
+          "type": "text",
+          "lines": [
+            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(Cap. 7 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA REVIEW ACT"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "(No. 9 of 2008 )"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "TRANSFER OF POLLING STATION"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Electors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy ."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "AND THAT the reason(s) for the transfer is (are) as follows:"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Mukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Dated the 2nd August, 2010."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "A. I. HASSAN,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Chairman,"
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "Interim Independent Electoral Commission."
+          ]
+        },
+        {
+          "type": "blank",
+          "lines": []
+        },
+        {
+          "type": "text",
+          "lines": [
+            "IN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of"
+          ]
+        }
+      ],
+      "other_attributes": {
+        "char_span_start_line": 114,
+        "char_span_end_line": 147,
+        "lines_in_body": 32
+      },
+      "provenance": {
+        "header_match": "strict",
+        "line_span": [
+          114,
+          147
+        ],
+        "raw_header_line": "GAZETTE NOTICE NO. 9105",
+        "stitched_from": [],
+        "ocr_quality": null
+      },
+      "confidence_scores": {
+        "notice_number": 1.0,
+        "structure": 1.0,
+        "spatial": 0.681,
+        "boundary": 0.85,
+        "composite": 0.89,
+        "table": null
+      },
+      "confidence_reasons": [
+        "spatial: 5 repeated 6-grams (possible column merge)",
+        "spatial: high mid-sentence cap density 0.14 (24/173 words)",
+        "boundary: text does not end with terminal punctuation"
+      ],
+      "content_sha256": "f8164066711fa9e161fe5e53300ccef92359ef64e8eb95a2ba44d076e8acf1a8",
+      "gazette_notice_no": "9105",
+      "gazette_notice_header": "GAZETTE NOTICE NO. 9105",
+      "derived_table": null
     }
   ],
-  "pages": 2,
-  "volume": "CXII",
-  "issue_no": 76,
-  "publication_date": null,
-  "supplement_no": null,
-  "masthead_text": "SPECIAL ISSUE\n\nH\n\nVol. CXII-No. 76\n\nGAZETTE NOTICE NO. 9103\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n",
-  "parse_confidence": 0.5,
+  "corrigenda": [],
   "document_confidence": {
     "layout": 0.946,
     "ocr_quality": 0.991,
@@ -41,7 +767,6 @@
   },
   "layout_info": {
     "layout_confidence": 0.946,
-    "n_pages": 2,
     "pages": [
       {
         "layout_confidence": 0.93,
@@ -81,743 +806,14 @@
       }
     ]
   },
-  "docling": {
-    "export_summary": {
-      "schema_name": "DoclingDocument",
-      "version": "1.10.0",
-      "name": "Kenya Gazette Vol CXIINo 76",
-      "texts_count": 79,
-      "tables_count": 0,
-      "pictures_count": 1,
-      "pages_count": null
-    },
-    "full_markdown": "## SPECIAL ISSUE\n\n<!-- image -->\n\n## THE KENYA GAZETTE\n\n## Published by Authority of the Republic of Kenya\n\n(Registered as a Newspaper at the G.P.O.)\n\n## NAIROBI, 3rd August, 2010\n\nVol. CXII-No. 76\n\nGAZETTE NOTICE NO. 9103\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\n## THE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n\nIN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.\n\nDated the 3rd August, 2010.\n\nPrice Sh. 50\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nPOLLING STATIONS FOR REFERENDUM\n\n## Corrigenda\n\nIN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:\n\nPage 2596\n\nPolling Station Code: 038\n\nDelete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH\n\nPolling Station Code: 068\n\nDelete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI\n\nPolling Station Code: 089\n\nDelete GACUA PRIMARY and insert GACHUA PRIMARY\n\nPolling Station Code: 092\n\nDelete KITHWENE PRIMARY and insert KITHUENE PRIMARY\n\nPolling Station Code: 097\n\nDelete SIRIMON CENTRE and insert SIRMON CENTRE\n\nPage 2597\n\nPolling Station Code: 150\n\nDelete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY\n\nPolling Station Code: 158\n\nDelete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nGAZETTE NOTICE NO. 9104\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nGAZETTE NOTICE NO. 9105\n\n## THE CONSTITUTION OF KENYA\n\n## THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n## (Cap. 7 )\n\n## THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\n## THE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\n## THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nTRANSFER OF POLLING STATION\n\nIN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of\n\nElectors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .\n\nAND THAT the reason(s) for the transfer is (are) as follows:\n\nMukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.\n\nDated the 2nd August, 2010.\n\n## A. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
-    "full_plain_text": "SPECIAL ISSUE\n\nTHE KENYA GAZETTE\n\nPublished by Authority of the Republic of Kenya\n\n(Registered as a Newspaper at the G.P.O.)\n\nNAIROBI, 3rd August, 2010\n\nVol. CXII-No. 76\n\nGAZETTE NOTICE NO. 9103\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n\nIN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.\n\nDated the 3rd August, 2010.\n\nPrice Sh. 50\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nPOLLING STATIONS FOR REFERENDUM\n\nCorrigenda\n\nIN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:\n\nPage 2596\n\nPolling Station Code: 038\n\nDelete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH\n\nPolling Station Code: 068\n\nDelete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI\n\nPolling Station Code: 089\n\nDelete GACUA PRIMARY and insert GACHUA PRIMARY\n\nPolling Station Code: 092\n\nDelete KITHWENE PRIMARY and insert KITHUENE PRIMARY\n\nPolling Station Code: 097\n\nDelete SIRIMON CENTRE and insert SIRMON CENTRE\n\nPage 2597\n\nPolling Station Code: 150\n\nDelete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY\n\nPolling Station Code: 158\n\nDelete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nGAZETTE NOTICE NO. 9104\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nGAZETTE NOTICE NO. 9105\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nTRANSFER OF POLLING STATION\n\nIN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of\n\nElectors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .\n\nAND THAT the reason(s) for the transfer is (are) as follows:\n\nMukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
-    "full_plain_text_spatial": "SPECIAL ISSUE\n\nH\n\nVol. CXII-No. 76\n\nGAZETTE NOTICE NO. 9103\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n\nIN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.\n\nDated the 3rd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nGAZETTE NOTICE NO. 9104\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\n8\n\nPublished by Authority of the Republic of Kenya\n\nPrice Sh. 50\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nPOLLING STATIONS FOR REFERENDUM\n\nCorrigenda\n\nIN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:\n\nPage 2596\n\nPolling Station Code: 038\n\nDelete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH\n\nPolling Station Code: 068\n\nDelete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI\n\nPolling Station Code: 089\n\nDelete GACUA PRIMARY and insert GACHUA PRIMARY\n\nPolling Station Code: 092\n\nDelete KITHWENE PRIMARY and insert KITHUENE PRIMARY\n\nPolling Station Code: 097\n\nDelete SIRIMON CENTRE and insert SIRMON CENTRE\n\nPage 2597\n\nPolling Station Code: 150\n\nDelete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY\n\nPolling Station Code: 158\n\nDelete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nTHE KENYA GAZETTE\n\n(Registered as a Newspaper at the G.P.O.)\n\nNAIROBI, 3rd August, 2010\n\nGAZETTE NOTICE NO. 9105\n\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nTRANSFER OF POLLING STATION\n\nElectors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .\n\nAND THAT the reason(s) for the transfer is (are) as follows:\n\nMukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nIN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of"
-  },
-  "corrigenda": [],
-  "gazette_notices": [
+  "warnings": [
     {
-      "gazette_notice_no": "9103",
-      "gazette_notice_header": "GAZETTE NOTICE NO. 9103",
-      "title_lines": [
-        "THE CONSTITUTION OF KENYA"
-      ],
-      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9103\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nAPPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM\n\nPOLLING STATIONS FOR THE REFERENDUM\n\nREMUNERATION OF REFERENDUM OFFICIALS\n\nDECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION\n\nCorrigenda\n\nIN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'.\n\nDated the 3rd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
-      "body_segments": [
-        {
-          "type": "text",
-          "lines": [
-            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(Cap. 7 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA REVIEW ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(No. 9 of 2008 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "APPOINTMENT OF RETURNING OFFICERS AND DEPUTY RETURNING OFFICERS FOR THE REFERENDUM"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "POLLING STATIONS FOR THE REFERENDUM"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "REMUNERATION OF REFERENDUM OFFICIALS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "DECLARATION OF JUJA BY-ELECTION AND APPOINTMENT OF RETURNING OFFICER AND DEPUTY RETURNING OFFICER TO O BY-ELECTION"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Corrigenda"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "IN Gazette Notice Nos. 8706, 8707, 8755 , 8756 and 8757 of 2010, amend the signatory thereof printed  as  'ABIUD  S.  WASIKE, Commissioner' to read 'A. I. HASSAN, Chairman'."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Dated the 3rd August, 2010."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "A. I. HASSAN,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Chairman,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Interim Independent Electoral Commission."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        }
-      ],
-      "other_attributes": {
-        "char_span_start_line": 6,
-        "char_span_end_line": 40,
-        "lines_in_body": 33
-      },
-      "provenance": {
-        "header_match": "strict",
-        "line_span": [
-          6,
-          40
-        ],
-        "raw_header_line": "GAZETTE NOTICE NO. 9103",
-        "stitched_from": []
-      },
-      "confidence_scores": {
-        "notice_number": 1.0,
-        "structure": 1.0,
-        "spatial": 1.0,
-        "boundary": 1.0,
-        "composite": 1.0
-      },
-      "confidence_reasons": [],
-      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
-      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9103"
-    },
-    {
-      "gazette_notice_no": "9104",
-      "gazette_notice_header": "GAZETTE NOTICE NO. 9104",
-      "title_lines": [
-        "THE CONSTITUTION OF KENYA"
-      ],
-      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9104\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\n8\n\n\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nPOLLING STATIONS FOR REFERENDUM\n\nCorrigenda\n\nIN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:\n\nPage 2596\n\nPolling Station Code: 038\n\nDelete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH\n\nPolling Station Code: 068\n\nDelete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI\n\nPolling Station Code: 089\n\nDelete GACUA PRIMARY and insert GACHUA PRIMARY\n\nPolling Station Code: 092\n\nDelete KITHWENE PRIMARY and insert KITHUENE PRIMARY\n\nPolling Station Code: 097\n\nDelete SIRIMON CENTRE and insert SIRMON CENTRE\n\nPage 2597\n\nPolling Station Code: 150\n\nDelete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY\n\nPolling Station Code: 158\n\nDelete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.",
-      "body_segments": [
-        {
-          "type": "text",
-          "lines": [
-            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(Cap. 7 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "8"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA REVIEW ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(No. 9 of 2008 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "POLLING STATIONS FOR REFERENDUM"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Corrigenda"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "IN  Gazette  Notice  No.  8756  of  2010 amend and insert where appropriate the changes as specified here below:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Page 2596"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 038"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete NJIRUTA PRI. SCH and insert NJURUTA PRI. SCH"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 068"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete MURINGO MBUGI PRI. SCH and insert MURINGA-OMBUGI"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 089"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete GACUA PRIMARY and insert GACHUA PRIMARY"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 092"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete KITHWENE PRIMARY and insert KITHUENE PRIMARY"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 097"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete SIRIMON CENTRE and insert SIRMON CENTRE"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Page 2597"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 150"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete NKUGIRE  COFFEE  FACTORY  and insert NKUGWE COFFEE FACTORY"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Polling Station Code: 158"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Delete NTHAMBIRI PRI. SCH and insert NTHAMIRI PRI. SCH"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Dated the 2nd August, 2010."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "A. I. HASSAN,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Chairman,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Interim Independent Electoral Commission."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "blank",
-          "line": ""
-        }
-      ],
-      "other_attributes": {
-        "char_span_start_line": 40,
-        "char_span_end_line": 114,
-        "lines_in_body": 68
-      },
-      "provenance": {
-        "header_match": "strict",
-        "line_span": [
-          40,
-          114
-        ],
-        "raw_header_line": "GAZETTE NOTICE NO. 9104",
-        "stitched_from": []
-      },
-      "confidence_scores": {
-        "notice_number": 1.0,
-        "structure": 1.0,
-        "spatial": 1.0,
-        "boundary": 1.0,
-        "composite": 1.0
-      },
-      "confidence_reasons": [],
-      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
-      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9104"
-    },
-    {
-      "gazette_notice_no": "9105",
-      "gazette_notice_header": "GAZETTE NOTICE NO. 9105",
-      "title_lines": [
-        "THE CONSTITUTION OF KENYA"
-      ],
-      "gazette_notice_full_text": "GAZETTE NOTICE NO. 9105\nTHE CONSTITUTION OF KENYA\n\nTHE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT\n\n(Cap. 7 )\n\nTHE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS\n\nTHE CONSTITUTION OF KENYA REVIEW ACT\n\n(No. 9 of 2008 )\n\nTHE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010\n\nTRANSFER OF POLLING STATION\n\nElectors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy .\n\nAND THAT the reason(s) for the transfer is (are) as follows:\n\nMukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence.\n\nDated the 2nd August, 2010.\n\nA. I. HASSAN,\n\nChairman,\n\nInterim Independent Electoral Commission.\n\nIN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of",
-      "body_segments": [
-        {
-          "type": "text",
-          "lines": [
-            "THE NATIONAL ASSEMBLY AND PRESIDENTIAL ELECTIONS ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(Cap. 7 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE PRESIDENTIAL AND PARLIAMENTARY ELECTIONS REGULATIONS"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA REVIEW ACT"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "(No. 9 of 2008 )"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "THE CONSTITUTION OF KENYA (REVIEW) REFERENDUM REGULATIONS, 2010"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "TRANSFER OF POLLING STATION"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Electors) Regulations, section 38 of the Constitution of Kenya Review Act and regulation 21 (2) ( a )  of  the  Constitution  of Kenya  (Review) Referendum Regulations, the Interim Independent Electoral Commission notifies the voters of Mukuru Kaiyaba Primary School in Makadara Constituency; Code 001, Nairobi that the polling centre has been transferred to Bright Star Academy ."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "AND THAT the reason(s) for the transfer is (are) as follows:"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Mukuru  Kaiyaba  Primary  School  is  under  construction  and  the contractor  has  denied  access  for  polling  day  activities  for  fear  of destruction of the property in the likelihood of poll violence."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Dated the 2nd August, 2010."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "A. I. HASSAN,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Chairman,"
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "Interim Independent Electoral Commission."
-          ]
-        },
-        {
-          "type": "blank",
-          "line": ""
-        },
-        {
-          "type": "text",
-          "lines": [
-            "IN EXERCISE of powers conferred by Regulation 6 (1) ( d ) of the National Assembly and Presidential Elections (Registration of"
-          ]
-        }
-      ],
-      "other_attributes": {
-        "char_span_start_line": 114,
-        "char_span_end_line": 147,
-        "lines_in_body": 32
-      },
-      "provenance": {
-        "header_match": "strict",
-        "line_span": [
-          114,
-          147
-        ],
-        "raw_header_line": "GAZETTE NOTICE NO. 9105",
-        "stitched_from": []
-      },
-      "confidence_scores": {
-        "notice_number": 1.0,
-        "structure": 1.0,
-        "spatial": 0.681,
-        "boundary": 0.85,
-        "composite": 0.89
-      },
-      "confidence_reasons": [
-        "spatial: 5 repeated 6-grams (possible column merge)",
-        "spatial: high mid-sentence cap density 0.14 (24/173 words)",
-        "boundary: text does not end with terminal punctuation"
-      ],
-      "gazette_issue_id": "KE-GAZ-UNKNOWN-3c93ada5ee31",
-      "notice_id": "KE-GAZ-UNKNOWN-3c93ada5ee31:9105"
+      "kind": "masthead.parse_failed",
+      "message": "Required masthead field missing; using fallback issue id",
+      "where": {
+        "pdf_file_name": "Kenya Gazette Vol CXIINo 76.pdf"
+      }
     }
-  ]
+  ],
+  "cost": null
 }

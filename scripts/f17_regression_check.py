@@ -55,7 +55,7 @@ def check_regression(tolerance: float = TOLERANCE) -> bool:
             continue
         with open(cur_path, "r", encoding="utf-8") as fh:
             rec = json.load(fh)
-        cur = aggregate_confidence(rec.get("gazette_notices") or [])
+        cur = aggregate_confidence(rec.get("notices") or rec.get("gazette_notices") or [])
         baseline = float(snap["mean_composite"])
         delta = cur["mean"] - baseline
         if delta < -tolerance:
