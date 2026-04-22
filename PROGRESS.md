@@ -50,8 +50,8 @@
 | **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab |
 | **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | cddacba |
 | **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | 19e9e2c |
-| **F18** | Pydantic models from contract | Translate contract into classes | ✅ Complete | — |
-| **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | — |
+| **F18** | Pydantic models from contract | Translate contract into classes | ✅ Complete | 528dd71 |
+| **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | 2d01e19 |
 | **F20** | Move logic into modules | Copy helpers into submodules | ⬜ Not started | — |
 | **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ⬜ Not started | — |
 | **F22** | GazetteConfig + Bundles | Config object with options | ⬜ Not started | — |
