@@ -1,0 +1,7 @@
+  Kenya Gazette Vol CXINo 100: OK exact-match (287 ids)
+  Kenya Gazette Vol CXINo 103: OK exact-match (320 ids)
+  Kenya Gazette Vol CXIINo 76: OK exact-match (3 ids)
+  Kenya Gazette Vol CXXVIINo 63: OK exact-match (146 ids)
+  Kenya Gazette Vol CXXIVNo 282: OK exact-match (201 ids)
+  Kenya Gazette Vol CIINo 83 - pre 2010: OK exact-match (1 ids)
+TC9 OK (6/6 exact)

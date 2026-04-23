@@ -1,0 +1,34 @@
+
+=== Pair attempt 1/5 ===
+>>> child: tmpt_pbhps3.py -> env_parse_file.json
+[32m[INFO] 2026-04-23 03:02:13,637 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:02:13,645 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:02:13,680 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:02:13,681 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:02:13,988 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:02:13,989 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:02:13,991 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:02:13,991 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:02:14,057 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:02:14,057 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:02:14,108 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:02:14,108 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8000.51it/s]
+<<< child rc=0
+>>> child: tmpflyiv3ec.py -> env_parse_bytes.json
+[32m[INFO] 2026-04-23 03:06:24,160 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:06:24,172 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:06:24,213 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:06:24,214 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:06:24,707 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:06:24,708 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:06:24,710 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:06:24,710 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:06:24,785 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 03:06:24,786 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 03:06:24,852 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 03:06:24,852 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  98%|#########7| 752/770 [00:00<00:00, 7519.54it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 7542.34it/s]
+<<< child rc=0
+    pair attempt 1: AGREE (287 notice_ids match)
+TC2 OK (pdf_sha256=06682980b768..., n_notices=287, gazette_issue_id=KE-GAZ-CXI-100-2009-11-20-S76, mean_composite=0.990; subprocess-isolated to dodge G1 OCR non-determinism)

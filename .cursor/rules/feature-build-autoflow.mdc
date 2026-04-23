@@ -1,0 +1,36 @@
+---
+description: When the user says "kick off FXX" or "build FXX", run the autoflow orchestrator instead of a single agent stage.
+alwaysApply: true
+---
+
+# Feature build autoflow
+
+## Trigger
+
+When the human's message matches either of these patterns (case-insensitive, `FXX` is any `F` followed by one or more digits from `PROGRESS.md`):
+
+- `kick off FXX`  (e.g. `kick off F21`)
+- `build FXX`     (e.g. `Build F22` or `build f30 please`)
+
+…treat it as a request to run the **full 3-agent feature pipeline**, not a single agent stage.
+
+## What to do
+
+1. Read `.cursor/agents/agent-0-orchestrator.md` and follow it exactly.
+2. Run Stage A (Agent 1 — Spec Creator).
+3. Present the three-block human pause (summary + open questions with recommended answers + approve/revise/reject ask) as specified in orchestrator section 3.
+4. Wait for the human's reply. Do not start Stage B until you get explicit `approve` (with or without per-question overrides).
+5. Run Stage B (Agent 2 — Builder & Tester) only after approval.
+6. Run Stage C (Agent 3 — Senior Reviewer) only if Agent 2 returned `PASS`.
+7. On any `FAIL` from Agent 2 or Agent 3, stop and report to the human; do not auto-retry, do not auto-commit.
+
+## What NOT to do
+
+- Do not silently skip the human pause, even if Agent 1 reports zero open questions.
+- Do not invoke Agent 2 or Agent 3 in parallel with Agent 1.
+- Do not treat phrases like "run agent 2 for FXX" or "review FXX" as autoflow triggers — those remain manual single-stage invocations using the individual role docs.
+- Do not auto-loop on a FAIL; the orchestrator stops and asks the human.
+
+## Why this rule exists
+
+The 3-agent SOP (`specs/SOP.md`) was previously executed step-by-step by the human copy-pasting prompts between agents. The autoflow compresses that into one trigger phrase and one approval gate, while preserving every safety property of the manual flow (explicit human approval of the spec, no auto-commit on review failure).

@@ -2,7 +2,9 @@
 
 **Purpose:** Review implementation, give pass/fail verdict, make recommendations, commit if approved.
 
-**Trigger:** Human provides: Build report from Agent 2 + `FEATURE_ID`
+**If invoked via autoflow:** read `.cursor/agents/agent-0-orchestrator.md` first (especially section 5). You will receive Agent 2's build report inline in your prompt. Your commit and PROGRESS.md-SHA-update responsibilities are unchanged. A `FAIL` verdict stops the autoflow immediately — do not retry Agent 2 yourself; report to the orchestrator and let the human decide.
+
+**Trigger:** Human provides: Build report from Agent 2 + `FEATURE_ID`; or, in autoflow, the orchestrator dispatches this agent after a PASS build.
 
 **Input Files to Read:**
 1. Original spec: `specs/{FEATURE_ID}-{kebab-name}.md`

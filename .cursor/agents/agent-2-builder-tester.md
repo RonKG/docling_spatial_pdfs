@@ -4,7 +4,9 @@
 
 **Purpose:** Implement feature from spec, run tests, update PROGRESS.md, report status.
 
-**Trigger:** Human provides: Copy of Section 4 (Implementation Prompt) from Agent 1's spec file
+**If invoked via autoflow:** read `.cursor/agents/agent-0-orchestrator.md` first (especially section 4). The orchestrator will have already resolved any open questions in the spec's section 8; treat those answers as binding. Do not commit — that is Agent 3's job. Everything else in this role doc still applies.
+
+**Trigger:** Human provides: Copy of Section 4 (Implementation Prompt) from Agent 1's spec file; or, in autoflow, the orchestrator dispatches this agent with the spec path and feature ID.
 
 **Input Files to Read:**
 1. The spec file referenced in the prompt (e.g., `specs/F11-masthead-parser.md`)

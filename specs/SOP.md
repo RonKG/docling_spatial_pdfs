@@ -6,6 +6,19 @@
 
 ---
 
+## Stage 0 (recommended): Autoflow — `kick off FXX` / `build FXX`
+
+For routine features you can compress Stages 1-4 into a single trigger phrase and a single human approval point.
+
+- **Trigger:** say `kick off FXX` or `build FXX` in chat (case-insensitive).
+- **What runs:** Agent 1 generates the spec, then the orchestrator pauses and shows you a one-paragraph summary plus open questions with recommended answers. You reply `approve`, `approve: Qn=<override>`, `revise: <instruction>`, or `reject`. On approve, Agent 2 builds and Agent 3 reviews/commits automatically — no further prompts unless a stage fails.
+- **Where it's defined:** `.cursor/agents/agent-0-orchestrator.md` (full contract) and `.cursor/rules/feature-build-autoflow.mdc` (the always-on rule that activates the orchestrator on the trigger phrase).
+- **Stopping points:** exactly one human pause after the spec, plus one automatic stop-and-report on any downstream FAIL. Nothing is auto-retried and nothing is auto-committed after a review FAIL.
+
+Use the manual stage-by-stage flow below when you want to intervene between every stage, revise a spec mid-flight, or run any single agent in isolation (e.g. "just review F20, don't rebuild").
+
+---
+
 ## Stage 1: Discovery (Do This First)
 
 ### Step 1.1: Read PROGRESS.md
@@ -204,4 +217,4 @@ List any ambiguities needing resolution before build.
 
 ---
 
-**Last updated:** 2026-04-19
+**Last updated:** 2026-04-22 (added Stage 0 autoflow entry point)

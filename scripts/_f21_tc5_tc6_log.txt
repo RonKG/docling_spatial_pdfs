@@ -1,0 +1,3 @@
+>>> reconstructing Envelope from output\Kenya Gazette Vol CXXIVNo 282\Kenya Gazette Vol CXXIVNo 282_gazette_spatial.json
+TC5 OK ("Bundles ['full_text'] require pdf_path; pass pdf_path=<path-to-pdf>. Only gazette_spatial_json is derivable from the Envelope alone.")
+TC6 OK ("Unknown bundle keys: ['bogus_key']. Known keys in F21: ['docling_json', 'docling_markdown', 'full_text', 'gazette_spatial_json', 'spatial_markdown'].")

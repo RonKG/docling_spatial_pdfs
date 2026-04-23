@@ -1,0 +1,104 @@
+[32m[INFO] 2026-04-23 02:56:44,513 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:56:44,519 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:56:44,547 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:56:44,547 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:56:44,802 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:56:44,802 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:56:44,805 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:56:44,805 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:56:44,892 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:56:44,892 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:56:44,948 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:56:44,948 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8220.17it/s]
+[33m[WARNING] 2026-04-23 02:56:50,779 [RapidOCR] main.py:132: The text detection result is empty[0m
+RapidOCR returned empty result!
+Stage table failed for run 1: [enforce fail at alloc_cpu.cpp:117] data. DefaultCPUAllocator: not enough memory: you tried to allocate 3702784 bytes.
+Traceback (most recent call last):
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling\pipeline\standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling\models\base_table_model.py", line 41, in __call__
+    predictions = self.predict_tables(conv_res, pages)
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling\models\stages\table_structure\table_structure_model.py", line 258, in predict_tables
+    tf_output = self.tf_predictor.multi_table_predict(
+        page_input, [tbl_box], do_matching=self.do_cell_matching
+    )
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling_ibm_models\tableformer\data_management\tf_predictor.py", line 490, in multi_table_predict
+    tf_responses, predict_details = self.predict(
+                                    ~~~~~~~~~~~~^
+        iocr_page,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        correct_overlapping_cells,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling_ibm_models\tableformer\data_management\tf_predictor.py", line 746, in predict
+    pred_tag_seq, outputs_class, outputs_coord = self._model.predict(
+                                                 ~~~~~~~~~~~~~~~~~~~^
+        image_batch, max_steps, beam_size
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling_ibm_models\tableformer\models\table04_rs\tablemodel04_rs.py", line 181, in predict
+    decoded, cache = self._tag_transformer._decoder(
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        decoded_embedding,
+        ^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        memory_key_padding_mask=encoder_mask,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1779, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1790, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling_ibm_models\tableformer\models\table04_rs\transformer_rs.py", line 58, in forward
+    output = mod(output, memory)
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1779, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1790, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\docling_ibm_models\tableformer\models\table04_rs\transformer_rs.py", line 92, in forward
+    tmp_tgt = self.self_attn(
+              ~~~~~~~~~~~~~~^
+        tgt_last_tok,
+        ^^^^^^^^^^^^^
+    ...<4 lines>...
+        need_weights=False,  # Optimization: Don't compute attention weights
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )[0]
+    ^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1779, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1790, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\modules\activation.py", line 1492, in forward
+    attn_output, attn_output_weights = F.multi_head_attention_forward(
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<17 lines>...
+        is_causal=is_causal,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\functional.py", line 6478, in multi_head_attention_forward
+    q, k, v = _in_projection_packed(query, key, value, in_proj_weight, in_proj_bias)
+              ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\torch\nn\functional.py", line 5862, in _in_projection_packed
+    .contiguous()
+     ~~~~~~~~~~^^
+RuntimeError: [enforce fail at alloc_cpu.cpp:117] data. DefaultCPUAllocator: not enough memory: you tried to allocate 3702784 bytes.
+Traceback (most recent call last):
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\scripts\f21_tc1_parse_file_happy.py", line 57, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\scripts\f21_tc1_parse_file_happy.py", line 42, in main
+    assert n_notices == 201, f"Expected 201 notices, got {n_notices}"
+           ^^^^^^^^^^^^^^^^
+AssertionError: Expected 201 notices, got 199

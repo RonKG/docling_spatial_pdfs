@@ -1,0 +1,63 @@
+[32m[INFO] 2026-04-23 02:52:49,466 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:52:49,479 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:52:49,524 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:52:49,525 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:52:50,319 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:52:50,320 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:52:50,327 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:52:50,328 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:52:50,474 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 02:52:50,475 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 02:52:50,563 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 02:52:50,564 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  99%|#########8| 760/770 [00:00<00:00, 7598.39it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 7619.31it/s]
+Stage preprocess failed for run 1, pages [13]: std::bad_alloc
+Stage preprocess failed for run 1, pages [14]: std::bad_alloc
+Stage preprocess failed for run 1, pages [15]: std::bad_alloc
+[33m[WARNING] 2026-04-23 02:52:58,388 [RapidOCR] main.py:132: The text detection result is empty[0m
+RapidOCR returned empty result!
+Stage preprocess failed for run 1, pages [16]: std::bad_alloc
+Stage preprocess failed for run 1, pages [17]: std::bad_alloc
+Stage preprocess failed for run 1, pages [18]: std::bad_alloc
+Stage preprocess failed for run 1, pages [19]: std::bad_alloc
+Stage preprocess failed for run 1, pages [20]: std::bad_alloc
+Stage preprocess failed for run 1, pages [21]: std::bad_alloc
+Stage preprocess failed for run 1, pages [22]: std::bad_alloc
+Stage preprocess failed for run 1, pages [23]: std::bad_alloc
+Stage preprocess failed for run 1, pages [24]: std::bad_alloc
+Stage preprocess failed for run 1, pages [25]: std::bad_alloc
+Stage preprocess failed for run 1, pages [26]: std::bad_alloc
+Stage preprocess failed for run 1, pages [27]: std::bad_alloc
+Stage preprocess failed for run 1, pages [28]: std::bad_alloc
+Stage preprocess failed for run 1, pages [29]: std::bad_alloc
+Stage preprocess failed for run 1, pages [30]: std::bad_alloc
+Stage preprocess failed for run 1, pages [31]: std::bad_alloc
+Stage preprocess failed for run 1, pages [32]: std::bad_alloc
+Stage preprocess failed for run 1, pages [33]: std::bad_alloc
+Stage preprocess failed for run 1, pages [34]: std::bad_alloc
+Stage preprocess failed for run 1, pages [35]: std::bad_alloc
+Stage preprocess failed for run 1, pages [36]: std::bad_alloc
+Stage preprocess failed for run 1, pages [37]: std::bad_alloc
+Stage preprocess failed for run 1, pages [38]: std::bad_alloc
+Stage preprocess failed for run 1, pages [39]: std::bad_alloc
+Stage preprocess failed for run 1, pages [40]: std::bad_alloc
+Stage preprocess failed for run 1, pages [41]: std::bad_alloc
+Stage preprocess failed for run 1, pages [42]: std::bad_alloc
+Stage preprocess failed for run 1, pages [43]: std::bad_alloc
+Stage preprocess failed for run 1, pages [44]: std::bad_alloc
+Stage preprocess failed for run 1, pages [45]: std::bad_alloc
+Stage preprocess failed for run 1, pages [46]: std::bad_alloc
+Stage preprocess failed for run 1, pages [47]: std::bad_alloc
+Stage preprocess failed for run 1, pages [48]: std::bad_alloc
+Stage preprocess failed for run 1, pages [49]: std::bad_alloc
+Stage preprocess failed for run 1, pages [50]: std::bad_alloc
+Stage preprocess failed for run 1, pages [51]: std::bad_alloc
+Stage preprocess failed for run 1, pages [52]: std::bad_alloc
+Traceback (most recent call last):
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\scripts\f21_tc1_parse_file_happy.py", line 57, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\scripts\f21_tc1_parse_file_happy.py", line 42, in main
+    assert n_notices == 201, f"Expected 201 notices, got {n_notices}"
+           ^^^^^^^^^^^^^^^^
+AssertionError: Expected 201 notices, got 58
