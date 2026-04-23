@@ -52,7 +52,7 @@
 | **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | 19e9e2c |
 | **F18** | Pydantic models from contract | Translate contract into classes | ✅ Complete | 528dd71 |
 | **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | 2d01e19 |
-| **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | — |
+| **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | 28c5162 |
 | **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ⬜ Not started | — |
 | **F22** | GazetteConfig + Bundles | Config object with options | ⬜ Not started | — |
 | **F23** | JSON Schema export | Generate schema file | ⬜ Not started | — |
