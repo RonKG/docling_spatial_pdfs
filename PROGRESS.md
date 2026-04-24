@@ -55,7 +55,7 @@
 | **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | 28c5162 |
 | **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ✅ Complete | b31efc8 |
 | **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 |
-| **F23** | JSON Schema export | Generate schema file | ✅ Complete | — |
+| **F23** | JSON Schema export | Generate schema file | ✅ Complete | 06eef81 |
 | **F24** | Installable package smoke test | Test `pip install` works | ⬜ Not started | — |
 | **F25** | README points at `parse_file` | Library quickstart | ⬜ Not started | — |
 | *F26-F30* | *Post-1.0 items* | *Protocols, ML, CLI, PyPI, multi-stage LLM* | *Post-1.0* | *See roadmap* |
