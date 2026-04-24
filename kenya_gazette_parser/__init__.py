@@ -28,6 +28,7 @@ from kenya_gazette_parser.__version__ import __version__
 from kenya_gazette_parser.io import write_envelope
 from kenya_gazette_parser.models import Bundles, Envelope, GazetteConfig, LLMPolicy, RuntimeOptions
 from kenya_gazette_parser.pipeline import build_envelope
+from kenya_gazette_parser.schema import get_envelope_schema, validate_envelope_json, write_schema_file
 
 if TYPE_CHECKING:  # pragma: no cover - import only for type checkers
     from docling.document_converter import DocumentConverter  # noqa: F401
@@ -42,6 +43,10 @@ __all__ = [
     "Bundles",
     "LLMPolicy",
     "RuntimeOptions",
+    # F23 additions
+    "get_envelope_schema",
+    "validate_envelope_json",
+    "write_schema_file",
 ]
 
 

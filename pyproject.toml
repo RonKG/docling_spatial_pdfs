@@ -32,6 +32,7 @@ dependencies = [
     "docling-core>=2.0.0",
     "openai>=1.40.0",
     "pydantic>=2.0",
+    "jsonschema>=4.0",
 ]
 
 [project.optional-dependencies]
@@ -52,4 +53,4 @@ include = ["kenya_gazette_parser*"]
 exclude = ["tests*", "docs*", "specs*", "output*", "pdfs*", ".llm_cache*"]
 
 [tool.setuptools.package-data]
-kenya_gazette_parser = ["py.typed"]
+kenya_gazette_parser = ["py.typed", "schema/*.json"]

@@ -1,0 +1,668 @@
+{
+  "$defs": {
+    "BodySegment": {
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "enum": [
+            "text",
+            "blank"
+          ],
+          "title": "Type",
+          "type": "string"
+        },
+        "lines": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Lines",
+          "type": "array"
+        }
+      },
+      "required": [
+        "type",
+        "lines"
+      ],
+      "title": "BodySegment",
+      "type": "object"
+    },
+    "ConfidenceScores": {
+      "additionalProperties": false,
+      "properties": {
+        "notice_number": {
+          "title": "Notice Number",
+          "type": "number"
+        },
+        "structure": {
+          "title": "Structure",
+          "type": "number"
+        },
+        "spatial": {
+          "title": "Spatial",
+          "type": "number"
+        },
+        "boundary": {
+          "title": "Boundary",
+          "type": "number"
+        },
+        "composite": {
+          "title": "Composite",
+          "type": "number"
+        },
+        "table": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Table"
+        }
+      },
+      "required": [
+        "notice_number",
+        "structure",
+        "spatial",
+        "boundary",
+        "composite"
+      ],
+      "title": "ConfidenceScores",
+      "type": "object"
+    },
+    "Corrigendum": {
+      "additionalProperties": false,
+      "properties": {
+        "scope": {
+          "enum": [
+            "issue_level",
+            "notice_is_corrigendum",
+            "notice_references_other"
+          ],
+          "title": "Scope",
+          "type": "string"
+        },
+        "raw_text": {
+          "title": "Raw Text",
+          "type": "string"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "target_notice_no": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Target Notice No"
+        },
+        "target_year": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Target Year"
+        },
+        "amendment": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Amendment"
+        }
+      },
+      "required": [
+        "scope",
+        "raw_text",
+        "provenance"
+      ],
+      "title": "Corrigendum",
+      "type": "object"
+    },
+    "Cost": {
+      "additionalProperties": false,
+      "properties": {
+        "llm_calls": {
+          "title": "Llm Calls",
+          "type": "integer"
+        },
+        "prompt_tokens": {
+          "title": "Prompt Tokens",
+          "type": "integer"
+        },
+        "completion_tokens": {
+          "title": "Completion Tokens",
+          "type": "integer"
+        },
+        "usd_estimate": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Usd Estimate"
+        }
+      },
+      "required": [
+        "llm_calls",
+        "prompt_tokens",
+        "completion_tokens"
+      ],
+      "title": "Cost",
+      "type": "object"
+    },
+    "DerivedTable": {
+      "additionalProperties": true,
+      "properties": {
+        "rows": {
+          "items": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "title": "Rows",
+          "type": "array"
+        },
+        "columns": {
+          "anyOf": [
+            {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Columns"
+        },
+        "notice_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notice Id"
+        }
+      },
+      "required": [
+        "rows"
+      ],
+      "title": "DerivedTable",
+      "type": "object"
+    },
+    "DocumentConfidence": {
+      "additionalProperties": false,
+      "properties": {
+        "layout": {
+          "title": "Layout",
+          "type": "number"
+        },
+        "ocr_quality": {
+          "title": "Ocr Quality",
+          "type": "number"
+        },
+        "notice_split": {
+          "title": "Notice Split",
+          "type": "number"
+        },
+        "composite": {
+          "title": "Composite",
+          "type": "number"
+        },
+        "counts": {
+          "additionalProperties": {
+            "type": "integer"
+          },
+          "propertyNames": {
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "title": "Counts",
+          "type": "object"
+        },
+        "mean_composite": {
+          "title": "Mean Composite",
+          "type": "number"
+        },
+        "min_composite": {
+          "title": "Min Composite",
+          "type": "number"
+        },
+        "n_notices": {
+          "title": "N Notices",
+          "type": "integer"
+        },
+        "ocr_reasons": {
+          "default": [],
+          "items": {
+            "type": "string"
+          },
+          "title": "Ocr Reasons",
+          "type": "array"
+        }
+      },
+      "required": [
+        "layout",
+        "ocr_quality",
+        "notice_split",
+        "composite",
+        "counts",
+        "mean_composite",
+        "min_composite",
+        "n_notices"
+      ],
+      "title": "DocumentConfidence",
+      "type": "object"
+    },
+    "GazetteIssue": {
+      "additionalProperties": false,
+      "properties": {
+        "gazette_issue_id": {
+          "title": "Gazette Issue Id",
+          "type": "string"
+        },
+        "masthead_text": {
+          "title": "Masthead Text",
+          "type": "string"
+        },
+        "parse_confidence": {
+          "title": "Parse Confidence",
+          "type": "number"
+        },
+        "volume": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Volume"
+        },
+        "issue_no": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Issue No"
+        },
+        "publication_date": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Publication Date"
+        },
+        "supplement_no": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Supplement No"
+        }
+      },
+      "required": [
+        "gazette_issue_id",
+        "masthead_text",
+        "parse_confidence"
+      ],
+      "title": "GazetteIssue",
+      "type": "object"
+    },
+    "LayoutInfo": {
+      "additionalProperties": false,
+      "properties": {
+        "layout_confidence": {
+          "title": "Layout Confidence",
+          "type": "number"
+        },
+        "pages": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Pages",
+          "type": "array"
+        }
+      },
+      "required": [
+        "layout_confidence",
+        "pages"
+      ],
+      "title": "LayoutInfo",
+      "type": "object"
+    },
+    "Notice": {
+      "additionalProperties": false,
+      "properties": {
+        "notice_id": {
+          "title": "Notice Id",
+          "type": "string"
+        },
+        "gazette_issue_id": {
+          "title": "Gazette Issue Id",
+          "type": "string"
+        },
+        "title_lines": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Title Lines",
+          "type": "array"
+        },
+        "gazette_notice_full_text": {
+          "title": "Gazette Notice Full Text",
+          "type": "string"
+        },
+        "body_segments": {
+          "items": {
+            "$ref": "#/$defs/BodySegment"
+          },
+          "title": "Body Segments",
+          "type": "array"
+        },
+        "other_attributes": {
+          "additionalProperties": true,
+          "title": "Other Attributes",
+          "type": "object"
+        },
+        "provenance": {
+          "$ref": "#/$defs/Provenance"
+        },
+        "confidence_scores": {
+          "$ref": "#/$defs/ConfidenceScores"
+        },
+        "confidence_reasons": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Confidence Reasons",
+          "type": "array"
+        },
+        "content_sha256": {
+          "title": "Content Sha256",
+          "type": "string"
+        },
+        "gazette_notice_no": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Gazette Notice No"
+        },
+        "gazette_notice_header": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Gazette Notice Header"
+        },
+        "derived_table": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/DerivedTable"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "notice_id",
+        "gazette_issue_id",
+        "title_lines",
+        "gazette_notice_full_text",
+        "body_segments",
+        "other_attributes",
+        "provenance",
+        "confidence_scores",
+        "confidence_reasons",
+        "content_sha256"
+      ],
+      "title": "Notice",
+      "type": "object"
+    },
+    "Provenance": {
+      "additionalProperties": false,
+      "properties": {
+        "header_match": {
+          "enum": [
+            "strict",
+            "recovered",
+            "inferred",
+            "none"
+          ],
+          "title": "Header Match",
+          "type": "string"
+        },
+        "line_span": {
+          "maxItems": 2,
+          "minItems": 2,
+          "prefixItems": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "integer"
+            }
+          ],
+          "title": "Line Span",
+          "type": "array"
+        },
+        "raw_header_line": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Raw Header Line"
+        },
+        "stitched_from": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Stitched From",
+          "type": "array"
+        },
+        "ocr_quality": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ocr Quality"
+        }
+      },
+      "required": [
+        "header_match",
+        "line_span"
+      ],
+      "title": "Provenance",
+      "type": "object"
+    },
+    "Warning": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "title": "Kind",
+          "type": "string"
+        },
+        "message": {
+          "title": "Message",
+          "type": "string"
+        },
+        "where": {
+          "anyOf": [
+            {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Where"
+        }
+      },
+      "required": [
+        "kind",
+        "message"
+      ],
+      "title": "Warning",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "library_version": {
+      "title": "Library Version",
+      "type": "string"
+    },
+    "schema_version": {
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "output_format_version": {
+      "title": "Output Format Version",
+      "type": "integer"
+    },
+    "extracted_at": {
+      "format": "date-time",
+      "title": "Extracted At",
+      "type": "string"
+    },
+    "pdf_sha256": {
+      "title": "Pdf Sha256",
+      "type": "string"
+    },
+    "issue": {
+      "$ref": "#/$defs/GazetteIssue"
+    },
+    "notices": {
+      "items": {
+        "$ref": "#/$defs/Notice"
+      },
+      "title": "Notices",
+      "type": "array"
+    },
+    "corrigenda": {
+      "items": {
+        "$ref": "#/$defs/Corrigendum"
+      },
+      "title": "Corrigenda",
+      "type": "array"
+    },
+    "document_confidence": {
+      "$ref": "#/$defs/DocumentConfidence"
+    },
+    "layout_info": {
+      "$ref": "#/$defs/LayoutInfo"
+    },
+    "warnings": {
+      "items": {
+        "$ref": "#/$defs/Warning"
+      },
+      "title": "Warnings",
+      "type": "array"
+    },
+    "cost": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Cost"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    }
+  },
+  "required": [
+    "library_version",
+    "schema_version",
+    "output_format_version",
+    "extracted_at",
+    "pdf_sha256",
+    "issue",
+    "notices",
+    "corrigenda",
+    "document_confidence",
+    "layout_info",
+    "warnings"
+  ],
+  "title": "Envelope",
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kenya-gazette-parser/schema/envelope.schema.json"
+}
