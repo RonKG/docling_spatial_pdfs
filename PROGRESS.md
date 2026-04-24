@@ -3,7 +3,7 @@
 **Project:** Kenya Gazette PDF -> structured library  
 **Builder:** Solo, part-time  
 **Target 1.0:** `pip install`-able package returning a validated `Envelope` from a PDF  
-**Last updated:** 2026-04-24 (F24 shipped; TC1-TC7 PASS; Gate 5 cleared)
+**Last updated:** 2026-04-23 (F25 shipped; TC1-TC8 PASS; **1.0 COMPLETE**)
 
 ---
 
@@ -20,12 +20,12 @@
 
 ## Today (the only thing on your plate)
 
-**Current:** F25 — README points at `parse_file`  
-**What:** Update README.md with library quickstart showing `parse_file` usage.  
-**Where:** `README.md`  
-**Done when:** README has installation instructions and basic code example.
+**Current:** None — **1.0 COMPLETE**  
+**What:** All F11-F25 features shipped. Library ready for use.  
+**Where:** See `README.md` for quickstart, `docs/library-contract-v1.md` for full API.  
+**Next:** Post-1.0 items (F26-F31) per roadmap.
 
-**Previous:** F24 ✅ — Installable package smoke test (5 test scripts in `scripts/f24_*.py`; TC1 fresh venv install from local path; TC2 public API smoke 12 exports; TC3 schema package-data envelope.schema.json accessible; TC4 model import smoke 16 models; TC5 end-to-end CXIINo 76 parse + validate; TC6 Gate 1 regression 6/6 within 0.05; TC7 Gate 2 notice_id stability 6/6 exact; Gate 5 cleared — `pip install .` works on fresh venv; D3 pytest consolidation deferred to post-1.0 per scope control)
+**Previous:** F25 ✅ — README points at `parse_file` (README.md replaced with library-focused quickstart; 8 sections: Title+badges, Installation, Quickstart, Writing Output Files, Configuration, JSON Schema, Status, License; TC1 quickstart code runs on CXXIVNo 282 — 201 notices, mean_composite 0.968; TC2 write_envelope produces 5 files; TC3-TC8 structure verification all PASS; Gates 1-5 unchanged; Docling mention added per approved Q9)
 
 ---
 
@@ -57,11 +57,11 @@
 | **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 |
 | **F23** | JSON Schema export | Generate schema file | ✅ Complete | 06eef81 |
 | **F24** | Installable package smoke test | Test `pip install` works | ✅ Complete | 772858c |
-| **F25** | README points at `parse_file` | Library quickstart | ⬜ Not started | — |
+| **F25** | README points at `parse_file` | Library quickstart | ✅ Complete | — |
 | *F26-F30* | *Post-1.0 items* | *Protocols, ML, CLI, PyPI, multi-stage LLM* | *Post-1.0* | *See roadmap* |
 | **F31** | Corrigendum scope + provenance extraction | Replace F19 sentinel `scope="notice_references_other"` and placeholder `provenance` with real values extracted from the source corrigendum text and page layout. Emitted as `Warning(kind="corrigendum_scope_defaulted", ...)` per corrigendum in F19; replace those warnings with real extraction here. | ⬜ Post-1.0 | — |
 
-**1.0 ships when F11-F25 are all ✅.**
+**1.0 shipped: F11-F25 all ✅ as of 2026-04-23.**
 
 ---
 
@@ -139,5 +139,7 @@ Update rule: when any build report or review surfaces a non-blocking discrepancy
 | 2026-04-23 | F22 GazetteConfig + Bundles | Created `kenya_gazette_parser/models/config.py` (`LLMPolicy`, `RuntimeOptions`, `GazetteConfig` with forward-reference to `Bundles` + `model_rebuild()`) and `kenya_gazette_parser/models/bundles.py` (`Bundles` with 11 keys: 8 contract + 3 F21 legacy). Edited `models/__init__.py` to export 16 models. Edited `__init__.py` to remove F21's `NotImplementedError` guards on `parse_file(config=...)` / `parse_bytes(config=...)`, added `GazetteConfig`/`Bundles`/`LLMPolicy`/`RuntimeOptions` to exports, and threaded `config` to `build_envelope`. Edited `pipeline.py` to accept `config: GazetteConfig | None = None` (no-op in F22, M5/M6 work). Edited `io.py` to extend bundle vocabulary from 5 F21 keys to 11 keys (`_F21_LEGACY_BUNDLES` + `_F22_CONTRACT_BUNDLES`), accept `Bundles` Pydantic model in addition to dict (`isinstance(bundles, Bundles): bundles.model_dump()`), add derivation logic for `notices` (`[n.model_dump() for n in env.notices]`), `corrigenda`, `document_index` (flat summary with issue metadata per Q10), `tables` (notices with `derived_table`), `debug_trace` (warnings + layout_info + per_notice_reasons), and `images` guard (`NotImplementedError` per Q5). Fixed `extracted_at` datetime serialization in `document_index`. All 12 test cases PASS: TC1 parse_file with GazetteConfig on CXXIVNo 282 (201 notices), TC2 default config=None backward compat on CXINo 100 (287 notices), TC3 write_envelope with Bundles model (notices=201, corrigenda=3, index keys correct), TC4 dict backward compat on CXIINo 76 (1 file), TC5 images NotImplementedError, TC6 nested LLMPolicy coercion, TC7 Bundles extra_forbidden, TC8 tables derivation on CXXVIINo 63 (0 tables, G1 OCR std::bad_alloc on pages 68-88), TC9 debug_trace derivation on CXXIVNo 282 (warnings=7, per_notice_reasons=201), TC10 Gate 1 regression (6/6 within 0.05 using --skip-subprocesses), TC11 Gate 2 notice_id stability (6/6 exact), TC12 import smoke (16 models). Helper scripts: `scripts/f22_tc1_config_threading.py` through `scripts/f22_tc12_import_smoke.py`. |
 | 2026-04-24 | F23 JSON Schema export | Created `kenya_gazette_parser/schema/__init__.py` with `get_envelope_schema()`, `get_config_schema()`, `validate_envelope_json()`, `write_schema_file()`. Generated `kenya_gazette_parser/schema/envelope.schema.json` (15KB, 11 $defs for nested models: BodySegment, ConfidenceScores, Corrigendum, Cost, DerivedTable, DocumentConfidence, GazetteIssue, LayoutInfo, Notice, Provenance, Warning). `DerivedTable` has `additionalProperties: true` (sole model with `extra="allow"`); all others have `additionalProperties: false`. Added `jsonschema>=4.0` to `pyproject.toml` runtime dependencies. Extended `__init__.py` to re-export `get_envelope_schema`, `validate_envelope_json`, `write_schema_file`. All 10 test cases PASS: TC1 schema structure (11 $defs, 12 top-level properties, DerivedTable has additionalProperties:true), TC2 Gate 4 clearance (all 6 canonical PDFs validate), TC3 invalid envelope raises ValidationError, TC4 extra field rejected (additionalProperties check), TC5 checked-in schema matches runtime, TC6 config schema valid (llm/runtime/bundles + LLMPolicy/RuntimeOptions/Bundles $defs), TC7 write_schema_file creates file, TC8 import smoke, TC9 Gate 1 regression (6/6 within 0.05), TC10 round-trip (fresh Envelope.model_dump validates). Gate 4 cleared. Helper scripts: `scripts/f23_regenerate_schema.py`, `scripts/f23_tc1_schema_structure.py` through `scripts/f23_tc10_round_trip.py`. |
 | 2026-04-24 | F24 Installable package smoke test | Created 5 test scripts (`scripts/f24_fresh_venv_install.py`, `scripts/f24_public_api_smoke.py`, `scripts/f24_schema_package_data.py`, `scripts/f24_model_import_smoke.py`, `scripts/f24_end_to_end_smoke.py`). TC1: fresh venv install from local path — temp venv created, `pip install .` succeeded, 5 runtime deps resolved (docling, docling-core, openai, pydantic, jsonschema), import check passed, version 0.1.0 confirmed. TC2: public API smoke — all 12 exports in `__all__` imported successfully (`parse_file`, `parse_bytes`, `write_envelope`, `Envelope`, `GazetteConfig`, `Bundles`, `LLMPolicy`, `RuntimeOptions`, `get_envelope_schema`, `validate_envelope_json`, `write_schema_file`, `__version__`); `__version__ == "0.1.0"`. TC3: schema package-data — `envelope.schema.json` found at `kenya_gazette_parser/schema/envelope.schema.json` (15169 bytes); valid JSON with `$schema`, 11 `$defs`, 12 top-level properties. TC4: model import smoke — all 16 models from `kenya_gazette_parser.models` imported (12 F18 + 4 F22); `__all__` length 16. TC5: end-to-end smoke — `parse_file` on CXIINo 76 returned `Envelope` with 3 notices; `validate_envelope_json` passed. TC6: Gate 1 regression — 6/6 PDFs within 0.05 tolerance (CXINo 100 +0.000, CXINo 103 +0.000, CXIINo 76 +0.000, CXXVIINo 63 +0.001, CXXIVNo 282 +0.000, CIINo 83 pre-2010 +0.000). TC7: Gate 2 notice_id stability — 6/6 exact match (CXINo 100=287, CXINo 103=320, CXIINo 76=3, CXXVIINo 63=146, CXXIVNo 282=201, CIINo 83 pre-2010=1). Gate 5 cleared. `pyproject.toml` already had `schema/*.json` in package-data (no fix needed). D3 pytest consolidation deferred to post-1.0 per approved Q2 (scope control). |
+
+|| 2026-04-23 | F25 README points at `parse_file` (**1.0 COMPLETE**) | Replaced `README.md` (45 lines old notebook-focused content → 95 lines library quickstart). 8 sections: Title+badges (Apache-2.0, Python ≥3.10), one-liner, Installation (git URL + dev install), Quickstart (`parse_file` example), Writing Output Files (`write_envelope` example), Configuration (`GazetteConfig` mention), JSON Schema (`get_envelope_schema`/`validate_envelope_json`), Status (0.1.0 alpha, schema 1.0 locked), License (Apache 2.0). Docling credit line added per approved Q9. TC1 PASS: quickstart runs on CXXIVNo 282 (201 notices, mean_composite 0.968, gazette_issue_id `KE-GAZ-CXXIV-282-2022-12-23`). TC2 PASS: `write_envelope` produces 5 files (gazette_spatial_json, full_text, docling_markdown, spatial_markdown, docling_json). TC3 PASS (F24 verified). TC4 PASS (schema file exists with `$schema` key). TC5 PASS (LICENSE contains "Apache License"). TC6 PASS (8/8 sections present). TC7 PASS (3 internal links valid: LICENSE, docs/library-contract-v1.md, PROGRESS.md). TC8 PASS (both shields.io badge URLs present). Gates 1-5 unchanged (no code changes). Helper scripts: `scripts/f25_tc1_quickstart.py`, `scripts/f25_tc2_write_envelope.py`, `scripts/f25_tc3_tc8.py`. **MILESTONE: 1.0 complete. F11-F25 all ✅.** |
 
 *Add a row here at the end of every session.*
