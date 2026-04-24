@@ -1,0 +1,152 @@
+
+>>> Subprocess for Kenya Gazette Vol CXINo 100 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CXINo 100.pdf ===
+[32m[INFO] 2026-04-23 04:06:27,351 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:06:27,358 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:06:27,386 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:06:27,387 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:06:27,660 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:06:27,660 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:06:27,662 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:06:27,662 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:06:27,731 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:06:27,732 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:06:27,784 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:06:27,784 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8064.12it/s]
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CXINo 100\Kenya Gazette Vol CXINo 100_gazette_spatial.json
+<<< Kenya Gazette Vol CXINo 100 OK
+
+>>> Subprocess for Kenya Gazette Vol CXINo 103 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CXINo 103.pdf ===
+[32m[INFO] 2026-04-23 04:09:57,593 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:09:57,600 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:09:57,627 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:09:57,628 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:09:57,868 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:09:57,868 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:09:57,870 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:09:57,870 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:09:57,934 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:09:57,934 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:09:57,984 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:09:57,984 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8281.95it/s]
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CXINo 103\Kenya Gazette Vol CXINo 103_gazette_spatial.json
+<<< Kenya Gazette Vol CXINo 103 OK
+
+>>> Subprocess for Kenya Gazette Vol CXIINo 76 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CXIINo 76.pdf ===
+[32m[INFO] 2026-04-23 04:14:53,843 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:14:53,851 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:14:53,888 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:14:53,888 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:14:54,236 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:14:54,237 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:14:54,239 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:14:54,239 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:14:54,333 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:14:54,333 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:14:54,399 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:14:54,399 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  84%|########4 | 649/770 [00:00<00:00, 6484.56it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 6536.17it/s]
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CXIINo 76\Kenya Gazette Vol CXIINo 76_gazette_spatial.json
+<<< Kenya Gazette Vol CXIINo 76 OK
+
+>>> Subprocess for Kenya Gazette Vol CXXVIINo 63 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CXXVIINo 63.pdf ===
+[32m[INFO] 2026-04-23 04:15:15,416 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:15:15,422 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:15:15,450 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:15:15,450 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:15:15,690 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:15:15,691 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:15:15,692 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:15:15,693 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:15:15,757 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:15:15,757 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:15:15,807 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:15:15,807 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8216.89it/s]
+RapidOCR returned empty result!
+Stage preprocess failed for run 1, pages [73]: std::bad_alloc
+Stage preprocess failed for run 1, pages [74]: std::bad_alloc
+Stage preprocess failed for run 1, pages [75]: std::bad_alloc
+Stage preprocess failed for run 1, pages [76]: std::bad_alloc
+Stage preprocess failed for run 1, pages [77]: std::bad_alloc
+Stage preprocess failed for run 1, pages [78]: std::bad_alloc
+Stage preprocess failed for run 1, pages [79]: std::bad_alloc
+Stage preprocess failed for run 1, pages [80]: std::bad_alloc
+Stage preprocess failed for run 1, pages [81]: std::bad_alloc
+Stage preprocess failed for run 1, pages [82]: std::bad_alloc
+Stage preprocess failed for run 1, pages [83]: std::bad_alloc
+Stage preprocess failed for run 1, pages [84]: std::bad_alloc
+Stage preprocess failed for run 1, pages [85]: std::bad_alloc
+Stage preprocess failed for run 1, pages [86]: std::bad_alloc
+Stage preprocess failed for run 1, pages [87]: std::bad_alloc
+Stage preprocess failed for run 1, pages [88]: std::bad_alloc
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CXXVIINo 63\Kenya Gazette Vol CXXVIINo 63_gazette_spatial.json
+<<< Kenya Gazette Vol CXXVIINo 63 OK
+
+>>> Subprocess for Kenya Gazette Vol CXXIVNo 282 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CXXIVNo 282.pdf ===
+[32m[INFO] 2026-04-23 04:41:12,756 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:41:12,762 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:41:12,790 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:41:12,790 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:41:13,031 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:41:13,031 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:41:13,033 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:41:13,033 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:41:13,098 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:41:13,098 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:41:13,148 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:41:13,148 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8301.94it/s]
+[33m[WARNING] 2026-04-23 04:41:21,036 [RapidOCR] main.py:132: The text detection result is empty[0m
+RapidOCR returned empty result!
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CXXIVNo 282\Kenya Gazette Vol CXXIVNo 282_gazette_spatial.json
+<<< Kenya Gazette Vol CXXIVNo 282 OK
+
+>>> Subprocess for Kenya Gazette Vol CIINo 83 - pre 2010 (attempt 1/2)
+=== Processing: Kenya Gazette Vol CIINo 83 - pre 2010.pdf ===
+[32m[INFO] 2026-04-23 04:47:43,033 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:47:43,045 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:47:43,074 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:47:43,074 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:47:43,336 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:47:43,336 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:47:43,338 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:47:43,339 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:47:43,404 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 04:47:43,404 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 04:47:43,455 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 04:47:43,455 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8145.55it/s]
+Wrote: [gazette_spatial_json] C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\output\Kenya Gazette Vol CIINo 83 - pre 2010\Kenya Gazette Vol CIINo 83 - pre 2010_gazette_spatial.json
+<<< Kenya Gazette Vol CIINo 83 - pre 2010 OK
+
+>>> Stability-check subprocess for Kenya Gazette Vol CXIINo 76 -> C:\Users\RONALD~1\AppData\Local\Temp\f21_tc8_stability_3rsy8bhr
+=== Processing: Kenya Gazette Vol CXIINo 76.pdf ===
+[32m[INFO] 2026-04-23 05:20:55,919 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 05:20:55,926 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 05:20:55,954 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 05:20:55,954 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_det_mobile.pth[0m
+[32m[INFO] 2026-04-23 05:20:56,191 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 05:20:56,192 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 05:20:56,193 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 05:20:56,193 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_ptocr_mobile_v2.0_cls_mobile.pth[0m
+[32m[INFO] 2026-04-23 05:20:56,257 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-04-23 05:20:56,257 [RapidOCR] device_config.py:57: Using CPU device[0m
+[32m[INFO] 2026-04-23 05:20:56,307 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+[32m[INFO] 2026-04-23 05:20:56,307 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
+Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 8454.93it/s]
+Wrote: [gazette_spatial_json] C:\Users\RONALD~1\AppData\Local\Temp\f21_tc8_stability_3rsy8bhr\Kenya Gazette Vol CXIINo 76_gazette_spatial.json
+  Stability(Kenya Gazette Vol CXIINo 76): OK (3 notice_ids match across 2 fresh subprocesses)
+  Kenya Gazette Vol CXINo 100: OK (cur=0.990 base=0.990 delta=+0.000)
+  Kenya Gazette Vol CXINo 103: OK (cur=0.989 base=0.989 delta=+0.000)
+  Kenya Gazette Vol CXIINo 76: OK (cur=0.963 base=0.963 delta=+0.000)
+  Kenya Gazette Vol CXXVIINo 63: OK (cur=0.976 base=0.977 delta=-0.001)
+  Kenya Gazette Vol CXXIVNo 282: OK (cur=0.968 base=0.968 delta=+0.000)
+  Kenya Gazette Vol CIINo 83 - pre 2010: OK (cur=0.253 base=0.253 delta=+0.000)
+TC8 PASS (6/6 PDFs within 0.05; deltas: CXINo 100: +0.000, CXINo 103: +0.000, CXIINo 76: +0.000, CXXVIINo 63: -0.001, CXXIVNo 282: +0.000, CIINo 83 - pre 2010: +0.000)

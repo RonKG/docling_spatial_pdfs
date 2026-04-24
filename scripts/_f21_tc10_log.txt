@@ -12,3 +12,5 @@
 [32m[INFO] 2026-04-23 03:25:20,116 [RapidOCR] download_file.py:60: File exists and is valid: C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
 [32m[INFO] 2026-04-23 03:25:20,116 [RapidOCR] main.py:50: Using C:\Users\Ronald Wahome\Documents\docling_spatial_pdfs\.venv\Lib\site-packages\rapidocr\models\ch_PP-OCRv4_rec_mobile.pth[0m
 Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 7737.44it/s]
+<<< TC10 child rc=0
+TC10 OK
