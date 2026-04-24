@@ -57,7 +57,7 @@
 | **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 |
 | **F23** | JSON Schema export | Generate schema file | ✅ Complete | 06eef81 |
 | **F24** | Installable package smoke test | Test `pip install` works | ✅ Complete | 772858c |
-| **F25** | README points at `parse_file` | Library quickstart | ✅ Complete | — |
+| **F25** | README points at `parse_file` | Library quickstart | ✅ Complete | 50b6fdc |
 | *F26-F30* | *Post-1.0 items* | *Protocols, ML, CLI, PyPI, multi-stage LLM* | *Post-1.0* | *See roadmap* |
 | **F31** | Corrigendum scope + provenance extraction | Replace F19 sentinel `scope="notice_references_other"` and placeholder `provenance` with real values extracted from the source corrigendum text and page layout. Emitted as `Warning(kind="corrigendum_scope_defaulted", ...)` per corrigendum in F19; replace those warnings with real extraction here. | ⬜ Post-1.0 | — |
 
