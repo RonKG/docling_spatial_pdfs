@@ -8,6 +8,10 @@ Public API (1.0):
 - :func:`write_envelope` - the only function that writes to disk.
 - :class:`Envelope` - the top-level Pydantic model, re-exported from
   :mod:`kenya_gazette_parser.models`.
+- :class:`GazetteConfig` - configuration object for parse_file / parse_bytes.
+- :class:`Bundles` - bundle selection for write_envelope.
+- :class:`LLMPolicy` - LLM configuration (F22 declares, M5/M6 implements).
+- :class:`RuntimeOptions` - runtime tuning options (F22 declares, post-1.0 implements).
 
 ``parse_*`` functions are pure and never write to disk; callers who want
 files on disk call :func:`write_envelope` explicitly. See
@@ -18,11 +22,11 @@ from __future__ import annotations
 
 import tempfile
 from pathlib import Path
-from typing import TYPE_CHECKING, Any
+from typing import TYPE_CHECKING
 
 from kenya_gazette_parser.__version__ import __version__
 from kenya_gazette_parser.io import write_envelope
-from kenya_gazette_parser.models import Envelope
+from kenya_gazette_parser.models import Bundles, Envelope, GazetteConfig, LLMPolicy, RuntimeOptions
 from kenya_gazette_parser.pipeline import build_envelope
 
 if TYPE_CHECKING:  # pragma: no cover - import only for type checkers
@@ -34,10 +38,17 @@ __all__ = [
     "parse_bytes",
     "write_envelope",
     "Envelope",
+    "GazetteConfig",
+    "Bundles",
+    "LLMPolicy",
+    "RuntimeOptions",
 ]
 
 
-def parse_file(path: "Path | str", config: Any | None = None) -> Envelope:
+def parse_file(
+    path: "Path | str",
+    config: "GazetteConfig | None" = None,
+) -> Envelope:
     """Parse a Kenya Gazette PDF file into a validated :class:`Envelope`.
 
     Pure: never writes to disk, never prints. ``pydantic.ValidationError``
@@ -50,23 +61,20 @@ def parse_file(path: "Path | str", config: Any | None = None) -> Envelope:
         Filesystem path to a ``.pdf`` file. ``str`` or :class:`Path` both
         work.
     config
-        Reserved for F22 (``GazetteConfig``). Must be ``None`` in F21;
-        passing any non-None value raises :class:`NotImplementedError`
-        pointing at F22.
+        Optional GazetteConfig. If None, defaults are used (LLM disabled,
+        standard bundles). The config is stored but LLM stages are not
+        invoked until M5/M6.
     """
-    if config is not None:
-        raise NotImplementedError(
-            "parse_file(config=...) is reserved for F22 (GazetteConfig + "
-            "Bundles). Pass config=None in F21."
-        )
-    return build_envelope(Path(path))
+    if config is None:
+        config = GazetteConfig()
+    return build_envelope(Path(path), config=config)
 
 
 def parse_bytes(
     data: bytes,
     *,
     filename: str | None = None,
-    config: Any | None = None,
+    config: "GazetteConfig | None" = None,
 ) -> Envelope:
     """Parse a Kenya Gazette PDF from raw bytes into a validated :class:`Envelope`.
 
@@ -90,18 +98,16 @@ def parse_bytes(
         ``Warning.where.pdf_file_name`` if the masthead fails). When
         ``None``, the synthetic name ``"anonymous.pdf"`` is used.
     config
-        Reserved for F22 (``GazetteConfig``). Must be ``None`` in F21;
-        passing any non-None value raises :class:`NotImplementedError`.
+        Optional GazetteConfig. If None, defaults are used (LLM disabled,
+        standard bundles). The config is stored but LLM stages are not
+        invoked until M5/M6.
     """
-    if config is not None:
-        raise NotImplementedError(
-            "parse_bytes(config=...) is reserved for F22 (GazetteConfig + "
-            "Bundles). Pass config=None in F21."
-        )
+    if config is None:
+        config = GazetteConfig()
     stem = (filename or "anonymous.pdf").replace("/", "_").replace("\\", "_")
     if not stem.lower().endswith(".pdf"):
         stem += ".pdf"
     with tempfile.TemporaryDirectory(prefix="kenya_gazette_parser_") as tmp_dir:
         tmp_path = Path(tmp_dir) / stem
         tmp_path.write_bytes(data)
-        return build_envelope(tmp_path)
+        return build_envelope(tmp_path, config=config)

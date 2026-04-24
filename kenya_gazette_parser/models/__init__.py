@@ -1,5 +1,7 @@
 """Pydantic models for kenya_gazette_parser (contract v1.0)."""
 
+from kenya_gazette_parser.models.bundles import Bundles
+from kenya_gazette_parser.models.config import GazetteConfig, LLMPolicy, RuntimeOptions
 from kenya_gazette_parser.models.envelope import (
     Cost,
     DocumentConfidence,
@@ -18,6 +20,7 @@ from kenya_gazette_parser.models.notice import (
 )
 
 __all__ = [
+    # F18 models (12 names)
     "Envelope",
     "GazetteIssue",
     "Notice",
@@ -30,4 +33,9 @@ __all__ = [
     "DerivedTable",
     "Warning",
     "Cost",
+    # F22 additions (4 names)
+    "GazetteConfig",
+    "LLMPolicy",
+    "RuntimeOptions",
+    "Bundles",
 ]

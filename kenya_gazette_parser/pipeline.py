@@ -50,6 +50,8 @@ from kenya_gazette_parser.spatial import reorder_by_spatial_position_with_confid
 if TYPE_CHECKING:
     from docling.document_converter import DocumentConverter
 
+    from kenya_gazette_parser.models import GazetteConfig
+
 __all__ = ["build_envelope"]
 
 
@@ -84,6 +86,7 @@ def build_envelope(
     *,
     converter: "DocumentConverter | None" = None,
     include_full_docling_dict: bool = False,
+    config: "GazetteConfig | None" = None,
 ) -> Envelope:
     """Pure-compute path from PDF on disk to a validated ``Envelope``.
 
@@ -96,7 +99,16 @@ def build_envelope(
 
     Returns the validated ``Envelope``. Never writes to disk, never prints.
     ``ValidationError`` propagates uncaught (same rule as F19).
+
+    Parameters
+    ----------
+    config
+        Optional GazetteConfig. In F22, stored for future LLM/runtime
+        features but not acted upon (LLM stages are M5/M6).
     """
+    # F22: config is threaded through but LLMPolicy.mode is not invoked.
+    # The config could be used in future for deterministic seeding, etc.
+    _ = config  # Silence unused-variable lint; config threading is M5/M6 work
     extracted_at = make_extracted_at()
 
     pdf_path = Path(pdf_path).resolve()

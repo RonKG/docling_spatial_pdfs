@@ -1,15 +1,14 @@
-"""F21: ``write_envelope`` and the private markdown-highlight helper.
+"""F21/F22: ``write_envelope`` and the private markdown-highlight helper.
 
 This module is the single home for library I/O. ``parse_file`` and
 ``parse_bytes`` are pure (never touch disk); callers who want on-disk
 artifacts call :func:`write_envelope` from this module explicitly.
 
-The bundle vocabulary in F21 is a deliberate subset of contract section 5's
-eight-key ``Bundles``: the five legacy filenames that F20's notebook shim
-produced (``gazette_spatial_json``, ``full_text``, ``docling_markdown``,
-``spatial_markdown``, ``docling_json``). Keeping the vocabulary narrow keeps
-the 6-PDF regression comparing byte-for-byte against the F20 output tree
-(Gate 1) and defers the full rename to F22's ``Bundles`` Pydantic model.
+F22 extends the bundle vocabulary with contract section 5's eight-key
+``Bundles``: ``notices``, ``corrigenda``, ``document_index``, ``tables``,
+``debug_trace``, ``images`` (plus the five F21 legacy keys for backward
+compat). ``images`` is declared but raises ``NotImplementedError`` in F22
+(image extraction is post-1.0 work).
 
 The ``_highlight_gazette_notices_in_markdown`` helper was lifted verbatim
 from the notebook (same regex, same inline style). F20 spec section 2b
@@ -29,29 +28,58 @@ from kenya_gazette_parser.spatial import reorder_by_spatial_position_with_confid
 if TYPE_CHECKING:
     from docling.document_converter import DocumentConverter
 
+    from kenya_gazette_parser.models import Bundles
+
 __all__ = ["write_envelope"]
 
 
-# F21 bundle vocabulary (five keys). F22 will replace this with a Pydantic
-# Bundles model whose names come from contract section 5 (notices, corrigenda,
-# document_index, spatial_markdown, full_text, tables, debug_trace, images).
-# F21 keeps the F20 filenames byte-for-byte so Gate 1 / Gate 2 stay cleared.
-_DEFAULT_BUNDLES: dict[str, bool] = {
-    "gazette_spatial_json": True,   # {stem}_gazette_spatial.json — the validated Envelope
-    "full_text":            True,   # {stem}_spatial.txt
-    "docling_markdown":     True,   # {stem}_docling_markdown.md
-    "spatial_markdown":     True,   # {stem}_spatial_markdown.md
-    "docling_json":         True,   # {stem}_docling.json
-}
+# F21 legacy bundle vocabulary (five keys)
+_F21_LEGACY_BUNDLES = frozenset({
+    "gazette_spatial_json",
+    "full_text",
+    "docling_markdown",
+    "spatial_markdown",
+    "docling_json",
+})
 
-_ENV_ONLY_BUNDLES = frozenset({"gazette_spatial_json"})
+# F22 contract bundle vocabulary (six keys, one of which raises NotImplementedError)
+_F22_CONTRACT_BUNDLES = frozenset({
+    "notices",
+    "corrigenda",
+    "document_index",
+    "tables",
+    "debug_trace",
+    "images",  # declared but raises NotImplementedError
+})
+
+_ALL_KNOWN_BUNDLES = _F21_LEGACY_BUNDLES | _F22_CONTRACT_BUNDLES
+
+# Bundles derivable from Envelope alone (no re-conversion needed)
+_ENV_ONLY_BUNDLES = frozenset({
+    "gazette_spatial_json",
+    "notices",
+    "corrigenda",
+    "document_index",
+    "tables",
+    "debug_trace",
+})
+
+# Bundles that require raw Docling re-conversion
 _RAW_DOCLING_BUNDLES = frozenset({
     "full_text",
     "docling_markdown",
     "spatial_markdown",
     "docling_json",
 })
-_ALL_KNOWN_BUNDLES = _ENV_ONLY_BUNDLES | _RAW_DOCLING_BUNDLES
+
+# F21 default bundles (backward compat)
+_DEFAULT_BUNDLES: dict[str, bool] = {
+    "gazette_spatial_json": True,
+    "full_text": True,
+    "docling_markdown": True,
+    "spatial_markdown": True,
+    "docling_json": True,
+}
 
 
 _GAZETTE_NOTICE_MD_LINE = re.compile(
@@ -93,7 +121,7 @@ def _stem_fallback(env: Envelope) -> str:
 def write_envelope(
     env: Envelope,
     out_dir: "Path | str",
-    bundles: "dict[str, bool] | None" = None,
+    bundles: "Bundles | dict[str, bool] | None" = None,
     *,
     pdf_path: "Path | str | None" = None,
     converter: "DocumentConverter | None" = None,
@@ -111,15 +139,15 @@ def write_envelope(
         the top of the function. Created with ``parents=True,
         exist_ok=True`` if missing.
     bundles
-        Dict of ``{bundle_name: bool}``. ``None`` defaults to all five keys
-        set to ``True``. Unknown keys raise :class:`ValueError`. F22 will
-        accept a ``Bundles`` Pydantic model in addition.
+        Dict of ``{bundle_name: bool}`` or a ``Bundles`` Pydantic model.
+        ``None`` defaults to the F21 five-key legacy defaults (all True).
+        Unknown keys raise :class:`ValueError`.
     pdf_path
         Required when any bundle in ``{"full_text", "docling_markdown",
         "spatial_markdown", "docling_json"}`` is requested. ``write_envelope``
         re-invokes Docling on this path to regenerate the raw diagnostic
         payload (matches the F20 shim's double conversion). Optional when
-        only ``gazette_spatial_json`` is requested.
+        only env-only bundles are requested.
     converter
         Optional pre-built :class:`DocumentConverter` to reuse when
         ``write_envelope`` re-invokes Docling. ``None`` means construct a
@@ -136,26 +164,40 @@ def write_envelope(
     ValueError
         If ``bundles`` contains an unknown key, or if a raw-Docling bundle
         is requested without ``pdf_path``.
+    NotImplementedError
+        If ``images`` bundle is requested (post-1.0 work).
     FileNotFoundError
         If ``pdf_path`` is set but the file does not exist (propagates from
         Docling).
     """
-    if bundles is None:
+    # F22: Accept Bundles Pydantic model in addition to dict
+    from kenya_gazette_parser.models import Bundles as BundlesModel
+
+    if isinstance(bundles, BundlesModel):
+        bundles = bundles.model_dump()
+    elif bundles is None:
         bundles = _DEFAULT_BUNDLES.copy()
 
     unknown = set(bundles) - _ALL_KNOWN_BUNDLES
     if unknown:
         raise ValueError(
             f"Unknown bundle keys: {sorted(unknown)}. "
-            f"Known keys in F21: {sorted(_ALL_KNOWN_BUNDLES)}."
+            f"Known keys: {sorted(_ALL_KNOWN_BUNDLES)}."
+        )
+
+    # F22: images bundle guard (post-1.0 work)
+    if bundles.get("images"):
+        raise NotImplementedError(
+            "images bundle is not implemented in F22. "
+            "Image extraction (page thumbnails, notice crops) is post-1.0 work."
         )
 
     requested_raw = sorted(k for k, v in bundles.items() if v and k in _RAW_DOCLING_BUNDLES)
     if requested_raw and pdf_path is None:
         raise ValueError(
             f"Bundles {requested_raw} require pdf_path; pass "
-            f"pdf_path=<path-to-pdf>. Only gazette_spatial_json is "
-            f"derivable from the Envelope alone."
+            f"pdf_path=<path-to-pdf>. Env-only bundles "
+            f"({sorted(_ENV_ONLY_BUNDLES)}) are derivable from the Envelope alone."
         )
 
     out_dir = Path(out_dir)
@@ -175,6 +217,103 @@ def write_envelope(
             encoding="utf-8",
         )
         written["gazette_spatial_json"] = path
+
+    # F22: notices bundle
+    if bundles.get("notices"):
+        path = out_dir / f"{stem}_notices.json"
+        path.write_text(
+            json.dumps(
+                [n.model_dump(mode="json") for n in env.notices],
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+        written["notices"] = path
+
+    # F22: corrigenda bundle
+    if bundles.get("corrigenda"):
+        path = out_dir / f"{stem}_corrigenda.json"
+        path.write_text(
+            json.dumps(
+                [c.model_dump(mode="json") for c in env.corrigenda],
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+        written["corrigenda"] = path
+
+    # F22: document_index bundle (flat summary for catalog ingest)
+    if bundles.get("document_index"):
+        path = out_dir / f"{stem}_index.json"
+        index_data = {
+            "gazette_issue_id": env.issue.gazette_issue_id,
+            "pdf_sha256": env.pdf_sha256,
+            "library_version": env.library_version,
+            "schema_version": env.schema_version,
+            "extracted_at": env.extracted_at.isoformat(),
+            "n_notices": len(env.notices),
+            "n_corrigenda": len(env.corrigenda),
+            "n_warnings": len(env.warnings),
+            "volume": env.issue.volume,
+            "issue_no": env.issue.issue_no,
+            "publication_date": (
+                env.issue.publication_date.isoformat()
+                if env.issue.publication_date
+                else None
+            ),
+            "document_confidence": {
+                "layout": env.document_confidence.layout,
+                "ocr_quality": env.document_confidence.ocr_quality,
+                "notice_split": env.document_confidence.notice_split,
+                "composite": env.document_confidence.composite,
+                "mean_composite": env.document_confidence.mean_composite,
+                "min_composite": env.document_confidence.min_composite,
+            },
+        }
+        path.write_text(
+            json.dumps(index_data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        written["document_index"] = path
+
+    # F22: tables bundle
+    if bundles.get("tables"):
+        path = out_dir / f"{stem}_tables.json"
+        tables_data = [
+            {
+                "notice_id": n.notice_id,
+                "derived_table": n.derived_table.model_dump(mode="json"),
+            }
+            for n in env.notices
+            if n.derived_table is not None
+        ]
+        path.write_text(
+            json.dumps(tables_data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        written["tables"] = path
+
+    # F22: debug_trace bundle
+    if bundles.get("debug_trace"):
+        path = out_dir / f"{stem}_trace.json"
+        trace_data = {
+            "warnings": [w.model_dump(mode="json") for w in env.warnings],
+            "layout_info": env.layout_info.model_dump(mode="json"),
+            "per_notice_reasons": [
+                {
+                    "notice_id": n.notice_id,
+                    "confidence_reasons": n.confidence_reasons,
+                }
+                for n in env.notices
+            ],
+        }
+        path.write_text(
+            json.dumps(trace_data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        written["debug_trace"] = path
 
     if requested_raw:
         if converter is None:
