@@ -54,7 +54,7 @@
 | **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | 2d01e19 |
 | **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | 28c5162 |
 | **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ✅ Complete | b31efc8 |
-| **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | — |
+| **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 |
 | **F23** | JSON Schema export | Generate schema file | ⬜ Not started | — |
 | **F24** | Installable package smoke test | Test `pip install` works | ⬜ Not started | — |
 | **F25** | README points at `parse_file` | Library quickstart | ⬜ Not started | — |
