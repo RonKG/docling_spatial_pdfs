@@ -44,8 +44,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/rwahome/docling_spatial_pdfs"
-Repository = "https://github.com/rwahome/docling_spatial_pdfs"
+Homepage = "https://github.com/RonKG/docling_spatial_pdfs"
+Repository = "https://github.com/RonKG/docling_spatial_pdfs"
 
 [tool.setuptools.packages.find]
 where = ["."]

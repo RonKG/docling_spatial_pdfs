@@ -25,7 +25,7 @@ F25 creates no new code. It edits one file: `README.md`. The content must be acc
 |---------|-----------------|
 | **Title + badge row** | `# kenya-gazette-parser` + Apache-2.0 license badge (shields.io) + Python version badge (>=3.10) |
 | **One-liner** | "Parse Kenya Gazette PDFs into structured, validated JSON envelopes." |
-| **Installation** | Two methods: (1) `pip install git+https://github.com/rwahome/docling_spatial_pdfs.git` for users, (2) `pip install -e ".[dev]"` for contributors |
+| **Installation** | Two methods: (1) `pip install git+https://github.com/RonKG/docling_spatial_pdfs.git` for users, (2) `pip install -e ".[dev]"` for contributors |
 | **Quickstart** | Code block: `from kenya_gazette_parser import parse_file; env = parse_file("gazette.pdf")` then inspect `env.issue`, `env.notices`, `env.document_confidence` |
 | **Writing output** | Code block showing `write_envelope(env, out_dir, pdf_path=pdf_path)` |
 | **Configuration** | Brief mention of `GazetteConfig`, `Bundles`; link to `docs/library-contract-v1.md` section 5 for details |
@@ -87,7 +87,7 @@ F25 is a documentation feature. Test cases verify the README is accurate and the
 |----|----------|---------------|-----------------|
 | **TC1** | Quickstart code runs | Copy the quickstart example from the new README, run in `.venv` with a canonical PDF (`pdfs/Kenya Gazette Vol CXIINo 76.pdf`) | Prints `Issue: KE-GAZ-CXII-76-2010-09-17`, `Notices: 3`, `Document confidence: 0.963` (within 0.05 tolerance) |
 | **TC2** | `write_envelope` example runs | Copy the write_envelope example, run with a temp output directory | Creates 5 files in `out_dir`; prints bundle keys |
-| **TC3** | Installation command works | In a fresh venv, run `pip install git+https://github.com/rwahome/docling_spatial_pdfs.git` (or local equivalent `pip install .`) | Installs successfully; `from kenya_gazette_parser import parse_file` works |
+| **TC3** | Installation command works | In a fresh venv, run `pip install git+https://github.com/RonKG/docling_spatial_pdfs.git` (or local equivalent `pip install .`) | Installs successfully; `from kenya_gazette_parser import parse_file` works |
 | **TC4** | Schema link is valid | Check that `kenya_gazette_parser/schema/envelope.schema.json` exists and is valid JSON | File exists, contains `$schema` key |
 | **TC5** | License link is valid | Check that `LICENSE` file exists at repo root | File exists, contains "Apache License" text |
 | **TC6** | All required sections present | Grep README for section headers | All 8 sections from 2a are present |
@@ -125,7 +125,7 @@ Implement in location: `README.md` (repo root — replace existing content)
    b. **One-liner**: "Parse Kenya Gazette PDFs into structured, validated JSON envelopes."
    
    c. **Installation** section with two subsections:
-   - "Install from GitHub" (for users): `pip install git+https://github.com/rwahome/docling_spatial_pdfs.git`
+   - "Install from GitHub" (for users): `pip install git+https://github.com/RonKG/docling_spatial_pdfs.git`
    - "Install for development" (for contributors): `git clone ... && pip install -e ".[dev]"`
    
    d. **Quickstart** section with a complete working example:

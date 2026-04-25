@@ -12,13 +12,13 @@ Built on [Docling](https://github.com/DS4SD/docling) for PDF extraction.
 ### Install from GitHub
 
 ```bash
-pip install git+https://github.com/rwahome/docling_spatial_pdfs.git
+pip install git+https://github.com/RonKG/docling_spatial_pdfs.git
 ```
 
 ### Install for development
 
 ```bash
-git clone https://github.com/rwahome/docling_spatial_pdfs.git
+git clone https://github.com/RonKG/docling_spatial_pdfs.git
 cd docling_spatial_pdfs
 pip install -e ".[dev]"
 ```
@@ -57,6 +57,8 @@ Pass `bundles={...}` to select specific outputs. See the `Bundles` model for opt
 ## Configuration
 
 Pass a `GazetteConfig` to customize parsing. LLM validation stages are declared but inactive in 1.0.
+
+**1.0 note:** Some `GazetteConfig` fields (for example `llm` and most of `runtime`) are reserved for post-1.0 behavior. They are accepted for forward compatibility but do not change `parse_file` or `parse_bytes` output yet.
 
 ```python
 from kenya_gazette_parser import parse_file, GazetteConfig, Bundles
