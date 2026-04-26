@@ -1,0 +1,136 @@
+{
+  "library_version": "string",
+  "schema_version": "string",
+  "output_format_version": "integer",
+  "extracted_at": "datetime-iso8601",
+  "pdf_sha256": "string-hex64",
+  "issue": {
+    "gazette_issue_id": "string",
+    "masthead_text": "string",
+    "parse_confidence": "number",
+    "volume": "string|null",
+    "issue_no": "integer|null",
+    "publication_date": "date-iso8601|null",
+    "supplement_no": "integer|null"
+  },
+  "notices": [
+    {
+      "notice_id": "string",
+      "gazette_issue_id": "string",
+      "title_lines": [
+        "string"
+      ],
+      "gazette_notice_full_text": "string",
+      "body_segments": [
+        {
+          "type": "text|blank",
+          "lines": [
+            "string"
+          ]
+        }
+      ],
+      "other_attributes": {
+        "<any_key>": "any"
+      },
+      "provenance": {
+        "header_match": "strict|recovered|inferred|none",
+        "line_span": [
+          0,
+          0
+        ],
+        "raw_header_line": "string|null",
+        "stitched_from": [
+          "string"
+        ],
+        "ocr_quality": "number|null"
+      },
+      "confidence_scores": {
+        "notice_number": "number",
+        "structure": "number",
+        "spatial": "number",
+        "boundary": "number",
+        "composite": "number",
+        "table": "number|null"
+      },
+      "confidence_reasons": [
+        "string"
+      ],
+      "content_sha256": "string-hex64",
+      "gazette_notice_no": "string|null",
+      "gazette_notice_header": "string|null",
+      "derived_table": {
+        "rows": [
+          [
+            "string"
+          ]
+        ],
+        "columns": [
+          "string"
+        ],
+        "notice_id": "string|null",
+        "<extra_keys_allowed>": "any"
+      }
+    }
+  ],
+  "corrigenda": [
+    {
+      "scope": "issue_level|notice_is_corrigendum|notice_references_other",
+      "raw_text": "string",
+      "provenance": {
+        "header_match": "strict|recovered|inferred|none",
+        "line_span": [
+          0,
+          0
+        ],
+        "raw_header_line": "string|null",
+        "stitched_from": [
+          "string"
+        ],
+        "ocr_quality": "number|null"
+      },
+      "target_notice_no": "string|null",
+      "target_year": "integer|null",
+      "amendment": "string|null"
+    }
+  ],
+  "document_confidence": {
+    "layout": "number",
+    "ocr_quality": "number",
+    "notice_split": "number",
+    "composite": "number",
+    "counts": {
+      "high": "integer",
+      "medium": "integer",
+      "low": "integer"
+    },
+    "mean_composite": "number",
+    "min_composite": "number",
+    "n_notices": "integer",
+    "ocr_reasons": [
+      "string"
+    ]
+  },
+  "layout_info": {
+    "layout_confidence": "number",
+    "pages": [
+      {
+        "<page_layout_key>": "any"
+      }
+    ]
+  },
+  "warnings": [
+    {
+      "kind": "string",
+      "message": "string",
+      "where": {
+        "<any_key>": "any"
+      }
+    }
+  ],
+  "cost": {
+    "llm_calls": "integer",
+    "prompt_tokens": "integer",
+    "completion_tokens": "integer",
+    "usd_estimate": "number|null"
+  }
+}

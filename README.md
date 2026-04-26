@@ -43,32 +43,11 @@ for notice in env.notices[:3]:
 
 ## Envelope structure
 
-`parse_file` and `parse_bytes` return a validated **`Envelope`**: a single in-memory object that matches the v1 contract and the generated JSON schema.
+`parse_file` and `parse_bytes` return a validated **`Envelope`** that matches the v1 contract and generated JSON schema.
 
-**Top level**
+For a complete field-by-field JSON tree, see [`docs/envelope-field-tree.json`](docs/envelope-field-tree.json).
 
-| Field | Role |
-| --- | --- |
-| `library_version` | Package version string. |
-| `schema_version` | Envelope shape version (e.g. `"1.0"`). |
-| `output_format_version` | Integer; bumps only on breaking JSON shape changes. |
-| `extracted_at` | When parsing ran (UTC). Changes every run; exclude it from idempotency or diff checks. |
-| `pdf_sha256` | SHA-256 of the input PDF bytes (idempotency for the file). |
-| `issue` | `GazetteIssue` — masthead and issue metadata. |
-| `notices` | `list[Notice]` — one entry per extracted notice. |
-| `corrigenda` | `list[Corrigendum]` — correction notices and cross-refs. |
-| `document_confidence` | Whole-document quality scores and band counts. |
-| `layout_info` | Layout confidence and per-page spatial layout detail. |
-| `warnings` | Structured messages (e.g. masthead fallback, table coerced to text, corrigendum defaults). |
-| `cost` | `None` in 1.0; reserved for LLM token usage when that path is active. |
-
-**`issue` (`GazetteIssue`)** — `gazette_issue_id` (stable issue key when masthead parses), `volume`, `issue_no`, `publication_date`, `supplement_no`, `masthead_text`, `parse_confidence`.
-
-**Each `notice` (`Notice`)** — `notice_id` and `gazette_issue_id` (stable keys), optional `gazette_notice_no` / `gazette_notice_header`, `title_lines`, `gazette_notice_full_text`, `body_segments` (each segment is `text` or `blank` in 1.0), `derived_table` when tabular data was recovered, `provenance`, `confidence_scores` and `confidence_reasons`, and `content_sha256` of the notice text (payload key for diffs). Optional `other_attributes` holds parser-specific keys.
-
-**Serialization** — `env.model_dump(mode="json")` (or Pydantic v2’s JSON helpers) is suitable for storage or APIs.
-
-Full field lists, identity rules, and API details: [docs/library-contract-v1.md](docs/library-contract-v1.md) (sections 2 and 3).
+For full model definitions and identity rules, see [docs/library-contract-v1.md](docs/library-contract-v1.md) (sections 2 and 3).
 
 ## Writing Output Files
 
