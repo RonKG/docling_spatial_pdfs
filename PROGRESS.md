@@ -31,35 +31,35 @@
 
 ## Work Items (F1-F30)
 
-| ID | Name | Simple Explanation | Status | Commit |
-|----|------|-------------------|--------|--------|
-| **F1** | Docling extraction wrapper | Convert PDF to JSON, markdown, plain text | ✅ Complete | — |
-| **F2** | Spatial reading-order reorder | Two-column pages read left-then-right | ✅ Complete | — |
-| **F3** | Notice splitting | Split text into individual notices | ✅ Complete | — |
-| **F4** | Corrigenda extractor | Capture correction notices separately | ✅ Complete | — |
-| **F5** | Per-notice rule-based confidence | Score notices on structure/quality | ✅ Complete | — |
-| **F6** | Per-document confidence aggregation | Combine scores into document score | ✅ Complete | — |
-| **F7** | Optional LLM semantic validation | Second-pass LLM check with cache | ✅ Complete | — |
-| **F8** | Confidence report (CSV) | Sortable CSV for human triage | ✅ Complete | — |
-| **F9** | Calibration tooling | Sample and hand-label notices | ✅ Complete (tooling) | — |
-| **F10** | Regression tooling | Capture and check baselines | ✅ Complete (tooling) | — |
-| **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea |
-| **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 0af6b42 |
-| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | 29132ed |
-| **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | e0d9672 |
-| **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab |
-| **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | cddacba |
-| **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | 19e9e2c |
-| **F18** | Pydantic models from contract | Translate contract into classes | ✅ Complete | 528dd71 |
-| **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | 2d01e19 |
-| **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | 28c5162 |
-| **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ✅ Complete | b31efc8 |
-| **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 |
-| **F23** | JSON Schema export | Generate schema file | ✅ Complete | 06eef81 |
-| **F24** | Installable package smoke test | Test `pip install` works | ✅ Complete | 772858c |
-| **F25** | README points at `parse_file` | Library quickstart | ✅ Complete | 50b6fdc |
-| *F26-F30* | *Post-1.0 items* | *Protocols, ML, CLI, PyPI, multi-stage LLM* | *Post-1.0* | *See roadmap* |
-| **F31** | Corrigendum scope + provenance extraction | Replace F19 sentinel `scope="notice_references_other"` and placeholder `provenance` with real values extracted from the source corrigendum text and page layout. Emitted as `Warning(kind="corrigendum_scope_defaulted", ...)` per corrigendum in F19; replace those warnings with real extraction here. | ⬜ Post-1.0 | — |
+| ID | Name | Simple Explanation | Status | Commit | Date |
+|----|------|-------------------|--------|--------|------|
+| **F1** | Docling extraction wrapper | Convert PDF to JSON, markdown, plain text | ✅ Complete | — | 2026-04-19 |
+| **F2** | Spatial reading-order reorder | Two-column pages read left-then-right | ✅ Complete | — | 2026-04-19 |
+| **F3** | Notice splitting | Split text into individual notices | ✅ Complete | — | 2026-04-19 |
+| **F4** | Corrigenda extractor | Capture correction notices separately | ✅ Complete | — | 2026-04-19 |
+| **F5** | Per-notice rule-based confidence | Score notices on structure/quality | ✅ Complete | — | 2026-04-19 |
+| **F6** | Per-document confidence aggregation | Combine scores into document score | ✅ Complete | — | 2026-04-19 |
+| **F7** | Optional LLM semantic validation | Second-pass LLM check with cache | ✅ Complete | — | 2026-04-19 |
+| **F8** | Confidence report (CSV) | Sortable CSV for human triage | ✅ Complete | — | 2026-04-19 |
+| **F9** | Calibration tooling | Sample and hand-label notices | ✅ Complete (tooling) | — | 2026-04-19 |
+| **F10** | Regression tooling | Capture and check baselines | ✅ Complete (tooling) | — | 2026-04-19 |
+| **F11** | Masthead parser | Parse volume/issue/date/supplement | ✅ Complete | 88179ea | 2026-04-19 |
+| **F12** | Trailing content detector | Exclude ads/pricing from notices | ✅ Complete | 0af6b42 | 2026-04-19 |
+| **F13** | Identity fields wired into record | Add `pdf_sha256`, `gazette_issue_id`, `notice_id` | ✅ Complete | 29132ed | 2026-04-19 |
+| **F14** | Envelope versioning fields | Add `library_version`, `schema_version`, `extracted_at` | ✅ Complete | e0d9672 | 2026-04-19 |
+| **F15** | Hand-label calibration sample | Label ~30 notices, run scoring | ✅ Complete | e6b7bab | 2026-04-20 |
+| **F16** | Capture regression baseline | Create `expected_confidence.json` | ✅ Complete | cddacba | 2026-04-20 |
+| **F17** | Package skeleton | Create `kenya_gazette_parser/` with `pyproject.toml` | ✅ Complete | 19e9e2c | 2026-04-20 |
+| **F18** | Pydantic models from contract | Translate contract into classes | ✅ Complete | 528dd71 | 2026-04-21 |
+| **F19** | Validate at end of `process_pdf` | Call `Envelope.model_validate()` | ✅ Complete | 2d01e19 | 2026-04-21 |
+| **F20** | Move logic into modules | Copy helpers into submodules | ✅ Complete | 28c5162 | 2026-04-22 |
+| **F21** | Public API + I/O split | Separate `parse_file`, `write_envelope` | ✅ Complete | b31efc8 | 2026-04-22 |
+| **F22** | GazetteConfig + Bundles | Config object with options | ✅ Complete | a405727 | 2026-04-23 |
+| **F23** | JSON Schema export | Generate schema file | ✅ Complete | 06eef81 | 2026-04-24 |
+| **F24** | Installable package smoke test | Test `pip install` works | ✅ Complete | 772858c | 2026-04-24 |
+| **F25** | README points at `parse_file` | Library quickstart | ✅ Complete | 50b6fdc | 2026-04-23 |
+| *F26-F30* | *Post-1.0 items* | *Protocols, ML, CLI, PyPI, multi-stage LLM* | *Post-1.0* | *See roadmap* | *—* |
+| **F31** | Corrigendum scope + provenance extraction | Replace F19 sentinel `scope="notice_references_other"` and placeholder `provenance` with real values extracted from the source corrigendum text and page layout. Emitted as `Warning(kind="corrigendum_scope_defaulted", ...)` per corrigendum in F19; replace those warnings with real extraction here. | ⬜ Post-1.0 | — | — |
 
 **1.0 shipped: F11-F25 all ✅ as of 2026-04-23.**
 
